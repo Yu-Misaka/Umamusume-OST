@@ -1,0 +1,1527 @@
+story/data/02/0005/storytimeline_020005021/42.wav|そうなんですけど、他のウマ娘さんを見るのは初めてでっ！
+story/data/02/0005/storytimeline_020005021/46.wav|私、今日からトレセン学園に転入してきました、 スペシャルウィークって言います！！
+story/data/02/0005/storytimeline_020005021/40.wav|うああぁ～～本物のウマ娘さん……！
+story/data/02/0005/storytimeline_020005021/45.wav|……あっ！？　ご、ごめんなさいっ！！ いきなりジロジロ見てしまって！
+story/data/02/0005/storytimeline_020005021/43.wav|それにそれにっ！　さっきの走りもキラキラしてて なぁ～んまら、きれいでっ！！
+story/data/02/0005/storytimeline_020005021/38.wav|ウマ娘さんだぁーっ！！！！
+story/data/02/0005/storytimeline_020005031/2.wav|北海道も広いけど、学校1つがこんなに広いなんて！ 1度は迷子になるだろうなぁ……いや、5度くらいは……。
+story/data/02/0005/storytimeline_020005031/7.wav|え、偉い人だったんですね……！ こんにちはっ、スペシャルウィークです！！
+story/data/02/0005/storytimeline_020005031/8.wav|私、北海道から転入してきたばかりなんです。 なのでスズカさんに案内をしてもらってまして。
+story/data/02/0005/storytimeline_020005031/9.wav|それにしても、チームに所属しないとレースに出られないんですね。 学園に入るだけじゃダメだったんだ……。
+story/data/02/0005/storytimeline_020005031/4.wav|トレーナーさん……？
+story/data/02/0005/storytimeline_020005031/10.wav|だったら私、スズカさんと同じチームに入りたいです！ スズカさんの走りを毎日近くで、なんなら真横から見ていたいので！
+story/data/02/0005/storytimeline_020005031/36.wav|うえええぇ～～っ！？！？
+story/data/02/0005/storytimeline_020005031/38.wav|は、はいぃ～っ！！
+story/data/02/0005/storytimeline_020005031/26.wav|やりましたよ、スズカさ～ん！ 私、1着ですぅ～！
+story/data/02/0005/storytimeline_020005031/12.wav|うわぁ～っ！　スカウトだなんて芸能人みたいですっ！ 私、スカウトしてもらえるように、がんばります！
+story/data/02/0005/storytimeline_020005031/0.wav|うわああぁ～～っ！！　うひゃあああ～～っ！！
+story/data/02/0005/storytimeline_020005031/31.wav|本当はスズカさんのチームに入りたかったんですけど、 選抜レースでやらかしちゃいまして……。
+story/data/02/0005/storytimeline_020005031/29.wav|あの、今日からお世話になりますスペシャルウィークです！ よろしくお願いします！
+story/data/02/0005/storytimeline_020005031/34.wav|……え！？　ち、違います違います！ スズカさんのチームに入りたかったのは、ほんとですけど……！
+story/data/02/0005/storytimeline_020005031/32.wav|でもでも、トレーナーさんが声をかけてくれて、 ＜シリウス＞は優秀なチームだとも聞いていたので、こちらに！
+story/data/02/0005/storytimeline_020005031/28.wav|えぇ～っ！？
+story/data/02/0005/storytimeline_020005041/10.wav|今日のレース、おめでとうございます！ 2連勝ですよ、2連勝っ！！
+story/data/02/0005/storytimeline_020005041/13.wav|最後の直線、ビューンって走り抜けるスズカさん……！ やっぱ一気に追い抜いていくのって気持ちいいですよね！
+story/data/02/0005/storytimeline_020005041/16.wav|あの……スズカさん？　なんだかレースに勝ったのに、 あんまり嬉しそうに見えないなぁっていうか……。
+story/data/02/0005/storytimeline_020005041/14.wav|私もまだペースとかよくわかってないから、 もっともっと練習しなくちゃっ！
+story/data/02/0005/storytimeline_020005041/41.wav|根性ぅ～～っ！！
+story/data/02/0005/storytimeline_020005041/19.wav|みんなによくしてもらって楽しいです！ 私にピッタリの走り方とか、一緒に考えてもらったりして！
+story/data/02/0005/storytimeline_020005041/22.wav|えへへ、はいっ！ これからも“日本一のウマ娘”目指して、がんばりますっ！！
+story/data/02/0005/storytimeline_020005041/20.wav|たまにゴールドシップさんから、よくわからないトレーニングを 迫られたりはしますけど……入ってよかったなって思ってます！
+story/data/02/0005/storytimeline_020005041/39.wav|“日本一のウマ娘”ですぅ～っ！！
+story/data/02/0005/storytimeline_020005041/5.wav|は、はいぃ～っ！！
+story/data/02/0005/storytimeline_020005041/12.wav|大事なことなので何度でも言いますっ！ それくらいかっこよかったですから！
+story/data/02/0005/storytimeline_020005051/36.wav|それ、絶対にトレーニングじゃないですよーっ！
+story/data/02/0005/storytimeline_020005051/26.wav|ひゃああ～～っ！？　スズカさん、速いっ！？
+story/data/02/0005/storytimeline_020005051/10.wav|あの時、1人で北海道から出てきて上手くやれるかなって、 不安な気持ちがあったんです。
+story/data/02/0005/storytimeline_020005051/38.wav|あ、あれ？　スズカさん？
+story/data/02/0005/storytimeline_020005051/2.wav|はい、レースに向けてがんばるスズカさん、すごいなって……。 でも……。
+story/data/02/0005/storytimeline_020005051/7.wav|スズカさんとは別のチームになっちゃいましたけど、 こうして2人で居残りすれば一緒に走れますね……えへへ！
+story/data/02/0005/storytimeline_020005051/5.wav|ふぅ～！ 併走トレーニング、ありがとうございました！
+story/data/02/0005/storytimeline_020005051/12.wav|けど、この頃のスズカさんはあの時と違った様子で……。
+story/data/02/0005/storytimeline_020005051/0.wav|えっ……！？ うわぁっ、もうそんな時間だったんですね！？
+story/data/02/0005/storytimeline_020005051/28.wav|うええぇぇ～～っ！？　まだ加速するんですかっ！？
+story/data/02/0005/storytimeline_020005051/21.wav|スズカさん！　もう1周走りましょう！ 2人で頭からっぽにして、うおおおぉぉ～～って！
+story/data/02/0005/storytimeline_020005051/3.wav|え……？　トレーナーさんも、ですか……？
+story/data/02/0005/storytimeline_020005051/9.wav|あの、スズカさん……初めて会った時のこと、覚えてますか？ 私が思わず絶叫しちゃったこと。
+story/data/02/0005/storytimeline_020005051/11.wav|でもスズカさんが楽しそうに走るのを見て、不安が吹っ飛びました！ きっと学園生活は楽しいものになるって！
+story/data/02/0005/storytimeline_020005051/4.wav|……あのっ！　私、居残りしていいですか？ スズカさんのトレーニングに付き合いたくて！
+story/data/02/0005/storytimeline_020005051/29.wav|み、見てください……私たちを……。 もう……ボロボロです……。
+story/data/02/0005/storytimeline_020005071/30.wav|それで、北海道のお母ちゃんやトレーナーさんやスズカさんに 立派になった私を見てもらいます！
+story/data/02/0005/storytimeline_020005071/25.wav|そんなことないですよ！　走り方を教えてくれたり、 学園のことでも面倒を見てくれたり、それにそれに――
+story/data/02/0005/storytimeline_020005071/32.wav|2人とも夢を叶えるって約束です！
+story/data/02/0005/storytimeline_020005071/18.wav|えへへ……っ！
+story/data/02/0005/storytimeline_020005071/1.wav|ふんふん……なるほど！
+story/data/02/0005/storytimeline_020005071/21.wav|こうして抜け出したのがゴールドシップさんにバレたら、 なにをされるかわからないです……。
+story/data/02/0005/storytimeline_020005071/20.wav|ふぅ～……なんだかデビュー戦よりも祝勝会の方が 体力を使っている気がします。
+story/data/02/0005/storytimeline_020005071/43.wav|がんばってください、スズカさん！ スタンドの1番前で応援しますからっ！
+story/data/02/0005/storytimeline_020005071/26.wav|スズカさんが楽しそうに走る姿を見て、私は夢を追いかける勇気が 持てたんですから！
+story/data/02/0005/storytimeline_020005071/29.wav|えへへ……。 スズカさん！　私、絶対に“日本一のウマ娘”になってみせます！
+story/data/02/0005/storytimeline_020005071/9.wav|うわぁ～、まさにライバル同士……！ 私もデビューしたら、そういう相手と会えるのかなぁ……。
+story/data/02/0005/storytimeline_020005071/36.wav|呼びました！　とぼけないでくださ～い！ もう1回！　もう1回お願いします！
+story/data/02/0005/storytimeline_020005071/34.wav|……ところでスズカさん、 さっき私のことをいつもと違う呼び方で呼んでくれましたよね？
+story/data/02/0005/storytimeline_020005071/11.wav|はいっ！　まずはデビュー戦を勝利しないとですねっ！ スズカさん、もっともっと走りを教えてください！
+story/data/02/0005/storytimeline_020005071/23.wav|それはもう！　私、じゃがバターを用意しますっ！ なんせスズカさんは、私のデビュー戦を支えてくれたんですから！
+story/data/02/0005/storytimeline_020005081/8.wav|うええぇ～っ！？　せめて5分だけでも休憩をーっ！？
+story/data/02/0005/storytimeline_020005081/3.wav|はぁ……ふぅ……ふぇぇ……。
+story/data/02/0005/storytimeline_020005101/3.wav|エアグルーヴさんも出走するんですよね！ いよいよライバル対決～！　当日は絶対に応援しに行きますからっ！
+story/data/02/0005/storytimeline_020005101/0.wav|今日もスズカさんのトレーニング、気合い入ってましたね～！ トレーナーさんも、なんか熱血ーって感じで！
+story/data/02/0005/storytimeline_020005101/10.wav|さあ、脚がフニャフニャになるまでマッサージしますよ～！ 牛の乳しぼりで鍛えた腕をお見せします！
+story/data/02/0005/storytimeline_020005101/4.wav|……あ、そうだ！　スズカさん、今日もマッサージしてあげます！ 疲れを明日に残したらいけないですし！
+story/data/02/0005/storytimeline_020005101/5.wav|ひゃ～……スズカさんの脚、パンパンですよ、パンパン！ これはしっかりと揉みほぐしてあげないと！
+story/data/02/0005/storytimeline_020005101/9.wav|えへへ……！　これからもみんなでスズカさんを支えます！ だから、スズカさんもすっごい走りをいっぱい見せてくださいね！
+story/data/02/0005/storytimeline_020005112/6.wav|ど、どうしたんですか、トレーナーさん？
+story/data/02/0005/storytimeline_020005112/0.wav|ひゃあ～、最初っからすっごいスピード！ やっぱりスズカさんの走りってすごい……！
+story/data/02/0005/storytimeline_020005112/3.wav|うわぁ～！　またまたスピードが上がりましたよっ！
+story/data/02/0005/storytimeline_020005112/8.wav|お帰りなさい、スズカさん！ またタイム更新ですよっ！
+story/data/02/0005/storytimeline_020005112/10.wav|これなら『宝塚記念』だって優勝間違いなし！ ですよね、トレーナーさん？
+story/data/02/0005/storytimeline_020005131/0.wav|はぁっ……はぁっ……。 お、置いてかないでください～……。
+story/data/02/0005/storytimeline_020005131/2.wav|ごめんなさいっ！　スズカさんのレースなのに なぜか私の方が全然寝つけなくて……。
+story/data/02/0005/storytimeline_020005091/1.wav|マイル戦のようなスピードで、中距離を走っちゃうんですよ！？ やっぱりスズカさんはすごいっ！！
+story/data/02/0006/storytimeline_020006021/39.wav|もともと“日本一”っていうのは、 生みのお母ちゃんの夢だったんです。
+story/data/02/0006/storytimeline_020006021/16.wav|……え？
+story/data/02/0006/storytimeline_020006021/38.wav|そんな2人のお母ちゃんから託されたのが、 “日本一のウマ娘”になるっていう夢なんです。
+story/data/02/0006/storytimeline_020006021/46.wav|ちょっと目を離した隙にあちこちを走り回るような、 手のかかる子どもだったみたいですけど……。
+story/data/02/0006/storytimeline_020006021/33.wav|あれ……？　私、なにか変なこと言いました……？
+story/data/02/0006/storytimeline_020006021/44.wav|ああっ！？　そんな重くならないでください！　むしろ立派な お母ちゃんのことを聞いてほしいって気持ちで話してますから！
+story/data/02/0006/storytimeline_020006021/30.wav|はい、本当は電話をすれば済む話なんですけど、 口で言うのが恥ずかしいこともあるじゃないですか。
+story/data/02/0006/storytimeline_020006021/53.wav|お母ちゃんたちと、それからスズカさんとの約束のために 『弥生賞』もぜ～ったい勝ってみせます！
+story/data/02/0006/storytimeline_020006021/37.wav|スズカさん、私には2人のお母ちゃんがいるんです。 生んでくれたお母ちゃんと、育ててくれたお母ちゃん。
+story/data/02/0006/storytimeline_020006021/31.wav|だからこうして手紙で伝えているんです。 “日本一のウマ娘”を目指してがんばってるよって！
+story/data/02/0006/storytimeline_020006021/49.wav|……実を言うと、本当に“日本一のウマ娘”を目指すのかって 何度も聞かれました。無理に夢を背負い込むことはないよって。
+story/data/02/0006/storytimeline_020006021/52.wav|それに私がデビュー戦を勝った時も、スズカさんと 約束しましたもんね！　夢を絶対に叶えるって！
+story/data/02/0006/storytimeline_020006021/48.wav|それから少し大きくなった頃に、生みのお母ちゃんの夢―― “日本一のウマ娘”の話を聞かせてもらったんです。
+story/data/02/0006/storytimeline_020006021/45.wav|それで、大親友だった今のお母ちゃんが私を引き取って 大事に育ててくれました。
+story/data/02/0006/storytimeline_020006021/40.wav|でも、訳あって1度もレースで走ることが叶わず、 夢を追うことができなかったんです。
+story/data/02/0006/storytimeline_020006021/20.wav|ええぇ～～～～っ！？
+story/data/02/0006/storytimeline_020006021/6.wav|そんなこと言って、セイちゃんもここまで無敗―― クラシックレースの有力候補って言われてるのに。
+story/data/02/0006/storytimeline_020006021/3.wav|えへへ……自分が記事になるのって、なんだか恥ずかしいね。
+story/data/02/0006/storytimeline_020006021/42.wav|生まれてきた私と一緒に、そんな夢を見たい―― ……だけど、私が生まれてすぐに亡くなってしまって……。
+story/data/02/0006/storytimeline_020006021/51.wav|はい！　“日本一のウマ娘”になって、 2人のお母ちゃんを喜ばせてあげるんです！
+story/data/02/0006/storytimeline_020006021/19.wav|えっ……？　えっ……？
+story/data/02/0006/storytimeline_020006021/35.wav|えへへ……お母ちゃんには本当に感謝してますから！ 愛情をたっぷり注いでくれた、どっちのお母ちゃんにも！
+story/data/02/0006/storytimeline_020006021/55.wav|えへへ……はいっ！
+story/data/02/0006/storytimeline_020006021/10.wav|キングちゃん、この前のレースは2着で惜しかったね。
+story/data/02/0006/storytimeline_020006021/28.wav|えっと、それから…… 『日本一を目指して、まずは弥生賞を』っと。
+story/data/02/0006/storytimeline_020006021/41.wav|私を身ごもってからは、お腹の子が“日本一のウマ娘”に なってくれたら嬉しいって、冗談交じりに言ってたみたいで。
+story/data/02/0006/storytimeline_020006021/13.wav|うん、そうだけどなんで？
+story/data/02/0006/storytimeline_020006031/36.wav|ゴール前の粘りなんてすごい執念で……。
+story/data/02/0006/storytimeline_020006031/40.wav|お母ちゃんたちから託された夢、絶対に掴んでみせます！
+story/data/02/0006/storytimeline_020006031/8.wav|はいっ！　行ってきます！
+story/data/02/0006/storytimeline_020006031/25.wav|はあっ……はあっ……はあっ……か、勝てた……！
+story/data/02/0006/storytimeline_020006031/11.wav|あ、セイちゃんにキングちゃん。
+story/data/02/0006/storytimeline_020006031/37.wav|『弥生賞』は勝つことができましたけど、少しでも気を抜いたら 結果なんてすぐにひっくり返されちゃうなって！
+story/data/02/0006/storytimeline_020006031/9.wav|……よ～し、トレーニングでしてきたこと 全部出し切るつもりでっ！
+story/data/02/0006/storytimeline_020006031/33.wav|それは、2人と一緒に走ってようやくわかったといいますか。
+story/data/02/0006/storytimeline_020006031/20.wav|……私も、トレーナーさんやチームのみんなと がんばってきたんだから、負けたくない……！
+story/data/02/0006/storytimeline_020006031/1.wav|そんなことないですよ！　走り方を教えてくれたり、 学園のことでも面倒を見てくれたり、それにそれに――
+story/data/02/0006/storytimeline_020006031/26.wav|……けど……。
+story/data/02/0006/storytimeline_020006031/32.wav|はいっ！　セイちゃんは先頭、キングちゃんは中団から…… 先頭……中団……先頭……中団……。
+story/data/02/0006/storytimeline_020006031/29.wav|はぁ……ふぅ～…… 走りながらいろいろ考えられるようになりました！
+story/data/02/0006/storytimeline_020006031/30.wav|それもこれも、スズカさんとマックイーンさんが トレーニング相手をしてくれてるおかげです！
+story/data/02/0006/storytimeline_020006031/35.wav|いつもの2人とは全然違う……見たこともない顔で走ってて……。
+story/data/02/0006/storytimeline_020006031/27.wav|……キングちゃん、セイちゃん……。
+story/data/02/0006/storytimeline_020006031/2.wav|スズカさんが楽しそうに走る姿を見て、私は夢を追いかける勇気が 持てたんですから！
+story/data/02/0006/storytimeline_020006031/3.wav|…………。
+story/data/02/0006/storytimeline_020006031/34.wav|セイちゃんもキングちゃんも仲良しで、 一緒に遊びに行くこともよくありますけど……。
+story/data/02/0006/storytimeline_020006031/13.wav|え、本当……！？
+story/data/02/0006/storytimeline_020006031/18.wav|う、うん……。
+story/data/02/0006/storytimeline_020006031/39.wav|はいっ！
+story/data/02/0006/storytimeline_020006031/5.wav|は、はい！ すぅ～～……ぷはぁ～～っ！
+story/data/02/0006/storytimeline_020006031/38.wav|だから私も、もっともっとがんばらないと！
+story/data/02/0006/storytimeline_020006061/51.wav|冷静に冷静に……最初のコーナーは慎重に…… ペースをしっかり見極める……。
+story/data/02/0006/storytimeline_020006061/21.wav|それにそれにっ！　さっきの走りもキラキラしてて なぁ～んまら、きれいでっ！！
+story/data/02/0006/storytimeline_020006061/47.wav|トレーナーさぁ～～んっ！！
+story/data/02/0006/storytimeline_020006061/23.wav|私……。
+story/data/02/0006/storytimeline_020006061/55.wav|あの……トレーナーさんもみなさんも、 トレーニングに付き合ってくれてありがとうございましたっ！
+story/data/02/0006/storytimeline_020006061/59.wav|はい、行ってきますっ！
+story/data/02/0006/storytimeline_020006061/8.wav|…………。
+story/data/02/0006/storytimeline_020006061/42.wav|だから、『ダービー』は私が勝つ……！
+story/data/02/0006/storytimeline_020006061/18.wav|……セイちゃん。
+story/data/02/0006/storytimeline_020006061/35.wav|2つの夢――どっちも叶えるんだって気持ちで走ったから、 『皐月賞』のセイちゃんは最後まですごかったんだね……。
+story/data/02/0006/storytimeline_020006061/31.wav|そっか。 これが今の私の、私の目標……っ！
+story/data/02/0006/storytimeline_020006061/3.wav|自分のために走るって、なんだろう……。
+story/data/02/0006/storytimeline_020006061/22.wav|スズカさんが楽しそうに走る姿を見て、私は夢を追いかける勇気が 持てたんですから！
+story/data/02/0006/storytimeline_020006061/24.wav|私……スズカさんみたいに走りたいって、思ったんです。
+story/data/02/0006/storytimeline_020006061/26.wav|私もあんな風になりたい……あんな風に走りたいって憧れて、 背中を追いかけて……！
+story/data/02/0006/storytimeline_020006061/56.wav|自分には欠けているものがあるって不安になってましたけど…… ちゃんと自分にも叶えたい夢があるんだって気づきました。
+story/data/02/0006/storytimeline_020006061/60.wav|…………。
+story/data/02/0006/storytimeline_020006061/46.wav|ありがとう、セイちゃん……！
+story/data/02/0006/storytimeline_020006061/36.wav|勝ちたいって想いが、それだけ強かったから。
+story/data/02/0006/storytimeline_020006061/25.wav|こっちに来て、初めて走るウマ娘の姿を目の前で見て、 すっごく速くて、すごくきれいで。
+story/data/02/0006/storytimeline_020006061/67.wav|うん……！
+story/data/02/0006/storytimeline_020006061/40.wav|だって、私の夢は――叶えたい夢は3つもあるんだから。
+story/data/02/0006/storytimeline_020006061/27.wav|まだまだその背中は遠いけど、だけどいつか絶対に……！
+story/data/02/0006/storytimeline_020006061/10.wav|え……？
+story/data/02/0006/storytimeline_020006061/39.wav|うん、今度はセイちゃんにも負けないよ。
+story/data/02/0006/storytimeline_020006061/30.wav|私の走る理由……。
+story/data/02/0006/storytimeline_020006061/54.wav|強い想い……！　わかりました！
+story/data/02/0006/storytimeline_020006061/20.wav|心が思わず……。
+story/data/02/0006/storytimeline_020006061/57.wav|お母ちゃんたちと約束した“日本一”のため…… そして憧れの走りに追いつくためにも、全力で走ってきます！
+story/data/02/0006/storytimeline_020006061/41.wav|私と、生みのお母ちゃんと、育てのお母ちゃん！
+story/data/02/0006/storytimeline_020006061/62.wav|うん、勝ちたいって気持ちでいっぱいだから！
+story/data/02/0006/storytimeline_020006061/5.wav|セイちゃん……？
+story/data/02/0006/storytimeline_020006061/48.wav|トレーナーさんっ！！ 『ダービー』のトレーニングをお願いしますっ！
+story/data/02/0006/storytimeline_020006061/0.wav|…………。
+story/data/02/0006/storytimeline_020006071/45.wav|みなさん、お待たせしました！　バッチリ願掛けしてきました！
+story/data/02/0006/storytimeline_020006071/57.wav|セイちゃんもエルちゃんも、本当にすごかったです……。
+story/data/02/0006/storytimeline_020006071/44.wav|……あと、食後のスイーツを食べても体重が増えませんように……！
+story/data/02/0006/storytimeline_020006071/49.wav|レースで1着を取るというのは簡単なことじゃないって、 ものすんご～く思い知りましたから……！
+story/data/02/0006/storytimeline_020006071/48.wav|もちろん、トレーニングだってこれまで以上にがんばります！
+story/data/02/0006/storytimeline_020006071/63.wav|あ、それは私も気になります！ トレーナーさん、どうなんでしょう？
+story/data/02/0006/storytimeline_020006071/72.wav|はいっ！　目指せ“天皇賞制覇”！ 目指せ“日本一のウマ娘”～っ！
+story/data/02/0006/storytimeline_020006071/64.wav|『天皇賞（春）』……！
+story/data/02/0006/storytimeline_020006071/43.wav|神さま仏さまシラオキさま！ 今年は大活躍の1年になりますよーにっ！
+story/data/02/0006/storytimeline_020006071/59.wav|はいっ！
+story/data/02/0006/storytimeline_020006071/71.wav|ありがとうございます～！　ぜひぜひ、よろしくお願いします！
+story/data/02/0006/storytimeline_020006081/21.wav|フランス……？
+story/data/02/0006/storytimeline_020006081/37.wav|スズカさん、マッサージありがとうございました！ おかげで脚がふにゃふにゃです！
+story/data/02/0006/storytimeline_020006081/25.wav|そうなんだ……すごいというか、想像つかないというか……。
+story/data/02/0006/storytimeline_020006081/26.wav|……でもちょっと、寂しくなっちゃうかも。 エルちゃんは1人で遠征するの、寂しくない？
+story/data/02/0006/storytimeline_020006081/40.wav|知らないところで1人走るなんて、きっと大変なことなのに エルちゃんは夢のために挑戦するんだって。
+story/data/02/0006/storytimeline_020006081/44.wav|はい、なんでしょう？
+story/data/02/0006/storytimeline_020006081/15.wav|うええ～～っ！？
+story/data/02/0006/storytimeline_020006081/19.wav|うん、いつか私やグラスちゃん、エルちゃんたちみんなで！
+story/data/02/0006/storytimeline_020006081/36.wav|“日本一のウマ娘”に、私も！！
+story/data/02/0006/storytimeline_020006081/51.wav|海外……スズカさんが、海外に……？
+story/data/02/0006/storytimeline_020006081/52.wav|……え？
+story/data/02/0006/storytimeline_020006081/7.wav|えへへ、ありがとうグラスちゃんにツルちゃん！
+story/data/02/0006/storytimeline_020006081/46.wav|……え？
+story/data/02/0006/storytimeline_020006081/35.wav|わ、私だって次のレースもその先の『天皇賞（春）』も 勝ってみせるっ！
+story/data/02/0006/storytimeline_020006081/29.wav|夢……。
+story/data/02/0006/storytimeline_020006081/9.wav|本当は私よりも先に、ツルちゃんが走るはずだったんだよね。
+story/data/02/0006/storytimeline_020006081/41.wav|夢への想いが自分を突き動かす―― だから私も、もっともっとがんばらなきゃって！
+story/data/02/0006/storytimeline_020006081/39.wav|エルちゃんが海外に挑戦するって話を聞いたからなんです。
+story/data/02/0006/storytimeline_020006081/23.wav|ええっ！？　知らない知らないっ！ エルちゃん、フランスに行くのっ！？
+story/data/02/0006/storytimeline_020006081/13.wav|うん！　必ず一緒に走ろうね！
+story/data/02/0006/storytimeline_020006081/53.wav|ええぇぇ～～っ！？
+story/data/02/0006/storytimeline_020006121/23.wav|わわっ……！？　なんだかどんどん賑やかに……！？
+story/data/02/0006/storytimeline_020006121/24.wav|はふぅ～……レース展開に、位置取りに…… なんだか一生分の勉強をした気がします。
+story/data/02/0006/storytimeline_020006121/48.wav|……あの、トレーナーさん。 もし私が『天皇賞（春）』を勝ったら、嬉しいでしょうか。
+story/data/02/0006/storytimeline_020006121/63.wav|えへへっ、はい！！
+story/data/02/0006/storytimeline_020006121/51.wav|だったら、私にとっても特別なレースにしたいです！
+story/data/02/0006/storytimeline_020006121/11.wav|なるほど……難しい……。
+story/data/02/0006/storytimeline_020006121/52.wav|＜シリウス＞は、私の第2の実家みたいなところと いいますか……。
+story/data/02/0006/storytimeline_020006121/53.wav|いつもみんなで支え合う、家族みたいな素敵なチームで。
+story/data/02/0006/storytimeline_020006121/49.wav|ああ、いえ！　私の目標とかではなくて……。
+story/data/02/0006/storytimeline_020006121/60.wav|はいっ、任せてください！
+story/data/02/0006/storytimeline_020006121/50.wav|このレースには、トレーナーさんやみなさんにとって 特別な想いがあるんですよね。
+story/data/02/0006/storytimeline_020006121/54.wav|だから私もみなさんと同じように、 チームの一員として『天皇賞（春）』で勝ちたいです！
+story/data/02/0006/storytimeline_020006121/10.wav|ペースと駆け引き……ですか。
+story/data/02/0006/storytimeline_020006121/47.wav|…………。
+story/data/02/0006/storytimeline_020006121/12.wav|だけどこれも勝利のため！ 大舞台でしっかり結果を残さないと、ですね！
+story/data/02/0006/storytimeline_020006121/62.wav|トレーナーさん、『天皇賞（春）』を必ず勝利してきます！
+story/data/02/0006/storytimeline_020006121/25.wav|ですけど、みなさんにたっぷり助言をもらえたから、 絶対負けない気持ちになってきましたっ！
+story/data/02/0006/storytimeline_020006121/18.wav|わあっ！　ありがとうございますー！
+story/data/02/0006/storytimeline_020006121/14.wav|マックイーンさん？　トレーナーさんに用事ですか？
+story/data/02/0006/storytimeline_020006041/18.wav|クラシックレースはみんな揃って走ろうね！
+story/data/02/0006/storytimeline_020006041/4.wav|この前なんてお風呂の脱衣所にある体重計に乗ったまま寝ちゃって、 私の体重をみんなに見られて……。
+story/data/02/0006/storytimeline_020006041/11.wav|よかったね、ツルちゃん！ もう体調は大丈夫なの？
+story/data/02/0006/storytimeline_020006041/54.wav|集中、集中……『弥生賞』と同じコースなんだから、 今回だってきっと……！
+story/data/02/0006/storytimeline_020006041/1.wav|セイちゃんおはよーっ！ 今日も眠そうだね、いつも眠そうだけど。
+story/data/02/0006/storytimeline_020006041/15.wav|仕方ないよ、体調が悪かったんだもん……。 これからがんばっていこう！
+story/data/02/0006/storytimeline_020006041/62.wav|セイちゃんにも……？
+story/data/02/0006/storytimeline_020006041/27.wav|ツルちゃん……。
+story/data/02/0006/storytimeline_020006041/60.wav|うん、2人のお母ちゃんが私に託してくれた大切な夢！
+story/data/02/0006/storytimeline_020006041/3.wav|私も最近はトレーニングでクタクタだから、夜にはパッタリ。
+story/data/02/0006/storytimeline_020006041/67.wav|……え？
+story/data/02/0006/storytimeline_020006041/30.wav|うんっ！　私もツルちゃんに負けないくらいがんばるね！ よ～し、今日もトレーニングのあと自主トレしよ～っと！
+story/data/02/0006/storytimeline_020006041/56.wav|ファンの人たちもいっぱいで、熱気もすごくて これまでのレースと全然違うね……！
+story/data/02/0006/storytimeline_020006041/57.wav|でもでも、三冠の最初のレース！ 絶対に勝たなくちゃ！
+story/data/02/0006/storytimeline_020006041/64.wav|そうだったんだ！　じゃあ私と一緒で、 セイちゃんはおじいさんの夢のためにがんばるんだね！
+story/data/02/0006/storytimeline_020006041/72.wav|セイちゃんと私の違い……？
+story/data/02/0006/storytimeline_020006041/24.wav|うええ～～っ！？　ツルちゃんっ！？
+story/data/02/0006/storytimeline_020006041/8.wav|え……？　あれあれっ！？ ツルちゃんっ！？
+story/data/02/0006/storytimeline_020006051/33.wav|夢が……。
+story/data/02/0006/storytimeline_020006051/19.wav|ああ、いえ！　ちょっと聞いてみたかっただけです！
+story/data/02/0006/storytimeline_020006051/30.wav|ふぅ～……。
+story/data/02/0006/storytimeline_020006051/23.wav|（私の夢は“日本一のウマ娘”…… だけどそれは、お母ちゃんたちに託された夢で……）
+story/data/02/0006/storytimeline_020006051/49.wav|（誰かの夢じゃなくて、私自身が決めた私の…… 私の走る理由ってなんなんだろう……）
+story/data/02/0006/storytimeline_020006051/44.wav|……チケゾーさんも、マックイーンさんも、スズカさんも、 みんな自分の決めた夢に向かって走ってるんですね。
+story/data/02/0006/storytimeline_020006051/8.wav|気迫……ですか。
+story/data/02/0006/storytimeline_020006051/15.wav|あの、スズカさんの夢……走る理由って 先頭の“景色”が見たいから、ですよね？
+story/data/02/0006/storytimeline_020006051/11.wav|（あれ……？）
+story/data/02/0006/storytimeline_020006051/3.wav|……それにしても、セイちゃんもキングちゃんも 本当に強かったです。『弥生賞』の時よりもずっと……。
+story/data/02/0006/storytimeline_020006051/41.wav|自分が決めた夢……。
+story/data/02/0006/storytimeline_020006051/4.wav|最後の直線、追いつける……追い抜けるって自信があったんです。 2人とも力を出し切ったのがわかったから。
+story/data/02/0006/storytimeline_020006051/37.wav|それで本当に、夢を掴んだと……。
+story/data/02/0006/storytimeline_020006051/5.wav|なのに、いくら追いかけても追いつけなくて……。
+story/data/02/0006/storytimeline_020006051/14.wav|その違いがわからないなら、勝つのは自分だって……。
+story/data/02/0006/storytimeline_020006051/48.wav|（それが私の夢だって思ってたけど、 みんなとは全然違うような気がして……）
+story/data/02/0006/storytimeline_020006051/0.wav|…………。
+story/data/02/0006/storytimeline_020006051/20.wav|（スズカさんの夢……自分が満足するため……）
+story/data/02/0006/storytimeline_020006051/47.wav|（お母ちゃんと約束した、“日本一のウマ娘”の夢――）
+story/data/02/0006/storytimeline_020006051/34.wav|……あの、チケゾーさんは『ダービー』を勝つことが夢で、 自分で夢を掴むために走り始めたんですよね。
+story/data/02/0006/storytimeline_020006051/22.wav|（セイちゃんもスズカさんも、自分のために走ってる……）
+story/data/02/0006/storytimeline_020006051/24.wav|（私自身の夢は……？ 私はなんのために走ってるんだろう……）
+story/data/02/0006/storytimeline_020006051/46.wav|それはまあ……そうなんですけど……。
+story/data/02/0006/storytimeline_020006051/2.wav|えっ……！？　あ、大丈夫です大丈夫ですっ！ 全然なんともっ！
+story/data/02/0006/storytimeline_020006051/13.wav|レース前にセイちゃんから言われたんです。 私とセイちゃんでは、走る理由が似ているようで違うって。
+story/data/02/0006/storytimeline_020006063/30.wav|それで、お母ちゃんたちにも“ダービーウマ娘”になったよって 絶対報告するんだって、そう思って走って。
+story/data/02/0006/storytimeline_020006063/26.wav|えへへ、ありがとうございます！
+story/data/02/0006/storytimeline_020006063/29.wav|絶対に勝つ、誰よりも先にゴールするんだって！ スズカさんみたいに――って気持ちで……。
+story/data/02/0006/storytimeline_020006063/31.wav|そしたら上手く説明できないんですけど、なんていうか 最後まで力がこう、ぎゅーんってなって……！　その……！
+story/data/02/0006/storytimeline_020006063/34.wav|トレーナーさん、今日の『日本ダービー』で 私は“日本一のウマ娘”に1歩近づけたって気がしてます。
+story/data/02/0006/storytimeline_020006063/28.wav|スズカさん、見ててくれましたか！？ 今日のレース、今までで1番の走りができましたっ！
+story/data/02/0006/storytimeline_020006063/10.wav|……っ！　ありがとう、セイちゃん！
+story/data/02/0006/storytimeline_020006063/35.wav|でもでも、1歩だけじゃなくもっと走らないといけないから――
+story/data/02/0006/storytimeline_020006063/36.wav|だから、これからもよろしくお願いします！
+story/data/02/0006/storytimeline_020006063/17.wav|うん、私も負けないよ！　だからまた一緒に走ろうね！ 『菊花賞』でもう1度！
+story/data/02/0006/storytimeline_020006063/12.wav|ありがとう、キングちゃん！
+story/data/02/0006/storytimeline_020006063/1.wav|わあぁ……！
+story/data/02/0006/storytimeline_020006063/19.wav|あっ、みなさん！
+story/data/02/0006/storytimeline_020006063/37.wav|はいっ！
+story/data/02/0006/storytimeline_020006063/33.wav|……！　はいっ！
+story/data/02/0006/storytimeline_020006063/5.wav|……セイちゃん、キングちゃん……。
+story/data/02/0006/storytimeline_020006131/17.wav|セイちゃん。
+story/data/02/0006/storytimeline_020006131/26.wav|はい、お互いに全力で……！
+story/data/02/0006/storytimeline_020006131/9.wav|えっと……『中継で応援してる。がんばってねスペちん』……。 ……スペちん？
+story/data/02/0006/storytimeline_020006131/8.wav|あっ！　スズカさんからメッセージです！
+story/data/02/0006/storytimeline_020006131/6.wav|はいっ！　期待に応えてみせます！
+story/data/02/0006/storytimeline_020006131/20.wav|うん、たくさんの期待に応えたいから！
+story/data/02/0006/storytimeline_020006131/15.wav|はいっ！　お母ちゃんたちの夢、私自身の夢、 そしてチームのみなさんの想いを力にして、必ず勝ってきます！
+story/data/02/0006/storytimeline_020006011/45.wav|はい、でも考えてばかりいても始まらないですし、 今は一歩一歩自分にできることをがんばろうって！
+story/data/02/0006/storytimeline_020006011/16.wav|ううぅ……お母ちゃんにテレビで応援してるって言われたんです。 だからけっぱれって……。
+story/data/02/0006/storytimeline_020006011/54.wav|はいっ！　行ってきます！
+story/data/02/0006/storytimeline_020006011/32.wav|スズカさん……！　みなさん……！
+story/data/02/0006/storytimeline_020006011/33.wav|はいっ！　下を向いてたら走れません！
+story/data/02/0006/storytimeline_020006011/17.wav|それなのに……前に追いつけなくてぇ～っ！！
+story/data/02/0006/storytimeline_020006011/35.wav|うおおおお～～っ！　こんじょお～～～～っ！！
+story/data/02/0006/storytimeline_020006011/41.wav|えへへ……なんだか、やる気が湧いてきちゃいまして！
+story/data/02/0006/storytimeline_020006011/47.wav|ずばり“三冠ウマ娘”っ！！
+story/data/02/0006/storytimeline_020006011/39.wav|……あの、トレーナーさん。 もう少しだけトレーニングしたいんで、走ってきていいですか？
+story/data/02/0006/storytimeline_020006011/38.wav|はぁ……はぁ……みなさんが協力してくれたぶんも しっかりがんばらなきゃって……！
+story/data/02/0006/storytimeline_020006011/43.wav|なにをすればお母ちゃんに胸を張って『日本一になれたよ』って 言えるのかずっと考えているんですけど、答えは出なくて。
+story/data/02/0006/storytimeline_020006011/42.wav|あの……実は私、どうすれば“日本一のウマ娘”になれるのか わかってません。
+story/data/02/0006/storytimeline_020006011/58.wav|50周っ！？　む、むりぃ～～！！
+story/data/02/0006/storytimeline_020006011/52.wav|目指すは日本一ですから、でかいことをする覚悟がなくちゃ！ 北海道はでっかいどーですっ！
+story/data/02/0006/storytimeline_020006011/46.wav|それで私、みなさんと一緒に走りながら思いついたんです！ たぶん“日本一のウマ娘”にう～んと近づける目標を！
+story/data/02/0006/storytimeline_020006011/14.wav|負けましたぁ～っ！！
+story/data/02/0006/storytimeline_020006011/13.wav|行ってきます――“日本一のウマ娘”を目指して！
+story/data/02/0006/storytimeline_020006011/23.wav|場数……？
+story/data/02/0006/storytimeline_020006011/34.wav|お母ちゃんとの約束、“日本一のウマ娘”を目指して 走ってみせます！
+story/data/02/0005/storytimeline_020005061/7.wav|えへへ……それはそうなんですけど、 口に出されると恥ずかしいというか……。
+story/data/02/0006/storytimeline_020006133/21.wav|だから、走ってる時もゴールした後もひとりじゃないって思えて、 なんだかすごく心強く感じて……。
+story/data/02/0006/storytimeline_020006133/10.wav|は、はいっ！
+story/data/02/0006/storytimeline_020006133/22.wav|うまく言えないんですけど、“日本一のウマ娘”になるって そういう想いが大事なのかもしれないと。
+story/data/02/0006/storytimeline_020006133/29.wav|目指せ！　日本一～っ！
+story/data/02/0006/storytimeline_020006133/20.wav|それに、見えたんです。 私が勝利する姿を喜んでくれる、みなさんの顔が……！
+story/data/02/0006/storytimeline_020006133/13.wav|そうかもですけど、これだけ注目されてると かしこまっちゃうといいますか～……。
+story/data/02/0006/storytimeline_020006133/23.wav|今日みたいに走ったその先に、“日本一のウマ娘”があるんじゃ ないかなって、今はそんなふうに思うんです！
+story/data/02/0006/storytimeline_020006133/16.wav|……私、少しだけ近づけたような気がするんです。
+story/data/02/0006/storytimeline_020006133/24.wav|はいっ！
+story/data/02/0006/storytimeline_020006133/17.wav|はい。ダービーの時は、自分のことだけで精いっぱいでした。 絶対に勝つんだって、それだけで……。
+story/data/02/0006/storytimeline_020006133/27.wav|ぽ、ポーズ……！？　えっと……えっと……！？
+story/data/02/0006/storytimeline_020006133/19.wav|最後の直線、1番がんばらないといけないその瞬間に、 私を応援してくれるみなさんの声が……。
+story/data/02/0006/storytimeline_020006133/18.wav|今回も精いっぱいなのは同じでしたけど、 でも……聞こえてきたんです。
+story/data/02/0006/storytimeline_020006141/32.wav|あの、みなさん！ 今日はありがとうございました！
+story/data/02/0006/storytimeline_020006141/35.wav|“日本一のウマ娘”になるってどういうことか、 まだわかりませんけど――
+story/data/02/0006/storytimeline_020006141/15.wav|あっ、えっとっ！！ ここまで連勝できたのは、みなさんの――
+story/data/02/0006/storytimeline_020006141/23.wav|素敵なお知らせ……？
+story/data/02/0006/storytimeline_020006141/26.wav|前に……。
+story/data/02/0006/storytimeline_020006141/39.wav|今日みたいに走ったその先に、“日本一のウマ娘”があるんじゃ ないかなって、今はそんなふうに思うんです！
+story/data/02/0006/storytimeline_020006141/33.wav|美味しいごちそうを頂いたり、みなさんから褒めてもらったりで 改めて気合いが入ったと言いますか――
+story/data/02/0006/storytimeline_020006141/20.wav|わあ～っ！　本当ですか！？　ありがとうございます～！
+story/data/02/0006/storytimeline_020006141/31.wav|よーし、『宝塚記念』も食事もがんばりますっ！
+story/data/02/0006/storytimeline_020006141/28.wav|え……！？　そう見えますか！？
+story/data/02/0006/storytimeline_020006141/11.wav|……エルちゃん、すごい……！
+story/data/02/0006/storytimeline_020006141/21.wav|実は自分でも、前と変わったなって思ってるんです！ こう、自信を持って走れる～というか……！
+story/data/02/0006/storytimeline_020006141/25.wav|え……ええっ！？　わ、私がっ！？
+story/data/02/0006/storytimeline_020006141/30.wav|貫禄……！　なるほどっ！ でしたら遠慮なんてしちゃダメですねっ！
+story/data/02/0006/storytimeline_020006141/17.wav|うえぇっ！？　か、かんぱぁ～いっ！！
+story/data/02/0006/storytimeline_020006141/34.wav|これまで以上にがんばって、夢を追いかけたいって思いました！
+story/data/02/0006/storytimeline_020006141/36.wav|支えてくれるみなさんに恩返しって意味でも、 私は必ず夢を掴んでみせます！
+story/data/02/0006/storytimeline_020006141/40.wav|はいっ！
+story/data/02/0006/storytimeline_020006151/54.wav|私もエルちゃんと同じ『凱旋門賞』に挑戦したいです！
+story/data/02/0006/storytimeline_020006151/35.wav|（……私も、そんなウマ娘に……！）
+story/data/02/0006/storytimeline_020006151/1.wav|お待たせ～！　もしもしエルちゃん！？
+story/data/02/0006/storytimeline_020006151/46.wav|えへへ、なんかこう体の中から力が湧いてきちゃいまして！
+story/data/02/0006/storytimeline_020006151/7.wav|『ええ～～っ！？　そ、そうだったの！？』
+story/data/02/0006/storytimeline_020006151/51.wav|私、前に“みんなを笑顔にできるようなウマ娘”を目指していけば、 “日本一”にたどり着けるかもって話をしましたけど――
+story/data/02/0006/storytimeline_020006151/48.wav|あっ、あの……トレーナーさん！ 実はお願いがありましてっ！
+story/data/02/0006/storytimeline_020006151/60.wav|それって……！
+story/data/02/0006/storytimeline_020006151/59.wav|ど、どうでしょう……トレーナーさん！
+story/data/02/0006/storytimeline_020006151/52.wav|まさにスズカさんやエルちゃんが、 私の目指したい姿そのものに見えるんです。
+story/data/02/0006/storytimeline_020006151/37.wav|ふぅ～……ダート3周終了！ トレーナーさん、次はなんのトレーニングをやりますか！？
+story/data/02/0006/storytimeline_020006151/38.wav|はいっ！　それじゃあ行ってきます！
+story/data/02/0006/storytimeline_020006151/53.wav|たくさんの人に期待をされて、そんな期待に応えられるウマ娘に 私もなりたいから、もし『宝塚記念』に優勝したら――
+story/data/02/0006/storytimeline_020006151/15.wav|うんっ！　私たちも応援してる！
+story/data/02/0006/storytimeline_020006151/23.wav|……エルちゃん。
+story/data/02/0006/storytimeline_020006151/61.wav|わぁ……！　はいっ！！
+story/data/02/0006/storytimeline_020006151/32.wav|（去年の『ジャパンカップ』――エルちゃんは本当にすごくて……）
+story/data/02/0006/storytimeline_020006151/28.wav|はぁ……はぁ……っ！　はぁ……っ！
+story/data/02/0006/storytimeline_020006151/36.wav|だあ～～～～っ！！
+story/data/02/0006/storytimeline_020006151/31.wav|はぁ……はぁ……えへへ、うん！
+story/data/02/0006/storytimeline_020006151/34.wav|（見てるだけでワクワクしちゃう…… だからみんなはエルちゃんに期待するんだ）
+story/data/02/0006/storytimeline_020006151/50.wav|日本のウマ娘として、日本を代表して世界に挑戦してて、 それを日本中のファンのみんなが期待をしてて。
+story/data/02/0006/storytimeline_020006151/33.wav|（こんなすごい走りができるって、もっとすごい挑戦だって できるんだよって教えてもらえた気がして……）
+story/data/02/0006/storytimeline_020006151/57.wav|はいっ……！
+story/data/02/0006/storytimeline_020006151/11.wav|エルちゃんも海外のGⅠで優勝なんてすごい！ こっちのニュースでも、エルちゃんのことで持ち切りだよ！
+story/data/02/0006/storytimeline_020006151/49.wav|今、アメリカで走るスズカさんや、フランスで活躍している エルちゃんを、たくさんの人が応援してますよね。
+story/data/02/0006/storytimeline_020006171/3.wav|……今の私じゃ『凱旋門賞』に出ても きっと勝てないだろうって思いまして……。
+story/data/02/0006/storytimeline_020006171/2.wav|……それでもかわされて、どんどん離されて、 グラスちゃんに届きませんでした。
+story/data/02/0006/storytimeline_020006171/4.wav|……はい。
+story/data/02/0006/storytimeline_020006171/24.wav|本当に、空港まで行かなくてもいいの？
+story/data/02/0006/storytimeline_020006171/1.wav|調子もよかったですし、トレーニングだっていっぱいして、 本当に全力の全力で走りました。
+story/data/02/0006/storytimeline_020006171/0.wav|…………。
+story/data/02/0006/storytimeline_020006171/40.wav|私だって！　たあああああ～～っ！
+story/data/02/0006/storytimeline_020006181/33.wav|…………。
+story/data/02/0006/storytimeline_020006181/19.wav|（2400m……ペースと距離を意識して……）
+story/data/02/0006/storytimeline_020006181/56.wav|はぁ……。
+story/data/02/0006/storytimeline_020006181/18.wav|ああ、なんでも……！ 落ち着いてきたので、もう1周行ってきますね。
+story/data/02/0006/storytimeline_020006181/55.wav|はぁ……はぁ……。
+story/data/02/0006/storytimeline_020006181/35.wav|あ、ツルちゃん。
+story/data/02/0006/storytimeline_020006181/40.wav|あ、ううん。ツルちゃん、がんばってたもんね。
+story/data/02/0006/storytimeline_020006181/16.wav|“日本一”……。
+story/data/02/0006/storytimeline_020006181/10.wav|……っ！
+story/data/02/0006/storytimeline_020006181/21.wav|（……それで“日本一のウマ娘”を1歩ずつ追いかけて……）
+story/data/02/0006/storytimeline_020006181/3.wav|…………。
+story/data/02/0006/storytimeline_020006181/47.wav|はぁ……はぁ……くっ……！
+story/data/02/0006/storytimeline_020006181/17.wav|“日本一のウマ娘”になって、それで何の……。
+story/data/02/0006/storytimeline_020006181/24.wav|（……“日本一のウマ娘”になったとして、 だからなんなんだろう……）
+story/data/02/0006/storytimeline_020006181/38.wav|…………。
+story/data/02/0006/storytimeline_020006181/8.wav|……日本で1番じゃ……。
+story/data/02/0006/storytimeline_020006181/11.wav|はぁ……はぁ……。
+story/data/02/0006/storytimeline_020006181/20.wav|（『京都大賞典』を勝って、勢いをつけて、 秋のGⅠに向かって……）
+story/data/02/0006/storytimeline_020006181/45.wav|う、うん……。
+story/data/02/0006/storytimeline_020006181/9.wav|目指せ！　日本一～っ！
+story/data/02/0006/storytimeline_020006181/15.wav|いえ……大丈夫です。ちょっと息を整えれば……。
+story/data/02/0006/storytimeline_020006181/13.wav|あ、あはは……ペース間違えちゃいました。
+story/data/02/0006/storytimeline_020006181/25.wav|（……レースを走る意味って、なんなんだろう……）
+story/data/02/0006/storytimeline_020006201/36.wav|はいっ！！
+story/data/02/0006/storytimeline_020006201/54.wav|私だってグラスちゃんと走りたかった。
+story/data/02/0006/storytimeline_020006201/35.wav|…………。
+story/data/02/0006/storytimeline_020006201/38.wav|グラスちゃん……。
+story/data/02/0006/storytimeline_020006201/57.wav|それで『有馬記念』で待ってるから！ 日本一のウマ娘として！
+story/data/02/0006/storytimeline_020006201/55.wav|それで、モンジューさんにもグラスちゃんにも勝ちたかった。 グラスちゃんには負けたままだから。
+story/data/02/0006/storytimeline_020006201/60.wav|うん！
+story/data/02/0006/storytimeline_020006201/52.wav|私、勝ってくる。
+story/data/02/0006/storytimeline_020006201/49.wav|グラスちゃん……。
+story/data/02/0006/storytimeline_020006201/56.wav|だから勝ってくる。私が――スペシャルウィークが 日本で1番強いウマ娘だって証明してくる。
+story/data/02/0006/storytimeline_020006201/45.wav|私……？
+story/data/02/0006/storytimeline_020006201/40.wav|うん……あの……『ジャパンカップ』のこと、なんだけど……。
+story/data/02/0006/storytimeline_020006201/51.wav|……あのね、グラスちゃん。
+story/data/02/0006/storytimeline_020006211/82.wav|……え？　あ、初めましてっ！
+story/data/02/0006/storytimeline_020006211/34.wav|……え？ …………ええっ！？
+story/data/02/0006/storytimeline_020006211/37.wav|うあああ～～！　スズカさんだっ！　本物ですよ、本物～っ！
+story/data/02/0006/storytimeline_020006211/64.wav|エルちゃん、グラスちゃん……！
+story/data/02/0006/storytimeline_020006211/46.wav|あ、セイちゃん！　それにみんなっ！
+story/data/02/0006/storytimeline_020006211/91.wav|いいレースをしましょう、モンジューさん……！
+story/data/02/0006/storytimeline_020006211/43.wav|チームみんなの夢……。
+story/data/02/0006/storytimeline_020006211/44.wav|はいっ！
+story/data/02/0006/storytimeline_020006211/61.wav|はいっ！　ツルちゃんにもブライトさんにも、 これからも競いたいって思ってもらえる走りをしてきます！
+story/data/02/0006/storytimeline_020006211/31.wav|味方……？
+story/data/02/0006/storytimeline_020006211/50.wav|あはは、応援ありがとう、キングちゃんにセイちゃん。
+story/data/02/0006/storytimeline_020006211/86.wav|…………。
+story/data/02/0006/storytimeline_020006211/88.wav|……モンジューさんまで私に期待をしてくれるとは 思いませんでした。
+story/data/02/0006/storytimeline_020006211/90.wav|……任せてください、モンジューさんの期待に応える “日本一のウマ娘”になってみせますから。
+story/data/02/0006/storytimeline_020006211/55.wav|うん、2人の分も走ってくるね！
+story/data/02/0006/storytimeline_020006211/22.wav|すぅ～……はぁ～……。
+story/data/02/0006/storytimeline_020006211/27.wav|はい……！
+story/data/02/0006/storytimeline_020006211/29.wav|な、なんで体重のこと知ってるんですかっ！？
+story/data/02/0006/storytimeline_020006211/69.wav|うんっ！　私、絶対に勝ってくるから……！
+story/data/02/0006/storytimeline_020006211/35.wav|スズカさん……っ！？　え、どうして！？ アメリカは……！？　アメリカにいたんじゃ……！？
+story/data/02/0006/storytimeline_020006211/24.wav|えへへ、少しというかだいぶ……。
+story/data/02/0006/storytimeline_020006213/26.wav|そんな期待にしっかり応えられたのは、 いつも私の横にトレーナーさんがいてくれたおかげです！
+story/data/02/0006/storytimeline_020006213/37.wav|だって……私がみんなの“日本一”に～……！
+story/data/02/0006/storytimeline_020006213/23.wav|それから……。
+story/data/02/0006/storytimeline_020006213/28.wav|……え？
+story/data/02/0006/storytimeline_020006213/43.wav|私、なれたよ！　“日本一のウマ娘”に！
+story/data/02/0006/storytimeline_020006213/4.wav|モンジューさん……！
+story/data/02/0006/storytimeline_020006213/24.wav|トレーナーさん、ありがとうございます！
+story/data/02/0006/storytimeline_020006213/30.wav|私が……“日本一”……。
+story/data/02/0006/storytimeline_020006213/22.wav|私だってスズカさんに励まされてばかりで！ 今日だって久々に会えて、力がもらえました！
+story/data/02/0006/storytimeline_020006213/6.wav|モンジューさん、日本には私やエルちゃんやグラスちゃんの他にも、 すごいウマ娘がいっぱいいるんです。
+story/data/02/0006/storytimeline_020006213/35.wav|と、トレーナーさん……私……うぅ……ううっ……！
+story/data/02/0006/storytimeline_020006213/17.wav|その声、私にもちゃんと聞こえました！
+story/data/02/0006/storytimeline_020006213/13.wav|す、すごい歓声……。
+story/data/02/0006/storytimeline_020006213/10.wav|はいっ！
+story/data/02/0006/storytimeline_020006213/42.wav|見ててくれた？　お母ちゃん……！
+story/data/02/0006/storytimeline_020006213/34.wav|私が……日本中の人たちの“日本一のウマ娘”……。
+story/data/02/0006/storytimeline_020006213/18.wav|みんなが期待してくれてる……だから応えなきゃって！
+story/data/02/0006/storytimeline_020006213/25.wav|えへへ……これまでいくつもレースを走ってきましたけど、 こんなにたくさん期待されて走ったのは初めてで……！
+story/data/02/0006/storytimeline_020006213/7.wav|だから今度はみんなで、また一緒に走りましょう！
+story/data/02/0006/storytimeline_020006221/10.wav|ツルちゃん。
+story/data/02/0006/storytimeline_020006221/26.wav|グラスちゃん……。
+story/data/02/0006/storytimeline_020006221/29.wav|私も、今度こそグラスちゃんの背中を追い抜いてみせる！
+story/data/02/0006/storytimeline_020006221/19.wav|うん！　私だってこのレースを全力で走るね！
+story/data/02/0006/storytimeline_020006221/23.wav|ブライトさん、すごい集中力……。
+story/data/02/0006/storytimeline_020006221/30.wav|“日本一のウマ娘”として、グラスちゃんに勝つから！
+story/data/02/0006/storytimeline_020006221/24.wav|私も、本気の本気で……！
+story/data/02/0006/storytimeline_020006231/25.wav|たくさんの夢、もしかしたらっていう夢を見せられる、 そんなウマ娘として走り続けます！
+story/data/02/0006/storytimeline_020006231/18.wav|すぅ～……はぁ～……。 あの……えっとですね……。
+story/data/02/0006/storytimeline_020006231/24.wav|これから先、みなさんの夢にどこまで応えられるか わからないですけど、でも――
+story/data/02/0006/storytimeline_020006231/13.wav|す、すすすっ、スペシャルウィークですーっ！！
+story/data/02/0006/storytimeline_020006231/15.wav|は、はいっ！　この度は栄誉ある賞をいただき、 大変光栄に存じましてございますっ……！
+story/data/02/0006/storytimeline_020006231/19.wav|……ここまで来るのに、本当にいろんな積み重ねがあって、 そのどれもが大事な積み重ねでした。
+story/data/02/0006/storytimeline_020006231/22.wav|でも、そんな時にトレーナーさんが横で支えてくれました。 私が走らなくちゃいけない道を教えてくれました。
+story/data/02/0006/storytimeline_020006231/30.wav|日本一、夢を乗せて走ってみせるっ！
+story/data/02/0006/storytimeline_020006231/27.wav|私も同じ、いつかみんなで走りたいって思ってたから……！
+story/data/02/0006/storytimeline_020006231/20.wav|お母ちゃんたちから託された夢から始まって、 たくさんの友だち――ライバルと一緒に走り続けて……。
+story/data/02/0006/storytimeline_020006231/21.wav|道は真っ平らじゃありませんでした。 坂があったり、重バ場だったり、本当にいろいろで。
+story/data/02/0006/storytimeline_020006231/23.wav|そうやって、大きな壁にも1歩1歩向き合ってきて、 それが糧になって、今の私があります。
+story/data/02/0006/storytimeline_020006232/14.wav|な、なるほど……？
+story/data/02/0006/storytimeline_020006232/12.wav|え？　むしろなんでみんなは制服なのかなって。 だって昨日、勝負服で集合ってゴールドシップさんに言われて――
+story/data/02/0006/storytimeline_020006232/7.wav|トレーナーさん！　ポスター貼り終わりました！
+story/data/02/0006/storytimeline_020006232/16.wav|は、はいっ！！
+story/data/02/0006/storytimeline_020006232/18.wav|みなさ～ん！　一緒に青春の汗を流しましょう～っ！！
+story/data/02/0006/storytimeline_020006232/11.wav|でもでも、みんなで決めたじゃないですか！ ＜シリウス＞の想いを、これからも広げていこうって！
+story/data/02/0006/storytimeline_020006232/19.wav|そして私たちと一緒に、今度はあなたの夢を……！
+story/data/02/0006/storytimeline_020006161/37.wav|ふぅ～……はいっ！
+story/data/02/0006/storytimeline_020006161/58.wav|グラスちゃん。
+story/data/02/0006/storytimeline_020006161/31.wav|でも、だからって気後れしてるとかはありません！
+story/data/02/0006/storytimeline_020006161/55.wav|よし、やれることは全部やった、調子も問題ない…… 緊張はしてるけど、おかげで気は抜けてない……！
+story/data/02/0006/storytimeline_020006161/23.wav|よろしくお願いします！
+story/data/02/0006/storytimeline_020006161/32.wav|『天皇賞（春）』を勝った時の勢いで、 グラスちゃんにだって必ず……！
+story/data/02/0006/storytimeline_020006161/62.wav|負けないよ、グラスちゃん……！
+story/data/02/0006/storytimeline_020006161/35.wav|はあっ……はあっ……ぶえぇ～っ……。
+story/data/02/0006/storytimeline_020006161/54.wav|わあぁっ！
+story/data/02/0006/storytimeline_020006161/56.wav|全力でいける……！
+story/data/02/0006/storytimeline_020006161/34.wav|フォーームぅーー！！
+story/data/02/0006/storytimeline_020006161/30.wav|グラスちゃんが勝った去年の『有馬記念』は 本当に強くてすごい走りだなって思いました。
+story/data/02/0006/storytimeline_020006161/49.wav|冷静に、自分の走りに徹する……わかりました！
+story/data/02/0006/storytimeline_020006161/50.wav|はいっ！
+story/data/02/0006/storytimeline_020006161/27.wav|向こうでもしっかり結果を出せそうって判断したら 海外遠征をするつもりです！
+story/data/02/0006/storytimeline_020006161/25.wav|はい！　トレーニングもしっかりこなしていますし、 調子は全然問題ありません。
+story/data/02/0006/storytimeline_020006161/33.wav|うおおおお～～っ！！ こんじょおおおお～～っ！！
+story/data/02/0006/storytimeline_020006161/46.wav|す～～……ふはぁ～～……。
+story/data/02/0006/storytimeline_020006191/32.wav|まだまだ日本で1番だって言えない私が、なに考えてるんだって…… そんなこと考えてないで努力しなくちゃって、そう思おうとして――
+story/data/02/0006/storytimeline_020006191/45.wav|たとえば？
+story/data/02/0006/storytimeline_020006191/27.wav|でも“日本一”になるには全然、力不足で……。
+story/data/02/0006/storytimeline_020006191/31.wav|やっぱり“日本一”じゃここまでかって…… そんなあきらめの言葉でした。
+story/data/02/0006/storytimeline_020006191/65.wav|でも今日は大丈夫。 絶対にガッカリさせる走りはしないって、約束するから。
+story/data/02/0006/storytimeline_020006191/30.wav|『凱旋門賞』のあとに見た“日本一”への反応は、 悔しさと……あきらめでした。
+story/data/02/0006/storytimeline_020006191/36.wav|“日本一”一緒に、夢を見たい……。
+story/data/02/0006/storytimeline_020006191/48.wav|トレーナーさん……！
+story/data/02/0006/storytimeline_020006191/55.wav|み、みなさん……！？
+story/data/02/0006/storytimeline_020006191/25.wav|『天皇賞（春）』でみんなの喜ぶ顔を見て、この先に私の目指す “日本一のウマ娘”があるんじゃないかって思いました。
+story/data/02/0006/storytimeline_020006191/4.wav|…………。
+story/data/02/0006/storytimeline_020006191/39.wav|……どんな“日本一のウマ娘”だって……。 ……あっ。
+story/data/02/0006/storytimeline_020006191/56.wav|はいっ！　行ってきます！！
+story/data/02/0006/storytimeline_020006191/63.wav|あ、ツルちゃん……！
+story/data/02/0006/storytimeline_020006191/50.wav|みんなにとっての“日本一のウマ娘”を目指します！
+story/data/02/0006/storytimeline_020006191/71.wav|だああああ～～～～っ！！
+story/data/02/0006/storytimeline_020006191/64.wav|……この前はごめんね。 私、ツルちゃんが怒っても仕方ない走りをしちゃってた。
+story/data/02/0006/storytimeline_020006191/49.wav|……っ！　はいっ！！ 走って走って、それで――
+story/data/02/0006/storytimeline_020006191/42.wav|それって“日本一”なの……？
+story/data/02/0006/storytimeline_020006191/37.wav|私のことを見ている人の数だけ……。
+story/data/02/0006/storytimeline_020006191/17.wav|“日本一のウマ娘”になって、それで何の……。
+story/data/02/0006/storytimeline_020006191/21.wav|…………。
+story/data/02/0006/storytimeline_020006191/23.wav|…………。
+story/data/02/0006/storytimeline_020006191/16.wav|“日本一”……。
+story/data/02/0006/storytimeline_020006191/68.wav|うん！　精いっぱい、全力で！
+story/data/02/0006/storytimeline_020006191/22.wav|トレーナーさん……？
+story/data/02/0006/storytimeline_020006191/33.wav|でも考えちゃうんです…… “日本一のウマ娘”になって、なんの意味があるんだろうって。
+story/data/02/0006/storytimeline_020006191/47.wav|……そうだ、お母ちゃんが言ってました。 お母ちゃんにとって“日本一”の私……。
+story/data/02/0006/storytimeline_020006191/26.wav|なんとなくですけど、たくさんの人を笑顔や元気にできる、 そんなウマ娘になれるんじゃないかって思って……。
+story/data/02/0006/storytimeline_020006191/40.wav|“日本一のウマ娘”って、どんなウマ娘なの？
+story/data/02/0006/storytimeline_020006191/35.wav|え……？
+story/data/02/0006/storytimeline_020006191/34.wav|……私のやってきたこと、全部意味があるのかなって。 これから走る意味、あるのかなって……。
+story/data/02/0006/storytimeline_020006191/28.wav|それに、いつか“日本一”になれたとしても……。
+story/data/02/0006/storytimeline_020006191/24.wav|……はい、難しいです。遠くて、幻みたいで…… 私、わからなくなっちゃいました……。
+story/data/02/0006/storytimeline_020006091/40.wav|（……でも、スズカさんは海外に……）
+story/data/02/0006/storytimeline_020006091/13.wav|…………。
+story/data/02/0006/storytimeline_020006091/8.wav|…………。
+story/data/02/0006/storytimeline_020006091/0.wav|…………。
+story/data/02/0006/storytimeline_020006091/39.wav|（私もスズカさんみたいになりたい……。 だから、スズカさんの走りをもっと見ていたい）
+story/data/02/0006/storytimeline_020006091/11.wav|……って、あれ！？　私のご飯がすっからかんに！？
+story/data/02/0006/storytimeline_020006091/38.wav|（スズカさんの走り、初めて見た時と変わらないまま……）
+story/data/02/0006/storytimeline_020006091/10.wav|あ、ううん！　なんでもないよ！ それより、冷めないうちにご飯食べなくちゃ！
+story/data/02/0006/storytimeline_020006091/36.wav|…………。
+story/data/02/0006/storytimeline_020006091/17.wav|勝負服……？
+story/data/02/0006/storytimeline_020006091/2.wav|え？　あっ、はい！　……はい？
+story/data/02/0006/storytimeline_020006091/4.wav|自分……？ ああ！　はい、キングちゃんですっ！
+story/data/02/0006/storytimeline_020006091/18.wav|あっ！？　着てくる服、間違えましたっ！
+story/data/02/0006/storytimeline_020006101/37.wav|それからずっと、私もスズカさんみたいに走りたいって 見続けてきたんですけど……。
+story/data/02/0006/storytimeline_020006101/27.wav|スズカさん……っ！！
+story/data/02/0006/storytimeline_020006101/40.wav|はいっ……！　そうです！ スズカさんの走りは、いっつも期待以上でっ！
+story/data/02/0006/storytimeline_020006101/47.wav|えへへ……はいっ！
+story/data/02/0006/storytimeline_020006101/36.wav|まるで吸い込まれるみたいに、目が離せませんでした。
+story/data/02/0006/storytimeline_020006101/55.wav|……あの……ゴールドシップさんの助言は、 冗談なのか本当なのか判断が難しいです……。
+story/data/02/0006/storytimeline_020006101/39.wav|え……？　なんでって、それは…… きれいでかっこよくて……。
+story/data/02/0006/storytimeline_020006101/59.wav|ああ、いえ！ 私が提案したんです、今日の出発を。
+story/data/02/0006/storytimeline_020006101/29.wav|……あっ、その……なんでもないです……。
+story/data/02/0006/storytimeline_020006101/42.wav|あっ……。
+story/data/02/0006/storytimeline_020006101/46.wav|それが私の憧れたスズカさんの走りだから……。 ……スズカさんを止めるなんて……そんなことしちゃダメだ……！
+story/data/02/0006/storytimeline_020006101/43.wav|…………。
+story/data/02/0006/storytimeline_020006101/33.wav|私、自分でビックリしちゃいました。 スズカさんのこと、思わず呼び止めようとしちゃって……。
+story/data/02/0006/storytimeline_020006101/45.wav|スズカさんはどこまでも走るんですっ！ 私たちの期待なんて、簡単に飛び越えちゃうくらい！
+story/data/02/0006/storytimeline_020006101/14.wav|はぁ……はぁ……。
+story/data/02/0006/storytimeline_020006101/18.wav|はい、お願いします……。
+story/data/02/0006/storytimeline_020006101/32.wav|トレーナーさん……。
+story/data/02/0006/storytimeline_020006101/31.wav|…………。
+story/data/02/0006/storytimeline_020006101/53.wav|ふんふん……なるほど……！
+story/data/02/0006/storytimeline_020006101/62.wav|はい！　行ってきますっ！
+story/data/02/0006/storytimeline_020006101/16.wav|……す、すみません……。
+story/data/02/0006/storytimeline_020006101/44.wav|……そうです、そうに決まってます……！
+story/data/02/0006/storytimeline_020006101/60.wav|スズカさんが安心して海外で走れるように―― スズカさんと離れてても、やれるってところを見せるために！
+story/data/02/0006/storytimeline_020006101/41.wav|だから、もっともっとスズカさんの走るところを見たくて！ 『大阪杯』とか『宝塚記念』の連覇とか、それから――
+story/data/02/0006/storytimeline_020006101/38.wav|……はい。
+story/data/02/0006/storytimeline_020006101/34.wav|……今でもハッキリと覚えているんです。 スズカさんの走る姿を初めて見た時のこと。
+story/data/02/0006/storytimeline_020006101/51.wav|雨で重バ場……体力を温存するためにもレースにしっかり集中…… 絶対最初から飛ばさない……。
+story/data/02/0006/storytimeline_020006101/35.wav|北海道から出てきて、本当にやっていけるかなって不安の中で見た スズカさんの走り――
+story/data/02/0005/storytimeline_020005133/1.wav|スズカさーんっ！！
+story/data/02/0005/storytimeline_020005133/3.wav|スズカさん！　んもぉ～、な～んまらかっこよかったですっ！！
+story/data/09/0001/storytimeline_090001002/9.wav|運ばせてしまったんですかっ！？ うわぁあああああー！！　すみませんすみません！！
+story/data/09/0001/storytimeline_090001002/0.wav|――はっ！？
+story/data/09/0001/storytimeline_090001002/42.wav|す、スズカさん？
+story/data/09/0001/storytimeline_090001002/16.wav|なるほど……！　わ、あそこに置いてあるボトルって、 全部尻尾用のトリートメントですか！？　すごい数……！！
+story/data/09/0001/storytimeline_090001002/10.wav|あ、でもスズカさんと同部屋！？　嬉しいですっ！！ ……でもごめんなさいぃ～～！　うわああああ～ん！！
+story/data/09/0001/storytimeline_090001002/45.wav|……はいぃ～！
+story/data/09/0001/storytimeline_090001002/39.wav|うぐぐ、説明中にすみません～！ 昨日の夕飯食べ損ねちゃったので、もう……堪えきれなくてっ……！
+story/data/09/0001/storytimeline_090001002/18.wav|ひゃっ、すみません！？ き、昨日転入してきたスペシャルウィークですっ……！
+story/data/09/0001/storytimeline_090001002/37.wav|…………！！
+story/data/09/0001/storytimeline_090001002/2.wav|って、あれ？　ここは……！？
+story/data/09/0001/storytimeline_090001002/7.wav|…………スズカさん。私、ひょっとしなくても、 すっごいご迷惑おかけしましたか……！？
+story/data/09/0001/storytimeline_090001002/13.wav|それにしても、すっごいですねトレセン学園！ 寮の洗面所までこんなに大きいなんて……！
+story/data/09/0001/storytimeline_090001002/12.wav|ふぅーっ……はい、顔も洗えてすっきりしました！ 騒がしくしちゃってごめんなさい、えへへ……。
+story/data/09/0001/storytimeline_090001002/1.wav|あ、もうこんなに明るい……！ お母ちゃんごめん、すぐ畑さ行くから――
+story/data/09/0001/storytimeline_090001002/20.wav|へへへ、平気ですっ！！　閣下！！
+story/data/09/0001/storytimeline_090001002/6.wav|それから……学園があんまり大きくって、 びっくりしすぎて……そのまま、ふらふら～って……。
+story/data/09/0001/storytimeline_090001002/5.wav|（あ、そうだ！　昨日、もう東京に着いたんだった！ それでスズカさんに会って、一緒に走って、それから――）
+story/data/09/0001/storytimeline_090001002/33.wav|ひゃああ！？　あ、あれっ！？　あれれ！？ すみません、この乾燥機どうやって止めればぁ～！？
+story/data/09/0001/storytimeline_090001002/25.wav|はいっ！？　すす、すみませんでした閣下～！！
+story/data/09/0001/storytimeline_090001002/4.wav|うひゃー！？　ウマ娘さんっ…… じゃなくて、スズカさんっ！？　えっ、あれっ、私……あれ！？
+story/data/09/0001/storytimeline_090001003/53.wav|――お母ちゃんたち。 私、ここで……この東京のトレセン学園で、がんばるよ！
+story/data/09/0001/storytimeline_090001003/0.wav|しししっ、しちゅ、失礼しますっ……！！
+story/data/09/0001/storytimeline_090001003/47.wav|（すごい歓声……声っていうより、地震みたいな……。 それに熱気が……ぶわわって、カタマリになって……！）
+story/data/09/0001/storytimeline_090001003/2.wav|いいいえそんなっ、あの、こここ光栄です！！ ……あれ、光栄……？　えっと……！！
+story/data/09/0001/storytimeline_090001003/13.wav|な、わ、わ、えっ……！？　今、跳んで……！？
+story/data/09/0001/storytimeline_090001003/52.wav|私も！　必ず、この舞台に立ちたい……！ トゥインクル・シリーズに出て、夢を掴みたいですっ！！
+story/data/09/0001/storytimeline_090001003/22.wav|え、もうですかっ！？
+story/data/09/0001/storytimeline_090001003/24.wav|わぁぁっ、すごい！ よく手入れされてて、とってもきれい……！
+story/data/09/0001/storytimeline_090001003/37.wav|……って！！　ここ、トレセン学園じゃなくって 東京レース場じゃないですかっ！？
+story/data/09/0001/storytimeline_090001003/11.wav|きゃっ！？
+story/data/09/0001/storytimeline_090001003/40.wav|っ！　ＧⅠ……！
+story/data/09/0001/storytimeline_090001003/46.wav|～～～～っ！！
+story/data/09/0001/storytimeline_090001003/33.wav|は、はいぃ～……！ お待たせしてすみません～……。
+story/data/09/0001/storytimeline_090001003/17.wav|あっ！？　ま、待ってくださ～い！！
+story/data/09/0001/storytimeline_090001003/5.wav|あ……ありがとうございますっ！ よろしくお願いします……！！
+story/data/09/0001/storytimeline_090001003/48.wav|これが……トゥインクル・シリーズ……！！
+story/data/09/0001/storytimeline_090001003/27.wav|って、また！？
+story/data/09/0001/storytimeline_090001003/51.wav|はいっ、すっごく元気出ました！ ううん、元気っていうか……！
+story/data/09/0001/storytimeline_090001004/4.wav|……『私も行きたいです』って言ったら、 また一緒に走ってもらえるかな？
+story/data/09/0001/storytimeline_090001004/22.wav|えっえっ、小テストですか！？ どどどうしよう、私準備なんか全然っ……！！
+story/data/09/0001/storytimeline_090001004/3.wav|ジャージがない……ということは、もしかして早朝ランニング？ スズカさん、すっごく早起きなんだぁ～……！
+story/data/09/0001/storytimeline_090001004/19.wav|へぁっ、はい！？　す、すみません、板書写してました……！
+story/data/09/0001/storytimeline_090001004/13.wav|……！　はいっ、よろしくお願いします！ エルちゃんに、グラスちゃん……って、呼んでもいいですか！？
+story/data/09/0001/storytimeline_090001004/9.wav|え、ぁ、ぁ、え……！？
+story/data/09/0001/storytimeline_090001004/17.wav|（お友だち、もうできちゃったかも……！ よぉ～し、この調子で授業もトレーニングも……！）
+story/data/09/0001/storytimeline_090001004/20.wav|（は、早いぃ～！　向こうだと私1人だったし、ペース合わせて もらえたけど……都会の授業ペース、こんなに早いんだべ！？）
+story/data/09/0001/storytimeline_090001004/32.wav|トレーニング……！　そっか、そうですよね……！！ よぉ～しっ、授業がダメだったぶん、トレーニングなら……！
+story/data/09/0001/storytimeline_090001004/24.wav|グラスちゃん……！　うぅぅ、ありがとうございます～！ そうですよね、基礎ならきっと……！！
+story/data/09/0001/storytimeline_090001004/2.wav|って、もういないっ！？
+story/data/09/0001/storytimeline_090001004/25.wav|（って私、数学はそもそも基礎から危ういんだったぁ～！！）
+story/data/09/0001/storytimeline_090001004/16.wav|あ、はいっ！　またあとで……！
+story/data/09/0001/storytimeline_090001004/39.wav|（残り4ハロン……！　そろそろ仕掛けないと……！）
+story/data/09/0001/storytimeline_090001004/49.wav|あ……は、はい、また明日……！
+story/data/09/0001/storytimeline_090001004/36.wav|はっ、はっ、はっ、はっ……！！
+story/data/09/0001/storytimeline_090001004/51.wav|………………。
+story/data/09/0001/storytimeline_090001004/0.wav|……よしっ！　いよいよ、今日から学園生活スタートだべ……！
+story/data/09/0001/storytimeline_090001004/28.wav|はぁぁぁ～……。
+story/data/09/0001/storytimeline_090001004/40.wav|はぁ、っ……！！　……！？
+story/data/09/0001/storytimeline_090001004/52.wav|（私、ちゃんとやっていけるのかな……？　お母ちゃん……）
+story/data/09/0001/storytimeline_090001004/41.wav|（あ……あれっ！？　うそ、脚、残せてなかった！？ こ、こんなはずじゃ……！！）
+story/data/09/0001/storytimeline_090001004/1.wav|あ、そうだっ！ スズカさん、よかったら一緒に登校――
+story/data/09/0001/storytimeline_090001004/50.wav|……グラスちゃんもエルちゃんも、すごいなぁ。 午前は座学、午後はトレーニングで、放課後も自主トレ……。
+story/data/09/0001/storytimeline_090001004/45.wav|はぁぁぁ～……授業も、トレーニングも、ダメダメでしたぁ～……。
+story/data/09/0001/storytimeline_090001004/27.wav|すみませぇーーーん！！
+story/data/09/0001/storytimeline_090001004/5.wav|今日、寮に帰ってきたら、勇気出して言ってみようかな……！？ そしたら……えっへへ……！！
+story/data/09/0001/storytimeline_090001004/6.wav|――……はっ！！ いけない、ぼんやりしてたら遅刻しちゃうっ！！
+story/data/09/0001/storytimeline_090001005/2.wav|あっ！？　た、ただいまです！　あははは……。
+story/data/09/0001/storytimeline_090001005/6.wav|……『私も行きたいです』って言ったら、 また一緒に走ってもらえるかな？
+story/data/09/0001/storytimeline_090001005/7.wav|今日、寮に帰ってきたら、勇気出して言ってみようかな……！？ そしたら……えっへへ……！！
+story/data/09/0001/storytimeline_090001005/9.wav|（でも……今一緒に走ったって、私は楽しいかもしれないけど…… スズカさんにとっては、なんにもならないんじゃ……？）
+story/data/09/0001/storytimeline_090001005/0.wav|ふぅ……。
+story/data/09/0001/storytimeline_090001005/5.wav|そうだったんですか――……あっ。
+story/data/09/0001/storytimeline_090001005/3.wav|……あれっ？　スズカさん、そのシューズ…… もしかして、ランニングに行かれるんですか？
+story/data/09/0001/storytimeline_090001005/8.wav|（そうだ、言おうと思ってたんだった、私も一緒に……って……）
+story/data/09/0001/storytimeline_090001005/11.wav|……すみません、なんでもないです！　私お夕飯食べてきますね。 もう外は暗いですからお気をつけて！　それではっ。
+story/data/09/0001/storytimeline_090001006/18.wav|（明日になったら、また授業とトレーニング…… 明日こそついていけるかなぁ？　それとも――）
+story/data/09/0001/storytimeline_090001006/23.wav|あ、テイオーさん……。
+story/data/09/0001/storytimeline_090001006/26.wav|厳しい場所だって覚悟はしてきたつもりだったんですが、 想像以上でした……はぁ～。
+story/data/09/0001/storytimeline_090001006/36.wav|学園の、1番最高なところ――
+story/data/09/0001/storytimeline_090001006/38.wav|えっ！？　あ、ちょっと、テイオーさんっ！？
+story/data/09/0001/storytimeline_090001006/2.wav|あ、はい、5杯だけで～…… すみません、私、お先に失礼しますね。
+story/data/09/0001/storytimeline_090001006/0.wav|ふぅ……ごちそうさまです～。
+story/data/09/0001/storytimeline_090001006/40.wav|ま、待ってくださぁ～い……！！ あれっ、なんだかこれ、デジャヴ……！？
+story/data/09/0001/storytimeline_090001006/17.wav|はい、おやすみなさい、スズカさん。
+story/data/09/0001/storytimeline_090001006/4.wav|……って、あ～～～～！！ ダメダメ、まだ転入したてなのにこんなんじゃ！！
+story/data/09/0001/storytimeline_090001006/33.wav|もったいない、ですか？
+story/data/09/0001/storytimeline_090001006/3.wav|（……お母ちゃん）
+story/data/09/0001/storytimeline_090001006/29.wav|ふわぁ！？
+story/data/09/0005/storytimeline_090005001/5.wav|はぁ、はぁ、はぁ……！ もう、あんな走りしちゃダメだ！　もっと、もっとがんばらなきゃ！
+story/data/09/0005/storytimeline_090005001/21.wav|って、せっかくグラウンドに来てるのに時間もったいない！ 切り替え、切り替え！　今日はけっぱるぞー！
+story/data/09/0005/storytimeline_090005001/11.wav|それは、そうかもしれないけど……。
+story/data/09/0005/storytimeline_090005001/26.wav|（……土煙、足音、スカーレットさんの背中。 うん、そうそう、レースってこんな匂い！　思い出してきた！）
+story/data/09/0005/storytimeline_090005001/28.wav|（あれ、ぎゅーんっていかない……！？　腕の振りも、あれ？ 私、いつもはどんなフォームで――）
+story/data/09/0005/storytimeline_090005001/1.wav|ここが、『バブリーランド』……！
+story/data/09/0005/storytimeline_090005001/42.wav|い、行きます！
+story/data/09/0005/storytimeline_090005001/36.wav|そ、そんな場所があるんですか！？
+story/data/09/0005/storytimeline_090005001/20.wav|はぁ……。昨日は結局、ケンカになっちゃった……。
+story/data/09/0005/storytimeline_090005001/8.wav|ちゃ、ちゃんと休んでるよ！ しっかり寝てるし、ゆっくりお風呂にも浸かってるし――
+story/data/09/0005/storytimeline_090005001/31.wav|――っ！
+story/data/09/0005/storytimeline_090005001/41.wav|（マルゼンさんイチオシの、バッドコンディションが直る トレーニング施設……。そこなら、もしかしたら私の調子も――！）
+story/data/09/0005/storytimeline_090005001/6.wav|――って！　もう1か月経つのに全然調子戻らないよ！ どうしたらいいべか、お母ちゃん！
+story/data/09/0005/storytimeline_090005001/29.wav|（って、お、追いかけないとどんどん離されちゃう！ ギア上げなきゃ――どうやるんだっけ！？）
+story/data/09/0005/storytimeline_090005001/45.wav|――って！　ほ、本当にトレーニングできるんですかぁ！？
+story/data/09/0005/storytimeline_090005001/24.wav|『そ、そうです！　考えれば考えるほどフォームとかわかんなく なっちゃって。前は普通にできてたことのはずなんですけど……』
+story/data/09/0005/storytimeline_090005001/27.wav|（よし！　もうすぐで第4コーナーだ！ しっかり蹴って腕を振って、スカーレットさんに――）
+story/data/09/0005/storytimeline_090005001/12.wav|で、でもさ、全然走れるようになってないのに 遊ぶなんて、そんなの、サボってるみたいで……！
+story/data/09/0005/storytimeline_090005001/30.wav|（うわわわっ、どうしよう……っ！）
+story/data/09/0005/storytimeline_090005002/4.wav|はっ！ 私、もしかしてマルゼンさんに騙されました……！？
+story/data/09/0005/storytimeline_090005002/3.wav|って、いやいや！　全然トレーニング施設じゃ ないじゃないですかぁ！？
+story/data/09/0005/storytimeline_090005002/7.wav|わあ！　ま、待ってください～！
+story/data/09/0005/storytimeline_090005002/2.wav|わあ～！　見てください！ 外の駐車場に、低く改造された車がたくさん――
+story/data/09/0005/storytimeline_090005003/9.wav|（コンディションを直せるって、どういうことなんだろう？）
+story/data/09/0005/storytimeline_090005003/11.wav|走ることじゃ、ない？　だったら、一体――
+story/data/09/0005/storytimeline_090005003/41.wav|わあ！　お姉さんがいっぱい登ってますね！ 楽しそう～！
+story/data/09/0005/storytimeline_090005003/42.wav|美味しいものがいっぱいで、楽しいものもいっぱいで…… こんな場所があったなんて知らなかったなぁ。
+story/data/09/0005/storytimeline_090005003/39.wav|わあ！　大きいですねー！ って、すっごい悲鳴上がってますけど大丈夫ですか！？
+story/data/09/0005/storytimeline_090005003/26.wav|わっ、ワンツ、ワンツ―― ふふ、なにしてるんだろう、あはは！
+story/data/09/0005/storytimeline_090005003/44.wav|ティラミスの食べ放題タイム……！？ えっ！？　どこどこ、喫茶店、どこですかぁー！？
+story/data/09/0005/storytimeline_090005003/2.wav|って、なんで水着なんですかぁ！？
+story/data/09/0005/storytimeline_090005003/37.wav|ぷはぁーっ！　ナタデココジュース、最高だべ～！
+story/data/09/0005/storytimeline_090005003/19.wav|ええー！？　ちょちょ、ちょっと待ってくださーい！
+story/data/09/0005/storytimeline_090005003/15.wav|へ！？　あ、あそこって……お立ち台？　ですよね！？ 私にはちょっと、その、どうすればいいのかわからないですし！
+story/data/09/0005/storytimeline_090005003/7.wav|（どどどど、どうしよう。 これじゃトレーニングなんかできないよ～！）
+story/data/09/0005/storytimeline_090005003/24.wav|ふ、ふぅーーー！？
+story/data/09/0005/storytimeline_090005003/33.wav|（なんだろう、この感じ。すっごく、久しぶり――）
+story/data/09/0005/storytimeline_090005003/8.wav|（ていうか、グラウンドも見当たらないし、周りのお客さんも、 ただバブリーランドを楽しんでいるようにしか見えないし……）
+story/data/09/0005/storytimeline_090005003/32.wav|（笑顔がいっぱい、音楽もいっぱい。光でいっぱい！ なんだかちょっと――現実じゃないみたい）
+story/data/09/0005/storytimeline_090005003/13.wav|踊ること！？
+story/data/09/0005/storytimeline_090005003/20.wav|ひょえ～っ！　ど、どうしましょう！？ 振り付けとか、全然わからないですよっ！？
+story/data/09/0005/storytimeline_090005003/35.wav|――はい！　えへへ♪
+story/data/09/0005/storytimeline_090005003/22.wav|ぜ、全力で！？ えっとえっと、こ、こうですかぁ！？
+story/data/09/0005/storytimeline_090005004/13.wav|ああああっ！　トレーニング！！！
+story/data/09/0005/storytimeline_090005004/0.wav|くちどけ滑らかなカスタードソースに、ちょっぴりビターな エスプレッソ……。あんなにおいしいものが食べ放題なんて！
+story/data/09/0005/storytimeline_090005004/21.wav|あの、私……今すぐトレーニングしなくっちゃなんです！ だから――
+story/data/09/0005/storytimeline_090005004/44.wav|――へぁ！？　わ、ごめんなさい！
+story/data/09/0005/storytimeline_090005004/23.wav|マルゼンさぁん！？ ひどいですよう、やっぱり騙してたんですね！？
+story/data/09/0005/storytimeline_090005004/54.wav|マルゼンさん、やっぱり私……バブリーランドに懸けてみます！
+story/data/09/0005/storytimeline_090005004/18.wav|このままじゃ遊ぶだけで終わっちゃうよ……！ ちょっとマルゼンさんにトレーニングの場所聞きに行ってきます！
+story/data/09/0005/storytimeline_090005004/53.wav|……帰ったら、ちゃんと謝らなくちゃ。
+story/data/09/0005/storytimeline_090005004/11.wav|……トレー、ニング……？
+story/data/09/0005/storytimeline_090005004/15.wav|私！　ここに！　トレーニング！！　しにきてたんだったぁ……！
+story/data/09/0005/storytimeline_090005004/29.wav|え……！　マルゼンさんも……？
+story/data/09/0005/storytimeline_090005004/1.wav|お土産屋さんにも売ってたし、帰りに買ってこうっと！ えへへ、みんな喜んでくれるといいなぁ♪
+story/data/09/0005/storytimeline_090005004/51.wav|（――そっか。お母ちゃんが言ってたのって、もしかして……）
+story/data/09/0005/storytimeline_090005004/4.wav|あたた……。
+story/data/09/0005/storytimeline_090005004/47.wav|な、悩んでたこと、なんにも解決してないのに……！？ なんか、なんか変な感じが……！
+story/data/09/0005/storytimeline_090005004/41.wav|マルゼンさんみたいに……。
+story/data/09/0005/storytimeline_090005004/26.wav|うぐぅ……！　は、はい……！
+story/data/09/0005/storytimeline_090005004/6.wav|ええっ！　走って追いかけてきてたんですかぁ！？ ごめんなさい、全然気づかなくって……！
+story/data/09/0005/storytimeline_090005004/17.wav|わあっ、それ以上言わないでください！　ああもう、なにが くちどけ滑らかなカスタードソースだべ、スぺ！　バカバカバカ！
+story/data/09/0005/storytimeline_090005004/49.wav|（あれ、その言葉、どこかで――）
+story/data/09/0005/storytimeline_090005004/3.wav|きゃっ！？
+story/data/09/0005/storytimeline_090005004/42.wav|（……あれ……？）
+story/data/09/0005/storytimeline_090005004/52.wav|（私、全然わかってなかった……マルゼンさんの言う通り、 視野が狭くなっちゃってたのかも）
+story/data/09/0005/storytimeline_090005004/45.wav|その、な……なんだかちょっと……ほんのちょっとだけ、 私も……気持ちが軽くなっているような……？
+story/data/09/0005/storytimeline_090005004/9.wav|お、お疲れ様です……。
+story/data/09/0005/storytimeline_090005005/32.wav|そう、ですよね……。
+story/data/09/0005/storytimeline_090005005/29.wav|見送っちゃいましたけど……。 本当によかったんでしょうか？　無理してないかな。
+story/data/09/0005/storytimeline_090005005/1.wav|きれいだったな～！　夜は花火と縁日なんて、 いたれりつくせりですね、バブリーランド！
+story/data/09/0005/storytimeline_090005005/3.wav|わあ、いいですね！　負けませんよ～！
+story/data/09/0005/storytimeline_090005005/11.wav|へっ。
+story/data/09/0005/storytimeline_090005005/5.wav|わあ～やったぁ！ ほら、スイープさんも！　いちごのかき氷買いに行きましょう！
+story/data/09/0005/storytimeline_090005005/35.wav|え！？　スイープさん！？
+story/data/09/0005/storytimeline_090005005/9.wav|よーし！　けっぱって遊ぶべー！ スカーレットさんも、一緒に遊んで帰りましょうっ！
+story/data/09/0005/storytimeline_090005006/43.wav|え！　帰らない！？
+story/data/09/0005/storytimeline_090005007/33.wav|そうなんです。ディスコで大事なのは、 嫌なことは全部忘れて全力で踊ること、らしいですよ……！
+story/data/09/0005/storytimeline_090005007/3.wav|スカーレットさん、本当にいいんですか？ 無理して残ること、ないですよ……？
+story/data/09/0005/storytimeline_090005007/6.wav|……！
+story/data/09/0005/storytimeline_090005007/21.wav|ふふ……あっはは！　はぁー、怖かったぁ！ でも、面白かったぁ～！
+story/data/09/0005/storytimeline_090005007/9.wav|それなら、ちゃんと遊んで帰らなきゃ、 怒られちゃうかもですね。ふふっ！
+story/data/09/0005/storytimeline_090005007/18.wav|ひゃ、ひゃ、ひゃ……！
+story/data/09/0005/storytimeline_090005007/8.wav|（……そうだったんだ。 スカーレットさんも、お母さんに……）
+story/data/09/0005/storytimeline_090005007/13.wav|私も、がんばります……！ ――って、あれ？　……なんかシャボン玉、出てきましたよ！？
+story/data/09/0005/storytimeline_090005007/23.wav|はぁー、遊んだだけなのに、ヘトヘトです。それにしても、 プール中ピカピカのキラキラできれいだったなぁ……。
+story/data/09/0005/storytimeline_090005007/39.wav|よし……ふ……ふぅーーっ！ みんなでいっぱい踊りましょうー！
+story/data/09/0005/storytimeline_090005007/37.wav|わ、私も！
+story/data/09/0005/storytimeline_090005008/30.wav|――――！
+story/data/09/0005/storytimeline_090005008/37.wav|スカーレットさんこそ。本気で逃げてたじゃないですか！ あははっ！
+story/data/09/0005/storytimeline_090005008/20.wav|大人しく捕まってください！　スカーレットさん！
+story/data/09/0005/storytimeline_090005008/42.wav|走るのって、やっぱり楽しいや。えへへっ。
+story/data/09/0005/storytimeline_090005008/13.wav|ま、待て待てぇーっ！　ぜえ、はあ！
+story/data/09/0005/storytimeline_090005008/5.wav|えっ！？　えっ！？
+story/data/09/0005/storytimeline_090005008/32.wav|（ただ、前を目指すんだ！）
+story/data/09/0005/storytimeline_090005008/8.wav|……！ っよーし！　私の追い上げ力、見せてあげますよぉ！
+story/data/09/0005/storytimeline_090005008/2.wav|いい天気……！ 広い場所に来ると、やっぱり走りたくなっちゃいますね～！
+story/data/09/0005/storytimeline_090005008/47.wav|お母ちゃんって、なんであんなにわかってるんでしょう。
+story/data/09/0005/storytimeline_090005008/41.wav|……バブリーランド、すごいですね。 本当に思い出せちゃった。
+story/data/09/0005/storytimeline_090005008/44.wav|私も、お母ちゃんに謝らなくちゃ！
+story/data/09/0005/storytimeline_090005008/31.wav|（そうだ、走るって、こういうことだった！ 夢中で地面を蹴って、風を切って、ただ――）
+story/data/09/0005/storytimeline_090005008/53.wav|え！？　ちょっと、ずるいですよ～！
+story/data/09/0005/storytimeline_090005008/22.wav|ふっふっふ、それなら……私が追いつくまでです～っ！
+story/data/09/0005/storytimeline_090005008/15.wav|だーれーにーしーよーうーかーなー……っ！
+story/data/09/0005/storytimeline_090005008/29.wav|（なんだろう、なんだかすごく懐かしい感じ――）
+story/data/09/0005/storytimeline_090005008/46.wav|そのぅ……本当は、ずーっと遊べって言われてたんですけど。 ずーっと無視しちゃってて。でも、お母ちゃんの言う通りでした。
+story/data/09/0005/storytimeline_090005008/14.wav|はぁ、はぁ！　みなさん、よけるの上手ですね！？ こーなったら……！　ターゲットは1人に絞ります！
+story/data/09/0005/storytimeline_090005008/28.wav|（砂が熱い、風が涼しい、――楽しい！ 今ならどこまででも行ける気がする！）
+story/data/09/0005/storytimeline_090005008/17.wav|スカーレットさん！ 逃げても無駄ですよぉーっ！
+story/data/09/0005/storytimeline_090005008/11.wav|待て待てーっ！
+story/data/09/0005/storytimeline_090005008/9.wav|なーな、はーち、きゅ～う、じゅ！ ――たぁーっ！
+story/data/09/0005/storytimeline_090005008/39.wav|……。なんだかびっくりするほど脚が軽くなって、 久しぶりに夢中になれちゃいました。
+story/data/09/0005/storytimeline_090005008/24.wav|逃がしませんよーっ！
+story/data/09/0005/storytimeline_090005008/54.wav|あ、もしもし？　お母ちゃん？
+story/data/09/0005/storytimeline_090005008/34.wav|ここだぁーっ！
+story/data/09/0011/storytimeline_090011003/12.wav|へっ？　も、もしかして……スカウトってやつですか！？ どうして私にっ！？
+story/data/09/0011/storytimeline_090011003/14.wav|筋肉！？　見ただけでわかるんですかっ！？
+story/data/09/0011/storytimeline_090011003/17.wav|あの……私、トライアスロンというよりも 優勝賞品のお食事券が気になってて……。
+story/data/09/0011/storytimeline_090011003/19.wav|本当ですか！？　やったー！！ 一緒に出たいです！　よろしくお願いしますっ！
+story/data/09/0011/storytimeline_090011003/10.wav|ひゃっ！？　あ、ライアンさん！　ブライトさんも……。
+story/data/09/0011/storytimeline_090011003/8.wav|トライアスロン……トライアスロン……あった！
+story/data/09/0011/storytimeline_090011005/39.wav|ふーーーーっ！　きつかったぁ～～～！
+story/data/09/0011/storytimeline_090011005/51.wav|2人とも……すごい……！ タンホイザさん！　私たちもけっぱりましょうっ！
+story/data/09/0011/storytimeline_090011005/47.wav|ブライトさん、キツかったら無理しないでくださいね！
+story/data/09/0011/storytimeline_090011005/45.wav|え？　そういえば最初よりペダルが重そうな感じが……。
+story/data/09/0011/storytimeline_090011006/37.wav|うーん……同じじゃないでしょうか。私もトップロードさんも。 強くなりたいから、練習してるんですよね。
+story/data/09/0011/storytimeline_090011006/6.wav|大量リード……なるほど！ 確かにその方がタンホイザさんの助けになりますね！
+story/data/09/0011/storytimeline_090011006/2.wav|大丈夫でしょうか……。 あっ！　様子を見に、みんなでお見舞いに行きませんか！？
+story/data/09/0011/storytimeline_090011006/30.wav|えへへ、チームのみんなと練習してたらすっごく ワクワクしちゃって……もっと走りたくなったんです！
+story/data/09/0011/storytimeline_090011006/0.wav|えええ～～～～っ！？ タンホイザさんがじんましんでドクターストップ！？
+story/data/09/0011/storytimeline_090011006/38.wav|トップロードさんの場合は、チームに負けたくない相手がいて…… それはすごくいいことだと思います！
+story/data/09/0011/storytimeline_090011006/32.wav|さっきの併走でも、最後にぐぐぐ～～っとみんなが伸びてきて！ お互い、もっともっとって前に行こうとするのが楽しくて！
+story/data/09/0011/storytimeline_090011006/28.wav|あれ？　トップロードさんも自主練ですか？
+story/data/09/0011/storytimeline_090011006/43.wav|はい！　一緒に高め合っていける大事な相手です！
+story/data/09/0011/storytimeline_090011006/39.wav|私にもいます、負けたくない人たちが。 どんな勝負だって、私はみんなに勝ちたい！
+story/data/09/0011/storytimeline_090011006/33.wav|引っ張られて私もずっと先まで行けるような……そんな気がして！ ……って、変ですかね……。
+story/data/09/0011/storytimeline_090011007/9.wav|あっ！　いろんなジャガイモを使ったジャーマンポテトも 美味しそうだった！　それから、アクアパッツァと――
+story/data/09/0011/storytimeline_090011007/8.wav|たっ、食べ放題ビュッフェ！！ えっと……シーフードカクテルにローストビーフ……！
+story/data/09/0011/storytimeline_090011007/6.wav|ああああのっ！　き、き、緊張しちゃって……！ 今からこんなで、どうしよう……っ！
+story/data/09/0001/storytimeline_090001001/11.wav|――着いたっ！　学園最寄り駅……！　お母ちゃんからは、 ここで学園までの道をしっかり聞きなさいって言われたけど……。
+story/data/09/0001/storytimeline_090001001/15.wav|ここ、どこだべぇ～！
+story/data/09/0001/storytimeline_090001001/18.wav|（――じゃ、ない！　今のって……！！）
+story/data/09/0001/storytimeline_090001001/7.wav|私だって、ずっと小さな頃からテレビで見てきた。 トレセン学園のウマ娘さんたちが、ターフの上で輝くところ……。
+story/data/09/0001/storytimeline_090001001/13.wav|私も、今日から『トレセン学園生』なんだし！！
+story/data/09/0001/storytimeline_090001001/43.wav|ここが……。
+story/data/09/0001/storytimeline_090001001/45.wav|でっか、すぎる、べ～…………。
+story/data/09/0001/storytimeline_090001001/19.wav|耳と、尻尾……私とおんなじ――！
+story/data/09/0001/storytimeline_090001001/0.wav|つ……着いちゃった。 とうとう、着いちゃった……！
+story/data/09/0001/storytimeline_090001001/38.wav|誰かと……ウマ娘さんと一緒にランニングなんて、 初めてでしたから！
+story/data/09/0001/storytimeline_090001001/28.wav|ん、あれっ？　よく見ると、その赤いジャージ…… もしかして、トレセン学園の生徒さんですかっ！？
+story/data/09/0001/storytimeline_090001001/44.wav|……………………で。
+story/data/09/0001/storytimeline_090001001/9.wav|（転入試験、受かったって聞いた時はびっくりして、 お母ちゃんとほっぺた引っ張り合っちゃったけど！）
+story/data/09/0001/storytimeline_090001001/34.wav|――学園っ！！　どっちにあるんでしょうか～！？
+story/data/09/0001/storytimeline_090001001/6.wav|レースの世界を目指す子たちにとって1番の憧れ―― 『日本最高峰のウマ娘養成機関』トレセン学園。
+story/data/09/0001/storytimeline_090001001/21.wav|うわぁ、うわぁ、うわぁあああああっ！ ほんとに、ほんとにほんとにっ――
+story/data/09/0001/storytimeline_090001001/39.wav|たったった、っていう足音も、一緒に尻尾が揺れるのも…… えへへっ、なんかいいですね！　すっごく、楽しかったです！！
+story/data/09/0001/storytimeline_090001001/30.wav|あっ、私は今日転入してきたばっかりなんです！！ スペシャルウィークって言います、よろしくお願いします！！
+story/data/09/0001/storytimeline_090001001/27.wav|って、わわぁ！！　すすすすみませんっ、じろじろ見ちゃって！ きれいだな～って思って、つい～……あははは……！！
+story/data/09/0001/storytimeline_090001001/12.wav|……ううん！　地図もちゃーんとあるんだし、大丈夫だよね！ だって――
+story/data/09/0001/storytimeline_090001001/25.wav|（うわぁ、うわぁぁぁ～……私と同じウマ娘さん、だけど全然違う！ 尻尾の毛並みが夕陽にキラキラ光って……きれ～……！）
+story/data/09/0001/storytimeline_090001001/22.wav|ウマ娘さん、ですよねっ！？
+story/data/09/0001/storytimeline_090001001/2.wav|……って、いけない！　ボーっとしてる場合じゃないんだった！ えっと、空港に着いたら、まずは……！
+story/data/09/0001/storytimeline_090001001/5.wav|『日本ウマ娘トレーニングセンター学園』まで、お願いします！！
+story/data/09/0001/storytimeline_090001001/3.wav|あのっ、すみません！！ 道を聞きたいんですが、大丈夫ですか！？
+story/data/09/0001/storytimeline_090001001/24.wav|いえっ！　ただ、直接見るの、初めてなので……！！
+story/data/09/0001/storytimeline_090001001/16.wav|うぅ……日が傾いてきちゃったし、お腹も空いたし…… 私、このまま遭難しちゃうのかなぁ……！？　お母ちゃぁ～ん……！
+story/data/09/0001/storytimeline_090001001/17.wav|っ、……へ？　風……？
+story/data/09/0001/storytimeline_090001001/49.wav|（……目は、開けられませんでしたが！）
+story/data/09/0001/storytimeline_090001001/47.wav|（……こうして。私の、トレセン学園生活が幕を開けたのです！）
+story/data/09/0001/storytimeline_090001001/10.wav|（夢じゃない……ううん、夢をほんとにするために、 私、これから走るんだ……！）
+story/data/09/0001/storytimeline_090001001/42.wav|えっ！？　あ、ここがっ！？
+story/data/09/0001/storytimeline_090001001/8.wav|みんな、みんな……立派で、キラキラしてて。 すごいなぁって、いっぱい憧れた……！
+story/data/09/0001/storytimeline_090001001/37.wav|――楽しかったですっ！！　すっっっっごく！！
+story/data/09/0001/storytimeline_090001001/32.wav|スズカさん、ですね！　覚えましたっ。 あの、それで……いっこ聞いてもいいですか……？
+story/data/09/0001/storytimeline_090001001/1.wav|ここが……東京……！
+story/data/09/0001/storytimeline_090001001/14.wav|……って調子乗ってた私のバカバカバカ、バカぁ～！！
+story/data/09/0001/storytimeline_090001001/36.wav|ひぃ、はぁ……ふわぁぁぁ～……。 だ、大丈夫です……いえ、大丈夫っていうか――
+story/data/09/0001/storytimeline_090001007/29.wav|夢を……ほんとに……！！
+story/data/09/0001/storytimeline_090001007/1.wav|って、あれ？　あそこで走ってるのって――
+story/data/09/0001/storytimeline_090001007/50.wav|……夢をほんとにできる場所が、『トレセン学園』
+story/data/09/0001/storytimeline_090001007/14.wav|……グラスちゃんは、どうして走っているんですか？
+story/data/09/0001/storytimeline_090001007/53.wav|――はいっ！
+story/data/09/0001/storytimeline_090001007/0.wav|はぁ、ふぅ……テイオーさ～ん、どこまで行くんですかぁ～……。
+story/data/09/0001/storytimeline_090001007/45.wav|テイオーさんっ！！　私は――
+story/data/09/0001/storytimeline_090001007/41.wav|（っ、テイオーさん、速い……！　さっきも感じた プレッシャー……今はもっとびりびりくる！）
+story/data/09/0001/storytimeline_090001007/25.wav|無敵の…… それが、テイオーさんの目指してるモノ……。
+story/data/09/0001/storytimeline_090001007/6.wav|どうして、ですか？　いえ、まだ……。
+story/data/09/0001/storytimeline_090001007/18.wav|“世界最強”に、“頂点”……。
+story/data/09/0001/storytimeline_090001007/31.wav|併走……って、ええっ、今からですか！？ 私とテイオーさんで……！？
+story/data/09/0001/storytimeline_090001007/43.wav|でも……それならっ！！
+story/data/09/0001/storytimeline_090001007/38.wav|はっ、はっ、はっ、はっ、はっ……！！
+story/data/09/0001/storytimeline_090001007/34.wav|どうして……。私、は……。
+story/data/09/0001/storytimeline_090001007/10.wav|せ、世界最強……そうだったんですか……！ エルちゃん、すごい……！
+story/data/09/0001/storytimeline_090001007/42.wav|（これが――夢をほんとにするっていう、気持ちの強さ、なのかな）
+story/data/09/0001/storytimeline_090001007/46.wav|“日本一のウマ娘”にっ！！　なりにきましたっ！！
+story/data/09/0001/storytimeline_090001007/3.wav|エルちゃん……！　す、すごい気迫……。
+story/data/09/0001/storytimeline_090001007/54.wav|トレセン学園の、最高なところ。 ……教えてくれてありがとうございます、テイオーさん！！
+story/data/09/0001/storytimeline_090001007/21.wav|っ……！！
+story/data/09/0001/storytimeline_090001007/36.wav|（夢じゃない……ううん、夢をほんとにするために、 私、これから走るんだ……！）
+story/data/09/0001/storytimeline_090001007/51.wav|そっか。そうだったんだ――！
+story/data/09/0001/storytimeline_090001007/35.wav|――私は……！！
+story/data/09/0001/storytimeline_090001008/42.wav|にしてもスズカさん、ほんっっっとに速かったですぅ～……！ 私、もっと鍛えないとですね……！　うん、気合い入りました！
+story/data/09/0001/storytimeline_090001008/54.wav|だから――大丈夫です！ ここで、お友だちや先輩たちと一緒に、がんばります！
+story/data/09/0001/storytimeline_090001008/8.wav|スズカさんっ、とりあえず左回り1600mでいいですか？ 私、準備しますねー！！
+story/data/09/0001/storytimeline_090001008/1.wav|すぅー、はぁーっ……よしっ！！ ス　ズ　カ　さ　ん　っ　！　！
+story/data/09/0001/storytimeline_090001008/34.wav|スズカさん？　あのー、どうかしました？ そっち、なにかあるんですか？
+story/data/09/0001/storytimeline_090001008/31.wav|はふーっ……な、なんか、いっぱい走っちゃいましたね……！
+story/data/09/0001/storytimeline_090001008/50.wav|は、はい～～～！！
+story/data/09/0001/storytimeline_090001008/27.wav|……っ、まだまだまだ、まーーだぁーーーーっ！！
+story/data/09/0001/storytimeline_090001008/52.wav|――お母ちゃんたち。学園生活は、思っていたより大変でした。 みんな速いし、授業も難しいし、忙しいし。
+story/data/09/0001/storytimeline_090001008/16.wav|――はぁああああああっ！！
+story/data/09/0001/storytimeline_090001008/6.wav|2人いるんですし、やっぱり併走トレーニングですよね？ レース本番みたいに、気合い入れて走りますね！！
+story/data/09/0001/storytimeline_090001008/48.wav|うひゃああ！？ きゃっ！？
+story/data/09/0001/storytimeline_090001008/55.wav|それでいつか必ずデビューして、 トゥインクル・シリーズに出て……夢をほんとにしてみせます。
+story/data/09/0001/storytimeline_090001008/23.wav|わっ、スズカさん……！！ …………まだまだ、ですっ！！
+story/data/09/0001/storytimeline_090001008/46.wav|え……。……――っ！！ はいっ、はい、ぜひ……！！
+story/data/09/0001/storytimeline_090001008/53.wav|でも……私には、絶対に叶えたい夢があります。
+story/data/09/0001/storytimeline_090001008/26.wav|うひゃあっ！？
+story/data/09/0001/storytimeline_090001008/5.wav|よしっ、ストレッチ終わり！！ さっそく走りましょう、スズカさん！！
+story/data/09/0001/storytimeline_090001008/30.wav|はーっ、はーっ、はーっ……。
+story/data/09/0001/storytimeline_090001008/19.wav|だから――負けませんよっ！！ だぁああああーーーーーー！！
+story/data/09/0001/storytimeline_090001008/10.wav|それじゃあスズカさん、行きますよ！！ 用意……スタートっ！！
+story/data/09/0001/storytimeline_090001008/3.wav|私も一緒に、走りに行っていいですかっ！？
+story/data/09/0001/storytimeline_090001008/11.wav|――って、わわぁ！？ スズカさん、すごい逃げ……！
+story/data/09/0001/storytimeline_090001008/44.wav|あ、はいっ？　なんでしょう、スズカさん？
+story/data/09/0001/storytimeline_090001008/56.wav|待っててくださいっ！　――スペシャルウィークより。
+story/data/09/0001/storytimeline_090001008/18.wav|スズカさんっ！　私、トレセン学園に来られて…… こうやってスズカさんと走ることができて、嬉しいですっ！！
+story/data/09/0011/storytimeline_090011001/0.wav|『お母ちゃんへ、元気にしてますか？』
+story/data/09/0011/storytimeline_090011001/3.wav|『と～～～～っても楽しかった！！ なによりも、出場したみんながとにかくすごくて――』
+story/data/09/0011/storytimeline_090011001/1.wav|『私は元気でやってます！ 毎日いろんなことがありすぎて、めまぐるしいくらい。』
+story/data/09/0011/storytimeline_090011001/25.wav|――優勝と特別賞のチームにはメーカーより賞品を贈呈。 優勝賞品……高級ホテルレストランのビュッフェお食事券！？
+story/data/09/0011/storytimeline_090011001/26.wav|ビュッフェってことは……食べ放題！？ ……じゅるり。
+story/data/09/0011/storytimeline_090011001/2.wav|『この前も、学園のイベントでトライアスロン大会がありました。 なんと！　私も選手で出場したんです！』
+story/data/09/0011/storytimeline_090011008/14.wav|あ、あのぉ～……そろそろ始まるみたいですよ。
+story/data/09/0011/storytimeline_090011008/27.wav|わ、私もなにかやった方がいいのかな……？
+story/data/09/0011/storytimeline_090011010/71.wav|『私もみんなに負けていられません。 だって、私は日本一のウマ娘になるんだから！！』
+story/data/09/0011/storytimeline_090011010/69.wav|『お母ちゃん、トレセン学園は本当にすごいところです。』
+story/data/09/0011/storytimeline_090011010/72.wav|よーし！　けっぱるぞーーーっ！！
+story/data/09/0011/storytimeline_090011010/37.wav|うんっ！　みんなと練習できて、競えて楽しかったです！
+story/data/09/0011/storytimeline_090011010/70.wav|『一緒に走ってみたい娘が、い～～～～っぱいいるんです！ 目標への道のりは大変だけど、同時にワクワクもしています。』
+story/data/09/0011/storytimeline_090011010/4.wav|キタさんがスピードを上げた！ これ以上差が広がったら、逃げ切られるかも……！
+story/data/09/0011/storytimeline_090011010/34.wav|そんな……！　私、お礼を言われるようなことはなにも……！
+story/data/09/0021/storytimeline_090021002/27.wav|初詣かぁ～！　へぇ～、こんな神社が……行ってみようかな？
+story/data/09/0021/storytimeline_090021002/34.wav|ねぇ2人とも。よかったら私にも手伝わせてくれませんか？ 美味しい柿のお返し、ぜひともさせてくださいっ！
+story/data/09/0021/storytimeline_090021002/31.wav|そんなことが……！　あ！　栗東寮のキッチンにあった 『ご自由にお取りください』の柿は、それで……！
+story/data/09/0021/storytimeline_090021002/33.wav|ほ、本当に山ほど置いてあったんだよ～っ！ 他の子のぶんは、ちゃんと残してるからね！？
+story/data/09/0021/storytimeline_090021003/37.wav|断食なんて、厳しすぎます～！ うう……昔の人、根性ありすぎですっ……！
+story/data/09/0021/storytimeline_090021003/30.wav|うんうん……スイープさんの言うこと、わかります。 私もその行事、気になるので……！
+story/data/09/0021/storytimeline_090021003/1.wav|順調ですっ！　向こうの草取りはあらかた終わりました～！ この調子なら、大みそかまでにはきれいになりそうですね！
+story/data/09/0021/storytimeline_090021004/27.wav|うわわっ！！　えいっ！　もらったぁーーーっ！！
+story/data/09/0021/storytimeline_090021004/12.wav|うんうん！　だんだん固まってきましたね……！ この調子で、細かいところも決めていきましょうっ！
+story/data/09/0021/storytimeline_090021004/40.wav|えっ！　私子ども扱いされてないですよ～っ！？
+story/data/09/0021/storytimeline_090021004/25.wav|――たあぁぁーーっ！
+story/data/09/0021/storytimeline_090021004/19.wav|いいですね！　これで一勝負といきましょうっ！ 総当たり戦で勝った2人がウマ巫女役ってどうですか！？
+story/data/09/0021/storytimeline_090021005/27.wav|うんうん、私も……ワクワクのほうが大きいけど、 未来にまったく不安がないわけじゃないです。
+story/data/09/0021/storytimeline_090021005/10.wav|キタさん……大丈夫ですか？ えっとその、もしかして……。
+story/data/09/0021/storytimeline_090021005/16.wav|～～～っ、あ、あのねっ！　実は昨日の夜、窓から外にいるの 見ちゃって、その……心配で、グラスちゃんにも話しちゃって……。
+story/data/09/0021/storytimeline_090021005/41.wav|えっ、あ、あったかなぁ～……？ あったかも……えへへ……。
+story/data/09/0021/storytimeline_090021005/39.wav|あ、うんっ！　いってらっしゃ～い！ ……えへへっ、もう大丈夫みたいだね？
+story/data/09/0021/storytimeline_090021005/7.wav|………っ？
+story/data/09/0021/storytimeline_090021005/8.wav|あとは紙コップと……割りばしはサトノさんたちが買うから～……。 キタさん、買い出しリスト、もう1回見せてもらえますか？
+story/data/09/0021/storytimeline_090021006/39.wav|わっ、見てください、あのオレンジの光！ 1つ目のかがり火は無事に灯せたみたいですね。
+story/data/09/0021/storytimeline_090021007/21.wav|ぼんぼり、まだ持ってない人はこちらへどうぞ～！ えへへ、みんなでかかげれば、きっと山から見えるはずですっ！
+story/data/09/0021/storytimeline_090021007/3.wav|あれれ……少し、ペースが落ちてきたんでしょうか？
+story/data/09/0021/storytimeline_090021008/41.wav|わぁっ、ああいうのテレビで見たことあります！ 生で見られるなんてすごいべ～！　お正月って感じですねっ！
+story/data/09/0021/storytimeline_090021008/30.wav|あぁっ、朝日が顔を出しそうです……！ キタさん……サトノさん……。
+story/data/09/0021/storytimeline_090021008/47.wav|えっへへ、いっきますよ～！　えーいっ！
+story/data/10/0000/storytimeline_100000007/20.wav|届けます。私たちの想い、全身全霊の歌にのせて……！
+story/data/10/0000/storytimeline_100000007/9.wav|これまで、みなさん今日のためにすごくがんばって準備をされて いたので……私が台無しにしたらダメだって思うと～……！！
+story/data/10/0000/storytimeline_100000007/6.wav|はいっ！？　スペシャルウィーク、歌いますっ！？
+story/data/10/0000/storytimeline_100000007/19.wav|振り向かないで……ひたすら前へ。 前へ……！
+story/data/10/0000/storytimeline_100000007/18.wav|……！！
+story/data/10/0000/storytimeline_100000007/8.wav|あぅぅ……はい、少し…… いえすみません、すっごく緊張してます～！！
+story/data/10/0000/storytimeline_100000007/12.wav|えっ、えっ！？　つ、つま先は……つま先ですけどっ！？
+story/data/10/0000/storytimeline_100000008/0.wav|………………。
+story/data/10/0000/storytimeline_100000008/5.wav|……！　はいっ、また！　ぜひ、スズカさんと一緒に……！
+story/data/10/0000/storytimeline_100000008/3.wav|その、うまく言えませんけど…… ステージからの景色、すごかったなぁ……って。
+story/data/10/0000/storytimeline_100000008/2.wav|わ、すみません！　そういうわけじゃないんですが……！ なんだか、ふわふわしちゃって。
+story/data/10/0000/storytimeline_100000008/8.wav|わぁぁぁ……！　いつも以上に豪華な料理が、 しかもたっっっくさん……！
+story/data/10/0000/storytimeline_100000008/16.wav|はいっ、スズカさん！！
+story/data/10/0002/storytimeline_100002001/27.wav|それでいったら北海道にも！　この時期は盆踊りを踊る お祭りがあって……その賑やかで温かい雰囲気とよく似てます！
+story/data/10/0002/storytimeline_100002001/0.wav|えっと、バスト、ウエスト、ヒップ……抜けもれなし！ 備考の希望カラーも聞きもらし……なし！
+story/data/10/0002/storytimeline_100002001/1.wav|うん、この調子なら夕方には終わりそう！　よかった～！ ライブ衣装の採寸係って、結構大変なんだねぇ。
+story/data/10/0002/storytimeline_100002001/20.wav|あははっ、本当にすごいね！　たこ焼き、わたあめ、 チョコバナナ！　どのお店から行こうかな～♪
+story/data/10/0002/storytimeline_100002001/35.wav|いいですね、いいですねぇ！ 私も地元に帰って、挑戦してみようかな～！
+story/data/10/0002/storytimeline_100002001/9.wav|？　なにかあるんですか？
+story/data/10/0002/storytimeline_100002001/4.wav|えっ……ユキノさん！？　わあ～、お似合いです……！ アイドルさんが出てきたのかと思っちゃいました！
+story/data/10/0003/storytimeline_100003001/41.wav|確かに……！　上手い人の洗練された動きって感じでした！ コツとかいろいろ教えて欲しいです！！
+story/data/10/0003/storytimeline_100003001/43.wav|わぁ～♪　シュヴァルさんの言うとおりにしたとたん いっぱい釣れましたね！　すごいです！！
+story/data/10/0003/storytimeline_100003001/34.wav|むむむ、セイちゃんと来た時はもっと たくさん釣れたんですけど……。
+story/data/04/1001/storytimeline_041001005/21.wav|わぁ……！　その雑誌ってすっごく有名ですよね！？ 私も北海道で見たことがありますっ！
+story/data/04/1001/storytimeline_041001005/26.wav|それならお母ちゃん、きっと喜んでくれるはず……！
+story/data/04/1001/storytimeline_041001005/27.wav|はい！　ありがとうございます、トレーナーさん。
+story/data/04/1001/storytimeline_041001005/12.wav|『お隣の牧場で仔牛が産まれた』とか、『にんじんが元気に 育ってるよ～』とか。いーっぱい話してくれました。
+story/data/04/1001/storytimeline_041001005/11.wav|実は昨日、お母ちゃんと電話したんです。
+story/data/04/1001/storytimeline_041001005/16.wav|はい……はぁ～。 こんな時、近くにいられたらいいのにな。
+story/data/04/1001/storytimeline_041001005/25.wav|スズカさんみたいに雑誌に載れば…… 元気にやってるよって、伝えられるんだ。
+story/data/04/1001/storytimeline_041001005/28.wav|ここにはたくさん駆け回ったあの牧場も、 大好きなにんじん畑もないけど。でも――
+story/data/04/1001/storytimeline_041001005/10.wav|会いたいですっ！ ……けど、すぐ会える距離じゃないですからね。
+story/data/04/1001/storytimeline_041001005/22.wav|やっぱりすごいなぁ、スズカさん！ レースで大活躍してますもんね。
+story/data/04/1001/storytimeline_041001005/8.wav|え？　……あ、すみません！ ちょっとお母ちゃんのこと思い出しちゃって。
+story/data/04/1001/storytimeline_041001005/9.wav|私もよくああやっておねだりしたなぁ。 それであんな風に叱られて……。
+story/data/04/1001/storytimeline_041001005/7.wav|あ……。
+story/data/04/1001/storytimeline_041001005/24.wav|え？　載ったらって……あ、そっか。
+story/data/04/1001/storytimeline_041001005/4.wav|そうだ！　トレーナーさん！ このまま走って帰るとかどうですか？　トレーニングにもなり――
+story/data/04/1001/storytimeline_041001005/15.wav|お母ちゃんたちの誇りになるって決めたのに、私……。
+story/data/04/1001/storytimeline_041001005/29.wav|私、がんばりますっ。 たくさん活躍して、1番誇れる私になりたいから……！
+story/data/04/1001/storytimeline_041001005/23.wav|うん……私もクヨクヨしてないで、 雑誌に載れるくらいがんばらないと。
+story/data/04/1001/storytimeline_041001005/17.wav|そしたらちゃんと伝えられるのに。 『さみしいけど、元気にがんばってるよ』って。
+story/data/04/1001/storytimeline_041001005/18.wav|あ……な、なーんて！　すみません、急にこんな話。 トレーナーさんも困っちゃいますよね。
+story/data/04/1001/storytimeline_041001005/1.wav|え！？　そ、そうですか？　そんなことないですよ～！
+story/data/04/1001/storytimeline_041001005/0.wav|はぁ…………はぁ～……。
+story/data/04/1001/storytimeline_041001005/3.wav|ふぃ～♪　今日もいいトレーニングできましたね！ でも私、まだまだ元気いっぱいですよ～！
+story/data/04/1001/storytimeline_041001005/20.wav|あ、あの！　あそこの本屋さん！ 雑誌の表紙、スズカさんですよ……！
+story/data/04/1001/storytimeline_041001005/2.wav|よ、よーし！ 元気いっぱい、今日もがんばるぞ～っ！
+story/data/04/1001/storytimeline_041001005/13.wav|それで懐かしくなって、 『お母ちゃんのにんじんシチュー、食べたいな』って言ったら……。
+story/data/04/1001/storytimeline_041001005/19.wav|えっと、早く学園に戻りましょうか！ ……って、あれ？
+story/data/04/1001/storytimeline_041001005/14.wav|『元気ないわね。大丈夫？　無理してない？』って。 ……お母ちゃん、すごく心配してました。
+story/data/04/1001/storytimeline_041001006/34.wav|ああああぁぁ～～～っ！？！？！？
+story/data/04/1001/storytimeline_041001006/6.wav|ほ、本当ですか！？ わぁ！　ありがとうございます！
+story/data/04/1001/storytimeline_041001006/44.wav|わわっ！　安心したらお腹が……あ、あはははは……。
+story/data/04/1001/storytimeline_041001006/10.wav|だ、大丈夫ですよ！ 携帯を見た感じだと、まっすぐ行けばショッピングモールです！
+story/data/04/1001/storytimeline_041001006/43.wav|よーし！ 今の私らしい案内で、お母ちゃんを喜ばせるぞ～！
+story/data/04/1001/storytimeline_041001006/11.wav|て、あれ？　ここって……あ、やっぱりそうだ！ 地図に夢中で全然気づかなかった。
+story/data/04/1001/storytimeline_041001006/26.wav|それで寝ちゃった人とか、 答えを間違えた人が……グビッ！　といくわけです。
+story/data/04/1001/storytimeline_041001006/25.wav|エルちゃんたちとここでテスト勉強をする時に 必ず作るんです！
+story/data/04/1001/storytimeline_041001006/46.wav|私行きつけの、爆盛りラーメン屋さんへ！
+story/data/04/1001/storytimeline_041001006/24.wav|ドリンクバーで作った、特別仕様！ 味は飲んでのお楽しみですよ～♪
+story/data/04/1001/storytimeline_041001006/1.wav|あ！　トレーナーさん！ 今“名所案内”の練習をしてるんです。
+story/data/04/1001/storytimeline_041001006/14.wav|はい！ 見える景色は、北海道とは違いますけど……。
+story/data/04/1001/storytimeline_041001006/33.wav|ふんふふんふーん♪　もう夕暮れですね。 そろそろ帰りましょうか～……って。
+story/data/04/1001/storytimeline_041001006/17.wav|それでそのあと、商店街に行きます！ すっごく美味しい野菜漬けがあるんですよ～！
+story/data/04/1001/storytimeline_041001006/20.wav|はい！　いつもの特製野菜漬け、くーださい！
+story/data/04/1001/storytimeline_041001006/47.wav|そうなんです！　『爆盛メガDXラーメン』っていう、 すっごく大きなラーメンがあるんですよ～！
+story/data/04/1001/storytimeline_041001006/38.wav|で、でも……。 河川敷も商店街もあっちにあるんです。
+story/data/04/1001/storytimeline_041001006/37.wav|こっちに馴染めてるか見たいって言ってたのに……。 こんな案内、きっとがっかりさせちゃうよ……。
+story/data/04/1001/storytimeline_041001006/39.wav|だから……こっちにしかないところを案内した方が、 安心するんじゃないかなって。
+story/data/04/1001/storytimeline_041001006/0.wav|次は、えっと……うんと……う～～ん。
+story/data/04/1001/storytimeline_041001006/9.wav|えっと……こっちかな？ それともあっち？　……多分そうだよね、うん。
+story/data/04/1001/storytimeline_041001006/18.wav|こっちです、こっち！ 実はこっちに近道があって……。
+story/data/04/1001/storytimeline_041001006/28.wav|味は想像通り『うわぁ～……』って感じです。 でも私……好きなんです！　このジュース。
+story/data/04/1001/storytimeline_041001006/40.wav|え……？
+story/data/04/1001/storytimeline_041001006/12.wav|えへへ！　ここ、私がよく来る場所なんです！
+story/data/04/1001/storytimeline_041001006/2.wav|今度、お母ちゃんが遊びに来るんです。 私がこっちに馴染めてるか見たいって！
+story/data/04/1001/storytimeline_041001006/48.wav|さあ、トレーナーさん！　早く行きましょう！
+story/data/04/1001/storytimeline_041001006/36.wav|全然気づかなかった、どうしよう……！ 
+story/data/04/1001/storytimeline_041001006/31.wav|お母ちゃんの作るホッとする味とはまた違った、 ワクワクする美味しさなんです！
+story/data/04/1001/storytimeline_041001006/30.wav|はい！　グビッといっちゃってください！ 口直しに、にんじんハンバーグも頼んでおきますね。
+story/data/04/1001/storytimeline_041001006/22.wav|あ！　特製と言えば……！
+story/data/04/1001/storytimeline_041001006/7.wav|じゃあ、お母ちゃん役をお願いしてもいいですか？ 実践トレーニングってやつです！
+story/data/04/1001/storytimeline_041001006/45.wav|えっと……あ、そうだ！ せっかくですし、もう1つ行っちゃいましょうか。
+story/data/04/1001/storytimeline_041001006/8.wav|やったー！ 1日お母ちゃん、よろしくお願いします！
+story/data/04/1001/storytimeline_041001006/3.wav|だから、バシッとこっちの名所を紹介しようかなと。 『こんなに詳しくなったんだよ』って！
+story/data/04/1001/storytimeline_041001006/4.wav|それで、案内の練習をしてたんですけど～……。
+story/data/04/1001/storytimeline_041001006/32.wav|えへへ♪　私も食べちゃおうっと！ ……すみませーん！　にんじんハンバーグくださーい！
+story/data/04/1001/storytimeline_041001006/29.wav|みんなとわいわい話して、笑って、ワクワクして。 このジュースは……そんな気持ちのつまった味なんです。
+story/data/04/1001/storytimeline_041001006/5.wav|いまいち上手にできなくて、あはは～！ ……はぁ～。
+story/data/04/1001/storytimeline_041001006/13.wav|この辺りって、すごく静かなんですよ。 だから、のんびりできるっていうか。
+story/data/04/1001/storytimeline_041001006/23.wav|じゃじゃーん！　特製ミックスジュースでーす！
+story/data/04/1001/storytimeline_041001006/41.wav|あ、そっか……来たばかりの頃は、右も左もわからなかったのに。 私、こんなにこっちに馴染めてたんだ。
+story/data/04/1001/storytimeline_041001006/21.wav|えへへ♪　ここの野菜漬け、シャッキシャキで絶品なんです！ なんてったって、特製ですから！
+story/data/04/1001/storytimeline_041001006/35.wav|名所案内のことを、すっかり忘れてました……！！ ついついよく行くところばかり！
+story/data/04/1001/storytimeline_041001006/42.wav|トレーナーさん、ありがとうございます！ もっと大事なことに、気づかせてくれて。
+story/data/04/1001/storytimeline_041001006/15.wav|同じこの空の下にお母ちゃんもいるんだな～、 なんて考えたりするんです。
+story/data/04/1001/storytimeline_041001006/16.wav|そうすると、がんばるぞーって元気になれて……。
+story/data/04/1001/storytimeline_041001006/27.wav|まぁ、大体私が飲むことになるんですけど。 あはははは……。
+story/data/04/1001/storytimeline_041001007/25.wav|私の故郷の味、じっくり味わってほしいですから！
+story/data/04/1001/storytimeline_041001007/33.wav|大好きなんです、トレセン学園で過ごす毎日が！
+story/data/04/1001/storytimeline_041001007/6.wav|どれから行こうかな～……あ、じゃがバターだぁ！ さっそくあそこから行っちゃいましょうか！
+story/data/04/1001/storytimeline_041001007/4.wav|やったー！！　私、なんだか元気が出てきましたっ！ よーし！　けっぱるべ～！
+story/data/04/1001/storytimeline_041001007/28.wav|よくお母ちゃんとも『不思議だね』って言ってたんです。 でも……今その謎が解けちゃいました。
+story/data/04/1001/storytimeline_041001007/31.wav|えっと、そうですね。 やっぱり、たまにこうやって思い出しちゃいます。
+story/data/04/1001/storytimeline_041001007/0.wav|うへぇ～……あ、暑いぃ。
+story/data/04/1001/storytimeline_041001007/22.wav|ふふっ！　“ウマ娘なんとか”ってやっぱり新鮮だな～。 地元にこういうのなかったし……。
+story/data/04/1001/storytimeline_041001007/40.wav|あ、2人で手分けすれば！　……って、だめだめ！ そんなの私が食べたいってだけだし……！
+story/data/04/1001/storytimeline_041001007/12.wav|え？　トレーナーさん？
+story/data/04/1001/storytimeline_041001007/20.wav|えへへ！　トレーナーさん、ぴったりの屋台見つけましたよ！ 
+story/data/04/1001/storytimeline_041001007/32.wav|でも、もうさみしくて悲しい気持ちにはならないですよ。 だって――
+story/data/04/1001/storytimeline_041001007/37.wav|えへへ！　明日もトレーニングがんばりますね！ お腹もいっぱいだし、あとはぐっすり寝て――
+story/data/04/1001/storytimeline_041001007/5.wav|わぁ～！　人もお店もたっくさん……！ 私、こんなににぎやかなお祭り初めてですっ！
+story/data/04/1001/storytimeline_041001007/34.wav|行きつけのラーメン屋さんも、 お気に入りの場所も、大事なお友だちもできました！
+story/data/04/1001/storytimeline_041001007/45.wav|あ、あう……。 あた、まが……頭が、キーンって……しま、すぅ……。
+story/data/04/1001/storytimeline_041001007/13.wav|ふぃ～！　な、なんとか通り抜けられましたぁ～。 ありがとうございます、トレーナーさん。
+story/data/04/1001/storytimeline_041001007/42.wav|ではでは！　いただきまーす♪
+story/data/04/1001/storytimeline_041001007/1.wav|でもがんばらないと……レースで勝つため。 けど、やっぱり……暑い、ですぅ……。
+story/data/04/1001/storytimeline_041001007/21.wav|んぅ～！　ウマ娘カステラ、美味しかったです～。 パクパクって3秒で食べ終わっちゃいました！
+story/data/04/1001/storytimeline_041001007/11.wav|あわわ！　ごめんなさい！ ぶつかっちゃった……っと、わわっ！　こっちからも人が！
+story/data/04/1001/storytimeline_041001007/23.wav|トレーナーさんはどうですか？ その『北海道ミルクかき氷』のお味は！
+story/data/04/1001/storytimeline_041001007/19.wav|私もなにかお返しします！ なにかないかな～……あれ？　あそこの屋台――
+story/data/04/1001/storytimeline_041001007/26.wav|えへへ！ それにしても、お祭りのごはんって不思議ですよね。
+story/data/04/1001/storytimeline_041001007/2.wav|お祭りの……美味しいもの！？
+story/data/04/1001/storytimeline_041001007/15.wav|じゃーねー！ ……トレーナーさん、お待たせしました！
+story/data/04/1001/storytimeline_041001007/7.wav|ふわぁぁ～～、美味しかったぁ～。 じゃがバターの美味しさは全国共通ですね～！
+story/data/04/1001/storytimeline_041001007/41.wav|へ？　い、いいんですか？　本当に？ ……やった～～～っ！　任せてくださいっ！
+story/data/04/1001/storytimeline_041001007/27.wav|焼きそばもじゃがバターも、ありふれた食べ物なのに すーっごく美味しく感じるじゃないですか！
+story/data/04/1001/storytimeline_041001007/8.wav|それで次なんですけど！ あっちに『ウマ娘カステラ』っていうのが――……あ！
+story/data/04/1001/storytimeline_041001007/38.wav|って、もうこんな時間！？ 早く帰らないと門限になっちゃう！
+story/data/04/1001/storytimeline_041001007/14.wav|はい！　……おーい！　グラスちゃーんっ！
+story/data/04/1001/storytimeline_041001007/3.wav|あの！　じゃがバターもありますかね！？ お祭りの時の定番なんです！
+story/data/04/1001/storytimeline_041001007/39.wav|で、でもトレーナーさんのかき氷が、まだ……！ けど味わって食べてほしいし……。
+story/data/04/1001/storytimeline_041001007/10.wav|ありがとうございます！　いってきまーす！
+story/data/04/1001/storytimeline_041001007/44.wav|本当に、北海道で飲んだ……ミルクの味が――……はうっ！？
+story/data/04/1001/storytimeline_041001007/35.wav|だから……今食べたカステラも、 すーっごく美味しかったんだと思います。
+story/data/04/1001/storytimeline_041001007/24.wav|よかったです！　……あ、ゆっくり食べて大丈夫ですからね。 慌てて食べたら、頭キーンってなっちゃいますし……。
+story/data/04/1001/storytimeline_041001007/16.wav|と、あれ？　……くんくんっ、この甘い香り。 まさか、その袋に入ってるのって……！？
+story/data/04/1001/storytimeline_041001007/29.wav|お祭りっていう楽しい場所で、 大好きな人と一緒に食べるから……なのかもって！
+story/data/04/1001/storytimeline_041001007/36.wav|私……勇気を出して学園に来て、 トレーナーさんに見つけてもらえて……本当によかったです！
+story/data/04/1001/storytimeline_041001007/43.wav|んぅ～～！　シャクシャク、美味しい～～！
+story/data/04/1001/storytimeline_041001007/17.wav|わあっ！　ウマ娘カステラだ～～！
+story/data/04/1001/storytimeline_041001007/9.wav|あそこにいるの、グラスちゃんたちだ！ ちょっと話してきてもいいですか？
+story/data/04/1001/storytimeline_041001007/18.wav|トレーナーさん、買ってきてくれたんですね！ うわーん！　嬉しいです～～っ！
+story/data/04/1001/storytimeline_041001007/30.wav|ふふっ、お母ちゃん元気にしてるかなぁ～。
+story/data/04/1004/storytimeline_041004004/49.wav|はっ、はっ、はっ……！！ うぅ、やっぱりすごい……全然、差が縮まらないっ……！！
+story/data/04/1004/storytimeline_041004004/35.wav|やっぱり1番は……どんなレースでも、 マルゼンさんが楽しそうに走ってるからです！
+story/data/04/1004/storytimeline_041004004/13.wav|わわ、もちろんですっ！！ では、またあとで……！！
+story/data/04/1004/storytimeline_041004004/6.wav|私、日本一のウマ娘になったところを、お母ちゃんたちに 見てもらいたくって。それで北海道から出てきたんです！
+story/data/04/1004/storytimeline_041004004/0.wav|あ……あのっ、すみません！ こここんにちは、マルゼンスキーさんっ！！
+story/data/04/1004/storytimeline_041004004/52.wav|わぁ、っ……！！
+story/data/04/1004/storytimeline_041004004/30.wav|はいっ、もちろんです！！　ありがとうございます……！ 憧れのマルゼンさんと走れるなんて……がんばらなくっちゃ……！
+story/data/04/1004/storytimeline_041004004/9.wav|ありがとうございますっ……！　あ、あの、もしよければ…… 私と併走トレーニング、してもらえませんか！？
+story/data/04/1004/storytimeline_041004004/2.wav|はひっ！　あのあのっ、マルゼンさんの走り、なまらすごいですね！ 安定してて余裕があって、なのにすごく速くて……憧れちゃいます！
+story/data/04/1004/storytimeline_041004004/41.wav|……あっ、いけない！　今日私、日直なんだった……！ すみません、もう行きますね！　併走には遅れませんのでっ！！
+story/data/04/1004/storytimeline_041004004/3.wav|日本一のウマ娘になるには、 このくらい速くなくちゃいけないんだなぁって思いました……！
+story/data/04/1004/storytimeline_041004004/34.wav|マルゼンさんのどこに憧れたか、ですか？ すっごく強いウマ娘さんだっていうのももちろんですが……。
+story/data/04/1004/storytimeline_041004004/39.wav|強くて、速くて……それから、誰よりも楽しそうで。 そんなの、見てるほうだって楽しくなるし、ドキドキしちゃいます！
+story/data/04/1004/storytimeline_041004004/37.wav|トゥインクル・シリーズを走るウマ娘さんは、 みんなに夢を見せてくれるっていうじゃないですか。
+story/data/04/1004/storytimeline_041004004/10.wav|マルゼンさんと、ぜひ走ってみたいんですっ！！ どうかよろしくお願いしますっ！！
+story/data/04/1004/storytimeline_041004004/38.wav|私も、お母ちゃんに夢を見せたくてここに来ましたけど…… 夢を見せられるのって、マルゼンさんみたいな人だと思うんです。
+story/data/04/1004/storytimeline_041004004/5.wav|あ、はいっ！　そうなんです！！
+story/data/04/1011/storytimeline_041011002/35.wav|あ……う、うんっ！ 一緒にがんばっていこうね！
+story/data/04/1011/storytimeline_041011002/20.wav|っていうか、グラスちゃんすごいね！ 落ち着いてるにもほどがあるよ……！！
+story/data/04/1011/storytimeline_041011002/10.wav|グラスちゃんっ……！ うぅ、ありがとう～……！
+story/data/04/1011/storytimeline_041011002/4.wav|あわわわ、次、私のグループが出走だ……！ き、き、緊張してきた～……！
+story/data/04/1011/storytimeline_041011002/6.wav|石化っ！？ そ、それじゃ走れなくなっちゃうよ～！
+story/data/04/1011/storytimeline_041011002/32.wav|グラスちゃんっ、お疲れさま……！ えっと、その……。
+story/data/04/1011/storytimeline_041011004/40.wav|グラスちゃん、おめでとう……！ 同じレースで競える日、楽しみにしてるね！
+story/data/04/1020/storytimeline_041020002/35.wav|はぁああああああああっ！！
+story/data/04/1020/storytimeline_041020002/18.wav|セイちゃんもキングちゃんも、張り切ってるなぁ……。 よーし、私も負けてられないっ……！
+story/data/04/1020/storytimeline_041020002/34.wav|……まだ。まだ、勝負は終わっていませんっ！！
+story/data/04/1020/storytimeline_041020004/5.wav|き、キングちゃん見て見て！！　私の次のレースの出走表 なんだけど……他の子たちの当日の走法が載ってるの！
+story/data/04/1020/storytimeline_041020004/6.wav|これ、まさか最新技術を使った未来予知！？ やっぱり都会は進んでるべ～……！
+story/data/04/1020/storytimeline_041020004/43.wav|うんっ、バッチリ見てたよ！ 1着おめでとう、セイちゃんっ！
+story/data/04/1020/storytimeline_041020004/8.wav|そうなのっ！？　し、知らなかった……！！
+story/data/04/1020/storytimeline_041020004/44.wav|やっぱりセイちゃんはすごいね。 ……でも私、負けないから！！
+story/data/04/1052/storytimeline_041052002/35.wav|よーし、ウララちゃんを見習ってトレーニングがんばろっと！
+story/data/04/1052/storytimeline_041052002/33.wav|そうなんです！　私なんてレースで負けると、 ダメだな～って落ち込んじゃったりするんですけど……。
+story/data/04/1052/storytimeline_041052002/28.wav|はい、また走りましょう！
+story/data/04/1052/storytimeline_041052002/32.wav|……やっぱり、ウララちゃんはすごいなぁ。 どんな時でも、元気いっぱいで明るくて。
+story/data/04/1052/storytimeline_041052002/22.wav|寸前じゃなくて、倒れちゃってたけど……。
+story/data/04/1052/storytimeline_041052002/17.wav|ふぅ……ふぅ……ゴール！
+story/data/04/1052/storytimeline_041052002/16.wav|えっ、えっ？
+story/data/04/1052/storytimeline_041052002/34.wav|前向きなウララちゃんを見てると、 私もがんばらなきゃって元気が湧いてくるんです。
+story/data/04/1052/storytimeline_041052002/31.wav|あっ……行っちゃった……。
+story/data/04/1052/storytimeline_041052002/14.wav|え？　頼もう……？
+story/data/04/1052/storytimeline_041052002/25.wav|あ、ありがとうございます……？
+story/data/04/1052/storytimeline_041052002/12.wav|ああ、ウララちゃん！ ウララちゃんもトレーニング？
+story/data/04/1052/storytimeline_041052002/20.wav|ああっ！？　ウララちゃん！？
+story/data/04/1052/storytimeline_041052004/18.wav|がんばれー！　ウララちゃーん！
+story/data/04/1052/storytimeline_041052004/8.wav|がんばってね、ウララちゃん！ トレーニングで覚えたことを思い出せば、きっと大丈夫だから！
+story/data/04/1052/storytimeline_041052004/4.wav|ウララちゃん、応援に来たよ！
+story/data/04/1052/storytimeline_041052004/24.wav|おめでとうウララちゃん！ すっごくいいレースだったよ！
+story/data/04/1052/storytimeline_041052004/11.wav|それは思い出さなくていいやつだからっ！
+story/data/04/1061/storytimeline_041061001/39.wav|あっ、キングちゃんも来たんだね！ 今からコース使うんだけど、一緒に走る？
+story/data/04/1061/storytimeline_041061001/43.wav|え、もうスタートしちゃうの！？ 待ってよ～！
+story/data/04/1061/storytimeline_041061002/1.wav|今日も元気いっぱいだね、キングちゃん！
+story/data/04/1061/storytimeline_041061002/6.wav|あれ？　でも、出走登録は1つに絞らないと 失格扱いになるって聞いたような……？
+story/data/04/1061/storytimeline_041061002/4.wav|えぇぇ！？ き、今日あるレース全部に出走するのっ！？
+story/data/04/1001/storytimeline_041001004/51.wav|……トレーナーさん、ありがとうございます。 私に、大切なことを思い出させてくれて。
+story/data/04/1001/storytimeline_041001004/47.wav|……ううん。大丈夫、もう気にしてないよ。 だから、そんなに泣かないで？
+story/data/04/1001/storytimeline_041001004/25.wav|（……まだ少し、身体が冷たいや）
+story/data/04/1001/storytimeline_041001004/52.wav|トレーナーさんやみんなと一緒なら、私、これからも 走っていけそうです！！　そしていつか、日本一のウマ娘に――
+story/data/04/1001/storytimeline_041001004/8.wav|あれ、いつからだっけ……？　小さな頃からずっとここで 走りたいなぁって思ってたので、改めて聞かれると……えぇっと――
+story/data/04/1001/storytimeline_041001004/34.wav|（友だちだけど！　嫌われるのは怖いけど！　それでも私は、 私のために――誇れる私になるために、走るんだっ！！）
+story/data/04/1001/storytimeline_041001004/29.wav|う……ぁあああああああっ！！
+story/data/04/1001/storytimeline_041001004/28.wav|（でもっ……！）
+story/data/04/1001/storytimeline_041001004/0.wav|はっ……はぁ……あれっ、トレーナーさん！？ 待っててくださったんですか！？　もうこんな時間なのに……。
+story/data/04/1001/storytimeline_041001004/35.wav|ああああああああああっ！！
+story/data/04/1001/storytimeline_041001004/5.wav|それに、会場もすっごい歓声……！ ふふっ、耳がキーンってなりますね！
+story/data/04/1001/storytimeline_041001004/1.wav|えっ？　お出かけ、ですか？ でも、どこへ……？
+story/data/04/1001/storytimeline_041001004/4.wav|すごいっ、すごいすごい、すごいですっ！　今の見ましたか！？ スズカさんが！　スズカさんの大逃げが！　もうもうっ！！
+story/data/04/1001/storytimeline_041001004/48.wav|代わりに……次は正々堂々、レースしよう！　あなたは私に勝って、 デビューを目指して。私もあなたに負けないよう、全力で走るから！
+story/data/04/1001/storytimeline_041001004/15.wav|……『誇りだよ』って、言ってくれました。
+story/data/04/1001/storytimeline_041001004/9.wav|あ……そうだ、思い出した……！
+story/data/04/1001/storytimeline_041001004/50.wav|ふふっ……うん！　一緒にがんばろうね！ ライバルとして……友だちとして。
+story/data/04/1001/storytimeline_041001004/26.wav|（あのときのこと思い出すと、やっぱり怖い。 だって、みんなと一緒の日々は楽しかった！）
+story/data/04/1001/storytimeline_041001004/7.wav|えっ？
+story/data/04/1001/storytimeline_041001004/10.wav|たしか、4歳くらいのとき……お母ちゃんとドライブしてたら、 おばあちゃんが道で苦しそうにしてるとこに出会ったんです。
+story/data/04/1001/storytimeline_041001004/20.wav|トレーナーさん……お願いします。 もう1度、エルちゃんたちと併走させてください。
+story/data/04/1001/storytimeline_041001004/16.wav|はい。『あんたは私の、私たちの誇りだ』って。 『こんなに元気に、立派に育ってくれてうれしい』って。
+story/data/04/1001/storytimeline_041001004/18.wav|『1番誇れる私になりたい』って思って、 それで……！！
+story/data/04/1001/storytimeline_041001004/17.wav|そうだった……だから私、『もっと走って、 もっと立派なところを見せたい』って……。
+story/data/04/1001/storytimeline_041001004/53.wav|うあっ！？
+story/data/04/1001/storytimeline_041001004/12.wav|だから私、診療所まで走って行ったんです。 思いっきり、初めての全速力で。
+story/data/04/1001/storytimeline_041001004/11.wav|なにか病気の発作だったみたいで、すぐお医者さんを呼ばないと だったんですが、電話できそうな民家が近くになくって……。
+story/data/04/1001/storytimeline_041001004/44.wav|えっ、あの子……？　……あっ！
+story/data/04/1001/storytimeline_041001004/27.wav|（友だちに嫌われるのは、怖かった……！）
+story/data/04/1001/storytimeline_041001004/3.wav|わぁああああああっ……！
+story/data/04/1001/storytimeline_041001004/33.wav|（そうだ……勝つために、私は走る！　走る！　走るんだっ！ だって……そのためにここへ来たんだから！）
+story/data/04/1001/storytimeline_041001004/6.wav|すごいなぁ……。トゥインクル・シリーズはやっぱり、 なまらすごいです……！
+story/data/04/1001/storytimeline_041001004/56.wav|ちょっ、トレーナーさんまで！ 笑わないでくださいよ、もぉ～！！
+story/data/04/1001/storytimeline_041001004/13.wav|お医者さんが一生懸命治療してくれたので、 おばあちゃんは無事助かりました。
+story/data/04/1001/storytimeline_041001004/42.wav|エルちゃん……！　うんっ……うん、そうだねっ！！
+story/data/04/1001/storytimeline_041001004/14.wav|私は、まず1人で走って行ったことを叱られちゃったんですが…… お母ちゃん、その後私をぎゅーって抱きしめてくれて。
+story/data/04/1001/storytimeline_041001004/21.wav|お願いしますっ……！！
+story/data/04/1001/storytimeline_041001004/38.wav|ふぇ？　ぐら……えっと、なに……？
+story/data/04/1001/storytimeline_041001004/24.wav|はぁっ……はぁっ……！！
+story/data/04/1001/storytimeline_041001001/20.wav|それでは～！！
+story/data/04/1001/storytimeline_041001001/45.wav|あれっ？　あ、あのー……もしもーし……？ すみません、私、変なこと言いましたか！？
+story/data/04/1001/storytimeline_041001001/44.wav|それが、私の夢ですっ！！
+story/data/04/1001/storytimeline_041001001/38.wav|えへへ、ありがとうございますっ！ ちゃんと実力をお見せできたなら嬉しいです。
+story/data/04/1001/storytimeline_041001001/19.wav|えっと、それじゃあトレーナーさん！　改めて、 本当にありがとうございました！　私はこれで、失礼しますね。
+story/data/04/1001/storytimeline_041001001/9.wav|ふぅっ！　初めて遠出して走ってみたけど、 こういうのもいいなぁ～…………って！！
+story/data/04/1001/storytimeline_041001001/4.wav|それよりおばあちゃん、 痛めた腰のほうは大丈夫ですか……？
+story/data/04/1001/storytimeline_041001001/14.wav|ありがとうございますぅ～～～……！ おかげさまで門限に間に合いました！
+story/data/04/1001/storytimeline_041001001/32.wav|ここからっ……！
+story/data/04/1001/storytimeline_041001001/48.wav|はいっ、ぜひ……！！ よろしくお願いしますっ、トレーナーさん！！
+story/data/04/1001/storytimeline_041001001/46.wav|……へっ？
+story/data/04/1001/storytimeline_041001001/40.wav|はいっ！！
+story/data/04/1001/storytimeline_041001001/41.wav|選び抜かれた子たちだけが出られる ウマ娘レースの最高峰、『トゥインクル・シリーズ』……。
+story/data/04/1001/storytimeline_041001001/16.wav|でも私、まだ田舎から転入してきたばかりで 都会の道とかにも全然慣れてなくって。本当に助かりました～……！
+story/data/04/1001/storytimeline_041001001/34.wav|まだまだ！！　はぁあああああーーーーーっ！！
+story/data/04/1001/storytimeline_041001001/47.wav|わ……うそ、スカウトっ！？　い、いいんですか！？
+story/data/04/1001/storytimeline_041001001/3.wav|お野菜の詰まった箱ぐらい、どんとこいです！
+story/data/04/1001/storytimeline_041001001/15.wav|えへへ、明日は大事なレースがあるからって つい張り切って自主トレしてたら、夢中になっちゃって……。
+story/data/04/1001/storytimeline_041001001/37.wav|……あれっ？　あなたは昨日の！ 見ていてくださったんですね！！
+story/data/04/1001/storytimeline_041001001/43.wav|いつか、日本一のウマ娘になる！ 1番立派になった私の姿を、お母ちゃんたちに見てもらうんです！！
+story/data/04/1001/storytimeline_041001001/7.wav|いえいえっ！　それじゃ、私は学園に戻りますので！ 腰、お大事にしてくださいね～！
+story/data/04/1001/storytimeline_041001001/18.wav|わ、スズカさん！ ご心配おかけしてすみませんでした……！
+story/data/04/1001/storytimeline_041001001/36.wav|はぁっ、はぁっ……やった、1着……！！ これで――
+story/data/04/1001/storytimeline_041001001/11.wav|どどどどど、どうしよう！？ もうすぐ寮の門限なのに……！
+story/data/04/1001/storytimeline_041001001/42.wav|そこでたくさん走って、たくさん勝ちたい。 誰にも負けないぐらい、強くなりたい！　そして――
+story/data/04/1001/storytimeline_041001001/0.wav|おばあちゃーん！ 最後の1箱、運び終わりましたよー！！
+story/data/04/1001/storytimeline_041001001/39.wav|トレセン学園に来た以上、必ずデビューして、 夢を叶えたいですから……！
+story/data/04/1001/storytimeline_041001001/12.wav|えっ！？ あの、あなたは……？
+story/data/04/1001/storytimeline_041001001/2.wav|いえいえ！　私、地元の北海道にいた頃は お母ちゃんと一緒に農作業やってましたから！
+story/data/04/1001/storytimeline_041001001/10.wav|ここ、どこぉおおお～！？
+story/data/04/1001/storytimeline_041001001/13.wav|いいんですか！？ ありがとうございますっ！
+story/data/04/1001/storytimeline_041001002/44.wav|そ、そんな……。
+story/data/04/1001/storytimeline_041001002/23.wav|セイちゃんみたいに力を抜いて……！？ そ、そこまでは……できるかな……！？
+story/data/04/1001/storytimeline_041001002/32.wav|お母ちゃん、すっごく喜んでくれて！　『お隣さんまで走って 見せにいっちゃった！』って、お返事に書いてあったんですよね。
+story/data/04/1001/storytimeline_041001002/1.wav|にんじんソテーもにんじん焼きそばも にんじんグラタンも……最高でした～♪
+story/data/04/1001/storytimeline_041001002/36.wav|それは、でも……わ、私だって、勝ちたい、ですから……。
+story/data/04/1001/storytimeline_041001002/7.wav|エルちゃん、このあと模擬レースなのに 大丈夫ですか……！？
+story/data/04/1001/storytimeline_041001002/49.wav|……う、うん。
+story/data/04/1001/storytimeline_041001002/26.wav|こんなに美味しいメニューが無料で食べ放題なんて…… トレセン学園はほんとにすごいです！
+story/data/04/1001/storytimeline_041001002/5.wav|わわ、エルちゃん！？ どうしてそんなに苦しそうなんですっ！？
+story/data/04/1001/storytimeline_041001002/19.wav|最初の頃はほんと、みんなとうまく 仲良くなれるか不安だったから……えへへ。
+story/data/04/1001/storytimeline_041001002/33.wav|お隣さん家までは5kmくらいあるんですが、その距離を 走っちゃうなんて……お母ちゃんってば、はしゃぎすぎだべ～。
+story/data/04/1001/storytimeline_041001002/11.wav|違いますよっ！？ あわわ、エルちゃんしっかりしてください～！
+story/data/04/1001/storytimeline_041001002/38.wav|っ……！？
+story/data/04/1001/storytimeline_041001002/0.wav|――ごちそうさまでしたっ！ はぁ～、にんじんハンバーグ美味しかったぁ！
+story/data/04/1001/storytimeline_041001002/28.wav|はいっ！　エルちゃんもセイちゃんも、あとグラスちゃんとか キングちゃんとかも……みんな私と仲良くしてくれますから！
+story/data/04/1001/storytimeline_041001002/34.wav|えっ……ご、ごめん、今、なんて……？
+story/data/04/1001/storytimeline_041001002/29.wav|小さい頃は、こんなふうにお話ししたり、まして一緒に走ったり するようなお友だちに、ずっと1人で憧れるしかなかったので。
+story/data/04/1001/storytimeline_041001002/47.wav|……っ。
+story/data/04/1001/storytimeline_041001002/25.wav|トレーナーさん、お疲れさまです！　にんじんハンバーグは もう食べましたか？　すっごく美味しいんですよ～！
+story/data/04/1001/storytimeline_041001002/17.wav|そ、そうでし……そうだったね……！
+story/data/04/1001/storytimeline_041001002/18.wav|ごめんね、失礼がないようにしなきゃーって 緊張してた時の癖が、まだ抜けなくって。
+story/data/04/1001/storytimeline_041001002/41.wav|『間に合わない』……？　ど、どういうこと……？
+story/data/04/1001/storytimeline_041001002/31.wav|そういえば、クラスのお友だちと撮った写真を、 お母ちゃん宛の手紙に添えて送ったんですけど……。
+story/data/04/1001/storytimeline_041001002/30.wav|今、こうしてみんなと話したり、 競い合ったりできるのが夢みたいです！
+story/data/04/1001/storytimeline_041001002/27.wav|それに、お友だちと一緒にお話ししながら食べられるなんて…… えへへ。私、ここに来られてよかったなぁ～……。
+story/data/04/1001/storytimeline_041001003/25.wav|そうだったんですね……。 すみません、きっとびっくりさせてしまいましたよね。
+story/data/04/1001/storytimeline_041001003/28.wav|びっくり、しちゃいました。あんなふうに…… 身体の中が、さあって冷たくなっちゃうものなんですね。
+story/data/04/1001/storytimeline_041001003/50.wav|……なのに私、なにしてるんだろ。
+story/data/04/1001/storytimeline_041001003/49.wav|本当に……素敵な……。
+story/data/04/1001/storytimeline_041001003/33.wav|私はっ……。どうしたら、いいんでしょうか……！！
+story/data/04/1001/storytimeline_041001003/44.wav|育ててくれたお母ちゃんも…… それから、生んでくれたお母ちゃんも。
+story/data/04/1001/storytimeline_041001003/35.wav|……すっかり、夕方になっちゃいましたね。こっちの日暮れは 遅いんだなぁって、来たばかりのころは思ってたんですが――
+story/data/04/1001/storytimeline_041001003/31.wav|トレーナーさん、どうしましょう……？ 私、走れなくなっちゃったんでしょうか。
+story/data/04/1001/storytimeline_041001003/2.wav|あ……っ！
+story/data/04/1001/storytimeline_041001003/41.wav|……ふふ。今回も、おんなじだ。
+story/data/04/1001/storytimeline_041001003/37.wav|あっいえ、大丈夫ですよスズカさん！ 私になにかご用でしたか……？
+story/data/04/1001/storytimeline_041001003/40.wav|スズカさん……！　あ、ありがとうございます！ わざわざすみません……！
+story/data/04/1001/storytimeline_041001003/29.wav|……あれから私、変なんです。
+story/data/04/1001/storytimeline_041001003/27.wav|自分以外のウマ娘に囲まれるのも、友だちができるのも初めてで…… だから、友だちに怒鳴られるのも、初めてで。
+story/data/04/1001/storytimeline_041001003/16.wav|グラスちゃん……。
+story/data/04/1001/storytimeline_041001003/22.wav|……トレーナーさん、ごめんなさい。 私、全然走れなくなっちゃって。
+story/data/04/1001/storytimeline_041001003/13.wav|グラスちゃん……あ、あのっ、ごめんなさい、私……！
+story/data/04/1001/storytimeline_041001003/30.wav|前へ行こうって、勝とうってすると、 あの時の感覚がぶわって蘇って……身体に、力が入らなくなって。
+story/data/04/1001/storytimeline_041001003/19.wav|トレーナーさん……！　うぅ、私……私……！
+story/data/04/1001/storytimeline_041001003/45.wav|……生んでくれたお母ちゃんは、私が目を開けるより先に 亡くなりました。顔は、写真でしか見たことありません。
+story/data/04/1001/storytimeline_041001003/46.wav|でも、生みのお母ちゃんの親友で、私を育ててくれた もう1人のお母ちゃんが、いつも教えてくれたんです。
+story/data/04/1001/storytimeline_041001003/48.wav|……えへへ。すごいでしょう！　私にはお母ちゃんが2人もいて…… 2人とも、本当に素敵なお母ちゃんなんです。
+story/data/04/1001/storytimeline_041001003/26.wav|私も……びっくり、しました。
+story/data/04/1001/storytimeline_041001003/34.wav|ぐすっ……はぁ。すみません、トレーナーさん……。 だいぶ落ち着いてきました。
+story/data/04/1001/storytimeline_041001003/47.wav|生みのお母ちゃんは最期の最期まで私の幸せを願っていたよ、って。 その気持ちが私の中にはいっぱい詰まってるんだよ、って。
+story/data/04/1001/storytimeline_041001003/43.wav|『スペが、いつでも幸せでありますように』 お母ちゃんはずっと、ずーっと、そう言ってくれるんです。
+story/data/04/1001/storytimeline_041001003/42.wav|あっ……えっと、はい。お母ちゃんが送ってきてくれるお手紙、 最後に書いてある事が、いつも同じなんです。
+story/data/04/1001/storytimeline_041001003/32.wav|ダメに、なっちゃったんでしょうか……？
+story/data/04/1001/storytimeline_041001003/51.wav|……ごめんなさい、トレーナーさん。 私……少し、辺りを走ってきます。
+story/data/04/1001/storytimeline_041001003/24.wav|えっ……トレーナーさん、ご存知だったんですか……？
+story/data/04/1001/storytimeline_041001003/21.wav|うん……ありがとう、グラスちゃん。
+story/data/04/1001/storytimeline_041001003/11.wav|え、エルちゃん……！
+story/data/04/1001/storytimeline_041001003/23.wav|グラスちゃんの言う通り……迷って、いるんだと思います……。
+story/data/04/1001/storytimeline_041001003/8.wav|エルちゃん……うぅ、えっと……ご、ごめんね……。
+story/data/04/1001/storytimeline_041001003/5.wav|はぁ……はぁ……。 ……………………。
+character_system_text/1001/snd_voi_title_100100/0.wav|Cygames
+character_system_text/1001/snd_voi_title_100100/1.wav|ウマ娘、プリティーダービー！
+character_system_text/1001/snd_voi_title_100100/2.wav|今日のログインボーナスは こちらです！
+character_system_text/1001/snd_voi_title_100100/3.wav|明日はこちらが もらえるみたいです！
+character_system_text/1001/snd_voi_home_100100/0.wav|ライバルのみんなと一緒に… 私、必ず強くなりますっ。
+character_system_text/1001/snd_voi_home_100100/1.wav|私たちの夢は、日本一のウマ娘っ！ 一緒に叶えましょうね、 トレーナーさん！
+character_system_text/1001/snd_voi_home_100100/2.wav|今度また、ご近所食べ歩きツアーに 行きましょうねっ♪
+character_system_text/1001/snd_voi_home_100100/3.wav|あけましておめでとうございます！ 正月太りには…気を付けますね！
+character_system_text/1001/snd_voi_home_100100/4.wav|ハッピーバレンタインですっ！ いつものお礼に…チョコ、どうぞ！
+character_system_text/1001/snd_voi_home_100100/5.wav|チョコ、お母ちゃん直伝のレシピで 手作りしちゃいました！えへへ。 もらってくれますか…？
+character_system_text/1001/snd_voi_home_100100/6.wav|星を眺めたくなる夜ですね～！ 晴れるといいなぁ…。
+character_system_text/1001/snd_voi_home_100100/7.wav|なんだかお菓子の匂いでいっぱい だと思ったら…ハロウィンですか！ おいしい行事は大歓迎です～！
+character_system_text/1001/snd_voi_home_100100/8.wav|お母ちゃんサンタのおひげが 取れちゃったこと、 思い出すなぁ…ふふふっ。
+character_system_text/1001/snd_voi_home_100100/9.wav|メリークリスマス、ですっ。 牛乳たっぷりのあったかシチュー、 一緒に食べませんか？
+character_system_text/1001/snd_voi_home_100100/10.wav|今年もあっという間でしたね。 来年の私は…もっともっと、 強くなれるといいな！
+character_system_text/1001/snd_voi_home_100100/11.wav|お誕生日おめでとうございます！ カフェテリアのケーキ、 よければ食べに行きませんか？
+character_system_text/1001/snd_voi_home_100100/12.wav|お誕生日おめでとうございますっ♪ えへへ…こうしてお祝いできるの、 なんだか幸せです。
+character_system_text/1001/snd_voi_home_100100/13.wav|朝からお母ちゃんにもみんなにも おめでとうって言ってもらえて… うぅ、すごく幸せな誕生日です～！
+character_system_text/1001/snd_voi_home_100100/14.wav|お祝いありがとうございます！ 私、もっともっと成長しますから… 隣で見ていてくださいねっ。
+character_system_text/1001/snd_voi_home_100100/15.wav|トレーナーさんっ！ お知らせが届いてるみたいですよ！
+character_system_text/1001/snd_voi_home_100100/16.wav|プレゼントがありますね！ 中身はなにかな～、えへへ！
+character_system_text/1001/snd_voi_home_100100/17.wav|達成済みのミッションが あるみたいですね！ よーし、私もがんばらないと！
+character_system_text/1001/snd_voi_home_100100/18.wav|もうすぐイベントが始まる みたいです！楽しみですね～！
+character_system_text/1001/snd_voi_home_100100/19.wav|イベント開催中…！？ わあっ、参加してみませんか！？
+character_system_text/1001/snd_voi_home_100100/24.wav|これは、地元でお母ちゃんと 一緒に選んだ服なんです！都会に 合わせてオシャレしたんですよ！
+character_system_text/1001/snd_voi_home_100100/25.wav|スズカさんが私服を褒めてくれて… えへへ…。お揃いをプレゼント したら、着てくれますかね…？
+character_system_text/1001/snd_voi_home_100100/26.wav|トレーナーさんのオススメの場所 とかってありますか？よかったら 気分転換に遊びに行きましょう！
+character_system_text/1001/snd_voi_home_100100/20.wav|トレーニングの準備は バッチリです。
+character_system_text/1001/snd_voi_home_100100/21.wav|興味深いお話がいっぱいです…！
+character_system_text/1001/snd_voi_home_100100/22.wav|レースにエントリーするんですか？
+character_system_text/1001/snd_voi_home_100100/23.wav|ウマ娘名鑑のレベルが 上がったみたいですよ？
+character_system_text/1001/snd_voi_training_100100/0.wav|ふぅ…体が少し重いです～…。
+character_system_text/1001/snd_voi_training_100100/1.wav|トレーナーさん～…すみません、 少し休んでもいいでしょうか～…？
+character_system_text/1001/snd_voi_training_100100/2.wav|おぉぉっ…！ 今ならなんでもできる気がします！
+character_system_text/1001/snd_voi_training_100100/3.wav|走りたくて走りたくて うずうずしちゃいますっ！
+character_system_text/1001/snd_voi_training_100100/4.wav|なんだか調子がいい気がします！
+character_system_text/1001/snd_voi_training_100100/5.wav|トレーナーさんっ！ さぁ、次はどうしましょうか！？
+character_system_text/1001/snd_voi_training_100100/6.wav|よーし、 トレーニングがんばるぞ～！
+character_system_text/1001/snd_voi_training_100100/7.wav|メニューはどうしますか？
+character_system_text/1001/snd_voi_training_100100/8.wav|うーん… ちょっぴり力が出ません…。
+character_system_text/1001/snd_voi_training_100100/9.wav|はぁ…あっ、すみません。 ちょっと元気が出なくて…。
+character_system_text/1001/snd_voi_training_100100/10.wav|うぅ、体に力が入りません～…。
+character_system_text/1001/snd_voi_training_100100/11.wav|悪いことばっかり考えちゃいます… はあぁぁ～…。
+character_system_text/1001/snd_voi_training_100100/12.wav|あっ、今回もレースに出ますか…？ ちょっと続いちゃってますけど… いえ、でもがんばります！
+character_system_text/1001/snd_voi_training_100100/13.wav|あ、あの～…今回はレースじゃなく お休みさせてもらえませんか…？
+character_system_text/1001/snd_voi_training_100100/14.wav|早く早く、レースがしたいです！ 今なら思いっきり力が出せます！
+character_system_text/1001/snd_voi_training_100100/15.wav|調整はバッチリですねっ！ あとは、本番で勝つだけです！
+character_system_text/1001/snd_voi_training_100100/16.wav|日本一の夢に向かって、 全力疾走してきますねっ！
+character_system_text/1001/snd_voi_training_100100/17.wav|うんっ、いい感じです！ 目標達成目指してがんばりますね！
+character_system_text/1001/snd_voi_training_100100/18.wav|ふふっ、体が軽いです！ いつも以上の力が出せるかも…！
+character_system_text/1001/snd_voi_training_100100/19.wav|大事なレース、 ばっちりがんばれそうです！
+character_system_text/1001/snd_voi_training_100100/20.wav|いよいよレースですね。 1着目指してがんばります！
+character_system_text/1001/snd_voi_training_100100/21.wav|落ち着いて、いつも通りの 力が出せるように がんばってきますね！
+character_system_text/1001/snd_voi_training_100100/22.wav|き、緊張してきちゃった…。 深呼吸、深呼吸…！
+character_system_text/1001/snd_voi_training_100100/23.wav|大丈夫、大丈夫…！ と、とにかく思いきり 走ってきますっ！
+character_system_text/1001/snd_voi_training_100100/24.wav|気合いが足りないぃ～…！ 背中叩いてもらえませんか！？
+character_system_text/1001/snd_voi_training_100100/25.wav|不安だなんて言ってられませんね。 がんばらなくっちゃ…！
+character_system_text/1001/snd_voi_training_100100/26.wav|みなさん強そうですね…。 でも、やれるだけやってきます…！
+character_system_text/1001/snd_voi_training_100100/27.wav|もっと調整がんばればよかった～。 と、とにかく行ってきますね！
+character_system_text/1001/snd_voi_training_100100/28.wav|勝てるかなぁ…。 ううん、不安になってちゃダメ…！
+character_system_text/1001/snd_voi_training_100100/29.wav|始めますっ！
+character_system_text/1001/snd_voi_training_100100/30.wav|がんばります！
+character_system_text/1001/snd_voi_training_100100/31.wav|行きますっ！
+character_system_text/1001/snd_voi_training_100100/32.wav|集中、集中…！
+character_system_text/1001/snd_voi_training_100100/33.wav|あれ？
+character_system_text/1001/snd_voi_training_100100/34.wav|う～ん…。
+character_system_text/1001/snd_voi_training_100100/37.wav|楽しみです～！
+character_system_text/1001/snd_voi_training_100100/38.wav|海だぁ～！
+character_system_text/1001/snd_voi_training_100100/39.wav|トレーナーさんのおかげで成長できました！
+character_system_text/1001/snd_voi_training_100100/40.wav|トレーナーさん、ありがとうございました！
+character_system_text/1001/snd_voi_training_100100/41.wav|根性でがんばりましょう！
+character_system_text/1001/snd_voi_race_100100/0.wav|1着は逃しちゃいました…でも嬉しいですっ！
+character_system_text/1001/snd_voi_race_100100/1.wav|1着まであと少し…がんばらなきゃ！
+character_system_text/1001/snd_voi_race_100100/2.wav|次はもっといい走りがしたいですっ…！
+character_system_text/1001/snd_voi_race_100100/3.wav|うぅぅ～、やっちゃったぁ～…！
+character_system_text/1001/snd_voi_race_100100/5.wav|わっ、ありがとうございます！次もがんばりますっ！
+character_system_text/1001/snd_voi_race_100100/6.wav|いきますっ！
+character_system_text/1001/snd_voi_live_100100/0.wav|笑顔、笑顔…！わわ、もう出番！？
+character_system_text/1001/snd_voi_live_100100/1.wav|すぅーっ、はぁぁ～…い、行ってきます！
+character_system_text/1001/snd_voi_outgame_100100/0.wav|『日本一のウマ娘になる』って どういうことなのか… 私、ようやくわかりました！
+character_system_text/1001/snd_voi_outgame_100100/1.wav|トレーナーさんと一緒に、日本一になります！
+character_system_text/1001/snd_voi_outgame_100100/2.wav|私、頼れるウマ娘になれたかもっ！
+character_system_text/1001/snd_voi_outgame_100100/3.wav|まだまだみんなの力になれそうです！
+character_system_text/1001/snd_voi_outgame_100100/4.wav|わぁ…！力が溢れてきます！
+character_system_text/1001/snd_voi_outgame_100100/7.wav|学園の制服着るの、憧れてたんです！
+character_system_text/1001/snd_voi_outgame_100100/8.wav|えへへ、都会のウマ娘に見えますか？
+character_system_text/1001/snd_voi_outgame_100100/9.wav|えへへ、似合ってますか？
+character_system_text/1001/snd_voi_outgame_100100/10.wav|なまらめんこい服だなぁ～…。
+character_system_text/1001/snd_voi_outgame_100100/11.wav|日本一のウマ娘、スペシャルウィークです！えへへ。
+character_system_text/1001/snd_voi_outgame_100100/12.wav|どうでしょう？1番人気にだってなれるでしょうか？
+character_system_text/1001/snd_voi_outgame_100100/5.wav|レース楽しみですね！ 全力で受けて立ちます！
+character_system_text/1001/snd_voi_outgame_100100/6.wav|日本一になる夢があるんです！ 誰にも勝利は譲りません！
+character_system_text/1001/snd_voi_outgame_100100/17.wav|こんなかわいい水着、着たことなかったから…。 えへへ、照れちゃいますね♪
+character_system_text/1001/snd_voi_outgame_100100/18.wav|見ているだけで、お日様の 匂いがしてきそうですよね～♪
+character_system_text/1001/snd_voi_outgame_100100/19.wav|かっこいいですか？ 服に負けないようにビシッとしないと！
+character_system_text/1001/snd_voi_outgame_100100/20.wav|いろんな想いを受けて、この勝負服に袖を 通してると思うと、すごく誇らしいです。
+character_system_text/1001/snd_voi_outgame_100100/13.wav|なまらすごいべ～……！
+character_system_text/1001/snd_voi_outgame_100100/14.wav|日本一になってみせます！
+character_system_text/1001/snd_voi_outgame_100100/15.wav|お出かけ準備、完了です！
+character_system_text/1001/snd_voi_outgame_100100/16.wav|この服なら、 たくさん食べても苦しくなりません！
+character_system_text/1001/snd_voi_home_100101/0.wav|おはようございますっ！ 今日もよろしくお願いしますね、 トレーナーさん！
+character_system_text/1001/snd_voi_home_100101/1.wav|日本一のウマ娘を目指して！ 今日も1日、けっぱるべ～！
+character_system_text/1001/snd_voi_home_100101/2.wav|トレーナーさん、こんにちは～！ 午後もがんばっていきましょうね。
+character_system_text/1001/snd_voi_home_100101/3.wav|待ってました～！ お昼ご飯もいっぱい食べましたし、 思いっきり体を動かしましょう！
+character_system_text/1001/snd_voi_home_100101/4.wav|ふわあぁ～…はっ！？ ね、寝てません、寝てませんよっ！
+character_system_text/1001/snd_voi_home_100101/5.wav|今日も1日、お疲れ様です。 そろそろ寝る準備しようかなぁ。
+character_system_text/1001/snd_voi_home_100101/6.wav|最近あったかくなってきましたね！ 今度のお休みに、ちょっと遠くまで お散歩しに行こうかなぁ…。
+character_system_text/1001/snd_voi_home_100101/7.wav|ふえぇ、今日も暑いですねぇ…。 アイスの食べ過ぎに注意しないと！
+character_system_text/1001/snd_voi_home_100101/8.wav|あ、トレーナーさん！さっき 石焼き芋の屋台を見つけたんです！ 今度絶対食べに行きましょうね…！
+character_system_text/1001/snd_voi_home_100101/9.wav|トレーナーさん！お友だちに カイロをもらったんですけど… よければお1つ、いかがですか？
+character_system_text/1001/snd_voi_home_100101/10.wav|さっき、マルゼンさんと お話できちゃったんです！ やっぱり素敵な方ですね～！
+character_system_text/1001/snd_voi_home_100101/11.wav|お母ちゃんから野菜がいっぱい 届いたんですよ！ 今度おすそ分けしますね。
+character_system_text/1001/snd_voi_home_100101/12.wav|ふわぁ…昨日、ついつい夜中まで スズカさんとお喋りしちゃって…。 えへへ、楽しかったな～…。
+character_system_text/1001/snd_voi_home_100101/13.wav|おいしい～って思うと、ついつい たくさん食べちゃうんですよね～。 えへへ…。
+character_system_text/1001/snd_voi_home_100101/14.wav|トレセン学園って本当に広いです。 私、そのうち遭難しちゃいそう…！
+character_system_text/1001/snd_voi_home_100101/15.wav|さっき後輩の子に『ファンです！』 って言われちゃいました！ はわわ…こんなこともあるんだ！
+character_system_text/1001/snd_voi_home_100101/16.wav|この服、着てるとなんだか体が 軽く思えるんです！北海道まで 走って行けちゃいそう…！
+character_system_text/1001/snd_voi_home_100101/17.wav|この衣装が、いつか日本一の 証になるまで…！ 私、走っていきたいですっ！
+character_system_text/1001/snd_voi_home_100101/18.wav|お母ちゃんに勝負服の写真を 送ったら、すぐ電話が来ました！ ふふ…ずびー！って泣いてました。
+character_system_text/1001/snd_voi_home_100101/19.wav|今朝はエルちゃんたちと一緒に 朝トレしてきたんですよ！ えへへ、スッキリしましたっ。
+character_system_text/1001/snd_voi_home_100101/20.wav|うぅ、午前の授業の小テストで 赤点取っちゃいました～…！ またグラスちゃんに教わらなきゃ。
+character_system_text/1001/snd_voi_home_100101/21.wav|なんで夜って、無性に甘いものが 食べたくなるんでしょう…。うぅ、 にんじんが頭の中を踊ってます～！
+character_system_text/1001/snd_voi_home_100101/22.wav|ふぁっ…くしゅん！ あれぇ、なんで最近こんなに くしゃみが出るのかな…？
+character_system_text/1001/snd_voi_home_100101/23.wav|くんくん…あれ、雨の匂い…？ 暑さを和らげてくれる、 恵みの雨ですねっ！
+character_system_text/1001/snd_voi_home_100101/24.wav|秋は、なんだか寂しい気持ちに なっちゃいますね。 お母ちゃん元気かなぁ…？
+character_system_text/1001/snd_voi_home_100101/25.wav|うぅっ…内地の冬には負けない！ なんて思ってましたけど、 さ、寒いものは寒いですね～…！
+character_system_text/1001/snd_voi_training_100101/0.wav|今日はなにをしますか？ なんでもがんばっちゃいますよ～！
+character_system_text/1001/snd_voi_training_100101/1.wav|よぉーし、けっぱるべー！！
+character_system_text/1001/snd_voi_training_100101/2.wav|シューズの状態、よしっ！ ストレッチ、よしっ！ いつでも始められます！
+character_system_text/1001/snd_voi_training_100101/3.wav|トレーナーさん、 指示をお願いします！
+character_system_text/1001/snd_voi_training_100101/4.wav|レースに向けて、めいっぱい 鍛えていきたいです！！ よろしくお願いしますっ！
+character_system_text/1001/snd_voi_training_100101/5.wav|強くなった姿、早くお母ちゃんに 見せてあげたいです…！
+character_system_text/1001/snd_voi_training_100101/6.wav|みんな速い子たちばかりですけど… 私も負けていられませんっ！
+character_system_text/1001/snd_voi_training_100101/7.wav|私、まだまだ夢の途中ですから！ もっともっと鍛えるために、 ご指導よろしくお願いしますっ！
+character_system_text/1001/snd_voi_training_100101/8.wav|私、トレーナーさんの誇りになれましたか？
+character_system_text/1001/snd_voi_training_100101/9.wav|お母ちゃんに胸を張って報告できます！
+character_system_text/1001/snd_voi_outgame_100101/0.wav|おぉっ、力が湧いてきました…！
+character_system_text/1001/snd_voi_outgame_100101/1.wav|もっともっと強くなれそうです…！
+character_system_text/1001/snd_voi_outgame_100101/2.wav|はいっ、スペシャルウィークです！
+character_system_text/1001/snd_voi_gacha_100101/0.wav|誇れる自分になるために！ 私…勝ちますっ！！
+character_system_text/1001/snd_voi_teamst_st_100100_0000/0.wav|みんな、けっぱりましょーっ！
+character_system_text/1001/snd_voi_teamst_st_100100_1002/0.wav|スズカさん、がんばりましょう！
+character_system_text/1001/snd_voi_teamst_st_100100_1004/0.wav|マルゼンさんと一緒だなんて！
+character_system_text/1001/snd_voi_teamst_st_100200_1001/1.wav|はいっ！
+character_system_text/1001/snd_voi_teamst_100100/0.wav|絶対勝ちますっ！
+character_system_text/1001/snd_voi_teamst_100100/1.wav|えへへ、勝てましたね！
+character_system_text/1001/snd_voi_teamst_100100/2.wav|まさに五分五分でした！
+character_system_text/1001/snd_voi_teamst_100100/3.wav|負けましたぁ…。
+character_system_text/1001/snd_voi_teamst_100100/4.wav|私たちの勝利ですっ！
+character_system_text/1001/snd_voi_teamst_100100/5.wav|ハイスコア更新ですよっ！
+character_system_text/1001/snd_voi_race_100101/1.wav|夢に向かって駆け抜けます！
+character_system_text/1001/snd_voi_race_100101/2.wav|あっ…わあぁ～…よーし！見ててね、お母ちゃんっ！
+character_system_text/1001/snd_voi_race_100101/0.wav|わあっ！やったぁ～！イチバンですっ！
+character_system_text/1001/snd_voi_minigame_100100/0.wav|がんばってください！
+character_system_text/1001/snd_voi_minigame_100100/1.wav|やった！取れたっ！
+character_system_text/1001/snd_voi_minigame_100100/2.wav|そんなぁ～…。
+character_system_text/1001/snd_voi_minigame_100100/3.wav|こんなに取れちゃいました！
+character_system_text/1001/snd_voi_minigame_100100/4.wav|見事、ゲットです！
+character_system_text/1001/snd_voi_minigame_100100/5.wav|全然取れませんでしたぁ…。
+character_system_text/1001/snd_voi_minigame_100100/6.wav|ふんふ～ん♪
+character_system_text/1001/snd_voi_minigame_100100/7.wav|えへへ～…
+character_system_text/1001/snd_voi_minigame_100100/8.wav|ふふ
+character_system_text/1001/snd_voi_minigame_100100/9.wav|すごいです！
+character_system_text/1001/snd_voi_minigame_100100/10.wav|…あぁっ！うぅ…。
+character_system_text/1001/snd_voi_minigame_100100/11.wav|ふふん！
+character_system_text/1001/snd_voi_minigame_100100/12.wav|お願いしますっ！
+character_system_text/1001/snd_voi_minigame_100100/13.wav|やったぁーっ！
+character_system_text/1001/snd_voi_minigame_100100/14.wav|わぁっ！
+character_system_text/1001/snd_voi_minigame_100100/15.wav|はぁ…
+character_system_text/1001/snd_voi_minigame_100100/16.wav|うぅ～…！
+character_system_text/1001/snd_voi_event_090001/0.wav|トレセン学園の転入試験、 レベル高かったなぁ～…。 今でも合格が信じられないくらい…
+character_system_text/1001/snd_voi_event_090001/1.wav|ウマ娘さんたちに囲まれるのも、 同じ歳の子たちとの共同生活も… 初めてのことがいっぱいだべ～…！
+character_system_text/1001/snd_voi_event_090001/2.wav|寮の食堂のお気に入りメニュー、 もうできちゃった…えへへ♪
+character_system_text/1001/snd_voi_event_090001/3.wav|そうだ、お母ちゃんにお手紙…って まだ早すぎるよね。まずは学園に 慣れなさいって叱られそう…。
+character_system_text/1001/snd_voi_event_090001/4.wav|グラスちゃんもエルちゃんも、 模擬レースの成績すごい…。 2人とも、優秀なんだなぁ…。
+character_system_text/1001/snd_voi_event_090001/5.wav|…スズカさん、ひとり部屋のほうが 静かでよかったなーとか、 思ってたりしないかなぁ…？
+character_system_text/1001/snd_voi_event_090001/6.wav|…よしっ。ちゃんとご飯食べて、 ちゃんと寝て…それから、私も…！
+character_system_text/1001/snd_voi_event_090001/7.wav|テイオーさんって、ちっちゃくて 元気で、明るくって…でも、 とってもカッコいいんだなぁ。
+character_system_text/1001/snd_voi_event_090001/8.wav|…お母ちゃん。 私…もうすぐ、ちゃんと胸張って 手紙書けそうな気がするよ…！
+character_system_text/1001/snd_voi_event_090001/9.wav|そうだ、もうすぐ選抜レース…！ 私はどんなトレーナーさんに 出会えるのかな…？
+character_system_text/1001/snd_voi_event_090001/10.wav|次の休日、スズカさんと一緒に お出かけすることになっちゃった！ わわわ、どこさ行けばいいべ…！？
+character_system_text/1001/snd_voi_event_090001/11.wav|エルちゃんとグラスちゃんに、 放課後の特訓誘われちゃった…！ うん…よしっ、がんばるぞぉー！
+character_system_text/1001/snd_voi_event_090001/17.wav|イベントは終わっちゃったけど… 夢に向かって走り出すのは、 これからですっ！
+character_system_text/1001/snd_voi_roulette_100100/0.wav|いきますっ！
+character_system_text/1001/snd_voi_roulette_100100/1.wav|やったぁーっ！
+character_system_text/1001/snd_voi_roulette_100100/2.wav|よしっ！
+character_system_text/1001/snd_voi_roulette_100100/3.wav|ふふ
+character_system_text/1001/snd_voi_roulette_100100/4.wav|あはは～…
+character_system_text/1001/snd_voi_home_100102/0.wav|おはようございます！う～ん。 全身で浴びる朝の風って 気持ちいいですよね～！
+character_system_text/1001/snd_voi_home_100102/1.wav|朝に泳ぐのってすっごく 気持ちいいですね～♪北海道じゃ、 あんまりできないですし！
+character_system_text/1001/snd_voi_home_100102/2.wav|こんにちは、トレーナーさん！ 食後の水泳ってありですかね？ ちょっとお昼食べすぎちゃって…。
+character_system_text/1001/snd_voi_home_100102/3.wav|今日もあと半分！くるっと ターンで、もうひと泳ぎ… じゃなくて、もうひとがんばり～♪
+character_system_text/1001/snd_voi_home_100102/4.wav|お仕事に疲れたら、プールで ぷかーっと浮かびましょう！ リラックスできて、最高ですよ！
+character_system_text/1001/snd_voi_home_100102/5.wav|こんばんは！夜は冷えますねー。 暖かくして、風邪を引かないよう 気をつけてくださ…くしゅっ！？
+character_system_text/1001/snd_voi_home_100102/6.wav|春ははじまりの季節！ 一緒に水泳はじめませんか？ え…普通、夏？
+character_system_text/1001/snd_voi_home_100102/7.wav|来ました水着の季節！いつもとは ひと味違うスペシャルな私、 見せちゃいますよ～！
+character_system_text/1001/snd_voi_home_100102/8.wav|お腹、普通ですよね？ 焼き芋3つ食べただけだし、 きっと大丈夫…！大丈夫…。
+character_system_text/1001/snd_voi_home_100102/9.wav|冬といえば寒中水泳…は、 厳しいので、 寒中走り、けっぱります！
+character_system_text/1001/snd_voi_home_100102/10.wav|スズカさん、走っても泳いでも速い もんなぁ…。どっちもがんばって、 追いつけるようにならなきゃ！
+character_system_text/1001/snd_voi_home_100102/11.wav|エルちゃんにプロレス勝負を 仕掛けられるんです…。これは、 プロレスの衣装じゃないのに～！
+character_system_text/1001/snd_voi_home_100102/12.wav|今度マルゼンさんにダンスの特訓を つけてもらうんです！ 目指せお立ち台ナンバー1！
+character_system_text/1001/snd_voi_home_100102/13.wav|うぅ、気をつけないと…。 隙を見せると、セイちゃんが 背中つつーってするんですよ～…。
+character_system_text/1001/snd_voi_home_100102/14.wav|お母ちゃんに水着の写真を送ったら …仕送りのにんじんの本数が 減っちゃったんです…。
+character_system_text/1001/snd_voi_home_100102/15.wav|いつでもどこでも全力で！ 走って泳いで、 楽しんじゃいましょう♪
+character_system_text/1001/snd_voi_home_100102/16.wav|着るだけで、気持ちは 常夏バケーション！リゾート気分を 満喫できちゃうんです♪
+character_system_text/1001/snd_voi_home_100102/17.wav|起きてすぐ泳ぐと、すっごく目が 覚めるんです！ 今度試してみてください！
+character_system_text/1001/snd_voi_home_100102/18.wav|陽射し、まぶし～…！ 日焼け止め、塗らないと…。 ほっとくと焼けちゃうんですよね。
+character_system_text/1001/snd_voi_home_100102/19.wav|お腹が冷えないか、ですか？ ご安心を！お母ちゃんに もらった腹巻があるので！
+character_system_text/1001/snd_voi_home_100102/20.wav|泳ぎながらのお花見… トレーニングにもなりますし、 いいと思うんですよ！
+character_system_text/1001/snd_voi_home_100102/21.wav|プールに花火に夏祭り…！ 全部やりきって！ 後悔のない、夏にしましょう♪
+character_system_text/1001/snd_voi_home_100102/22.wav|お団子、焼き芋、かぼちゃプリン… ダメ、我慢しないと！ この服だと、お腹が…。
+character_system_text/1001/snd_voi_home_100102/23.wav|慣れてるつもりだったんですけど、 さすがにこの格好だと…くしゅん！ ちょっと寒いかも…。
+character_system_text/1001/snd_voi_training_100102/0.wav|ザッパーンといきますよー！
+character_system_text/1001/snd_voi_training_100102/1.wav|ひと皮むけた身軽さ、 お見せします♪
+character_system_text/1001/snd_voi_training_100102/2.wav|太陽みたいに熱く、がんばります！
+character_system_text/1001/snd_voi_training_100102/3.wav|レッツゴーゴー♪
+character_system_text/1001/snd_voi_training_100102/5.wav|体がすっごく軽い…。 なんだってできちゃいそうです♪
+character_system_text/1001/snd_voi_training_100102/6.wav|どれだけ熱くなっても、 プールに飛び込めば… 即、クールダウンです！
+character_system_text/1001/snd_voi_training_100102/7.wav|どんな試練の波でも 乗りこなせますっ、今の私なら！ オホーツクの荒波だって！！
+character_system_text/1001/snd_voi_training_100102/8.wav|これまでも、これからも… 熱く輝き続けましょうね♪
+character_system_text/1001/snd_voi_training_100102/9.wav|かけがえのない思い出になりました！
+character_system_text/1001/snd_voi_outgame_100102/0.wav|熱くなってきましたー！
+character_system_text/1001/snd_voi_outgame_100102/1.wav|この開放感…最高ですね♪
+character_system_text/1001/snd_voi_outgame_100102/2.wav|スペシャルウィークです！ 真夏の陽射しみたく、輝いてみせます♪
+character_system_text/1001/snd_voi_gacha_100102/0.wav|忘れられない、 夏にしちゃいましょう♪
+character_system_text/1001/snd_voi_race_100102/1.wav|忘れられない思い出を！
+character_system_text/1001/snd_voi_race_100102/2.wav|夏、満喫しちゃいま――ひゃあっ！？ あわわっー！？…わぁ～～♪
+character_system_text/1001/snd_voi_race_100102/0.wav|真夏日ばりの熱戦でしたね！
+character_system_text/1001/snd_voi_home_100103/0.wav|おはようございます！ みんなの夢を乗せて、 今日もけっぱりますよ～！
+character_system_text/1001/snd_voi_home_100103/1.wav|今日の私は、気合い日本一です！ 納豆ご飯に焼き魚、お味噌汁にだし 巻き玉子…他にも沢山食べたので！
+character_system_text/1001/snd_voi_home_100103/2.wav|まだまだ1日の折り返し地点！ ダービーで言えば1200m！ 午後もがんばっていきましょう！
+character_system_text/1001/snd_voi_home_100103/3.wav|うぅ～…日本一のウマ娘なら眠気に 負けちゃダメですよね…。午後の 授業も…ちゃんと…ふわぁ～。
+character_system_text/1001/snd_voi_home_100103/4.wav|おにぎり作ったんですけど、 夜食にいかがですか？鮭と昆布の 組み合わせは最強ですよ！
+character_system_text/1001/snd_voi_home_100103/5.wav|しっかり休むことも大事ですよね！ ぽっかぽかのホットミルクを 寝る前に飲むの、オススメですよ♪
+character_system_text/1001/snd_voi_home_100103/6.wav|雪がとけて、春のお花が いっぱい咲き始めましたね～。 私も負けずに成長しなくちゃ！
+character_system_text/1001/snd_voi_home_100103/7.wav|お店に並んでたスイカのなかに、 総大将って感じの大きいのが いたんです！食べたいなぁ…。
+character_system_text/1001/snd_voi_home_100103/8.wav|秋ですよ、食欲の秋っ！ 走る力も食べる力も上がったので、 いっぱい食べて動きますよ～！
+character_system_text/1001/snd_voi_home_100103/9.wav|冬の道は慣れてるので、 私が先頭を歩きますね！ どうぞ、掴まってください！
+character_system_text/1001/snd_voi_home_100103/10.wav|ちょっとずつですけど、私、 お母ちゃんたちに胸を張れる ウマ娘に近づけていますよね！
+character_system_text/1001/snd_voi_home_100103/11.wav|勝負服に刀が合いそうですねって、 グラスちゃんに言われたんです。 …かっこいいってことでしょうか！
+character_system_text/1001/snd_voi_home_100103/12.wav|ツルちゃんって体調にも負けず、 いつも明るくて一生懸命で…。 私も負けていられませんっ！
+character_system_text/1001/snd_voi_home_100103/13.wav|プロレス観戦、すごかったな～！ そのあと、エルちゃんと話で盛り 上がって門限過ぎるところでした。
+character_system_text/1001/snd_voi_home_100103/14.wav|デジタルさんのノートを偶然 見たんですけど、私の記事も スクラップされてて…嬉しいです！
+character_system_text/1001/snd_voi_home_100103/15.wav|やあやあ、我こそは 日本一のスペシャル総大将なり～♪
+character_system_text/1001/snd_voi_home_100103/16.wav|みなさんの想いが私の錦の御旗… 勝負服と一緒に、 これからも勝ち続けます！
+character_system_text/1001/snd_voi_home_100103/17.wav|う～、キングちゃんに言われるまで 寝癖に気づきませんでした！ この勝負服に中身が伴ってな～い！
+character_system_text/1001/snd_voi_home_100103/18.wav|日本一を目指すなら、文武両道。 走る力だけでなく学力も豊かであれ …授業って本当、ためになります！
+character_system_text/1001/snd_voi_home_100103/19.wav|最近レースの夢をよく見るんです。 私が優勝して、みんなが喜んで―― 絶対、正夢にしてみせますね！
+character_system_text/1001/snd_voi_home_100103/20.wav|春は牛乳が美味しい季節ですよ～！ 北海道のキャンペーンウマ娘として じゃんじゃん宣伝しちゃいます♪
+character_system_text/1001/snd_voi_home_100103/21.wav|ビーチバレーにダイビングに、 それからそれから…とにかく遊んで 夏を制覇しちゃいましょう！
+character_system_text/1001/snd_voi_home_100103/22.wav|堤防釣りって楽しいですね～！ セイちゃんと一緒に、秋のお魚 たくさん釣っちゃいました！
+character_system_text/1001/snd_voi_home_100103/23.wav|かまくら作りって憧れだったん ですよね～。うちの近くの雪、 さらさらで作りづらくて…。
+character_system_text/1001/snd_voi_training_100103/0.wav|さあ！夢に向かって 今日もけっぱりましょう！
+character_system_text/1001/snd_voi_training_100103/1.wav|レースで天下、 獲っちゃいましょう！ 夢はどどーんとでっかくです！
+character_system_text/1001/snd_voi_training_100103/2.wav|どんなトレーニングしましょうか？ 坂路ですか、筋トレですか？ 栄養をつける食事でもいいですよ！
+character_system_text/1001/snd_voi_training_100103/3.wav|どんなメニューもどんとこいです！ 日本一を目指すなら、 なんでもこなせなくちゃ！
+character_system_text/1001/snd_voi_training_100103/4.wav|トレーナーさんのおかげで、 私のなりたい日本一が わかってきた気がします！
+character_system_text/1001/snd_voi_training_100103/5.wav|1番の敵は、あきらめちゃう心… けど、トレーナーさんと一緒なら、 前だけ向いて走れます！
+character_system_text/1001/snd_voi_training_100103/6.wav|トレーナーさんの夢だって、 しっかり乗せて走ってみせます！
+character_system_text/1001/snd_voi_training_100103/7.wav|私のトレーナーさんは日本一ですっ！
+character_system_text/1001/snd_voi_training_100103/8.wav|スペシャルな夢、掴めました！
+character_system_text/1001/snd_voi_outgame_100103/0.wav|もっともっと成長します！
+character_system_text/1001/snd_voi_outgame_100103/1.wav|限界なんて超えて、日本一にっ！
+character_system_text/1001/snd_voi_outgame_100103/2.wav|スペシャルウィーク、 日本一を目指します！
+character_system_text/1001/snd_voi_gacha_100103/0.wav|みなさんの夢を乗せて―― 日本一の走りを届けます！
+character_system_text/1001/snd_voi_race_100103/1.wav|日本総大将、いざ出陣っ！
+character_system_text/1001/snd_voi_race_100103/2.wav|行きます…！ 日本総大将、いざ出陣っ！
+character_system_text/1001/snd_voi_race_100103/0.wav|私、今…日本一幸せですっ！
+character_system_text/1001/snd_voi_valentine_100100/0.wav|ハッピーバレンタイン！
+character_system_text/1001/snd_voi_event_090005/0.wav|あれ！？いままで私、 どうやって走ってたんだっけ！？
+character_system_text/1001/snd_voi_event_090005/7.wav|決めました。 私…本気で遊んでみます！
+character_system_text/1001/snd_voi_event_090005/11.wav|えっ！お母ちゃんもバブリー ランド行ったことあるの！？
+character_system_text/1001/snd_voi_event_090011/3.wav|練習が楽しいせいか、 毎日のご飯が美味しくて！ つい食べすぎちゃうんです…。
+character_system_text/1001/snd_voi_event_090021/1.wav|あんなに美味しい柿のなる神社… 素敵なところに決まってます！ よーし、私もひと肌脱ぎますよー！
+character_system_text/1001/snd_voi_event_090021/11.wav|あけましておめでとうございます！ 餅まき、好評だったみたいですね。 えへへ、私も早く食べたいですっ！
+character_system_text/1001/snd_voi_event_090021/14.wav|お雑煮も、おせちも、磯部焼きも なまら美味しかったべ～！ 今年もまたがんばれそうです！
+character_system_text/1001/snd_voi_aimteam_100100/0.wav|お疲れさまです
+character_system_text/1001/snd_voi_race_9100101/0.wav|日本一のウマ娘”として、 このレース、この勝負――勝ちます！ やああああ～～～！
