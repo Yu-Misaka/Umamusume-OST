@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     28100,        697]
+NotebookDataLength[     27910,        695]
 NotebookOptionsPosition[     26521,        666]
-NotebookOutlinePosition[     27127,        685]
-CellTagsIndexPosition[     27084,        682]
+NotebookOutlinePosition[     26937,        683]
+CellTagsIndexPosition[     26894,        680]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -668,9 +668,7 @@ WindowSize->{1190.25, 708.75},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
 FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (2023\:5e746\:67083\
 \:65e5)",
-StyleDefinitions->FrontEnd`FileName[{$RootDirectory, "C:", "Users", "yusuz", 
-   "AppData", "Roaming", "Mathematica", "SystemFiles", "FrontEnd", 
-   "StyleSheets"}, "BackgroundStyleDark.nb", CharacterEncoding -> "UTF-8"],
+StyleDefinitions->"Default.nb",
 ExpressionUUID->"65b68f91-9b63-4e82-b1d2-34c8b209029f"
 ]
 (* End of Notebook Content *)
@@ -684,7 +682,7 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 383, 10, 98, "Input",ExpressionUUID->"442cd21f-4b1a-4603-8135-84bc67547d2a"],
+Cell[558, 20, 383, 10, 43, "Input",ExpressionUUID->"442cd21f-4b1a-4603-8135-84bc67547d2a"],
 Cell[944, 32, 2316, 55, 175, "Input",ExpressionUUID->"6cef550f-b607-43c5-9811-43101e028336"],
 Cell[CellGroupData[{
 Cell[3285, 91, 230, 6, 67, "Section",ExpressionUUID->"008ba8e1-c195-4e36-b1b9-0fc5212af744"],
