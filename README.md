@@ -1,4 +1,4 @@
-# Umamusume-OST
+# Umamusume: Pretty Derby resources unpack 
 
 > [!Warning]
 > Large repository.
