@@ -1,0 +1,705 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     28100,        697]
+NotebookOptionsPosition[     26521,        666]
+NotebookOutlinePosition[     27127,        685]
+CellTagsIndexPosition[     27084,        682]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+  "SetDirectory", "[", 
+   "\"\<P:\\\\SandBox\\\\Unpack\\\\GameUnpack-Umamusume\\\\WorkingDir\>\"", 
+   "]"}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.907046446465189*^9, 3.907046468217561*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"442cd21f-4b1a-4603-8135-84bc67547d2a"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"labelChange", "[", 
+    RowBox[{"text_", ",", "character_"}], "]"}], ":=", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", "label", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"label", "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          RowBox[{"StringSplit", "[", 
+           RowBox[{
+            RowBox[{"text", "[", 
+             RowBox[{"[", "#", "]"}], "]"}], ",", "\"\<|\>\""}], "]"}], "[", 
+          RowBox[{"[", "2", "]"}], "]"}], "&"}], "/@", 
+        RowBox[{"Range", "[", 
+         RowBox[{"Length", "@", "text"}], "]"}]}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{
+      "(*", "\:5220\:53bb\:65e5\:6587\:5f15\:53f7\:62ec\:53f7", "*)"}], 
+      RowBox[{
+       RowBox[{
+        RowBox[{"StringRiffle", "[", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"ToString", "[", "character", "]"}], ",", "\"\<JP\>\"", 
+            ",", 
+            RowBox[{"StringReplace", "[", 
+             RowBox[{
+              RowBox[{"label", "[", 
+               RowBox[{"[", "#", "]"}], "]"}], ",", 
+              RowBox[{"{", 
+               RowBox[{
+                RowBox[{"\"\<\:300e\>\"", "->", "\"\<\>\""}], ",", 
+                RowBox[{"\"\<\:300f\>\"", "->", "\"\<\>\""}], ",", 
+                RowBox[{"\"\<\:ff08\>\"", "->", "\"\<\>\""}], ",", 
+                RowBox[{"\"\<\:ff09\>\"", "->", "\"\<\>\""}], ",", 
+                RowBox[{"\"\<[COMMA]\>\"", "->", "\"\<\>\""}]}], "}"}]}], 
+             "]"}]}], "}"}], ",", "\"\<|\>\""}], "]"}], "&"}], "/@", 
+       RowBox[{"Range", "[", 
+        RowBox[{"Length", "@", "label"}], "]"}]}]}]}], "]"}]}], 
+  ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.907117723146652*^9, 3.907117774620275*^9}, {
+   3.9071178614264812`*^9, 3.9071178931759467`*^9}, {3.907118007040981*^9, 
+   3.9071182087447176`*^9}, {3.907118245756022*^9, 3.907118314017333*^9}, {
+   3.907119051732298*^9, 3.9071190606673527`*^9}, {3.90711932439252*^9, 
+   3.907119335081711*^9}, {3.907119846708852*^9, 3.9071198598945684`*^9}, {
+   3.9071395881120996`*^9, 3.907139598952738*^9}, 3.9071401427197638`*^9},
+ CellLabel->"In[2]:=",ExpressionUUID->"6cef550f-b607-43c5-9811-43101e028336"],
+
+Cell[CellGroupData[{
+
+Cell["Music", "Section",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.907046528765868*^9, 
+   3.9070465301094694`*^9}},ExpressionUUID->"008ba8e1-c195-4e36-b1b9-\
+0fc5212af744"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"collectCutMusic", "[", "character_", "]"}], ":=", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "folder", ",", "musicFiles", ",", "lrcText", ",", "labelPath", ",", 
+       "labelPathChanged", ",", "musicName", ",", "text", ",", 
+       RowBox[{"allLrc", "=", 
+        RowBox[{"{", "}"}]}]}], "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"folder", "=", 
+       RowBox[{"Select", "[", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{"All", ",", 
+           RowBox[{"Directory", "[", "]"}], ",", "1"}], "]"}], ",", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"FileType", "[", "#", "]"}], "==", "Directory"}], ")"}],
+             "&&", 
+            RowBox[{"(", 
+             RowBox[{"StringContainsQ", "[", 
+              RowBox[{"#", ",", 
+               RowBox[{"___", "~~", 
+                RowBox[{"ToString", "[", "character", "]"}], "~~", "___"}]}], 
+              "]"}], ")"}]}], ")"}], "&"}]}], "]"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"lrcText", "=", 
+       RowBox[{"Select", "[", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{
+           RowBox[{"___", "~~", "\"\<output_song\>\"", "~~", "___"}], ",", 
+           "folder", ",", "Infinity"}], "]"}], ",", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"FileType", "[", "#", "]"}], "==", "File"}], "&"}]}], 
+        "]"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"musicFiles", "=", 
+       RowBox[{"Select", "[", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{
+           RowBox[{"___", "~~", "\"\<cutbylrc\>\"", "~~", "___"}], ",", 
+           "folder", ",", "Infinity"}], "]"}], ",", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"FileType", "[", "#", "]"}], "==", "File"}], "&"}]}], 
+        "]"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"musicName", "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{"StringSplit", "[", 
+               RowBox[{
+                RowBox[{"FileNameTake", "[", 
+                 RowBox[{"#", ",", 
+                  RowBox[{"-", "4"}]}], "]"}], ",", "\"\<\\\\\>\""}], "]"}], 
+              ")"}], "[", 
+             RowBox[{"[", "1", "]"}], "]"}], "<>", "\"\<_\>\"", "<>", 
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{"StringSplit", "[", 
+               RowBox[{
+                RowBox[{"FileNameTake", "[", 
+                 RowBox[{"#", ",", 
+                  RowBox[{"-", "4"}]}], "]"}], ",", "\"\<\\\\\>\""}], "]"}], 
+              ")"}], "[", 
+             RowBox[{"[", "4", "]"}], "]"}]}], ",", "#"}], "}"}], "&"}], "/@",
+         "musicFiles"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"CreateDirectory", "[", 
+       RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+        RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\<_Music\>\""}],
+        "]"}], ";", "\[IndentingNewLine]", 
+      RowBox[{"For", "[", 
+       RowBox[{
+        RowBox[{"stepper", "=", "1"}], ",", 
+        RowBox[{"stepper", "<=", 
+         RowBox[{"Length", "@", "lrcText"}]}], ",", 
+        RowBox[{"stepper", "++"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"text", "=", 
+          RowBox[{"Import", "[", 
+           RowBox[{
+            RowBox[{"lrcText", "[", 
+             RowBox[{"[", "stepper", "]"}], "]"}], ",", "\"\<Data\>\""}], 
+           "]"}]}], ";", "\[IndentingNewLine]", 
+         RowBox[{"labelPath", "=", 
+          RowBox[{
+           RowBox[{
+            RowBox[{
+             RowBox[{"StringSplit", "[", 
+              RowBox[{
+               RowBox[{"text", "[", 
+                RowBox[{"[", "#", "]"}], "]"}], ",", "\"\<|\>\""}], "]"}], 
+             "[", 
+             RowBox[{"[", "1", "]"}], "]"}], "&"}], "/@", 
+           RowBox[{"Range", "[", 
+            RowBox[{"Length", "@", "text"}], "]"}]}]}], ";", 
+         "\[IndentingNewLine]", 
+         RowBox[{"labelPathChanged", "=", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"StringRiffle", "[", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"StringSplit", "[", 
+                RowBox[{"#", ",", "\"\</\>\""}], "]"}], "[", 
+               RowBox[{"[", 
+                RowBox[{"{", 
+                 RowBox[{
+                  RowBox[{"-", "4"}], ",", 
+                  RowBox[{"-", "1"}]}], "}"}], "]"}], "]"}], ",", 
+              "\"\<_\>\""}], "]"}], "&"}], "/@", "labelPath"}]}], ";", 
+         "\[IndentingNewLine]", 
+         RowBox[{"AppendTo", "[", 
+          RowBox[{"allLrc", ",", 
+           RowBox[{"(", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"\"\<./dataset/\>\"", "<>", 
+               RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\</\>\"",
+                "<>", 
+               RowBox[{"labelPathChanged", "[", 
+                RowBox[{"[", "#", "]"}], "]"}], "<>", "\"\<|\>\"", "<>", 
+               RowBox[{
+                RowBox[{"labelChange", "[", 
+                 RowBox[{"text", ",", "character"}], "]"}], "[", 
+                RowBox[{"[", "#", "]"}], "]"}]}], "&"}], "/@", 
+             RowBox[{"Range", "[", 
+              RowBox[{"Length", "@", "text"}], "]"}]}], ")"}]}], "]"}], 
+         ";"}]}], "]"}], ";", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"CopyFile", "[", 
+         RowBox[{
+          RowBox[{"#", "[", 
+           RowBox[{"[", "2", "]"}], "]"}], ",", 
+          RowBox[{"\"\<.\\\\OutputAudio_\>\"", "<>", 
+           RowBox[{"ToString", "[", "character", "]"}], "<>", 
+           "\"\<_Music\\\\\>\"", "<>", 
+           RowBox[{"#", "[", 
+            RowBox[{"[", "1", "]"}], "]"}]}]}], "]"}], "&"}], "/@", 
+       "musicName"}], ";", "\[IndentingNewLine]", 
+      RowBox[{"Export", "[", 
+       RowBox[{
+        RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+         RowBox[{"ToString", "[", "character", "]"}], "<>", 
+         "\"\<_Music\\\\\>\"", "<>", 
+         RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\<.txt\>\""}], 
+        ",", 
+        RowBox[{"Flatten", "@", "allLrc"}]}], "]"}], ";"}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.90704685776888*^9, 3.907046869756912*^9}, {
+   3.9070471166197567`*^9, 3.9070471693117824`*^9}, 3.9070473562651167`*^9, {
+   3.907047397364237*^9, 3.9070474132677035`*^9}, {3.9070475567812405`*^9, 
+   3.9070476582507067`*^9}, {3.9070477602071257`*^9, 3.907047772056763*^9}, {
+   3.9070478251773148`*^9, 3.907047848836997*^9}, {3.9070479958298025`*^9, 
+   3.907048019162566*^9}, {3.9070480649372196`*^9, 3.907048081853796*^9}, {
+   3.9070481163901043`*^9, 3.9070481650056076`*^9}, {3.907048227140313*^9, 
+   3.9070482790491953`*^9}, {3.9070486850167823`*^9, 
+   3.9070486852920513`*^9}, {3.9070487248278522`*^9, 
+   3.9070488167398524`*^9}, {3.907049706151233*^9, 3.9070497166331463`*^9}, {
+   3.9070497704720955`*^9, 3.9070498434005866`*^9}, {3.9070498788310113`*^9, 
+   3.9070499296441464`*^9}, {3.907049964976152*^9, 3.907050019394252*^9}, {
+   3.9070500503904724`*^9, 3.907050062689446*^9}, 3.9070504110618916`*^9, {
+   3.9071151174092145`*^9, 3.9071151184122486`*^9}, {3.907115170910652*^9, 
+   3.907115257121323*^9}, {3.907115983911691*^9, 3.9071160233072186`*^9}, {
+   3.907116209939226*^9, 3.9071162105359135`*^9}, {3.9071165984689913`*^9, 
+   3.9071166172137704`*^9}, {3.9071186078925533`*^9, 3.907118697987731*^9}, {
+   3.9071187739184895`*^9, 3.9071187744804416`*^9}, {3.9071188329229584`*^9, 
+   3.907118854830451*^9}, {3.90711888764795*^9, 3.9071190145973444`*^9}, {
+   3.907119108152182*^9, 3.9071191416003137`*^9}, {3.907119171726132*^9, 
+   3.9071191773730493`*^9}, {3.907119215144374*^9, 3.907119222642275*^9}, {
+   3.9071193768518295`*^9, 3.9071195129139633`*^9}, {3.907119563395884*^9, 
+   3.9071196241835694`*^9}, {3.9071197033082824`*^9, 3.907119754519162*^9}, {
+   3.9071197915016727`*^9, 3.907119808362506*^9}, {3.9071198778085423`*^9, 
+   3.907120075534466*^9}, {3.9071201935951214`*^9, 3.907120237301573*^9}, {
+   3.907120298302349*^9, 3.9071203363570647`*^9}, {3.90712042044676*^9, 
+   3.907120454371498*^9}, {3.9071205758690166`*^9, 3.9071206800414195`*^9}, {
+   3.9071207319052534`*^9, 3.9071207348936176`*^9}},
+ CellLabel->"In[11]:=",ExpressionUUID->"f181c57c-ebee-457a-94af-e039010402db"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"collectCutMusic", "[", "Mcqueen", "]"}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.907050413848033*^9, 3.9070504175262556`*^9}, {
+   3.9071149648050995`*^9, 3.9071149996575184`*^9}, {3.90711528618826*^9, 
+   3.9071152874127846`*^9}, {3.907116042347582*^9, 3.9071160439155965`*^9}, {
+   3.9071161719889555`*^9, 3.907116174345076*^9}, {3.907116216559016*^9, 
+   3.9071162265587077`*^9}, {3.907120094411604*^9, 3.9071200960608263`*^9}, {
+   3.9071392551649833`*^9, 3.9071392667742586`*^9}, {3.9071393449600697`*^9, 
+   3.907139346292507*^9}, {3.9071402896688714`*^9, 3.9071403026920385`*^9}},
+ CellLabel->"In[15]:=",ExpressionUUID->"fdfef273-4573-4a29-b2a9-2a28c15f5856"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"collectMusic", "[", "character_", "]"}], ":=", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"folder", ",", "musicFiles", ",", "musicName"}], "}"}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"folder", "=", 
+       RowBox[{"Select", "[", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{"All", ",", 
+           RowBox[{"Directory", "[", "]"}], ",", "1"}], "]"}], ",", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"FileType", "[", "#", "]"}], "==", "Directory"}], ")"}],
+             "&&", 
+            RowBox[{"(", 
+             RowBox[{"StringContainsQ", "[", 
+              RowBox[{"#", ",", 
+               RowBox[{"___", "~~", 
+                RowBox[{"ToString", "[", "character", "]"}], "~~", "___"}]}], 
+              "]"}], ")"}]}], ")"}], "&"}]}], "]"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"musicFiles", "=", 
+       RowBox[{"Select", "[", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{
+           RowBox[{"___", "~~", "\"\<chara_\>\"", "~~", "___"}], ",", 
+           "folder", ",", "Infinity"}], "]"}], ",", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"FileType", "[", "#", "]"}], "==", "File"}], "&"}]}], 
+        "]"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"musicName", "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{"StringSplit", "[", 
+               RowBox[{
+                RowBox[{"FileNameTake", "[", 
+                 RowBox[{"#", ",", 
+                  RowBox[{"-", "3"}]}], "]"}], ",", "\"\<\\\\\>\""}], "]"}], 
+              ")"}], "[", 
+             RowBox[{"[", "1", "]"}], "]"}], "<>", "\"\<_\>\"", "<>", 
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{"StringSplit", "[", 
+               RowBox[{
+                RowBox[{"FileNameTake", "[", 
+                 RowBox[{"#", ",", 
+                  RowBox[{"-", "3"}]}], "]"}], ",", "\"\<\\\\\>\""}], "]"}], 
+              ")"}], "[", 
+             RowBox[{"[", "2", "]"}], "]"}], "<>", "\"\<.wav\>\""}], ",", 
+           "#"}], "}"}], "&"}], "/@", "musicFiles"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"CreateDirectory", "[", 
+       RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+        RowBox[{"ToString", "[", "character", "]"}], "<>", 
+        "\"\<_MusicT\>\""}], "]"}], ";", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"CopyFile", "[", 
+         RowBox[{
+          RowBox[{"#", "[", 
+           RowBox[{"[", "2", "]"}], "]"}], ",", 
+          RowBox[{"\"\<.\\\\OutputAudio_\>\"", "<>", 
+           RowBox[{"ToString", "[", "character", "]"}], "<>", 
+           "\"\<_MusicT\\\\\>\"", "<>", 
+           RowBox[{"#", "[", 
+            RowBox[{"[", "1", "]"}], "]"}]}]}], "]"}], "&"}], "/@", 
+       "musicName"}], ";"}]}], "\[IndentingNewLine]", "]"}]}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9071162672360196`*^9, 3.9071162870203075`*^9}, {
+   3.9071163364763517`*^9, 3.9071164246898594`*^9}, {3.9071164563157425`*^9, 
+   3.9071164852125216`*^9}, {3.9071165175749326`*^9, 
+   3.9071165430487304`*^9}, {3.9071165757467136`*^9, 3.907116593951457*^9}, {
+   3.907116755672942*^9, 3.9071167845165358`*^9}, {3.907122138720277*^9, 
+   3.907122139120113*^9}},
+ CellLabel->"In[22]:=",ExpressionUUID->"ded9a3bf-7a60-453e-83cd-1c7f8f6cc517"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"collectMusic", "[", "Teio", "]"}], ";"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9071164269540854`*^9, 3.907116432005956*^9}, 
+   3.9071168106047935`*^9},
+ CellLabel->"In[23]:=",ExpressionUUID->"00a349fd-d8db-4ac1-9ab7-c80ceb1b5553"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Dialogue", "Section",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.907115884411929*^9, 
+   3.907115908301528*^9}},ExpressionUUID->"65775236-3237-4e6d-bca2-\
+8dd8936ace6d"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"collectDialogue", "[", "character_", "]"}], ":=", 
+  RowBox[{"Module", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"folder", ",", "text", ",", "path", ",", "replaceName"}], "}"}], 
+    ",", 
+    RowBox[{
+     RowBox[{"folder", "=", 
+      RowBox[{
+       RowBox[{"Select", "[", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{"All", ",", 
+           RowBox[{"Directory", "[", "]"}], ",", "1"}], "]"}], ",", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"FileType", "[", "#", "]"}], "==", "Directory"}], ")"}],
+             "&&", 
+            RowBox[{"(", 
+             RowBox[{"StringContainsQ", "[", 
+              RowBox[{"#", ",", 
+               RowBox[{"___", "~~", 
+                RowBox[{"ToString", "[", "character", "]"}], "~~", "___"}]}], 
+              "]"}], ")"}]}], ")"}], "&"}]}], "]"}], "[", 
+       RowBox[{"[", "1", "]"}], "]"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"text", "=", 
+      RowBox[{"Import", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"Select", "[", 
+          RowBox[{
+           RowBox[{"FileNames", "[", 
+            RowBox[{
+             RowBox[{"___", "~~", "\"\<.txt\>\"", "~~", "___"}], ",", 
+             "folder", ",", "Infinity"}], "]"}], ",", 
+           RowBox[{
+            RowBox[{
+             RowBox[{"FileType", "[", "#", "]"}], "==", "File"}], "&"}]}], 
+          "]"}], "[", 
+         RowBox[{"[", "1", "]"}], "]"}], ",", "\"\<Data\>\""}], "]"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"path", "=", 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{
+          RowBox[{
+           RowBox[{"StringSplit", "[", 
+            RowBox[{
+             RowBox[{"text", "[", 
+              RowBox[{"[", "#", "]"}], "]"}], ",", "\"\<|\>\""}], "]"}], "[", 
+           RowBox[{"[", "1", "]"}], "]"}], "&"}], "/@", 
+         RowBox[{"Range", "[", 
+          RowBox[{"Length", "@", "text"}], "]"}]}], ")"}], "//", 
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{"StringReplace", "[", 
+          RowBox[{"#", ",", 
+           RowBox[{"\"\</\>\"", "->", "\"\<\\\\\>\""}]}], "]"}], "&"}], 
+        ")"}]}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"replaceName", "=", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"StringReplace", "[", 
+         RowBox[{"#", ",", 
+          RowBox[{"\"\<\\\\\>\"", "->", "\"\<_\>\""}]}], "]"}], "&"}], "/@", 
+       "path"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"CreateDirectory", "[", 
+      RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+       RowBox[{"ToString", "[", "character", "]"}]}], "]"}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"CopyFile", "[", 
+        RowBox[{
+         RowBox[{"folder", "<>", "\"\<\\\\\>\"", "<>", 
+          RowBox[{"path", "[", 
+           RowBox[{"[", "#", "]"}], "]"}]}], ",", 
+         RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+          RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\<\\\\\>\"", "<>", 
+          RowBox[{"replaceName", "[", 
+           RowBox[{"[", "#", "]"}], "]"}]}]}], "]"}], "&"}], "/@", 
+      RowBox[{"Range", "[", 
+       RowBox[{"Length", "@", "path"}], "]"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"\"\<./dataset/\>\"", "<>", 
+          RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\</\>\"", "<>", 
+          RowBox[{"replaceName", "[", 
+           RowBox[{"[", "#", "]"}], "]"}], "<>", "\"\<|\>\"", "<>", 
+          RowBox[{
+           RowBox[{"labelChange", "[", 
+            RowBox[{"text", ",", "character"}], "]"}], "[", 
+           RowBox[{"[", "#", "]"}], "]"}]}], "&"}], "/@", 
+        RowBox[{"Range", "[", 
+         RowBox[{"Length", "@", "text"}], "]"}]}], ")"}], "//", 
+      RowBox[{
+       RowBox[{"Export", "[", 
+        RowBox[{
+         RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+          RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\<\\\\\>\"", "<>", 
+          RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\<.txt\>\""}],
+          ",", "#"}], "]"}], "&"}]}], ";"}]}], "\[IndentingNewLine]", 
+   "]"}]}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9071209498092737`*^9, 3.9071210222544155`*^9}, {
+   3.907121158743511*^9, 3.9071211713211884`*^9}, 3.907121218192809*^9, {
+   3.907121358877993*^9, 3.907121476843747*^9}, {3.9071215368458996`*^9, 
+   3.9071216505211596`*^9}, {3.9071217301131988`*^9, 3.907121730454155*^9}, {
+   3.9071217779192915`*^9, 3.9071217785355234`*^9}, {3.907121828002203*^9, 
+   3.9071218310742197`*^9}, {3.907121878837715*^9, 3.9071219017377815`*^9}, {
+   3.9071219678703165`*^9, 3.9071220413783407`*^9}, {3.9071221645109158`*^9, 
+   3.907122164977871*^9}, {3.907122196138695*^9, 3.9071222613699107`*^9}, {
+   3.9071222924128046`*^9, 3.9071223185646353`*^9}, {3.9071223799306574`*^9, 
+   3.9071223889960747`*^9}},
+ CellLabel->"In[69]:=",ExpressionUUID->"42d21206-c81b-4f51-aa5b-b657a19aa310"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"collectDialogueText", "[", "character_", "]"}], ":=", 
+  RowBox[{"Module", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"folder", ",", "text", ",", "path", ",", "replaceName"}], "}"}], 
+    ",", 
+    RowBox[{
+     RowBox[{"folder", "=", 
+      RowBox[{
+       RowBox[{"Select", "[", 
+        RowBox[{
+         RowBox[{"FileNames", "[", 
+          RowBox[{"All", ",", 
+           RowBox[{"Directory", "[", "]"}], ",", "1"}], "]"}], ",", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"FileType", "[", "#", "]"}], "==", "Directory"}], ")"}],
+             "&&", 
+            RowBox[{"(", 
+             RowBox[{"StringContainsQ", "[", 
+              RowBox[{"#", ",", 
+               RowBox[{"___", "~~", 
+                RowBox[{"ToString", "[", "character", "]"}], "~~", "___"}]}], 
+              "]"}], ")"}]}], ")"}], "&"}]}], "]"}], "[", 
+       RowBox[{"[", "1", "]"}], "]"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"text", "=", 
+      RowBox[{"Import", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"Select", "[", 
+          RowBox[{
+           RowBox[{"FileNames", "[", 
+            RowBox[{
+             RowBox[{"___", "~~", "\"\<.txt\>\"", "~~", "___"}], ",", 
+             "folder", ",", "Infinity"}], "]"}], ",", 
+           RowBox[{
+            RowBox[{
+             RowBox[{"FileType", "[", "#", "]"}], "==", "File"}], "&"}]}], 
+          "]"}], "[", 
+         RowBox[{"[", "1", "]"}], "]"}], ",", "\"\<Data\>\""}], "]"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"path", "=", 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{
+          RowBox[{
+           RowBox[{"StringSplit", "[", 
+            RowBox[{
+             RowBox[{"text", "[", 
+              RowBox[{"[", "#", "]"}], "]"}], ",", "\"\<|\>\""}], "]"}], "[", 
+           RowBox[{"[", "1", "]"}], "]"}], "&"}], "/@", 
+         RowBox[{"Range", "[", 
+          RowBox[{"Length", "@", "text"}], "]"}]}], ")"}], "//", 
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{"StringReplace", "[", 
+          RowBox[{"#", ",", 
+           RowBox[{"\"\</\>\"", "->", "\"\<\\\\\>\""}]}], "]"}], "&"}], 
+        ")"}]}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"replaceName", "=", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"StringReplace", "[", 
+         RowBox[{"#", ",", 
+          RowBox[{"\"\<\\\\\>\"", "->", "\"\<_\>\""}]}], "]"}], "&"}], "/@", 
+       "path"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"CreateDirectory", "[", 
+      RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+       RowBox[{"ToString", "[", "character", "]"}]}], "]"}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"\"\<./Data/\>\"", "<>", 
+          RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\</\>\"", "<>", 
+          RowBox[{"replaceName", "[", 
+           RowBox[{"[", "#", "]"}], "]"}], "<>", "\"\<|\>\"", "<>", 
+          RowBox[{
+           RowBox[{"labelChange", "[", 
+            RowBox[{"text", ",", "character"}], "]"}], "[", 
+           RowBox[{"[", "#", "]"}], "]"}]}], "&"}], "/@", 
+        RowBox[{"Range", "[", 
+         RowBox[{"Length", "@", "text"}], "]"}]}], ")"}], "//", 
+      RowBox[{
+       RowBox[{"Export", "[", 
+        RowBox[{
+         RowBox[{"\"\<OutputAudio_\>\"", "<>", 
+          RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\<\\\\\>\"", "<>", 
+          RowBox[{"ToString", "[", "character", "]"}], "<>", "\"\<.txt\>\""}],
+          ",", "#"}], "]"}], "&"}]}], ";"}]}], "\[IndentingNewLine]", 
+   "]"}]}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.909890007394707*^9, 3.9098900165726137`*^9}, {
+   3.909890085828453*^9, 3.9098900883148675`*^9}},
+ CellLabel->"In[3]:=",ExpressionUUID->"36238069-9c79-4df4-908e-3ddb380aa813"],
+
+Cell[BoxData[
+ RowBox[{"collectDialogueText", "[", "Mcqueen", "]"}]], "Input",
+ GeneratedCell->False,
+ CellAutoOverwrite->False,
+ CellChangeTimes->{
+  3.8846668061918993`*^9, {3.9071223303712444`*^9, 3.907122334594677*^9}, {
+   3.909890121758461*^9, 3.909890125854694*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"3270d1d5-18f8-4a60-b71b-31903e09e536"]
+}, Open  ]]
+},
+WindowSize->{1190.25, 708.75},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (2023\:5e746\:67083\
+\:65e5)",
+StyleDefinitions->FrontEnd`FileName[{$RootDirectory, "C:", "Users", "yusuz", 
+   "AppData", "Roaming", "Mathematica", "SystemFiles", "FrontEnd", 
+   "StyleSheets"}, "BackgroundStyleDark.nb", CharacterEncoding -> "UTF-8"],
+ExpressionUUID->"65b68f91-9b63-4e82-b1d2-34c8b209029f"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 383, 10, 98, "Input",ExpressionUUID->"442cd21f-4b1a-4603-8135-84bc67547d2a"],
+Cell[944, 32, 2316, 55, 175, "Input",ExpressionUUID->"6cef550f-b607-43c5-9811-43101e028336"],
+Cell[CellGroupData[{
+Cell[3285, 91, 230, 6, 67, "Section",ExpressionUUID->"008ba8e1-c195-4e36-b1b9-0fc5212af744"],
+Cell[3518, 99, 8564, 194, 523, "Input",ExpressionUUID->"f181c57c-ebee-457a-94af-e039010402db"],
+Cell[12085, 295, 777, 13, 28, "Input",ExpressionUUID->"fdfef273-4573-4a29-b2a9-2a28c15f5856"],
+Cell[12865, 310, 3641, 92, 241, "Input",ExpressionUUID->"ded9a3bf-7a60-453e-83cd-1c7f8f6cc517"],
+Cell[16509, 404, 338, 8, 28, "Input",ExpressionUUID->"00a349fd-d8db-4ac1-9ab7-c80ceb1b5553"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[16884, 417, 231, 6, 67, "Section",ExpressionUUID->"65775236-3237-4e6d-bca2-8dd8936ace6d"],
+Cell[17118, 425, 5093, 124, 366, "Input",ExpressionUUID->"42d21206-c81b-4f51-aa5b-b657a19aa310"],
+Cell[22214, 551, 3937, 103, 330, "Input",ExpressionUUID->"36238069-9c79-4df4-908e-3ddb380aa813"],
+Cell[26154, 656, 351, 7, 28, "Input",ExpressionUUID->"3270d1d5-18f8-4a60-b71b-31903e09e536"]
+}, Open  ]]
+}
+]
+*)
+
