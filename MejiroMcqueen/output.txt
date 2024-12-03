@@ -1,0 +1,1325 @@
+story/data/02/0001/storytimeline_020001011/2.wav|言いましたでしょ、オグリさんの走る姿を…… 勇姿を目の前で見たいと！
+story/data/02/0001/storytimeline_020001011/12.wav|そうですわ、だってトレーナーさんもオグリさんも こんなに素晴らしいレースをしたのですから！
+story/data/02/0001/storytimeline_020001011/11.wav|あっ、お疲れ様です、トレーナーさん。
+story/data/02/0001/storytimeline_020001011/24.wav|はいっ！
+story/data/02/0001/storytimeline_020001011/0.wav|ほら、サブトレーナーさん！ もっと急いでください！
+story/data/02/0001/storytimeline_020001011/9.wav|これがオグリさんの…… “エース”の走りですのね……。
+story/data/02/0001/storytimeline_020001011/19.wav|そうですわね。サブトレーナーさんは ちょっと頼りないですから、逆にこの私が支えてさしあげますわ。
+story/data/02/0001/storytimeline_020001011/8.wav|すごい……すごいですわ！ 本当に勝ってしまうなんて！
+story/data/02/0001/storytimeline_020001011/20.wav|私が春の『天皇賞』を勝てば、 少しはサブトレーナーさんも自信がつくでしょうし。
+story/data/02/0001/storytimeline_020001011/1.wav|オグリさんの最後のレース、ゴールの瞬間を見逃しでもしたら 一生後悔することになりますわ！
+story/data/02/0001/storytimeline_020001011/4.wav|あーもう、ゴールしてしまいます！ ほら、私の手に掴まって！
+story/data/02/0001/storytimeline_020001011/7.wav|うわぁ……っ！
+story/data/02/0001/storytimeline_020001011/21.wav|どうぞご期待くださいませ。
+story/data/02/0001/storytimeline_020001031/11.wav|ですから、どうぞごゆっくり！
+story/data/02/0001/storytimeline_020001031/7.wav|それでは、私はチームメンバーの勧誘にでも 行ってきますわね。
+story/data/02/0001/storytimeline_020001031/5.wav|トレーナーさんと話したいことがあるらしいので、 こうして場を設けただけですわ。
+story/data/02/0001/storytimeline_020001031/10.wav|別に怒っていませんっ。ライアンと貴方がどんな内緒話を しようが、私には関係ありませんし。
+story/data/02/0001/storytimeline_020001031/1.wav|ここからはもう少し速いペースでっ！
+story/data/02/0001/storytimeline_020001031/9.wav|邪魔者はとっとと退散させていただきます。 ええ、どうせ私は邪魔者ですからっ。
+story/data/02/0001/storytimeline_020001031/8.wav|なんでもライアンは、トレーナーさんと2人っきりで 内緒のお話をしたいとのことですので。
+story/data/02/0001/storytimeline_020001031/4.wav|違いますわ。彼女はメジロライアン。 私と同じメジロ家のウマ娘です。
+story/data/02/0001/storytimeline_020001031/2.wav|春の『天皇賞』、私は絶対に勝たないと いけないのですから！
+story/data/02/0001/storytimeline_020001031/0.wav|はっ……はぁっ……はっ……。
+story/data/02/0001/storytimeline_020001041/13.wav|――って、気づいていましたの！？ 私が自主トレしていることを。
+story/data/02/0001/storytimeline_020001041/22.wav|いつだって私たちのことを1番に優先して。
+story/data/02/0001/storytimeline_020001041/15.wav|で、『自主トレを止めろ』 と仰いたいのですね？
+story/data/02/0001/storytimeline_020001041/21.wav|ふふ、その迷いのない返事、 サブトレーナーのころから変わらないですわね。
+story/data/02/0001/storytimeline_020001041/9.wav|ここは……？　え、トレーナーさん？ どうして……？
+story/data/02/0001/storytimeline_020001041/16.wav|……このような醜態を晒してしまった以上、 私にはなにも言えませんわ。貴方の指示に従います。
+story/data/02/0001/storytimeline_020001041/12.wav|そうみたいですわね……。
+story/data/02/0001/storytimeline_020001041/10.wav|……熱。はぁ……思っていた以上に 疲労が溜まっていたようですわね。
+story/data/02/0001/storytimeline_020001041/11.wav|小さい頃、はしゃぎまわった後に よく熱を出していたことを思い出しますわ。
+story/data/02/0001/storytimeline_020001041/6.wav|はっ、はぁっ……はっ、はぁっ……。
+story/data/02/0001/storytimeline_020001041/25.wav|そして、絶対に勝ちますわよ！
+story/data/02/0001/storytimeline_020001041/8.wav|……。
+story/data/02/0001/storytimeline_020001041/7.wav|……はっ、はっ……ん、あっ……ぁあっ！？
+story/data/02/0001/storytimeline_020001041/17.wav|どうしてそのこと……あっ！ ライアンから聞いたんですのね？
+story/data/02/0001/storytimeline_020001041/14.wav|……そうですか。 そういうところの鼻は、あいも変わらず利きますのね。
+story/data/02/0001/storytimeline_020001041/23.wav|――わかりました。 でしたら私も遠慮はしません。
+story/data/02/0001/storytimeline_020001041/24.wav|『天皇賞』制覇の夢を叶えるため、 トレーナーさんにとことんわがままを言わせていただきます。
+story/data/02/0001/storytimeline_020001041/20.wav|トレーナーさんに、その覚悟はありますの？ 私と……その、“一心同体”のような関係になる覚悟が。
+story/data/02/0001/storytimeline_020001041/19.wav|けど、いいんですの？　本気で私の手伝いをするということは メジロ家の使命を共に背負うということ。
+story/data/02/0001/storytimeline_020001041/18.wav|……まったく、内緒話ってそのことでしたの。 相変わらずお節介なんですから。
+story/data/02/0001/storytimeline_020001051/3.wav|ふふっ、そうですわよね。 この程度で音を上げたりなどしていられませんし。
+story/data/02/0001/storytimeline_020001051/2.wav|ちなみに、私はまだまだ走れますが。
+story/data/02/0001/storytimeline_020001051/1.wav|メニューはひと通り終わりましたけど、 この後はどうします？
+story/data/02/0001/storytimeline_020001051/0.wav|はぁ……ふぅ……ふぅ～……。 だいぶ息の整え方がわかってきましたわ。
+story/data/02/0001/storytimeline_020001051/9.wav|…………。
+story/data/02/0001/storytimeline_020001051/17.wav|ええ、必ず勝って参りますわ！
+story/data/02/0001/storytimeline_020001051/13.wav|んもう、しっかりしてくださいませ。 トレーナーには大事なスキルですのよ。
+story/data/02/0001/storytimeline_020001051/11.wav|…………。
+story/data/02/0001/storytimeline_020001051/16.wav|夢はもう、手の届く位置にあります。 あとは全力で掴みに行くだけ。
+story/data/02/0001/storytimeline_020001051/12.wav|あの……緊張をほぐすの ヘタクソすぎません？
+story/data/02/0001/storytimeline_020001051/4.wav|それでは行って参りますわ！
+story/data/02/0001/storytimeline_020001051/14.wav|逆に今ので気が抜けてしまったのではと 心配になってしまいますわ。
+story/data/02/0001/storytimeline_020001051/15.wav|……ふふっ、 そうしてくださいませ。
+story/data/02/0001/storytimeline_020001051/10.wav|え……？　ええ、そうですわね……。 せっかくの京都ですし、京料理とか。
+story/data/02/0001/storytimeline_020001053/0.wav|…………。
+story/data/02/0001/storytimeline_020001053/4.wav|そして、この結果を出すことができたのは トレーナーさんのおかげです。
+story/data/02/0001/storytimeline_020001053/2.wav|『天皇賞』制覇を成し遂げましたわ！！ これでメジロ家に、私の盾を飾れますわ！！
+story/data/02/0001/storytimeline_020001053/1.wav|やりましたわっ！！
+story/data/02/0001/storytimeline_020001053/6.wav|ふふっ、これからもたくさん 勝利を重ねて差し上げますわ！
+story/data/02/0001/storytimeline_020001053/5.wav|たった1人のメンバーのために尽くしていただいて、 本当に感謝していますわ。
+story/data/02/0001/storytimeline_020001053/3.wav|ごめんあそばせ、はしゃいでしまって。 でも、それほどの結果なんですもの。
+story/data/02/0001/storytimeline_020001053/7.wav|さあ、このあとはウイニングライブ。 応援してくださった皆さんに歌で感謝を伝えて参りますわね！
+story/data/02/0001/storytimeline_020001061/34.wav|ええ、次のレースのことも 見据えておかないと……ですわね。
+story/data/02/0001/storytimeline_020001061/27.wav|……別に見るのは構いませんけど、 邪魔はしないでくださいませ。
+story/data/02/0001/storytimeline_020001061/33.wav|自覚がありませんの？ “貴方に絡まれたから”ですわ、まったく。
+story/data/02/0001/storytimeline_020001061/35.wav|『天皇賞』を勝ったと言っても 私のレースはまだまだ続きますもの。
+story/data/02/0001/storytimeline_020001061/43.wav|はあ……！？
+story/data/02/0001/storytimeline_020001061/10.wav|結果を出すというのは、 こんなにも大きな影響を及ぼすものなのですね……。
+story/data/02/0001/storytimeline_020001061/40.wav|真面目ですわよ！ ふざけるような空気ではなかったでしょ！
+story/data/02/0001/storytimeline_020001061/31.wav|ふぅ……。今日は激しく疲れましたわ……。
+story/data/02/0001/storytimeline_020001061/20.wav|ご、ゴールドシップさん……。
+story/data/02/0001/storytimeline_020001061/11.wav|とにかく、チームとして正式に認められるまで、 あと一歩ですわ！
+story/data/02/0001/storytimeline_020001061/2.wav|あ、ありがとうございます……。
+story/data/02/0001/storytimeline_020001061/15.wav|あれにはコツがありますの、お見せしますわね。
+story/data/02/0001/storytimeline_020001061/24.wav|そんなことしてませんわよ！ というか、相手の攻撃ってなんですの！？
+story/data/02/0001/storytimeline_020001061/18.wav|……って、誰ですの！？ どさくさに紛れてたかろうとするのは！？
+story/data/02/0001/storytimeline_020001061/30.wav|やりませんわよっ！！
+story/data/02/0001/storytimeline_020001061/6.wav|はぁ……ふぅ……。 トレーナーさん、今のタイムは？
+story/data/02/0001/storytimeline_020001061/21.wav|知り合い……といいますか、 なぜかよく絡んでくる相手といいますか……。
+story/data/02/0001/storytimeline_020001061/8.wav|も、もう…… いいかげんにしてくださいませ。
+story/data/02/0001/storytimeline_020001061/17.wav|ええ、かしこまりましたわ。
+story/data/02/0001/storytimeline_020001061/37.wav|当然ですわ。メジロ家の栄誉は いくつあっても困る物ではありません。
+story/data/02/0001/storytimeline_020001061/9.wav|ですけど、こうしてたくさんの方と トレーニングに励むなんて、本当に久しぶりですわ。
+story/data/02/0001/storytimeline_020001061/4.wav|え、ええ……頑張りましょう。
+story/data/02/0001/storytimeline_020001061/45.wav|本当に大丈夫ですの？　このチーム……。
+story/data/02/0001/storytimeline_020001061/13.wav|もちろん、かまいませんわ。
+story/data/02/0001/storytimeline_020001061/38.wav|それに私には、このチームを 盛り上げていくという義務がありますから。
+story/data/02/0001/storytimeline_020001061/5.wav|うう……なんだかくすぐったいですわ……。
+story/data/02/0001/storytimeline_020001071/22.wav|はぁ……はぁ……はぁ。
+story/data/02/0001/storytimeline_020001071/36.wav|皆さんは私の走りを見て、 一緒に走りたいと思ってくれたのですよね。
+story/data/02/0001/storytimeline_020001071/11.wav|あっ！？　先導するのは私の役割ですのよ！
+story/data/02/0001/storytimeline_020001071/34.wav|あ……ええ。 ちょっとメンバーのことを考えてましたの。
+story/data/02/0001/storytimeline_020001071/41.wav|ええ、任せてくださいませ。
+story/data/02/0001/storytimeline_020001071/37.wav|そう考えると、誇らしいような 気恥ずかしいような、複雑な気持ちですわ。
+story/data/02/0001/storytimeline_020001071/25.wav|ライアンには負けていられませんわ。 『宝塚記念』の時には、してやられましたから。
+story/data/02/0001/storytimeline_020001071/28.wav|うう……。 このヨイショはいつまで続きますの？
+story/data/02/0001/storytimeline_020001071/0.wav|見えてきましたわ。 あの島がメジロ家の別荘ですの。
+story/data/02/0001/storytimeline_020001071/38.wav|春の『天皇賞』を勝って、チームとしての形を 保つことはできましたが……。
+story/data/02/0001/storytimeline_020001071/19.wav|みっちり遊ぶようにしか見えませんわ！
+story/data/02/0001/storytimeline_020001071/4.wav|んもう、遊びに来たわけじゃないんですのよ。
+story/data/02/0001/storytimeline_020001071/39.wav|トレーナーさん、 私には新たにすべきことができました。
+story/data/02/0001/storytimeline_020001071/9.wav|さあ、皆さんもう1周しますわよ！
+story/data/02/0001/storytimeline_020001071/2.wav|島を破壊しないでくださいませっ！
+story/data/02/0001/storytimeline_020001071/35.wav|1度はもぬけの殻になったチームに 今はこうして、メンバーがいます。
+story/data/02/0001/storytimeline_020001071/5.wav|はぁ……。 トレーナーさんまでそんなこと言って。
+story/data/02/0001/storytimeline_020001071/40.wav|期待してくださる皆さんに 愛想を尽かされぬよう、これからも走り続けることですわ。
+story/data/02/0001/storytimeline_020001071/32.wav|あ、抜け駆けですわよ！ 私だって走ります！
+story/data/02/0001/storytimeline_020001071/21.wav|ま、待ってください！ 飛ばし過ぎですーっ！！
+story/data/02/0001/storytimeline_020001071/16.wav|ゴールドシップさん！ 貴方はなにをやってますの！？
+story/data/02/0001/storytimeline_020001071/33.wav|…………。
+story/data/02/0001/storytimeline_020001081/31.wav|貴方の場合、手合せよりも先に ゲート試験をしっかりと受けてください。
+story/data/02/0001/storytimeline_020001081/21.wav|もう……あくまで勝ったらの話ですわよ。
+story/data/02/0001/storytimeline_020001081/15.wav|おはようございます、皆さん。
+story/data/02/0001/storytimeline_020001081/12.wav|そ、そんなワケありませんわっ！ メジロ家のウマ娘として、常に胸を張っていますもの！
+story/data/02/0001/storytimeline_020001081/27.wav|はぁ……はぁ……ふぅ～……。
+story/data/02/0001/storytimeline_020001081/3.wav|ええ、よろしいですわよ。 あと“メジロマックイーン”ですわ。
+story/data/02/0001/storytimeline_020001081/9.wav|ええ、さようなら。
+story/data/02/0001/storytimeline_020001081/29.wav|理想のレース展開に持って行くためにも、 ダッシュ力と位置取りを意識しなくてはいけませんわ。
+story/data/02/0001/storytimeline_020001081/36.wav|えっ？　無理に付き合わなくても……。
+story/data/02/0001/storytimeline_020001081/25.wav|さあ、それではトレーニングを 始めますわよ。
+story/data/02/0001/storytimeline_020001081/28.wav|『宝塚記念』では、好位をとれないばっかりに コーナーで大回りする羽目になりましたもの。
+story/data/02/0001/storytimeline_020001081/1.wav|ここまで持ち上げられるとは、 私自身も思いませんでしたわ……。
+story/data/02/0001/storytimeline_020001081/7.wav|ありがとうございます。必ず勝利いたしますわね。 あと“メジロマックイーン”ですわ。
+story/data/02/0001/storytimeline_020001081/33.wav|せっかくの上り調子ですし、 私はもう1本走ってきますわね。
+story/data/02/0001/storytimeline_020001081/24.wav|わかりましたわ皆さん。 次のレースも、必ず勝ってみせます。
+story/data/02/0001/storytimeline_020001081/40.wav|ちょっと！！ 尻尾を握ろうとしないでくださいませっ！
+story/data/02/0001/storytimeline_020001081/17.wav|『京都大賞典』の後から、 ひっきりなしですわね。
+story/data/02/0001/storytimeline_020001081/38.wav|もう……では行って参りますわね。
+story/data/02/0001/storytimeline_020001081/14.wav|もう、適当なことを言わないでください。
+story/data/02/0001/storytimeline_020001081/10.wav|……思っていた以上に 評判というのは膨らんでいくものですのね。
+story/data/02/0001/storytimeline_020001081/32.wav|あの、トレーナーさん。
+story/data/02/0001/storytimeline_020001081/5.wav|もう……ひやかしはやめてくださいませ。
+story/data/02/0001/storytimeline_020001091/6.wav|とにかく、取材の件は承りました。
+story/data/02/0001/storytimeline_020001091/1.wav|そのようですわね……。
+story/data/02/0001/storytimeline_020001091/0.wav|私が、記者会見を……？
+story/data/02/0001/storytimeline_020001091/39.wav|私を信頼してくださるチームメンバーと、 トレーナーさんからの期待……。
+story/data/02/0001/storytimeline_020001091/5.wav|いえ、気の緩みが思わぬ事態を 招くこともありますから。
+story/data/02/0001/storytimeline_020001091/12.wav|ええ。今ではメンバーも増え、 ようやく持ち直せたと言いましょうか……。
+story/data/02/0001/storytimeline_020001091/37.wav|ふうぅー……。
+story/data/02/0001/storytimeline_020001091/31.wav|でも、仕上がりが順調な今こそ その調子を崩したくないんです。
+story/data/02/0001/storytimeline_020001091/27.wav|あの……私は遠慮しておきますわ。
+story/data/02/0001/storytimeline_020001091/40.wav|……皆さん、必ず勝ってみせますわ。
+story/data/02/0001/storytimeline_020001091/21.wav|普通に答えたのですから当然ですわ。
+story/data/02/0001/storytimeline_020001091/10.wav|それは……。
+story/data/02/0001/storytimeline_020001091/15.wav|…………。
+story/data/02/0001/storytimeline_020001091/32.wav|よろしいですか？　トレーナーさん。
+story/data/02/0001/storytimeline_020001091/19.wav|皆さんの期待にお応えできるよう、 レース当日までしっかりとトレーニングに励んで参ります。
+story/data/02/0001/storytimeline_020001091/28.wav|今日は取材も入ってしまいましたし、 その分のトレーニングをしたいと思ってましたので。
+story/data/02/0001/storytimeline_020001091/30.wav|もちろん無理はしませんわ。 前に倒れたこともありますし。
+story/data/02/0001/storytimeline_020001091/8.wav|自信はもちろんありますが、勝負ではなにが起こるか わかりませんから。慢心せずに挑みたいと思っております。
+story/data/02/0001/storytimeline_020001091/4.wav|貴方、私がケーキ屋の前で 悩んでいたのを見ましたわね！？
+story/data/02/0001/storytimeline_020001091/38.wav|メジロ家のウマ娘としての期待、 応援してくださるファンの方々の期待、そして――
+story/data/02/0001/storytimeline_020001091/33.wav|ありがとうございます。 では、行って参ります。
+story/data/02/0001/storytimeline_020001091/16.wav|え？　ああ、その……そうですわね。
+story/data/02/0001/storytimeline_020001091/18.wav|私を1番人気に推していただき、光栄に存じます。
+story/data/02/0001/storytimeline_020001101/11.wav|ええ、そういたしますわ。
+story/data/02/0001/storytimeline_020001101/30.wav|あれは私の判断で行ったことです！ トレーナーさんはなにも関係ありません！
+story/data/02/0001/storytimeline_020001101/18.wav|それよりも、今度はちゃんと勝利して 明るい話題の取材を受けないとですわね。
+story/data/02/0001/storytimeline_020001101/20.wav|寮は目の前ですのよ？ 別に送っていただかなくても平気ですのに……。
+story/data/02/0001/storytimeline_020001101/3.wav|えっ！？　ええ、もちろんですわ。
+story/data/02/0001/storytimeline_020001101/34.wav|……わかりましたわ。
+story/data/02/0001/storytimeline_020001101/27.wav|おひとりおひとり、 お詫びをさせていただきました。
+story/data/02/0001/storytimeline_020001101/31.wav|だって、これではまるで トレーナーさんが原因だと思われて……！
+story/data/02/0001/storytimeline_020001101/38.wav|どうか『ジャパンカップ』への出走を 認めてください。
+story/data/02/0001/storytimeline_020001101/33.wav|…………。
+story/data/02/0001/storytimeline_020001101/15.wav|私を取材しようと待ち構えていたんですわ、きっと。
+story/data/02/0001/storytimeline_020001101/5.wav|でも、だからこそ下を向いてなんていられません。
+story/data/02/0001/storytimeline_020001101/24.wav|この度は、レースに関係する方々に ご迷惑をおかけし、まことに申し訳ございませんでした。
+story/data/02/0001/storytimeline_020001101/29.wav|……トレーナーさんの指示！？ そんなことありませんわっ！！
+story/data/02/0001/storytimeline_020001101/21.wav|ですから、私は別にかまいませんのに……。
+story/data/02/0001/storytimeline_020001101/19.wav|さあ、体を動かしたい気分ですわ！ 行きますわよ、トレーナーさん！
+story/data/02/0001/storytimeline_020001101/4.wav|多くの方の期待に応えられず、 一緒に出走した方々を危険な目に合せてしまったのは事実です。
+story/data/02/0001/storytimeline_020001101/35.wav|あの……トレーナーさん。
+story/data/02/0001/storytimeline_020001101/14.wav|……記者の方たちですわね。
+story/data/02/0001/storytimeline_020001101/36.wav|次のレース、予定していた『有馬記念』より先に 『ジャパンカップ』へ出走したいのですが。
+story/data/02/0001/storytimeline_020001101/6.wav|レースの失態は、レースで取り戻してみせます。
+story/data/02/0001/storytimeline_020001101/25.wav|私が未熟であったばかりに、周りへ気を配ることができず、 あのような事態を招いてしまいました。
+story/data/02/0001/storytimeline_020001101/32.wav|トレーナーさん！！
+story/data/02/0001/storytimeline_020001101/17.wav|別に気にしませんわ。 なにか聞かれれば誠心誠意、対応します。
+story/data/02/0001/storytimeline_020001101/39.wav|ありがとうございます。 必ず……必ず勝ってみせますわ。
+story/data/02/0001/storytimeline_020001101/37.wav|いいえ、問題ありません。 走る準備は整っています。
+story/data/02/0001/storytimeline_020001121/32.wav|ふう～……。
+story/data/02/0001/storytimeline_020001121/6.wav|そのせいで、期待を寄せてくださった 皆さんやトレーナーさんにまで、迷惑をかけた私をですか！？
+story/data/02/0001/storytimeline_020001121/17.wav|今日はレースで負けた上に、ご心配をおかけして なんと申し上げたらよいのか――
+story/data/02/0001/storytimeline_020001121/22.wav|私はこれからも 胸を張って走り続けますっ！
+story/data/02/0001/storytimeline_020001121/3.wav|変わっていませんわね。 私たちに真摯に向き合う、その姿勢……。
+story/data/02/0001/storytimeline_020001121/5.wav|……レース中、あってはならないミスを 犯した、私をですか？
+story/data/02/0001/storytimeline_020001121/7.wav|……トレーナーさん。
+story/data/02/0001/storytimeline_020001121/1.wav|……なんだか、前にもこんなことが ありましたわね。
+story/data/02/0001/storytimeline_020001121/31.wav|んもうっ、宣言は済みましたから 早く下ろしてくださいませ……。
+story/data/02/0001/storytimeline_020001121/2.wav|私がくじけそうになっていると、 こうしてトレーナーさんが駆けつけてくれて。
+story/data/02/0001/storytimeline_020001121/35.wav|それは私に夢を見てくださっている 証拠ですわ。
+story/data/02/0001/storytimeline_020001121/19.wav|ちょ、ちょっとなにをっ！？ いったいなんのマネですのっ！？
+story/data/02/0001/storytimeline_020001121/12.wav|あの……ただいま戻りましたわ……。
+story/data/02/0001/storytimeline_020001121/4.wav|…………。
+story/data/02/0001/storytimeline_020001121/9.wav|私も……私も皆さんにとって、 そんなウマ娘になれていますか？
+story/data/02/0001/storytimeline_020001121/36.wav|そして……その思いが 私の背中を押してくれています。
+story/data/02/0001/storytimeline_020001121/38.wav|ええ、行ってきますわ！
+story/data/02/0001/storytimeline_020001121/11.wav|……う、うう……ううう～……！！
+story/data/02/0001/storytimeline_020001121/10.wav|チームの“エース”として…… 皆さんに夢を見せてあげられていますか？
+story/data/02/0001/storytimeline_020001121/8.wav|“エース”……。 いつまでも、信じたくなるような存在……。
+story/data/02/0001/storytimeline_020001121/24.wav|それでも私は、皆さんの期待を背に受けて 走り続けてみせますわ！　チームの“エース”としてっ！
+story/data/02/0001/storytimeline_020001121/23.wav|負けることだって、落ち込んで 泣くことだってあるかもしれません！
+story/data/02/0001/storytimeline_020001121/0.wav|と、トレーナーさん……！？
+story/data/02/0001/storytimeline_020001121/21.wav|わ、私は……。
+story/data/02/0001/storytimeline_020001131/24.wav|皆さん、行ってきますわね。
+story/data/02/0001/storytimeline_020001131/6.wav|今日のレースに関しては、 私の力負けでした。
+story/data/02/0001/storytimeline_020001131/3.wav|皆さん、わざわざ迎えに 来てくださったのですね。
+story/data/02/0001/storytimeline_020001131/31.wav|そ、そうですわね。 集中……集中……すいーちゅー……。
+story/data/02/0001/storytimeline_020001131/13.wav|ええ、もちろんです。
+story/data/02/0001/storytimeline_020001131/40.wav|私はこれからも、 皆さんの夢であり続けてみせますわ！
+story/data/02/0001/storytimeline_020001131/10.wav|『ジャパンカップ』の時とは違い、 納得のいく走りはできました。
+story/data/02/0001/storytimeline_020001131/19.wav|私、今日までレースのために 食事制限をしていたので、お腹がぺこぺこですの。
+story/data/02/0001/storytimeline_020001131/39.wav|ありがとうございます、皆さん！
+story/data/02/0001/storytimeline_020001131/8.wav|その辺りのことがよーくわかりましたわ。 それに……。
+story/data/02/0001/storytimeline_020001131/7.wav|とても実りの多いレースでしたから。 今の私に足りていないもの、今後鍛えていかなければならない箇所。
+story/data/02/0001/storytimeline_020001131/5.wav|ええ、それは間違いありませんわ。 調整も完璧でしたし、勝負どころでの集中力もすごかったです。
+story/data/02/0001/storytimeline_020001131/23.wav|ふふっ、行きますわよ！　トレーナーさん！
+story/data/02/0001/storytimeline_020001131/20.wav|私たちの底知れぬ食欲を、 みっちりと教えて差し上げますわ。
+story/data/02/0001/storytimeline_020001131/0.wav|…………。
+story/data/02/0001/storytimeline_020001131/33.wav|ええ、必ず勝って参ります！
+story/data/02/0001/storytimeline_020001131/11.wav|トレーナーさんの、 そして皆さんの期待を“力”に変えて、全力で走れましたわ。
+story/data/02/0001/storytimeline_020001131/16.wav|“エース”の名に恥じない走りを お見せいたしますわ。
+story/data/02/0001/storytimeline_020001131/27.wav|まあ、本当ですのっ！？
+story/data/02/0001/storytimeline_020001131/18.wav|……言いましたわね。
+story/data/02/0001/storytimeline_020001131/32.wav|ふふっ、任せてくださいませ。今の私は皆さんに背中を 押していただいて、天までも昇っていけそうな気分ですわ！
+story/data/02/0002/storytimeline_020002011/10.wav|はっ、はっ、はっ、はっ……。
+story/data/02/0002/storytimeline_020002011/32.wav|それは“距離”ですわね。
+story/data/02/0002/storytimeline_020002011/19.wav|はっはっ、はっはっ……。
+story/data/02/0002/storytimeline_020002011/17.wav|……まさか、ここまでついて来るなんて。 ですが――
+story/data/02/0002/storytimeline_020002011/24.wav|も、もう、そのヨイショはやめてくださいませ。
+story/data/02/0002/storytimeline_020002011/31.wav|それと、一緒に走って確信したものがありますわ。 ライスさんにもう1つ足りていないもの。
+story/data/02/0002/storytimeline_020002011/15.wav|はっ、はっ、はっ、はっ……。
+story/data/02/0002/storytimeline_020002031/27.wav|……でも、次はちゃんとしたご褒美を頼みますわよ？
+story/data/02/0002/storytimeline_020002031/5.wav|いくら今月のお給料が厳しいからって、 “こちらの遊園地”に来るのはどうなのです？
+story/data/02/0002/storytimeline_020002031/28.wav|はっ、はっ、はっ、はっ、はっ……。
+story/data/02/0002/storytimeline_020002031/7.wav|ちょっと！　そこは関係者専用の出入り口ですわよ！？
+story/data/02/0002/storytimeline_020002031/4.wav|トレーナーさん……ライスさんはここが“有名な遊園地”だと、 本気で信じてますわよ……。
+story/data/02/0002/storytimeline_020002031/26.wav|ライスさんの顔を見る限り、 このご褒美は正解だったようですわね。
+story/data/02/0002/storytimeline_020002041/27.wav|あっ！？　……んもう、私が走りたくて ウズウズしてるのをわかっててああいうことを……。
+story/data/02/0002/storytimeline_020002041/0.wav|……まったく、とんだヘマをやらかしてしまいましたわ。
+story/data/02/0002/storytimeline_020002041/10.wav|ふふっ、あとはトレーナーさんの付き添いだけで充分です。 ライスさんもトレーニングに戻ってください。
+story/data/02/0002/storytimeline_020002041/1.wav|これから病院でちゃんと見てもらいますが、 どうやら『宝塚記念』は諦めざるを得ないようですわね。
+story/data/02/0002/storytimeline_020002041/29.wav|ふふっ、その緊張ごと楽しむことをお勧めしますわ。
+story/data/02/0002/storytimeline_020002041/5.wav|ライスさんとのトレーニングはできなくなってしまいますけど、 きっとチームの皆さんが力を貸してくれるでしょう。
+story/data/02/0002/storytimeline_020002041/19.wav|お疲れ様です。皆さんにとっても、 よいトレーニングになっているみたいですわね。
+story/data/02/0002/storytimeline_020002041/25.wav|こちらこそ、ライスさんの頑張る姿は励みになります。
+story/data/02/0002/storytimeline_020002041/22.wav|み、見てましたのっ！？　あれはプリンが美味しすぎるのが いけないのであって、私は悪くありませんわ！
+story/data/02/0002/storytimeline_020002041/8.wav|私たちの胸が躍るような熱いレースを、 ぜひとも見せてくださいませ。
+story/data/02/0002/storytimeline_020002041/4.wav|思い入れのあるこのレースで偉業を達成するためにも、 今はケガを治すことに専念します。
+story/data/02/0002/storytimeline_020002041/3.wav|そんな暗い顔をしないでくださいませ。『宝塚記念』は残念ですが、 私には『天皇賞』3連覇という目標があります。
+story/data/02/0002/storytimeline_020002041/13.wav|ええ、私も負けていられませんわ。 治療を頑張りませんと。
+story/data/02/0002/storytimeline_020002041/7.wav|トレーナーさんも皆さんも、そして私も…… 貴方に期待をしています。
+story/data/02/0002/storytimeline_020002041/12.wav|……今のライスさんには、 不思議とチームを引っ張る力がありますわね。
+story/data/02/0002/storytimeline_020002041/23.wav|っと、そんなことより、 ライスさんの仕上がりは好調のようですわね。
+story/data/02/0002/storytimeline_020002051/33.wav|レースのたびに縮まっている着差が、その証拠です。
+story/data/02/0002/storytimeline_020002051/39.wav|ゆうに3000kmを超えますわよっ！？
+story/data/02/0002/storytimeline_020002051/32.wav|臆することありませんわ。ライスさんはその 話題のウマ娘に匹敵する実力を持っているのですから。
+story/data/02/0002/storytimeline_020002051/27.wav|なんでオムライスですの？
+story/data/02/0002/storytimeline_020002061/13.wav|……ただ、心配なのはむしろブルボンさん本人よりも 勝った時に周りの方々が――
+story/data/02/0002/storytimeline_020002061/12.wav|あながち間違いじゃありませんわ。 ライスさんの“ついていく力”は、本物ですから。
+story/data/02/0002/storytimeline_020002063/20.wav|心配なのはむしろ、多くの方々が期待した 三冠ウマ娘誕生を阻むということ……。
+story/data/02/0002/storytimeline_020002063/15.wav|ええ！　見事、期待に応えてくれましたわ！
+story/data/02/0002/storytimeline_020002071/34.wav|ちょっと！　適当なことを言わないでくださいませ！
+story/data/02/0002/storytimeline_020002071/28.wav|ですが、ライスさんはこの状況を乗り越えなくてはいけません。
+story/data/02/0002/storytimeline_020002071/39.wav|トレーナーさん、失礼します。
+story/data/02/0002/storytimeline_020002071/29.wav|勝者として……期待を背負うものとしての、義務があるのですから。
+story/data/02/0002/storytimeline_020002071/27.wav|……それはそうですわ。 努力の果てにあのような仕打ちでは、報われませんもの。
+story/data/02/0002/storytimeline_020002071/37.wav|ライスさん、もう1度走りましょう。 今の私であれば、抜き去ることもできるはずです。
+story/data/02/0002/storytimeline_020002071/19.wav|ライスさーん！　今日の走り、最高でしたわよー！
+story/data/02/0002/storytimeline_020002071/40.wav|ええ、『天皇賞』のことでお願いがあってまいりました。
+story/data/02/0002/storytimeline_020002071/16.wav|おやめなさい、仕方ないですわ。 ブルボンさんの三冠を望んでいた方々は多いのですから。
+story/data/02/0002/storytimeline_020002071/42.wav|ライスさんも、そのレースに出走させてください。
+story/data/02/0002/storytimeline_020002071/35.wav|私には『天皇賞』3連覇という大きな偉業がかかっていますの。 休んでいた分もトレーニングしないと。
+story/data/02/0002/storytimeline_020002071/41.wav|私の3連覇がかかった春の『天皇賞』――
+story/data/02/0002/storytimeline_020002071/18.wav|それよりも私たちがすべきことは……。
+story/data/02/0002/storytimeline_020002081/3.wav|そして偶然にも『菊花賞』に似た状況なのが、 春の『天皇賞』です。
+story/data/02/0002/storytimeline_020002081/6.wav|トレーナーさんは、トレーナーだからこそできることを…… ライスさんを『天皇賞』の舞台へと上げてください。
+story/data/02/0002/storytimeline_020002081/2.wav|ブルボンさんの三冠を阻んだとして、称えてもらうべき 場面のはずなのに、まるで正反対の声が上がりました。
+story/data/02/0002/storytimeline_020002081/8.wav|言っておきますが、負ける気はありません。メジロ家のウマ娘 として、『天皇賞』3連覇の偉業を達成してみせます。
+story/data/02/0002/storytimeline_020002081/0.wav|私の3連覇がかかった春の『天皇賞』に、ライスさんも……。
+story/data/02/0002/storytimeline_020002081/4.wav|ライスさんには、そこで見せて差し上げたい “景色”がありますの。
+story/data/02/0002/storytimeline_020002081/5.wav|ターフを駆ける者にしか伝えられないことは、 私が責任を持って伝えます。
+story/data/02/0002/storytimeline_020002081/10.wav|ええ、よろしくお願いいたしますわ。
+story/data/02/0002/storytimeline_020002081/7.wav|ふふっ、トレーナーさんは私が負けると思ってますのね。 と～っても傷つきましたわ。
+story/data/02/0002/storytimeline_020002081/9.wav|トレーナーさんは大変ですわね。どちらが勝っても、 もう1人を慰めなくてはいけないのですから。
+story/data/02/0002/storytimeline_020002081/1.wav|『菊花賞』でのブーイング……。
+story/data/02/0002/storytimeline_020002091/9.wav|……さあ、私もトレーニングですわ。 春の『天皇賞』まで、あっという間ですし。
+story/data/02/0002/storytimeline_020002091/11.wav|ええ、信じていますわ。
+story/data/02/0002/storytimeline_020002091/10.wav|ライスさんと『天皇賞』で走るのが楽しみですわ。 ね、トレーナーさん。
+story/data/02/0002/storytimeline_020002091/13.wav|あ、ちょっと！　お待ちなさいっ！ まだ公にする話ではありませんのよっ！！
+story/data/02/0002/storytimeline_020002091/39.wav|ライスさん、しっかり前を見て走っていますわね。
+story/data/02/0002/storytimeline_020002091/40.wav|ええ。
+story/data/02/0002/storytimeline_020002091/58.wav|ふふっ、臨むところですわ。
+story/data/02/0002/storytimeline_020002101/25.wav|（参りましたわね……ライスさんからの重圧が これほどのものだなんて……）
+story/data/02/0002/storytimeline_020002101/7.wav|ここではそうですが、ターフの上では違います。
+story/data/02/0002/storytimeline_020002101/10.wav|必ず先頭でゴールを駆け抜けてみせますわ。
+story/data/02/0002/storytimeline_020002101/9.wav|皆さんが期待してくださる『天皇賞』3連覇……。 その“期待”が、私にとってなによりの“力”です。
+story/data/02/0002/storytimeline_020002101/6.wav|あれだけのトレーニングを積んで気持ちも充分でしょうけど、 きっと不安もあるはずです。
+story/data/02/0002/storytimeline_020002101/4.wav|あら、トレーナーさん。 ライスさんのところへは、行かなくていいのですか？
+story/data/02/0002/storytimeline_020002101/27.wav|（それでも私はメジロ家のウマ娘として、 そしてエースとして、全力で走るだけ）
+story/data/02/0002/storytimeline_020002101/24.wav|…………。
+story/data/02/0002/storytimeline_020002101/11.wav|ええ、任せてくださいませ。
+story/data/02/0002/storytimeline_020002101/5.wav|ふふっ、トレーナーの鑑ですわね。 ですが、ライスさんのところに行ってあげてくださいませ。
+story/data/02/0002/storytimeline_020002101/8.wav|私はこのレースに、全身全霊をかけて挑みます。 一切手を抜くことはありません。
+story/data/02/0002/storytimeline_020002111/33.wav|ライスさん、自分が足りなかったものに 気が付いてくださったようですわ。
+story/data/02/0002/storytimeline_020002111/31.wav|期待していますわ、ライスさん。
+story/data/02/0002/storytimeline_020002111/37.wav|あと一歩でしたのに……勝ちたかったですのにぃ……っ！
+story/data/02/0002/storytimeline_020002111/36.wav|……うう……うううっ……。
+story/data/02/0002/storytimeline_020002111/9.wav|ですが、そこで私はその“景色”を目の当たりにしましたの。
+story/data/02/0002/storytimeline_020002111/3.wav|ライスさん……。
+story/data/02/0002/storytimeline_020002111/23.wav|そうした方々の想いをここでしっかりと受け止めるのが、 勝者の義務であり、誇りでもあるのです。
+story/data/02/0002/storytimeline_020002111/11.wav|きっとライスさんにも見えるはずですわ。 さあ、ステージに出ますわよ。
+story/data/02/0002/storytimeline_020002111/32.wav|……トレーナーさん。
+story/data/02/0002/storytimeline_020002111/8.wav|多くの人の期待を裏切ってしまい、 しっかりと前を向くことができなかったことが……。
+story/data/02/0002/storytimeline_020002111/21.wav|これが、レースを勝利した者だけが見られる“景色”――
+story/data/02/0002/storytimeline_020002111/35.wav|本当に……素晴らしい走りでしたわ。
+story/data/02/0002/storytimeline_020002111/7.wav|……私も、秋の『天皇賞』で降着した時、 似たような体験をしましたわ。
+story/data/02/0002/storytimeline_020002111/25.wav|僅かでも自分に期待をしてくださった人のために……そして、 期待が叶わなかった人のためにも、胸を張ってくださいませ。
+story/data/02/0002/storytimeline_020002111/34.wav|まったく、格好付かないですわね。 レースに出すよう頼んでおいて、負けてしまったのですから。
+story/data/02/0002/storytimeline_020002111/38.wav|ううう……トレーナーさんっ！ うあああ……っ！！
+story/data/02/0002/storytimeline_020002111/22.wav|自分に期待してくれた方々、期待が叶わなかった方々……。 この場に立つと、様々な顔を見ることができます。
+story/data/02/0002/storytimeline_020002111/26.wav|さあ、見せて差し上げましょう。 勝者に相応しい姿を。
+story/data/02/0002/storytimeline_020002121/3.wav|そもそもちょっかいを出さないでくださいませ！！
+story/data/02/0002/storytimeline_020002121/7.wav|ええ、私だってもっと走りたいですもの。 すぐに帰ってきますわ。
+story/data/02/0002/storytimeline_020002121/10.wav|それと、ライスさん……。
+story/data/02/0002/storytimeline_020002121/12.wav|どうか貴方の夢……皆さんに喜んでいただけるような、 そんなウマ娘を目指してください。
+story/data/02/0002/storytimeline_020002121/1.wav|あくまで一時的にですわ。 メジロ家の事情で、外せない用ができてしまいましたの。
+story/data/02/0002/storytimeline_020002121/9.wav|どうかその絆を、大事にしてくださいませ。
+story/data/02/0002/storytimeline_020002121/8.wav|このチームは、皆さんがお互いを支え合い、 夢に向かって走ることのできるチームです。
+story/data/02/0002/storytimeline_020002131/2.wav|お邪魔しますわ。
+story/data/02/0002/storytimeline_020002131/8.wav|私は今日、その為に来たのですわ。
+story/data/02/0002/storytimeline_020002131/4.wav|……なるほど。
+story/data/02/0002/storytimeline_020002131/16.wav|さあ、それでは以前と同じように、 私とブルボンさんの後ろについてきてください。
+story/data/02/0002/storytimeline_020002131/10.wav|それに、これ以上チームの皆さんと走るのを 我慢しきれませんわ。
+story/data/02/0002/storytimeline_020002131/7.wav|ということで……さっそく着替えてきますわね。
+story/data/02/0002/storytimeline_020002131/3.wav|ライスさん、この前のレースでも振るわなかったようですが、 調子はどうです？
+story/data/02/0002/storytimeline_020002131/24.wav|ライスさん、貴方の努力する姿が……その強い心が、 私たちにとって大きな支えとなっています。
+story/data/02/0002/storytimeline_020002131/25.wav|今一度見せてくださいませ。 私やブルボンさんに勝利した、貴方の走りを。
+story/data/02/0002/storytimeline_020002131/9.wav|まだこちらの用が終わりきったわけではありませんが、 いくらか時間を作れるようになりましたので。
+story/data/02/0002/storytimeline_020002131/11.wav|――とその前に、1つお願いを聞いていただきたいのですが……。
+story/data/02/0002/storytimeline_020002131/18.wav|……あ、でも私生活にまでついてこなくても大丈夫です。 今回は、常識の範囲内でお願いしますわ……。
+story/data/02/0002/storytimeline_020002131/6.wav|でも逆に言えば、目標をしっかりと示すことで 以前のように走れる可能性があるということですわ。
+story/data/02/0002/storytimeline_020002131/5.wav|今のライスさんは、追いかけるべき背中を 見つけられていないのかもしれません。
+story/data/02/0003/storytimeline_020003011/32.wav|どれだけわさびを入れますの！？
+story/data/02/0003/storytimeline_020003011/27.wav|キャベツ？　なんの話をしてますの？
+story/data/02/0003/storytimeline_020003011/30.wav|嫌な予感しかしませんわ……。 トレーナーさん、焼きそばの毒味は任せます。
+story/data/02/0003/storytimeline_020003011/37.wav|それを目標とする人もいるくらいで、表彰されると東京レース場 にある『ウマ娘ミュージアム』で写真や戦績が展示されますのよ。
+story/data/02/0003/storytimeline_020003011/36.wav|貴方、知りませんの？　輝かしい功績を残した、 ウマ娘やトレーナーに与えられる栄誉ですわ。
+story/data/02/0003/storytimeline_020003021/43.wav|話は聞いています、チケットさん。 ダービー制覇を目指しておられるのですよね。
+story/data/02/0003/storytimeline_020003021/44.wav|ダービーは多くのウマ娘にとって憧れ。 ライバルも多いでしょうが、夢に向かって頑張りましょう。
+story/data/02/0003/storytimeline_020003101/14.wav|トレーナーさん、チケットさんのことを しっかり見てあげてくださいませ。
+story/data/02/0003/storytimeline_020003101/12.wav|いつもの気合いも、底抜けな元気も感じませんわね。 『皐月賞』で負けたことが、それだけショックなのでしょう。
+story/data/02/0003/storytimeline_020003111/8.wav|今日はダービーの公開トレーニング―― ですからいつも以上にカメラマンも多いみたいですわね。
+story/data/02/0003/storytimeline_020003111/5.wav|取材の方々ですわ。 今日は“公開トレーニング”の日ですから。
+story/data/02/0003/storytimeline_020003111/7.wav|レースが近づくと、いつもやっていますでしょ？ 仕上がりの状態を取材陣の方に見ていただくということを。
+story/data/02/0003/storytimeline_020003111/2.wav|なんで準備運動で力を使い果たしますの！？ ちゃんとトレーニングしてくださいませ！
+story/data/02/0003/storytimeline_020003131/1.wav|チケットさん、これまでになく集中していますわね。 背中からも見てとれるほどですわ。
+story/data/02/0003/storytimeline_020003131/11.wav|これでもう大丈夫ですわ！ チケットさん、最高のダービーを！
+story/data/02/0003/storytimeline_020003131/6.wav|どうしても痒いのでしたら、 私たちがとっておきの方法で送り出してあげますわ。
+story/data/02/0003/storytimeline_020003133/2.wav|当然ですわ、最高のダービーだったのですから。
+story/data/02/0004/storytimeline_020004012/11.wav|『皐月賞』であれだけの走りをしてみせましたのに、 まだまだ力をつける一方のようですわね。
+story/data/02/0004/storytimeline_020004012/29.wav|三冠を取ったところで、 あの方のレースに対する渇望は治まらない……。
+story/data/02/0004/storytimeline_020004012/17.wav|……トレーナーさん、またトレーニングメニューを 見直す必要がありそうですわね。
+story/data/02/0004/storytimeline_020004012/28.wav|そのままの意味ですわ。
+story/data/02/0004/storytimeline_020004031/10.wav|ダービーという大舞台で背負う、1番人気のプレッシャーに どう立ち向かうか……ここが1つの山場ですわね。
+story/data/02/0004/storytimeline_020004031/9.wav|多くの期待は、一歩間違えれば大きな障害になりますわ。 かつての私のように。
+story/data/02/0004/storytimeline_020004031/6.wav|ものすごい記者の数ですわね。
+story/data/02/0004/storytimeline_020004031/8.wav|恐らくレース当日も1番人気に推されることは 間違いないでしょうが……。
+story/data/02/0004/storytimeline_020004031/7.wav|ここまで5連勝、そのうちＧⅠ勝利が2つ―― その勢いで次に挑むのが『日本ダービー』ですものね。
+story/data/02/0004/storytimeline_020004051/31.wav|あの方のレースをご存じないのですか？ 後方から一気に先頭へ立つ、驚異的な脚――
+story/data/02/0004/storytimeline_020004051/32.wav|ブライアンさんのレース以上に 衝撃を受けたと仰る方もいるほどですのよ。
+story/data/02/0004/storytimeline_020004051/9.wav|皆さん、勝つことを前提に話をされてますわね。 さすがブライアンさんですわ。
+story/data/02/0004/storytimeline_020004061/4.wav|次はいつ、この歴史的な瞬間に立ち会えるかわかりませんもの。 取材が押し寄せてくるのも当然です。
+story/data/02/0004/storytimeline_020004061/10.wav|一緒に走りたかった相手が出走できないだなんて、 少し心配ですわね……。
+story/data/02/0004/storytimeline_020004061/9.wav|それもありますし、『有馬記念』で共に走ることを ブライアンさん自身も楽しみにされていたと思いますから。
+story/data/02/0004/storytimeline_020004061/7.wav|前はお誘いしたのに断られましたものね。 気持ちの整理がついていなかったのかもしれません。
+story/data/02/0004/storytimeline_020004061/3.wav|それはそうですわ。なにせ“三冠ウマ娘”という とてつもない偉業を果たしたのですから。
+story/data/02/0004/storytimeline_020004061/6.wav|ブライアンさんは、ハヤヒデさんのお見舞いへ？
+story/data/02/0004/storytimeline_020004073/3.wav|ええ……マークしてきた相手を振り切るだなんて……。
+story/data/02/0004/storytimeline_020004081/6.wav|長距離レースでありながら、上がりタイムが自己ベストだなんて。 留まるところを知らないとは、このことですわね。
+story/data/02/0004/storytimeline_020004081/32.wav|私も同じ気持ちですが、期待をかけてばかりいてもダメですわね。 ブライアンさんを見習いませんと。
+story/data/02/0004/storytimeline_020004081/34.wav|レースに挑むといえば、ブライアンさんの出走登録が そろそろ締め切りなのでは？
+story/data/02/0004/storytimeline_020004081/36.wav|最高のパフォーマンスに仕上げても、 レースに出られなかったら意味がありませんもの。
+story/data/02/0004/storytimeline_020004081/30.wav|どこまでも走る気持ちが前向きですわね、ブライアンさんは。
+story/data/02/0004/storytimeline_020004081/38.wav|ブライアンさんっ！？
+story/data/02/0004/storytimeline_020004081/5.wav|お疲れ様です、ブライアンさん。
+story/data/02/0004/storytimeline_020004081/33.wav|……あっ！？
+story/data/02/0004/storytimeline_020004081/37.wav|……っ！？
+story/data/02/0004/storytimeline_020004081/11.wav|ルドルフ会長の七冠越えも確実と言われていますし、 今年はどれだけの記録を出すのでしょう。
+story/data/02/0004/storytimeline_020004101/25.wav|ええ……そうですわね。
+story/data/02/0004/storytimeline_020004101/24.wav|レース勘が鈍るというのもありますし、復帰後すぐに 状態をピークにもっていくのはとても難しいことですわ。
+story/data/02/0004/storytimeline_020004111/30.wav|位置取りは申し分ないですわっ！ ここから一気にっ！！
+story/data/02/0004/storytimeline_020004131/6.wav|ブライアンさん、精いっぱい走ってきてくださいませ。 私たちも全力で応援させていただきます。
+story/data/02/0004/storytimeline_020004131/11.wav|行ってらっしゃいませ。
+story/data/02/0004/storytimeline_020004131/4.wav|それはこれまで我々が、ブライアンさんの走りに圧倒されるだけの 傍観者であったからですわ。
+story/data/02/0005/storytimeline_020005012/3.wav|ええ、それだけに多くのウマ娘たちの憧れであり、 目標なのですわ。
+story/data/02/0005/storytimeline_020005012/19.wav|いよいよデビューしますのね、レースを見るのが楽しみですわ。
+story/data/02/0005/storytimeline_020005012/9.wav|なんの歓声でしょう？ あちらの方で盛り上がっているようですわね。
+story/data/02/0005/storytimeline_020005012/6.wav|貴方だって真面目に走れば、栄光を掴む可能性はありますのよ。
+story/data/02/0005/storytimeline_020005041/42.wav|というか、貴方もトレーニングしてくださいませっ！
+story/data/02/0005/storytimeline_020005081/18.wav|それぞれが自分の能力に即したスタイルを確立し、 1番勝てるという走り方を突き詰めています。
+story/data/02/0005/storytimeline_020005081/16.wav|ブライアンさんは爆発力のある末脚を長く使えるので、道中は控え、 最後の直線で他を一気に突き放す攻撃的な勝ち方。
+story/data/02/0005/storytimeline_020005081/17.wav|ライスさんは持ち前のスタミナを活かしたロングスパートで ライバルを完封する。
+story/data/02/0005/storytimeline_020005081/19.wav|ですが、スズカさんのは誰もが1度は理想として考え、 そして実現不可能という答えに行きつく走り――
+story/data/02/0005/storytimeline_020005081/13.wav|ええ……ただの“逃げ”ではありませんもの、 スズカさんのそれは。
+story/data/02/0005/storytimeline_020005081/12.wav|重賞連勝もさることながら、その内容の方が印象的ですわ。
+story/data/02/0005/storytimeline_020005081/15.wav|私は、スタミナを武器に速いレース展開へと持ち込み、 好位から一気に抜け出す王道パターン――
+story/data/02/0005/storytimeline_020005081/14.wav|個人の性格が十人十色であるように、 私たちウマ娘の走り方にもそれぞれの特色があります。
+story/data/02/0005/storytimeline_020005081/21.wav|これから先も、もっともっと見てみたいですわ。 夢としか思えない、スズカさんの走りを……！
+story/data/02/0005/storytimeline_020005093/1.wav|重賞レースですわよ、これ！？ なのに、10バ身以上引き離しての大差勝ちだなんて！？
+story/data/02/0005/storytimeline_020005093/5.wav|まったく……夢としか言いようのない走りを 見せられてしまいましたわね……！
+story/data/02/0005/storytimeline_020005093/4.wav|さすがにそれは無理ですが、お気持ちは私にもわかります。
+story/data/02/0005/storytimeline_020005112/2.wav|本当ならこの辺りでスピードを緩めますのに…… スズカさんの場合は、ここからっ！
+story/data/02/0005/storytimeline_020005112/1.wav|誰もが真似できない、ウマ娘にとって夢のような走り……！ 見ているだけで興奮してきますわ！
+story/data/02/0005/storytimeline_020005121/3.wav|スズカさんを勝たせるため？
+story/data/02/0005/storytimeline_020005121/12.wav|これ以上は無理、これ以上は限界だと、私だって何度も感じました。 多分、＜シリウス＞の皆さんもそうでしょう。
+story/data/02/0005/storytimeline_020005121/7.wav|…………。
+story/data/02/0005/storytimeline_020005121/8.wav|そうですわね、まずは肩の力を抜くこと……でしょうか。
+story/data/02/0005/storytimeline_020005121/2.wav|大事に至らなかったのが幸いです。 ……それで、倒れるほど無理をしていた理由はなんですの？
+story/data/02/0005/storytimeline_020005121/14.wav|私たちを信じ、共に夢を見てくれる方々の“想い”があれば、 “ウマ娘”はどこまでだって駆けていける。
+story/data/02/0005/storytimeline_020005121/11.wav|己の夢を叶えるその過程で、ウマ娘は何度も限界だと 感じることがあります。時には肉体的に、時には精神的に。
+story/data/02/0005/storytimeline_020005121/16.wav|私たちが挫けそうな時、どなたが支えてくださいましたか？ 夢に向かって走っている時、どなたが一緒に夢を見てくれましたか？
+story/data/02/0005/storytimeline_020005121/29.wav|スズカさんなら、まだコースで走っておられますわ。 どうか背中を押してあげてくださいませ。
+story/data/02/0005/storytimeline_020005121/17.wav|トレーナーさんがいつだって二人三脚で歩んできてくれたから、 今の私たちがあるのです。
+story/data/02/0005/storytimeline_020005121/18.wav|私たちは、想い描いた以上の夢を叶えてこれたのです。
+story/data/02/0005/storytimeline_020005121/9.wav|トレーナーさん、私は万が一など起こらないと思いますわ。
+story/data/02/0005/storytimeline_020005121/5.wav|スズカさんの走りのリスク……。
+story/data/02/0005/storytimeline_020005121/6.wav|……万が一が起きてしまうのではと、おっしゃりたいのですね。
+story/data/02/0005/storytimeline_020005121/13.wav|ですが、それを乗り越えられるのも“ウマ娘”なのです。 そして1度乗り越えたそれは、もはや限界ではありません。
+story/data/02/0005/storytimeline_020005121/28.wav|だってトレーナーさんがそれほどまでに強く、 スズカさんに“想い”を託しているのですから。
+story/data/02/0005/storytimeline_020005121/10.wav|トレーナーさんは聞いたことありませんか？ ウマ娘はたくさんの“想い”を背負い、走るのだと。
+story/data/02/0005/storytimeline_020005121/1.wav|最近、根を詰めてお仕事をされているとは思っていましたが、 まさか倒れるまでとは思いませんでしたわ。
+story/data/02/0005/storytimeline_020005121/19.wav|たった1人のメンバーのために尽くしていただいて、 本当に感謝していますわ。
+story/data/02/0005/storytimeline_020005121/4.wav|今のスズカさんの充実ぶりを考えれば、倒れるほどに心配する 要素はないと思いますが……本当にそれが理由ですか？
+story/data/02/0005/storytimeline_020005121/0.wav|目が覚めましたか、トレーナーさん。
+story/data/02/0005/storytimeline_020005121/15.wav|なにより、それを証明してくれたのは貴方ではないですか。
+story/data/02/0005/storytimeline_020005121/20.wav|それでも私は、皆さんの期待を背に受けて 走り続けてみせますわ！　チームの“エース”としてっ！
+story/data/02/0005/storytimeline_020005121/27.wav|スズカさんと進む道の先に限界があったとしても、きっと大丈夫。 必ず乗り越えられます。
+story/data/02/0005/storytimeline_020005131/3.wav|走る本人よりも緊張しているみたいですわね……。
+story/data/02/0006/storytimeline_020006021/24.wav|ウマ娘の支えとなって、共に夢を掴む。 天皇賞を制覇したあの時から、ずっとそのままですわ。
+story/data/02/0006/storytimeline_020006021/22.wav|今日も残って情報収集ですか？
+story/data/02/0006/storytimeline_020006021/27.wav|私たちチームメンバーも尽力いたしますわ。
+story/data/02/0006/storytimeline_020006021/23.wav|……トレーナーさんは本当にお変わりありませんわね。
+story/data/02/0006/storytimeline_020006021/25.wav|ええ、本当に……。
+story/data/02/0006/storytimeline_020006021/26.wav|ですが、今度の夢は大変ですわね。 なにせゴールは“日本一のウマ娘”ですから。
+story/data/02/0006/storytimeline_020006031/28.wav|ふぅ……お疲れ様でした、スペシャルウィークさん。 ますますレース運びが上達していますわね。
+story/data/02/0006/storytimeline_020006031/6.wav|私たちも精いっぱい応援いたしますわ。
+story/data/02/0006/storytimeline_020006071/2.wav|私は、貴方がなぜここにいるのかで悩んでいます。 メジロ家の新年会の席ですのよ、ここは。
+story/data/02/0006/storytimeline_020006071/42.wav|いえ……やはり、そうなりますわよね。
+story/data/02/0006/storytimeline_020006071/40.wav|ブライトの春の目標は『天皇賞（春）』ですか……。
+story/data/02/0006/storytimeline_020006071/29.wav|“黄金世代”……ですわね。
+story/data/02/0006/storytimeline_020006071/23.wav|ブライト、『天皇賞（春）』の勝利は本当にお見事でしたわ。 URA賞も受賞されたそうで。
+story/data/02/0006/storytimeline_020006071/9.wav|ドーベルは去年もGⅠ勝利を収め、乗りに乗っていますわね。 なにかと話を耳にしますし、期待の高さがうかがえますわ。
+story/data/02/0006/storytimeline_020006071/7.wav|ライアンにドーベル、明けましておめでとうございます。 今年もよろしくお願いいたしますわ。
+story/data/02/0006/storytimeline_020006071/5.wav|わけがわかりませんわ……。
+story/data/02/0006/storytimeline_020006081/3.wav|『天皇賞（春）』へ向けて最高の門出になりましたわ！
+story/data/02/0006/storytimeline_020006121/4.wav|…………。
+story/data/02/0006/storytimeline_020006121/16.wav|レースについてお話しすると仰っていましたので、 私もなにか力になれることはないかと。
+story/data/02/0006/storytimeline_020006121/6.wav|ええ、ああ見えてブライトは芯の強いウマ娘ですから。 もちろん、実力も。
+story/data/02/0006/storytimeline_020006121/17.wav|ええ、承知いたしましたわ。
+story/data/02/0006/storytimeline_020006121/56.wav|ふふっ、でしたらお願いいたしますわ。 チーム再スタートのきっかけである春の盾を、ぜひ。
+story/data/02/0006/storytimeline_020006121/13.wav|失礼いたします。
+story/data/02/0006/storytimeline_020006121/61.wav|トレーナーさんも、スペシャルウィークさんに 想いを託してみてはいかがです？
+story/data/02/0006/storytimeline_020006121/55.wav|チームの一員として……ですか。
+story/data/02/0006/storytimeline_020006121/9.wav|今はトレーナーさんと、本番に向けてのミーティングを しているところですわ。
+story/data/02/0006/storytimeline_020006121/15.wav|トレーナーさんに、というよりも お2人に用事があると言った方が正しいでしょうか。
+story/data/02/0006/storytimeline_020006121/7.wav|ですが、スペシャルウィークさんも負けてはいませんわ。 しっかりと努力を重ねています。
+story/data/02/0006/storytimeline_020006121/30.wav|前にたづなさんが連絡してくださいましたでしょう？
+story/data/02/0006/storytimeline_020006121/36.wav|私のレース……？
+story/data/02/0006/storytimeline_020006063/25.wav|ええ、『皐月賞』の時以上に気迫が―― 想いが伝わってくる走りでしたわ。
+story/data/02/0006/storytimeline_020006131/11.wav|ふふっ、眠い中で必死に応援してくださるその気持ちが伝われば 充分なはずですわ。
+story/data/02/0004/storytimeline_020004091/3.wav|大きなケガでなかったのが幸いですが、 それでも春いっぱいは休養ですわね。
+story/data/02/0004/storytimeline_020004091/2.wav|本来なら出走予定だったブライアンさんにも、 多くの取材が押し寄せていたのでしょうが……。
+story/data/02/0004/storytimeline_020004091/1.wav|……それはそうと、春の『天皇賞』も近づいてきて、 また取材陣の方々が増えてきましたわね。
+story/data/02/0006/storytimeline_020006011/36.wav|お疲れ様です、スペシャルウィークさん。 これで今日のメニューは終わりですわ。
+story/data/02/0006/storytimeline_020006011/53.wav|たしかにそれだけ大きな目標となると、 生半可なトレーニングでは足りないかもしれませんわね。
+story/data/02/0006/storytimeline_020006011/44.wav|たしかに“日本一”とひと口に言いましても、 戦績であったり偉業であったり、形は様々ですわ。
+story/data/02/0006/storytimeline_020006011/56.wav|ふふっ……トレーナーさんがスペシャルウィークさんを チームに招いた理由がよくわかりますわ。
+story/data/02/0006/storytimeline_020006011/19.wav|……あの、あまり大きな声を上げますと 周りの方々にご迷惑ですから……。
+story/data/02/0006/storytimeline_020006011/20.wav|それにしましても、今回の結果は意外といいますか、 足をすくわれた感じですわね。
+story/data/02/0001/storytimeline_020001111/0.wav|皆さん、申し訳ありません。 不甲斐ない結果となってしまって……。
+story/data/02/0001/storytimeline_020001111/6.wav|『有馬記念』だって控えてますし、 走ったばかりでお腹も減っていませんから。
+story/data/02/0001/storytimeline_020001111/7.wav|あっ、私、おばあ様に電話をしないと。 お先に失礼しますわね。
+story/data/02/0001/storytimeline_020001111/24.wav|ふふ、その迷いのない返事、 サブトレーナーのころから変わらないですわね。
+story/data/02/0001/storytimeline_020001111/8.wav|皆さん、本当に…… 本当に申し訳ありませんでした……っ。
+story/data/02/0001/storytimeline_020001111/5.wav|私は……その、遠慮しておきますわ。
+story/data/02/0001/storytimeline_020001111/25.wav|いつだって私たちのことを1番に優先して。
+story/data/02/0004/storytimeline_020004041/14.wav|本当に、走ることへの想いが強い方ですわね。 どれだけ栄誉を掴んでも、まるで満たされた様子がありませんわ。
+story/data/02/0004/storytimeline_020004041/11.wav|あることだけにしてくださいませ！
+story/data/02/0004/storytimeline_020004041/15.wav|……あの想いの強さの根源は、いったいなんなのでしょう。
+story/data/02/0004/storytimeline_020004041/7.wav|今日もメディアの方々が押しかけているそうですわ。 そろそろ取材を受けてほしいと、たづなさんに泣きつかれました。
+story/data/02/0006/storytimeline_020006133/14.wav|堂々とすればいいのです。 今、見せてくださったレースのように。
+story/data/02/0001/storytimeline_020001021/19.wav|勧誘に気を取られてトレーニングをおろそかにしていたら 本末転倒……。では、準備をして参りますわ。
+story/data/02/0001/storytimeline_020001021/16.wav|って、どうして1人も希望者が現れないんですの！？ この私が勧誘しているというのに！
+story/data/02/0001/storytimeline_020001021/11.wav|私は名門メジロ家のウマ娘。このくらいのトラブル、 お茶の子さいさいで解決してみせますわ！
+story/data/02/0001/storytimeline_020001021/14.wav|安いですわよー！　安いですわよー！ 穫れたてのにんじんがお買い得ですわよー！
+story/data/02/0001/storytimeline_020001021/4.wav|たった一夜にしてチームがもぬけの殻になってしまうだなんて、 皆さん、あまりに薄情すぎますわっ！
+story/data/02/0001/storytimeline_020001021/13.wav|未勝利の方でも大歓迎！ アットホームなチームですわよ～！
+story/data/02/0001/storytimeline_020001021/21.wav|ええ、わかりましたわ。
+story/data/02/0001/storytimeline_020001021/18.wav|……そうですわね。
+story/data/02/0001/storytimeline_020001021/6.wav|受け継いだチームが 無くなってしまうかもしれませんのに！
+story/data/02/0001/storytimeline_020001021/24.wav|いえ、トレーナーさんの指導は理にかなっています。 ですから不満なんてありません。
+story/data/02/0001/storytimeline_020001021/5.wav|どうして貴方はそんなに落ち着いていますのっ！？
+story/data/02/0001/storytimeline_020001021/12.wav|チームメンバー募集中ですわ～！ 一緒に汗を流しましょう～！
+story/data/02/0001/storytimeline_020001021/20.wav|はっ……はっ……ふっ……。
+story/data/02/0001/storytimeline_020001021/22.wav|……あと3周だけ、ですか？
+story/data/02/0001/storytimeline_020001021/15.wav|しかも、今ならもれなくチーム＜シリウス＞のメンバーになれる 特典付きですわー！　さあ、そこの貴方！　いかがです！？
+story/data/02/0001/storytimeline_020001021/0.wav|チーム解散ってどういうことですのぉぉ！？
+story/data/02/0001/storytimeline_020001021/17.wav|ちょっ、なに冷静に分析してますの！ もっと危機感を持ってくださいまし！
+story/data/02/0001/storytimeline_020001021/23.wav|……なるほど。 承知いたしましたわ。
+story/data/02/0001/storytimeline_020001021/10.wav|ふんっ、上等ですわ！ チームメンバーなんてすぐにでも集めてみせます！
+story/data/02/0006/storytimeline_020006141/38.wav|ええ、いくらでも力になりますわ。 “日本一のウマ娘”になった姿を見せてくださいませ。
+story/data/02/0006/storytimeline_020006141/22.wav|そんなスペシャルウィークさんにプレゼント―― といいますか、素敵なお知らせがありますのよ。
+story/data/02/0006/storytimeline_020006151/58.wav|ふふっ、チームに入った時からずっと変わらず、 目標がとても大きいですわね、スペシャルウィークさんは。
+story/data/02/0006/storytimeline_020006151/41.wav|気持ちの充実ですか……。
+story/data/02/0006/storytimeline_020006151/42.wav|『天皇賞（春）』を志して、トレーナーさんと試行錯誤した あの時の感覚を思い出しますわ。
+story/data/02/0006/storytimeline_020006151/43.wav|“夢に向かっている”という感覚を、 スペシャルウィークさんも感じているのかもしれませんわね。
+story/data/02/0006/storytimeline_020006151/39.wav|張り切っていますわね、スペシャルウィークさん。
+story/data/02/0006/storytimeline_020006181/14.wav|……1度、休憩を入れましょうか？
+story/data/02/0006/storytimeline_020006211/23.wav|やはり、少し緊張いたしますか？
+story/data/02/0006/storytimeline_020006211/80.wav|チーム＜シリウス＞のメンバーたる走りを…… 夢を掴む姿を見せてくださいませ、スペシャルウィークさん。
+story/data/02/0006/storytimeline_020006211/78.wav|ライスさんやチケットさん、ブライアンさんにスズカさんが レースに臨む時も、あのような凛々しさを感じたなと。
+story/data/02/0006/storytimeline_020006211/79.wav|夢を掴んでみせる……ずっと続いていますのね。 ウマ娘を1番に考えるトレーナーと、それに応えるウマ娘の想い。
+story/data/02/0006/storytimeline_020006211/25.wav|日本のウマ娘として、もっとも期待を受けているのが スペシャルウィークさんですものね。
+story/data/02/0006/storytimeline_020006211/75.wav|…………。
+story/data/02/0006/storytimeline_020006211/77.wav|いえ、スペシャルウィークさんを見て、 思い出したといいますか……。
+story/data/02/0006/storytimeline_020006211/26.wav|ですが、裏を返せば日本のウマ娘としてもっとも実力を 持ち合わせているとも言えます。胸を張ってくださいませ。
+story/data/02/0006/storytimeline_020006213/16.wav|なにせスペシャルウィークさんを応援する声が、 スタンド中を埋め尽くしていたのですから。
+story/data/02/0006/storytimeline_020006213/15.wav|出走していたご本人にこんなことを言うのもおかしいですが、 スタンドの一体感を味わっていただきたかったですわ。
+story/data/02/0006/storytimeline_020006213/40.wav|ですが、この光景もまた＜シリウス＞らしいですわ。
+story/data/02/0006/storytimeline_020006213/39.wav|ふふっ、まったく締まりませんわね……。
+story/data/02/0006/storytimeline_020006213/41.wav|また1人、このチームで夢を叶えたということです。
+story/data/02/0006/storytimeline_020006221/0.wav|ここにいましたの、トレーナーさん。 まだメインレースの本バ場入場まで時間がありますのに。
+story/data/02/0006/storytimeline_020006221/43.wav|トレーナーさんも声をかけてあげてくださいませ。
+story/data/02/0006/storytimeline_020006221/1.wav|……ふふっ、今の＜シリウス＞が始まったのも、 この大舞台の日の、この場所でしたわね。
+story/data/02/0006/storytimeline_020006221/5.wav|トレーナーさんがいてくれたから、私たちは今日も走るんですわ。
+story/data/02/0006/storytimeline_020006221/44.wav|スペシャルウィークさんが今日のレースでまた、 誰かにとっての“日本一のウマ娘”になれるように。
+story/data/02/0006/storytimeline_020006221/3.wav|それを言うなら、私も―― そしてチームの皆さんもきっと同じですわ。
+story/data/02/0006/storytimeline_020006221/2.wav|……本当に、そうですわね。
+story/data/02/0006/storytimeline_020006221/4.wav|いつもウマ娘に寄り添い、支えてくれるトレーナーさんが いてくれたからこそ、ここまで走り続けられたんです。
+story/data/02/0006/storytimeline_020006221/47.wav|さあ、私たちも応援しますわよ！
+story/data/02/0006/storytimeline_020006231/4.wav|やめてくださいませ！　厳かな場ですのよ、ここは！
+story/data/02/0006/storytimeline_020006231/10.wav|あっという間に駆け抜けた気もしますけど、 振り返ってみるといろいろなことがありましたわね。
+story/data/02/0006/storytimeline_020006232/0.wav|安いですわよー！　安いですわよー！ 穫れたてのにんじんがお買い得ですわよー！
+story/data/02/0006/storytimeline_020006161/48.wav|珍しくゴールドシップさんがまともなことを仰っていますが、 まずは自分の走りに徹する――ですわ。
+story/data/02/0006/storytimeline_020006161/42.wav|さあ、取りに行きますわよ、『宝塚記念』を！
+story/data/02/0006/storytimeline_020006161/41.wav|私も、できることがあれば協力させていただきますわ。 チームメイトの勝利は何度でも見たいですから。
+story/data/02/0006/storytimeline_020006161/38.wav|状態も、それに気持ちの方も申し分ないようですわね。
+story/data/02/0006/storytimeline_020006191/52.wav|ふふっ……よろしければ、私たちも 混ぜていただこうかと思いまして。
+story/data/02/0004/storytimeline_020004121/28.wav|性格もまるで違うお2人ですけど、互いのレースを意識し合ったり、 共に“年度代表ウマ娘”に選ばれたり、欠かせない存在ですわね。
+story/data/02/0004/storytimeline_020004121/51.wav|まさかのご指名ですわね……彼女はブライアンさんと同じく、 クラシック級で『有馬記念』を制覇するほどの実力者ですわ。
+story/data/02/0002/storytimeline_020002021/1.wav|いえ、こちらをじっと見ている方がいるので……。
+story/data/02/0002/storytimeline_020002021/28.wav|ええ、ライスさんのスタミナは必ず武器になりますわ。
+story/data/02/0002/storytimeline_020002021/36.wav|ふぅ……。
+story/data/02/0002/storytimeline_020002021/38.wav|……あの、ライスさん。
+story/data/02/0002/storytimeline_020002021/40.wav|今日もまた、一緒に寝ますの？ 私生活にまでついてくる意味が、私にはわからないのですが……。
+story/data/02/0002/storytimeline_020002021/0.wav|さあ、今日のトレーニングはこのくらいで……って、あら？
+story/data/02/0002/storytimeline_020002021/34.wav|…………。
+story/data/02/0002/storytimeline_020002021/21.wav|ダービーに出走するウマ娘の中で本命視されているのが、 ここまで無敗の“ミホノブルボン”さん……。
+story/data/02/0002/storytimeline_020002021/42.wav|（……絶対にこういうことじゃないですわ）
+story/data/02/0002/storytimeline_020002021/3.wav|トレーナーさんのお知り合いですか？
+story/data/02/0002/storytimeline_020002021/25.wav|はぁ……はぁ……。
+story/data/02/0002/storytimeline_020002021/22.wav|機械のように正確なペースで逃げの展開を打つ、 驚異的な実力者ですわ。
+story/data/02/0002/storytimeline_020002021/5.wav|なんですの！？　そのロクでもない名前の催しは！？ そんなのやりませんわよ！
+story/data/02/0002/storytimeline_020002021/23.wav|そんな彼女に勝つためにも、ライスさんには私に離されぬよう しっかり着いてきていただきます。
+story/data/02/0002/storytimeline_020002021/30.wav|それでは皆さん、ごきげんよう。
+story/data/02/0003/storytimeline_020003031/6.wav|な、なにを言ってますのっ！？　食事はオマケですわ！ とにかく今は集中です！　集中っ！
+story/data/02/0003/storytimeline_020003031/34.wav|この熱に、トレーナーさんもお応えしないとですわね。
+story/data/02/0003/storytimeline_020003031/2.wav|チームメイトの晴れ舞台ですもの。 今日来られなかった方々の分も、精いっぱい応援いたしますわ。
+story/data/02/0003/storytimeline_020003031/36.wav|まさかの連闘ですのっ！？ 思った以上に大変ですのよ、あれは！！
+story/data/02/0003/storytimeline_020003031/4.wav|メロンパフェっ！　メロンパフェもお忘れなくっ！
+story/data/02/0003/storytimeline_020003031/26.wav|お友だちに励まされたと、おっしゃってましたわ。 チケットさんの夢を理解してくださる、素敵なご友人ですのね。
+story/data/02/0003/storytimeline_020003031/41.wav|チケットさんの影響でしょう。 お2人がどのような物語を紡ぐのか、楽しみですわ。
+story/data/02/0006/storytimeline_020006091/30.wav|さあ、スズカさんも勝負服に着替えますわよ。 しっかりと気合いを入れて、ぜひとも海外での活躍を。
+story/data/02/0006/storytimeline_020006091/23.wav|転入時から一緒だったスズカさんと別れるとなると、 多少の動揺はあると思っておりましたが……。
+story/data/02/0006/storytimeline_020006091/27.wav|ふふっ、面白そうですわね。 ＜シリウス＞がおかしなことを始めたと言われそうですが。
+story/data/02/0006/storytimeline_020006091/22.wav|もはや説明が要らないほどわかりやすく動揺してますわね。
+story/data/02/0006/storytimeline_020006091/33.wav|それでは最後、コースを1周して上がりましょう。
+story/data/02/0006/storytimeline_020006091/28.wav|スズカさん……ウマ娘を支え、夢を掴ませるのが ＜シリウス＞というチームですわ。
+story/data/02/0006/storytimeline_020006101/57.wav|貴方は『阪神大賞典』を語る前に、 まずはデビューを果たしてくださいませ！
+story/data/02/0006/storytimeline_020006101/58.wav|それにしましても、フライトの日がレースと重なるだなんて スズカさんも残念でしょうね……。
+story/data/02/0006/storytimeline_020006101/13.wav|トレーナーさんにスペシャルウィークさん、 相手に一切の抜かりはないようですわ。
+story/data/02/0006/storytimeline_020006101/4.wav|ええ、『天皇賞（春）』の前哨戦として。
+story/data/02/0006/storytimeline_020006101/61.wav|そうでしたの。 それは、なんとしても勝利しないとですわね。
+story/data/02/0006/storytimeline_020006101/1.wav|ライアンにブライト、貴方がたもこれからトレーニングですか。
+story/data/02/0006/storytimeline_020006101/10.wav|……まさに王者の貫禄ですわね。
+story/data/02/0003/storytimeline_020003061/15.wav|ふふふっ、喜んでばかりもいられませんわよ。 タイシンさんの好調ぶりは話題になっているくらいですから。
+story/data/02/0005/storytimeline_020005133/5.wav|本当に、とんでもない走りを見せていただきましたわ。 こちらまで走りだしたくなるような走りを。
+story/data/09/0003/storytimeline_090003001/33.wav|なっ……もう、余計なお世話ですわ！ ……いずれにせよ、皆さん私しか見えなくなりますもの。
+story/data/09/0003/storytimeline_090003001/30.wav|まったく、会長はまだお話し中でしたのに…… 貴方って本当に目立ちたがりですわね。
+story/data/09/0016/storytimeline_090016002/2.wav|（言えませんわ……あの時の二の舞になってしまう。 もう、周りへ迷惑をかけるのは……）
+story/data/09/0016/storytimeline_090016002/38.wav|まさか。やると決めたからには全力です。 メジロの名に相応しい結果を残してみせますわ。
+story/data/09/0016/storytimeline_090016002/8.wav|しょうもない……？　私が、ですか？ 私はメジロのウマ娘として、きちんと己を律しようと……！
+story/data/09/0016/storytimeline_090016002/3.wav|……そ、そうでしたか。ありがとうございます。 存分に羽を伸ばして参りますわね。
+story/data/09/0016/storytimeline_090016002/5.wav|たまたま予定が空いていたからいいものの…… もう、ゴールドシップさんってば勝手すぎます。
+story/data/09/0016/storytimeline_090016002/40.wav|あら、誰に仰っていますの？ 私をお誘いになったこと、後悔なさいませ。
+story/data/09/0016/storytimeline_090016002/10.wav|……っ。
+story/data/09/0016/storytimeline_090016002/32.wav|使いませんからご安心なさいな。 予選の4種目は案内に書いてありましたでしょう？
+story/data/09/0016/storytimeline_090016002/12.wav|……っ。ですが、私は……。
+story/data/09/0016/storytimeline_090016002/1.wav|（せ、先生、仕事が早すぎですわ……！ うう……今さらキャンセルしたいなんて……）
+story/data/09/0016/storytimeline_090016002/4.wav|――結局、参加することになってしまいましたわ。 
+story/data/09/0016/storytimeline_090016003/33.wav|行きませんっ！　……まったく貴方は。 はしゃぎすぎて周りに迷惑をかけないようになさいませ。
+story/data/09/0016/storytimeline_090016003/34.wav|私も……ですが。メジロのウマ娘として 羽目を外し過ぎないようにいたしませんと……。
+story/data/09/0016/storytimeline_090016003/23.wav|わぷっ！　水をかけないでくださいまし！
+story/data/09/0016/storytimeline_090016003/9.wav|っとと！　あと少し……！ このまま1着でっ……きゃあぁっ！
+story/data/09/0016/storytimeline_090016003/28.wav|あれだけふざけていたのに、まさか貴方も勝ち残るとは……。 『自由形200m』なんてロクに泳がずビリだったじゃありませんの。
+story/data/09/0016/storytimeline_090016003/2.wav|ふぅっ、メジロの名に相応しい結果を残せましたわ。 それより……貴方の憧れのあのお方も、お強いようですわよ？
+story/data/09/0016/storytimeline_090016003/24.wav|（もうっ、本当にいつも好き放題なんですから。 イベントごとでも、節度は守らないといけませんのに……）
+story/data/09/0016/storytimeline_090016003/6.wav|はぁっ――！　ほっ、はぁっ！！
+story/data/09/0016/storytimeline_090016004/16.wav|その大荷物……またなにか余計なものを買ってきましたのね？ まったく、連日浮かれて……はぁ。
+story/data/09/0016/storytimeline_090016004/35.wav|いい機会ですわ。貴方の素っ頓狂なわがままぶりは、 以前から目に余ると思っておりました……。
+story/data/09/0016/storytimeline_090016004/36.wav|ゴールドシップさん。私が勝ったら、 しばらくのあいだ大人しくする……と約束していただきますわ！
+story/data/09/0016/storytimeline_090016004/23.wav|そ、そんな顔してもダメですわっ！
+story/data/09/0016/storytimeline_090016004/33.wav|賭けで決着……？ なるほど、確かにこのままでは平行線ですものね。
+story/data/09/0016/storytimeline_090016004/27.wav|はっ、ナカヤマさん！　申し訳ございません、お騒がせして……。
+story/data/09/0016/storytimeline_090016004/19.wav|もちろん競技には本気を出しますわ。ですが私は、 遊びほうけて周りに迷惑をかけたりしたくありませんの。
+story/data/09/0016/storytimeline_090016004/30.wav|ですから、貴方がわがまますぎるんです！
+story/data/09/0016/storytimeline_090016004/25.wav|んも～っ！　そんなの知りませんわっ！ わがままもいい加減になさいましーーーっ！
+story/data/09/0016/storytimeline_090016004/21.wav|……っ。放っておいてくださいまし。 貴方にとやかく言われることではありませんわ。
+story/data/09/0016/storytimeline_090016006/40.wav|まあ、ちゃんと勝ち残ってくださいましたのね。 そうでなければ肩透かしですわ……！
+story/data/09/0016/storytimeline_090016006/7.wav|（私は、あんなふうにハメを外したりはいたしませんわ。 メジロ家のウマ娘として、優雅に勝ちます……）
+story/data/09/0016/storytimeline_090016006/43.wav|（他の生徒たちも見ているのですから、きちんとしませんと。 賭けはあくまで個人間のこと……熱くなりすぎてはダメ）
+story/data/09/0016/storytimeline_090016006/41.wav|ですが最後に勝つのは私っ！　絶っ対に私ですっ！ 約束通り大人しくしていただきますから、お覚悟を……！
+story/data/09/0016/storytimeline_090016006/44.wav|……メインステージで、あの方を待つといたしましょうか。 そのほうが行事も盛り上がるでしょう。
+story/data/09/0016/storytimeline_090016006/5.wav|……今の声っ！　メインステージにいますのね？ いい度胸ですわ！　今すぐ倒しにいって差し上げま……！！
+story/data/09/0016/storytimeline_090016006/45.wav|私はメジロ家のウマ娘として、 粛々と勝利を収めるのみですわ。
+story/data/09/0016/storytimeline_090016006/42.wav|……っと！　いけませんわね。 あまり私怨をにじませては……。
+story/data/09/0016/storytimeline_090016006/6.wav|ご、ごほんっ……！　まったく、ずいぶんはしゃいでいますこと。 司会者さんにもご迷惑じゃありませんの……。
+story/data/09/0016/storytimeline_090016007/43.wav|――おっ黙りなさぁーーーっい！ 試合放棄なんて許しませんわーーっ！
+story/data/09/0016/storytimeline_090016007/20.wav|ゴ、ゴールドシップさん！？
+story/data/09/0016/storytimeline_090016007/37.wav|（思えば……記者の方々だって、嫌な顔ひとつせず 私の希望を聞いてくださったじゃありませんの……）
+story/data/09/0016/storytimeline_090016007/52.wav|貴方が勝ったら、他の遊びにも付き合って差し上げますわ！ 大王イカ探しだって、蹴鞠だってお付き合いします！
+story/data/09/0016/storytimeline_090016007/41.wav|……ゴールドシップさん、よろしいですか？ こほんっ……。
+story/data/09/0016/storytimeline_090016007/24.wav|あ、飽きた……？　なにを仰いますの？ ほら早くお立ちなさいっ、起きないと撃ちますわよ。
+story/data/09/0016/storytimeline_090016007/10.wav|なにが『というわけで』ですの？ 皆さん困惑していらっしゃるじゃありませんの。
+story/data/09/0016/storytimeline_090016007/34.wav|（わがまま……だから？　彼女の破天荒ぶりなんか、 皆さんはとっくに受け入れている、ということ……？）
+story/data/09/0016/storytimeline_090016007/36.wav|（『わがままを言ったら迷惑』…… なんて、気にしすぎだったのでしょうか？）
+story/data/09/0016/storytimeline_090016007/35.wav|（…………）
+story/data/09/0016/storytimeline_090016007/49.wav|帰るなんて許しませんわ！ 本気で勝負なさい！　賭けの決着をつけますわよ！
+story/data/09/0016/storytimeline_090016007/15.wav|時間が押していますわ。 お喋りはこのくらいにして、始めましょう。
+story/data/09/0016/storytimeline_090016007/17.wav|なっ、なんですの？　急に叫んで……っ。
+story/data/09/0016/storytimeline_090016007/11.wav|戦う前に1つよろしいですか？　私たちは賭けをしていますが、 それ以前にこれは学園主催の行事であることをお忘れなく。
+story/data/09/0016/storytimeline_090016007/38.wav|（そうですわ。私のわがままを……至らぬ点を…… 笑って受け入れてくださっていたじゃ、ありませんの……）
+story/data/09/0016/storytimeline_090016007/39.wav|……私は、今までなにを遠慮していたのでしょう。 まだまだ、未熟者ですわね……！
+story/data/09/0016/storytimeline_090016007/0.wav|――すぅっ……ふぅ……。
+story/data/09/0016/storytimeline_090016007/33.wav|皆さん、なぜあんなに楽しそうに……。
+story/data/09/0016/storytimeline_090016007/46.wav|貴方、気まぐれが過ぎますのよっ！！ 飽きたってなんなんですのっ！　いい加減になさいませっ！！
+story/data/09/0016/storytimeline_090016007/48.wav|前言撤回ですっ！　そんなことより、 貴方にお灸をすえるほうが大事だと気づきましたの！
+story/data/09/0016/storytimeline_090016007/26.wav|なんてわがままな……あのですね、 もう少し周りの迷惑をお考えになって――
+story/data/09/0016/storytimeline_090016007/28.wav|……っ！　え……？
+story/data/09/0016/storytimeline_090016007/13.wav|私は熱くなりすぎて周りを見失うような戦い方はしません。 見ている皆さんに恥じない勝利を目指しますので、そのつもりで。
+story/data/09/0016/storytimeline_090016008/36.wav|騒がしくするのは禁止です。普通の話をなさいませ。 本当に訳のわからない方なんですから……。
+story/data/09/0016/storytimeline_090016008/5.wav|はっ……弾切れっ！？　給水スポットは……！？
+story/data/09/0016/storytimeline_090016008/39.wav|あまり調子に乗らないでくださいませ。 ですが……そうですわね――
+story/data/09/0016/storytimeline_090016008/52.wav|でも、その間は動かないでくださいませ。 しばらく、このまま……。
+story/data/09/0016/storytimeline_090016008/51.wav|大人しくするのは、 この夕日が沈むまででかまいませんわ。
+story/data/09/0016/storytimeline_090016008/10.wav|（負けませんわっ！　勝つのは……！）
+story/data/09/0016/storytimeline_090016008/47.wav|（あの時、急に『飽きた』なんて言われなければ…… この方の態度に爆発していなければ……私は、きっと今も……）
+story/data/09/0016/storytimeline_090016008/45.wav|なんですのそれ？ つつかれるほうの身にもなってくださいまし。
+story/data/09/0016/storytimeline_090016008/34.wav|完全に無言でなくとも、構いませんのよ？
+story/data/09/0016/storytimeline_090016008/54.wav|いいんです……だって、夏ですもの！
+story/data/09/0016/storytimeline_090016008/56.wav|ふふっ、ほら、動いちゃダメですわっ！ うふふふふ……っ！
+story/data/09/0016/storytimeline_090016008/50.wav|…………ゴールドシップさん。
+story/data/09/0016/storytimeline_090016008/37.wav|だけど今回ばかりは……そんな貴方に気づかされましたわ。 こういうことも、あるんですのね……。
+story/data/09/0016/storytimeline_090016008/15.wav|『大人しくする』というのはそういうことではない、 と言いたいところですが……。
+story/data/09/0016/storytimeline_090016008/2.wav|なんですってぇっ！　このっ……！ これで、どうですのーーーっ！！
+story/data/09/0016/storytimeline_090016008/20.wav|意味がわかりませんわ……って、なんですのそれ？ ちょっ、かけませんわよ！　かけませんわよそんなものーっ！！
+story/data/09/0016/storytimeline_090016008/32.wav|ふぅ……！　さすがにくたくたですわね……。 でも……ふふふっ……！
+story/data/09/0016/storytimeline_090016008/16.wav|喋らないでいただくだけでも、ずいぶん静かになりましたわね。 ふふふっ！　今後しばらくは落ち着いて暮らせそうです。
+story/data/09/0016/storytimeline_090016008/42.wav|別に、思ったことを言ったまでですわ。 貴方こそ、今回はやけにしつこく絡んで来たじゃありませんの？
+story/data/09/0016/storytimeline_090016008/18.wav|なんですの？　文句は受けつけませんわよ。
+story/data/09/0016/storytimeline_090016008/8.wav|ふんっ！　この私にスタミナ勝負を挑むおつもり？ ――はあぁあぁーーーーーーっ！！
+story/data/09/0016/storytimeline_090016008/46.wav|（でも……それってつまり、 私の様子が変だったから構ってきた、ということでは……？）
+story/data/09/0016/storytimeline_090016008/40.wav|少しだけ、ですが……感謝いたしますわ。 いろいろありましたが、貴方と参加できて、よかったです……。
+story/data/09/0016/storytimeline_090016008/48.wav|……ふっ。なんて……。 貴方の真意など考えるだけ無駄ですわね。
+story/data/09/0024/storytimeline_090024073/10.wav|アルダンさんならば想定済みでしょう？ この直接対決も。
+story/data/09/0016/storytimeline_090016001/46.wav|あら、そんな条件で賭けを……。 『スプラッシュ・レク』、貴方もご参加なさるのですね？
+story/data/09/0016/storytimeline_090016001/6.wav|そうですわね、ミルクティーに合う紅茶など…… 最近は『ハロウス』のバニラブレンドが気に入っておりますの。
+story/data/09/0016/storytimeline_090016001/14.wav|ええ、とても……って、そうではなくてですね！ これでは私が『スイーツ大好き』みたいじゃありませんの。
+story/data/09/0016/storytimeline_090016001/10.wav|ご、ごほんっ！　私は、それほど頻繁にはいただきませんが。 お茶会でお出しする品は吟味しておりますので……。
+story/data/09/0016/storytimeline_090016001/48.wav|はい？　今なんと！？
+story/data/09/0016/storytimeline_090016001/23.wav|…………。
+story/data/09/0016/storytimeline_090016001/1.wav|私、こんなにスイーツのお話ばかりした覚えは…… いえっ、少しはしたかもしれませんが……。
+story/data/09/0016/storytimeline_090016001/42.wav|まったく……相変わらず騒がしいですわね。 
+story/data/09/0016/storytimeline_090016001/29.wav|いえ、私は通りかかっただけですのよ。 『スプラッシュ・レク』……ですか。チヨノオーさんはご参加を？
+story/data/09/0016/storytimeline_090016001/39.wav|あの声は……？
+story/data/09/0016/storytimeline_090016001/22.wav|まあ……っ、恐れ入ります。 私の勝手で、その……お手数をおかけいたしますわ。
+story/data/09/0016/storytimeline_090016001/26.wav|ですが……わがまま、でしたわよね……。 今後は、メジロ家のウマ娘としてもっと慎まなければ――！
+story/data/09/0016/storytimeline_090016001/3.wav|違いますわ！　先日受けたインタビュー記事の確認です。 ですが……これは由々しき事態です……！
+story/data/09/0016/storytimeline_090016001/36.wav|な、なるほど……？ 素敵なサマーウォークを過ごせるといいですわね。
+story/data/09/0016/storytimeline_090016001/17.wav|とにかく！　これはNGですわ。 スイーツのくだりはカットしていただきませんと。
+story/data/09/0016/storytimeline_090016001/12.wav|おっ、音読なさらないでくださいませっ！
+story/data/09/0016/storytimeline_090016001/7.wav|豊かな甘い香りと、それに負けないしっかりした渋みが 焼き菓子にも生菓子にもよく合って……とても美味ですのよ。
+story/data/09/0016/storytimeline_090016001/24.wav|……本当に、大丈夫だったのでしょうか？ スイーツのお話は、確かに私の口から出たものなのに……。
+story/data/09/0016/storytimeline_090016001/4.wav|――休日の過ごし方、ですか？ 友人たちとお茶会をすることが多いですわ。
+story/data/09/0016/storytimeline_090016001/20.wav|それでしたら私としても問題ありません。 ですが、いいのですか？　大幅な修正になってしまうのでは……？
+story/data/09/0016/storytimeline_090016001/50.wav|わっ……私の参加届を勝手に！？ ちょっと！　お待ちなさ～～～～いっ！
+story/data/09/0016/storytimeline_090016001/16.wav|うぅっ……！　ですがっ…… そのまま書かれてしまいますと……。
+story/data/09/0016/storytimeline_090016001/33.wav|まあ、穴場と名高いリゾート地ではありませんの。 静かで美しい島だと聞きましたわ。
+story/data/09/0016/storytimeline_090016001/25.wav|いえ！　それでもダメなものはダメですわっ。 あのまま世に出ては困ります……！
+story/data/09/0016/storytimeline_090016001/9.wav|ええ、とても……！　特にいちごショートとの相性は抜群ですわ！ まさに最高のマリアージュで……はっ！
+story/data/09/0016/storytimeline_090016001/0.wav|なっ、なんですの、これは～～～っ！？
+story/data/09/0016/storytimeline_090016005/29.wav|なんですの？　今の悲鳴は……！
+story/data/09/0016/storytimeline_090016005/42.wav|な、なんて大博打を…… って！　彼女はまだ近くに……！？
+story/data/09/0016/storytimeline_090016005/46.wav|貴方ときたら、まったく……！ わかりました。ではお望み通り冷やして差し上げますわ。
+story/data/09/0016/storytimeline_090016005/18.wav|ゴールドシップさん、 約束、忘れてはおりませんよね？
+story/data/09/0016/storytimeline_090016005/44.wav|ひゃっ！　まあっ、砂まみれじゃありませんの！ ナカヤマさん、大丈夫ですの！？
+story/data/09/0016/storytimeline_090016005/27.wav|はぁっ、はぁっ……隠れ潜みながら進むのは、 けっこう体力を削られますのね……。
+story/data/09/0016/storytimeline_090016005/26.wav|（まずは、冷静に敵の数を減らして参りましょう。 ゴールドシップさんを狙うのは、その後ですわ……！）
+story/data/09/0016/storytimeline_090016005/30.wav|こ、これは一体……？　皆さん、なぜ座り込んで…… まさか、もう3人とも失格に……？
+story/data/09/0016/storytimeline_090016005/32.wav|ナカヤマさんが……！？
+story/data/09/0016/storytimeline_090016005/47.wav|えいっ……！ メジロ家のウマ娘としては、少し不本意な勝ち方ですわね。
+story/data/09/0024/storytimeline_090024002/43.wav|ああ、もしやボランティアの？ 希望者へのレッスンの日程が決まりましたのね。
+story/data/09/0024/storytimeline_090024002/34.wav|っ、当然ですっ！！ 次っ、いきますわよ！
+story/data/09/0024/storytimeline_090024002/32.wav|テイオーさんっ！
+story/data/09/0024/storytimeline_090024004/45.wav|今日の午後、お時間はございますでしょうか。 私、貴方にお話したいことがございまして。
+story/data/09/0024/storytimeline_090024004/44.wav|もし。サクラチヨノオーさん。
+story/data/09/0024/storytimeline_090024005/23.wav|しかし、1度アルダンさんが貴方を“特別”だと思う理由を 探してからでも、遅くないのではなくて？
+story/data/09/0024/storytimeline_090024005/33.wav|テイオーさん、どうして隠れているのです？ 覗き見だなんて感心しませんわね。
+story/data/09/0024/storytimeline_090024005/28.wav|ええ。貴方とならなれると、信じていたからでしょう。
+story/data/09/0024/storytimeline_090024005/19.wav|きっとアルダンさんも同じ。己の時間を割くことを考慮すれば、 ことさら慎重に、デートに値するウマ娘を選んだことでしょう。
+story/data/09/0024/storytimeline_090024005/20.wav|半端な思いで、貴方の手を取るわけがございませんわ。
+story/data/09/0024/storytimeline_090024005/18.wav|私はドロワのデートには、私を最も生かし成長させてくれる 相手こそが相応しいと考え、今回の相手を選びました。
+story/data/09/0024/storytimeline_090024005/36.wav|……ええ。そんな彼女を誰が凡才だなんて思うのかしら。 それ自体が才能だというのに。
+story/data/09/0024/storytimeline_090024005/0.wav|……ウバはお口に合いませんでしたか？
+story/data/09/0024/storytimeline_090024005/3.wav|率直に申し上げます。アルダンさんは、体こそ脆いものの、 まぎれもないメジロ家の誇る俊傑の1人です。
+story/data/09/0024/storytimeline_090024005/25.wav|それとも、アルダンさんは 貴方を“特別”扱いされていませんでしたか？
+story/data/09/0024/storytimeline_090024005/30.wav|アルダンさんが思う貴方の強さは、 私たちに匹敵するか、それ以上だと思っていたのでしょう。
+story/data/09/0024/storytimeline_090024005/39.wav|……そうして刺激が与えられたなら、 私たちはより高みを目指して成長する。
+story/data/09/0024/storytimeline_090024005/17.wav|メジロ家では学園での行事、ひとつにおいても 己の糧にできるようという教えがございます。
+story/data/09/0024/storytimeline_090024005/4.wav|己に与えられた時間を1秒たりとも無駄にせず、 自らの理想を叶えるためなら、どのような辛抱すらもいとわない。
+story/data/09/0024/storytimeline_090024005/40.wav|ライバルがいるから、私たちはさらに強くなる。
+story/data/09/0024/storytimeline_090024005/8.wav|私がメジロ家のウマ娘として立つにあたり、 教えを受けた尊敬すべきお姉さまの1人です。
+story/data/09/0024/storytimeline_090024005/13.wav|……貴方がそう思っていたとしても、 アルダンさんは貴方を選んだのです。
+story/data/09/0024/storytimeline_090024005/5.wav|……そして優しいお方。昔、病床に伏せがちだった幼い私にも、 ダンスの基礎を教えてくださった。
+story/data/09/0024/storytimeline_090024005/2.wav|……そうですわね。用を済ませてしまいましょう。 顔をあげて、ついて来てくださいませ。
+story/data/09/0024/storytimeline_090024005/7.wav|ええ。体の筋肉がどのように動いているか、 意識を強めるには、ダンスがよいと仰って。
+story/data/09/0024/storytimeline_090024005/22.wav|それでも貴方が、ご自身を“普通”だと思う理由を探したいのなら 構いません。どうぞご自由に。
+story/data/09/0024/storytimeline_090024005/11.wav|なぜ、そこで俯くのですか。チヨノオーさん。
+story/data/09/0024/storytimeline_090024005/32.wav|ごきげんよう、チヨノオーさん。 ………………それで。
+story/data/09/0024/storytimeline_090024005/14.wav|貴方こそが、自分にとっての“特別”なデートだと。
+story/data/09/0024/storytimeline_090024008/48.wav|それでテイオーさん。 マルゼンさんに頼まれた言付けは彼女に伝えたんですか？
+story/data/10/0000/storytimeline_100000007/1.wav|ええ、そうですわね！　いよいよ私たちの、 記念すべき『WINNING DREAM STAGE』の幕が――
+story/data/10/0000/storytimeline_100000007/3.wav|なにを始めようとしていますの！？ 私たちがこれからするのはラ・イ・ブ！　ライブですからっ！！
+story/data/10/0000/storytimeline_100000007/14.wav|『記念する』とは、過去を想うだけでなく、 未来を切り開くことでもあらねばなりません。
+story/data/10/0000/storytimeline_100000007/13.wav|……いえ、まあ。言動自体は相変わらず理解に苦しみますが、 ゴールドシップさんの言うことも一理……0.2理程度はありますわ。
+story/data/10/0000/storytimeline_100000008/12.wav|褒めていませんわよっ！！
+story/data/10/0000/storytimeline_100000008/14.wav|そ、そんな係は不要ですわ！　メジロの名に恥じない 完璧な自制をこそ、ご覧に入れて差しあげますっ。
+story/data/10/0000/storytimeline_100000008/10.wav|……よくもまあそう口から出まかせをポンポン言えますわね。 いっそ感心してしまいますわ……。
+story/data/10/0001/storytimeline_100001001/46.wav|テイオーさん？　……なにをご覧になっていましたの？
+story/data/10/0001/storytimeline_100001001/48.wav|……楽しみ、ですか？
+story/data/04/1007/storytimeline_041007001/17.wav|けれど、どうして貴方が 追いかけられることになったのでしょう？
+story/data/04/1007/storytimeline_041007001/21.wav|とにかく、なかなかトレーナーが付かず 無理やり捕まえようとしたのでしょうね……。
+story/data/04/1007/storytimeline_041007001/19.wav|ウマ娘が正式なレースに出るには、 トレーナーの存在が必要不可欠。
+story/data/04/1007/storytimeline_041007001/24.wav|絡まれると厄介ですので、私はここで失礼いたします。 貴方もどうかお気をつけて……！
+story/data/04/1007/storytimeline_041007001/20.wav|けれどゴールドシップさんは、掴みどころがないと言いますか、 掴みきれないと言いますか、なんと言いますか……。
+story/data/04/1007/storytimeline_041007001/15.wav|随分と息切れしているようですが、 なにかあったのでしょうか。
+story/data/04/1007/storytimeline_041007001/16.wav|まあ、ゴールドシップさんに！？ それは、なんというか……ご愁傷様でしたわ。
+story/data/04/1007/storytimeline_041007001/18.wav|なるほど……あの方、レースに出たいという情熱は しっかりと持っていますものね。
+story/data/04/1007/storytimeline_041007001/14.wav|そこの貴方……大丈夫ですか？
+story/data/04/1007/storytimeline_041007001/23.wav|まあっ……こちらに来たようですわ！
+story/data/04/1013/storytimeline_041013002/0.wav|はぁ……はぁっ、はぁ……っ。
+story/data/04/1013/storytimeline_041013002/9.wav|だというのに、なぜ……？
+story/data/04/1013/storytimeline_041013002/3.wav|えっ！？
+story/data/04/1013/storytimeline_041013002/34.wav|その……申し訳ございません！ もう1周、走って参ります！
+story/data/04/1013/storytimeline_041013002/21.wav|立派な家族に囲まれ、代々応援してくださる方々に 期待をかけていただき……。
+story/data/04/1013/storytimeline_041013002/19.wav|私を、メジロの名に相応しいウマ娘として 育てていただけるか否かを。
+story/data/04/1013/storytimeline_041013002/13.wav|……けれど。私をご担当いただくか否かは、 ぜひ、走りを見てご判断くださいませ。
+story/data/04/1013/storytimeline_041013002/6.wav|光栄ですわ。 ご足労いただき、感謝いたします。
+story/data/04/1013/storytimeline_041013002/25.wav|ありがとうございます。先日は少々情けない姿を お見せしましたが……ここで挽回させてくださいませ！
+story/data/04/1013/storytimeline_041013002/32.wav|……うぅ。
+story/data/04/1013/storytimeline_041013002/30.wav|ふぅっ……ふぅっ…… いかがでしたか、私のトレーニングは？
+story/data/04/1013/storytimeline_041013002/4.wav|貴方は…… すみません、どちら様ですか？
+story/data/04/1013/storytimeline_041013002/22.wav|そのおかげで今、私はここに立てています。
+story/data/04/1013/storytimeline_041013002/15.wav|はい。 ――『天皇賞の制覇』という目標です。
+story/data/04/1013/storytimeline_041013002/10.wav|心……なるほど。精神的な面を見ていただけたのですね。 ありがとうございます。
+story/data/04/1013/storytimeline_041013002/1.wav|……ダメですわね。 脚にうまく力が伝わらない……昨日と同じ、イヤな感覚……。
+story/data/04/1013/storytimeline_041013002/20.wav|ええ！　私は――この家に生まれたことを、 とても幸せに思っておりますわ。
+story/data/04/1013/storytimeline_041013002/27.wav|はっ！　はっ！　はっ！　はっ！　はっ！
+story/data/04/1013/storytimeline_041013002/16.wav|それはもちろん、トレーナーさんとの 適切な信頼関係も無ければ果たせないもの。
+story/data/04/1013/storytimeline_041013002/8.wav|私、先の選抜レースでは、メジロの名に泥を塗ってしまうような 情けない走りしかお見せできませんでした。
+story/data/04/1013/storytimeline_041013002/18.wav|ですから、貴方には…… 走りの方も認めていただいた上で、ご判断願いたいのです。
+story/data/04/1013/storytimeline_041013002/17.wav|言い換えれば、トレーナーさんが私の力を信じられなければ、 成し得ないことなのです。
+story/data/04/1013/storytimeline_041013002/33.wav|あっ、い、いえ！　そういうわけでは！
+story/data/04/1013/storytimeline_041013002/2.wav|…………ふぅ。
+story/data/04/1013/storytimeline_041013002/26.wav|では、行って参りますわ。 メジロ家仕込みのトレーニング、ご覧ください！
+story/data/04/1013/storytimeline_041013002/31.wav|え？ あっ……そ、それは――
+story/data/04/1013/storytimeline_041013002/35.wav|次こそは……っ！
+story/data/04/1013/storytimeline_041013002/28.wav|ふぅっ……。
+story/data/04/1013/storytimeline_041013002/14.wav|私には、メジロの名を持つウマ娘として、 果たさなければならない、高い目標があります。
+story/data/04/1013/storytimeline_041013002/24.wav|そのためにもどうか、 走りの方も認めた上でのご判断を。
+story/data/04/1013/storytimeline_041013002/11.wav|メジロのウマ娘たるもの、 心も常に強く在らねばならない……。
+story/data/04/1013/storytimeline_041013002/12.wav|せめてそちらだけでもお見せできたのなら、 嬉しく思います。
+story/data/04/1013/storytimeline_041013002/23.wav|ですから……勝利を義務付けられたメジロのウマ娘として、 責任を果たしたいのです！
+story/data/04/1013/storytimeline_041013002/5.wav|まあ、トレーナーさん！ もしかして、私のトレーニングをご覧にいらしたのですか？
+story/data/04/1013/storytimeline_041013002/7.wav|けれど……1つ、お聞かせください。 なぜ、私に興味を持っていただけたのですか？
+story/data/04/1013/storytimeline_041013002/29.wav|さあ……もう1本！
+story/data/04/1013/storytimeline_041013003/34.wav|……少々、太りやすいのです。
+story/data/04/1013/storytimeline_041013003/32.wav|わかりました、お話しします。 ……その制限には、理由があるのです。
+story/data/04/1013/storytimeline_041013003/3.wav|……あ、あら？ からだに、ちからが……。
+story/data/04/1013/storytimeline_041013003/4.wav|あっ……！！
+story/data/04/1013/storytimeline_041013003/30.wav|う、そ、それは……。
+story/data/04/1013/storytimeline_041013003/1.wav|メジロのウマ娘として……。 これ以上の失態は許されませんわ……！
+story/data/04/1013/storytimeline_041013003/23.wav|けれど、もう大丈夫ですわ！ すぐにトレーニングを再開して――
+story/data/04/1013/storytimeline_041013003/0.wav|はっ……はっ……。 まだ……まだ、鍛え足りない……！
+story/data/04/1013/storytimeline_041013003/31.wav|……ここまで気にかけてくださっているのですから、 隠すというのも不誠実ですわね……。
+story/data/04/1013/storytimeline_041013003/36.wav|メジロの名を背負って選抜レースに挑む以上、 だらしない体を晒すわけには参りません！
+story/data/04/1013/storytimeline_041013003/29.wav|……いかがでしたか？ 問題ないメニューかと思いますが。
+story/data/04/1013/storytimeline_041013003/39.wav|すみませんが、私はこれで失礼いたします。 今日は……本当に、ご迷惑をおかけして申し訳ございませんでした。
+story/data/04/1013/storytimeline_041013003/2.wav|……脚に力が入らない、だなんて。 言っていられません……！！
+story/data/04/1013/storytimeline_041013003/21.wav|そうでしたか……。 トレーニング中に意識を……。
+story/data/04/1013/storytimeline_041013003/35.wav|普通に食事をしているだけでも、 すぐにお肉がついてしまって。
+story/data/04/1013/storytimeline_041013003/28.wav|え……？ ええ、構いませんが……。
+story/data/04/1013/storytimeline_041013003/33.wav|私は、えっと……体質、といいますか……。
+story/data/04/1013/storytimeline_041013003/27.wav|倒れてしまったのは、私が未熟だからです！ 日々の鍛錬が足りなかっただけですわ！
+story/data/04/1013/storytimeline_041013003/38.wav|……倒れてしまっては本末転倒ですわね。 なにか、対策を考えます。
+story/data/04/1013/storytimeline_041013003/22.wav|大変なご迷惑をおかけしてしまい、 申し訳ございませんでした、トレーナーさん。
+story/data/04/1013/storytimeline_041013003/37.wav|ですから、食事制限を行っていたのですが――
+story/data/04/1013/storytimeline_041013003/25.wav|も……もちろんですわ！　メジロのウマ娘たるもの、食生活を含む 日々の生活も、完璧に整えておりますもの！
+story/data/04/1013/storytimeline_041013003/24.wav|ひゃっ……！？
+story/data/04/1013/storytimeline_041013003/26.wav|ただ……選抜レースのこともありましたし、 多少食事制限はしておりましたが……。
+story/data/04/1013/storytimeline_041013004/10.wav|献立表……脂肪になりにくいメニューを、 こんなにたくさん……トレーナーさんが調べてくださったのですか？
+story/data/04/1013/storytimeline_041013004/20.wav|――ふっ！！
+story/data/04/1013/storytimeline_041013004/14.wav|……ありがとうございます。 まだ担当でさえない私のために、ここまでしてくださって。
+story/data/04/1013/storytimeline_041013004/21.wav|はっ、はっ、はっ、はっ、はっ……！
+story/data/04/1013/storytimeline_041013004/22.wav|ふふっ……体が、軽いですわ……！
+story/data/04/1013/storytimeline_041013004/37.wav|これより、ご指導ご鞭撻のほど、 よろしくお願いいたしますわ。
+story/data/04/1013/storytimeline_041013004/35.wav|ふふっ……頼もしいお答えですわね！
+story/data/04/1013/storytimeline_041013004/19.wav|それでは、トレーニングを始めますので。 ……見ていてくださいませ。
+story/data/04/1013/storytimeline_041013004/25.wav|ふふっ、光栄ですわ！
+story/data/04/1013/storytimeline_041013004/9.wav|わかりました。拝見いたしますわね。
+story/data/04/1013/storytimeline_041013004/7.wav|あら？　貴方は…… またいらしてくださったんですね。
+story/data/04/1013/storytimeline_041013004/1.wav|……いえ、いけませんわ！ 食事は決めたメニューだけに留めなければ……！
+story/data/04/1013/storytimeline_041013004/36.wav|ありがとうございます。 それでは、トレーナーさん。
+story/data/04/1013/storytimeline_041013004/26.wav|力が出せたのは……あの献立表のおかげです。
+story/data/04/1013/storytimeline_041013004/29.wav|おかげで、スイーツも口にできて…… ふふっ、まだまだ走れそうですわ！
+story/data/04/1013/storytimeline_041013004/13.wav|トレーナーさん……。
+story/data/04/1013/storytimeline_041013004/31.wav|ありがとうございます。 ――では、改めて。
+story/data/04/1013/storytimeline_041013004/27.wav|食事制限というと、どうしても私は 『食べない』方にばかり意識がいきがちだったのですが――
+story/data/04/1013/storytimeline_041013004/34.wav|いかがです？ ――その覚悟は、おありかしら？
+story/data/04/1013/storytimeline_041013004/32.wav|私はメジロのウマ娘。華麗に、優雅に、完璧に勝利することを この名に義務付けられておりますわ。
+story/data/04/1013/storytimeline_041013004/18.wav|1週間ぶりですわね、トレーナーさん。
+story/data/04/1013/storytimeline_041013004/28.wav|あの献立表は食物の特性をよく理解した上で、緻密にカロリーを 計算し、『食べる』方向で組み上げられておりました。
+story/data/04/1013/storytimeline_041013004/30.wav|……ともあれ。これで、走りの実力の方も、 認めていただけたでしょうか。
+story/data/04/1013/storytimeline_041013004/8.wav|えっ、トレーナーさんのノートを、ですか？
+story/data/04/1013/storytimeline_041013004/11.wav|しかも、これって…… スイーツ、ですわよね！？
+story/data/04/1013/storytimeline_041013004/12.wav|スイーツが、献立表の中に……！？ た、食べて、よろしいのですか……！？
+story/data/04/1013/storytimeline_041013004/23.wav|……ふぅっ！
+story/data/04/1013/storytimeline_041013004/17.wav|では、またお会いいたしましょう。
+story/data/04/1013/storytimeline_041013004/16.wav|それから……そうですわね。 1週間後にまた、トレーニングを見に来てくださいませんか？
+story/data/04/1013/storytimeline_041013004/15.wav|この献立表、しばらくお借りしても よろしいでしょうか？
+story/data/04/1013/storytimeline_041013004/24.wav|トレーナーさん……いかがでしたか？
+story/data/04/1013/storytimeline_041013004/33.wav|私を担当すると仰るのならば、貴方にもまた、メジロ家の トレーナーであるという自覚を持っていただかなければなりません。
+story/data/04/1013/storytimeline_041013004/0.wav|うぅ……物足りませんわね……。
+story/data/04/1013/storytimeline_041013005/5.wav|…………。
+story/data/04/1013/storytimeline_041013005/3.wav|いえ、そこまでしていただかなくても大丈夫です。 メジロ家のウマ娘たるもの、学業との両立くらいできて当然ですわ。
+story/data/04/1013/storytimeline_041013005/9.wav|…………。
+story/data/04/1013/storytimeline_041013005/4.wav|ですから明日のトレーニングは普段通りということで、 よろしくお願いいたしますわね。
+story/data/04/1013/storytimeline_041013005/19.wav|それに関しては訂正させていただきますわ！
+story/data/04/1013/storytimeline_041013005/16.wav|これ以上ご迷惑をおかけするのは本意ではありませんので、 今日は終わりにいたしましょうか。
+story/data/04/1013/storytimeline_041013005/0.wav|この数式に代入して計算する……っと。 なるほど……。
+story/data/04/1013/storytimeline_041013005/11.wav|ほ、本当に寝てなどおりませんわ！ きっとトレーナーさんの見間違いでしょう。
+story/data/04/1013/storytimeline_041013005/21.wav|これだけは本当に、本当なんですからねっ！！
+story/data/04/1013/storytimeline_041013005/17.wav|お心づかい感謝いたしますわ、トレーナーさん。
+story/data/04/1013/storytimeline_041013005/6.wav|ひゃあぁぁっ！？
+story/data/04/1013/storytimeline_041013005/12.wav|ですからどうぞ続きを。 私、きちんと聞いておりますから。
+story/data/04/1013/storytimeline_041013005/15.wav|……どうやらトレーナーさんに、 ご心配をおかけしてしまったようですね。
+story/data/04/1013/storytimeline_041013005/14.wav|っ……！　それは……。
+story/data/04/1013/storytimeline_041013005/7.wav|も、もちろん起きておりますわ！ メジロ家のウマ娘が、居眠りなんてするはずがありませんもの！
+story/data/04/1013/storytimeline_041013005/10.wav|……はっ！！
+story/data/04/1013/storytimeline_041013005/2.wav|けれど難解なところがあって、 思った以上に長引いてしまいました。
+story/data/04/1013/storytimeline_041013005/20.wav|きちんと睡眠は取っていますし、 先ほども決して居眠りなんてしておりません！
+story/data/04/1013/storytimeline_041013005/1.wav|あら、トレーナーさん。 そうなんです。明日の小テストに備えて少しばかり復習を。
+story/data/04/1013/storytimeline_041013005/13.wav|えっ……？ ですがミーティングはまだ途中のはず――
+story/data/04/1013/storytimeline_041013005/18.wav|なっ……！
+story/data/04/1013/storytimeline_041013005/8.wav|確か、今日のトレーニングについて 振り返っていましたわよね……？
+story/data/04/1013/storytimeline_041013006/29.wav|ふふっ……少し恥ずかしかったですが、 思いきり歌えて楽しかったです。
+story/data/04/1013/storytimeline_041013006/30.wav|こうしていると、 今すぐにでもスポーツ観戦に行きたくなってしまいますわ。
+story/data/04/1013/storytimeline_041013006/38.wav|うぅ……今になって恥ずかしくなってきましたわ。 我を忘れてあんなに叫んでしまうなんて……。
+story/data/04/1013/storytimeline_041013006/3.wav|ひゃああぁぁぁっ！？ トト、トレーナーさん……っ！？
+story/data/04/1013/storytimeline_041013006/27.wav|かっとばせーーっ！！　ユ・タ・カッ！！
+story/data/04/1013/storytimeline_041013006/25.wav|……って、もう曲が入っているではありませんか！
+story/data/04/1013/storytimeline_041013006/32.wav|私はメジロ家のウマ娘として、 いかなる時も己を律するよう心がけてきましたから――
+story/data/04/1013/storytimeline_041013006/15.wav|実のところ、カラオケに来たのは ウイニングライブの練習ではなかったんです。本当は――
+story/data/04/1013/storytimeline_041013006/10.wav|トレーナーさん、どうかされました？
+story/data/04/1013/storytimeline_041013006/7.wav|そ、そうですか……ありがとうございます。 でしたら、一緒に参りましょうか……。
+story/data/04/1013/storytimeline_041013006/5.wav|なんというか、その…… ウイニングライブの練習でもしようかと思いまして。
+story/data/04/1013/storytimeline_041013006/9.wav|今の歌、トレーナーさんはどう思われました？ 改善点があれば、なんなりとおっしゃってください。
+story/data/04/1013/storytimeline_041013006/28.wav|かっとばせーーーーっ！！　ユ・タ・カッ！！！！
+story/data/04/1013/storytimeline_041013006/26.wav|うぅっ……仕方ありません！　こうなったら！
+story/data/04/1013/storytimeline_041013006/13.wav|…………。
+story/data/04/1013/storytimeline_041013006/40.wav|……けれどトレーナーさん、これだけは約束ですからね。
+story/data/04/1013/storytimeline_041013006/19.wav|休みの日にはこうして1人でカラオケに足を運び、 応援歌を歌って楽しむこともありますの。
+story/data/04/1013/storytimeline_041013006/18.wav|私、スポーツ観戦を少々―― 本当にほんの少々ですが、たしなんでおりまして。
+story/data/04/1013/storytimeline_041013006/24.wav|ですが、そんなはしたない姿をお見せするのは――
+story/data/04/1013/storytimeline_041013006/14.wav|……ここは、正直に申し上げるべきですわね。
+story/data/04/1013/storytimeline_041013006/36.wav|ええ、そういうことなんだと思いますわ。
+story/data/04/1013/storytimeline_041013006/39.wav|はい、それは……あそこまで気持ちよく歌えたのは 久々のことでしたから。
+story/data/04/1013/storytimeline_041013006/12.wav|決してそういうことはないんです。 その、なんといいますか――
+story/data/04/1013/storytimeline_041013006/8.wav|ふぅ、こんなところでしょうか。
+story/data/04/1013/storytimeline_041013006/0.wav|ふん、ふん、ふふ～ん♪ ゴーゴーレッツゴー、ヴィクトリーズ！
+story/data/04/1013/storytimeline_041013006/35.wav|会場に漂う独特の開放感が、 とても新鮮で魅力的なものに思えましたの。
+story/data/04/1013/storytimeline_041013006/37.wav|さあ、お話はこれくらいにして、そろそろ次の曲を歌いませんか？ 次はどの応援歌にいたしましょう。
+story/data/04/1013/storytimeline_041013006/21.wav|う、歌えるはずがありません！ はしゃいで子どもっぽい姿を見せてしまうと思うと、とても……！
+story/data/04/1013/storytimeline_041013006/17.wav|はい……。スポーツ観戦の際に観客の皆さんが大きな声で歌う、 あの応援歌のことですわ……。
+story/data/04/1013/storytimeline_041013006/16.wav|…………お、応援歌が歌いたかったんです。
+story/data/04/1013/storytimeline_041013006/31.wav|そうですね……やはり、会場の雰囲気のおかげだと思います。
+story/data/04/1013/storytimeline_041013006/23.wav|ま、ま、待ってください！ 私はずっと我慢しておりましたのに……！
+story/data/04/1013/storytimeline_041013006/4.wav|うぅっ……そ、そうですわ。
+story/data/04/1013/storytimeline_041013006/33.wav|初めてスポーツ観戦をした時は、すごく驚いたんです。 ……会場のあの雰囲気に。
+story/data/04/1013/storytimeline_041013006/22.wav|えっ……トレーナーさんが、ですか？
+story/data/04/1013/storytimeline_041013006/6.wav|えっ、トレーナーさんもいらっしゃるんですの？
+story/data/04/1013/storytimeline_041013006/11.wav|えっ……！？ そんな、お邪魔だなんて……。
+story/data/04/1013/storytimeline_041013006/20.wav|ですから今日も、本当はそのつもりで……。
+story/data/04/1013/storytimeline_041013006/2.wav|誰にも見つからないうちに カラオケに入ってしまわないと――
+story/data/04/1013/storytimeline_041013006/34.wav|どれだけはしゃいでも許される環境といいますか、 熱くなって歓声を上げても目立たない空間といいますか……。
+story/data/04/1013/storytimeline_041013006/41.wav|今日のことは、絶対にだれにも話さないでください。 そしてできれば、綺麗さっぱり忘れてください……。
+story/data/04/1013/storytimeline_041013006/1.wav|ふふっ、今日という日を待ちわびていましたわ♪
+story/data/04/1013/storytimeline_041013007/1.wav|普段のコースとは全く感覚が違いますわね。 けれど、鍛えられていると実感できて悪くありませんわ。
+story/data/04/1013/storytimeline_041013007/30.wav|今日は一緒に来てくださってありがとうございました。 おかげですごく楽しめましたわ。
+story/data/04/1013/storytimeline_041013007/12.wav|ありがとうございます。では参りましょう。
+story/data/04/1013/storytimeline_041013007/16.wav|今度は決してはぐれないよう、はしゃがず きちんとトレーナーさんについて行きますわ……。
+story/data/04/1013/storytimeline_041013007/36.wav|っ……、ありがとうございます！ では早速、提案があるのですが――
+story/data/04/1013/storytimeline_041013007/33.wav|今まではメジロ家のウマ娘として、 いかなる時も節度を守るよう心がけてきましたから。でも――
+story/data/04/1013/storytimeline_041013007/10.wav|屋台もたくさんあって目移りしてしまいます。 どこから見て回りましょうか――あっ！
+story/data/04/1013/storytimeline_041013007/24.wav|やりましたわ、トレーナーさん！
+story/data/04/1013/storytimeline_041013007/2.wav|さあ、今のうちにもう少し――
+story/data/04/1013/storytimeline_041013007/8.wav|でしたら、早めにトレーニングを終わらせないといけませんね。 気合いを入れて、もう1本行って参りますわ。
+story/data/04/1013/storytimeline_041013007/28.wav|どんな景品が当たるのでしょう。 せっかくですし、行ってみませんか？
+story/data/04/1013/storytimeline_041013007/21.wav|よろしければ、一緒に行ってくださいませんか？
+story/data/04/1013/storytimeline_041013007/37.wav|お祭りで買ったにんじんカステラ、 歩きながら一緒に食べませんか？
+story/data/04/1013/storytimeline_041013007/25.wav|ふふっ、なかなか苦労しましたが、 取れると嬉しいものですね。
+story/data/04/1013/storytimeline_041013007/22.wav|ここで釣り上げれば――はっ！
+story/data/04/1013/storytimeline_041013007/17.wav|ですが、それでまたご迷惑をかけてしまってはいけませんし――
+story/data/04/1013/storytimeline_041013007/9.wav|まあ、大勢の人でにぎわっていますわね。
+story/data/04/1013/storytimeline_041013007/6.wav|確か、小さい頃に連れて行ってもらったことがあります。 たくさんの屋台があって、にぎやかだったのを覚えていますわ。
+story/data/04/1013/storytimeline_041013007/18.wav|えっ、お祭りのルール……ですか？
+story/data/04/1013/storytimeline_041013007/7.wav|まあ……いいんですの？
+story/data/04/1013/storytimeline_041013007/11.wav|あの、奥の方にある屋台…… ちょっと見に行ってみてもよろしいですか？
+story/data/04/1013/storytimeline_041013007/27.wav|――あっ、見てください！　あちらには射的があるようです！ しかも、『豪華景品あり』と書いてありますわ！
+story/data/04/1013/storytimeline_041013007/20.wav|そういうことなら、少しだけお願いがあります。 先ほど行こうとした屋台なんですが――
+story/data/04/1013/storytimeline_041013007/35.wav|だってトレーナーさんなら、許してくださるでしょう？
+story/data/04/1013/storytimeline_041013007/23.wav|あぁ、紐が切れてしまいました……。 すみません店員さん、もう1回お願いします！
+story/data/04/1013/storytimeline_041013007/15.wav|ごめんなさい、私が先に行ってしまったせいで……。
+story/data/04/1013/storytimeline_041013007/14.wav|あっ……トレーナーさん！
+story/data/04/1013/storytimeline_041013007/31.wav|そんなことはありません。 その、なんと言いますか……。
+story/data/04/1013/storytimeline_041013007/26.wav|今ならどんな遊びも、うまくできそうな気分です。 さあ、次はどのお店に行きましょうか。
+story/data/04/1013/storytimeline_041013007/5.wav|あら、お祭り……？ なかなか風流なことをやっていますのね。
+story/data/04/1013/storytimeline_041013007/38.wav|普段は食べ歩きなんて絶対にしないのですが、 今ここには私たちだけしかいませんから……。
+story/data/04/1013/storytimeline_041013007/32.wav|一緒に来たのがトレーナーさんでなければ、 こんなに羽目を外すことはなかったと思うんです。
+story/data/04/1013/storytimeline_041013007/39.wav|ふふっ、ありがとうございます。 ではトレーナーさんから、おひとつどうぞ。
+story/data/04/1013/storytimeline_041013007/29.wav|さあトレーナーさん、こっちですわ！
+story/data/04/1013/storytimeline_041013007/19.wav|ふふっ、確かにそうですわね。 ここに来ている方は皆、羽目を外して楽しんでいますもの。
+story/data/04/1013/storytimeline_041013007/34.wav|トレーナーさんの前でなら、 少しだけ……それを破ってもいいかなと思うのです。
+story/data/04/1013/storytimeline_041013007/0.wav|ふっ……ふっ……。
+story/data/04/1027/storytimeline_041027004/11.wav|――ライアン、もう1度お訊ねします。
+story/data/04/1027/storytimeline_041027004/38.wav|……！　ライアン、貴方……。
+story/data/04/1027/storytimeline_041027004/3.wav|声援の気の入れようもひとしお、といったところでしょうか。 しかし、もちろん――
+story/data/04/1027/storytimeline_041027004/7.wav|ですから、負けてもよいとお思いですか？
+story/data/04/1027/storytimeline_041027004/9.wav|立派な、崇高な理由で勝利を目指している相手であったならば、 自分は負けてもよいと……そうお思いですか、ライアン？
+story/data/04/1027/storytimeline_041027004/32.wav|っ！　ライアン……！！
+story/data/04/1027/storytimeline_041027004/5.wav|――私もメジロのウマ娘として、無様なところは見せられません。
+story/data/04/1027/storytimeline_041027004/43.wav|ふふっ……。でしたら、全力でお相手いたしますわ。 私だってメジロのウマ娘として、勝つつもりでおりますから。
+story/data/04/1027/storytimeline_041027004/12.wav|貴方はなぜ、トレセン学園にいらしたのですか？
+story/data/04/1027/storytimeline_041027004/0.wav|例年通り、多くの方が来場されていますわね。
+story/data/04/1067/storytimeline_041067003/34.wav|なにをどこまで磨いてきたのか、レースで見せてもらいましょう。 無論、一切の手加減なしで。
+story/data/04/1067/storytimeline_041067003/5.wav|仕方ありませんわ。貴方のご母堂には逆らえませんもの。 距離は『日本ダービーと同じ2400mで』とのことですわ。
+story/data/04/1067/storytimeline_041067003/31.wav|――！？　サトノさん、貴方……。 その泥まみれな出で立ちは……まともに走れますの？
+story/data/04/1067/storytimeline_041067003/6.wav|切れ味だけではなく、スタミナやペース配分も要求される根幹距離。 そこで『このコンビなら間違いない』と言わせてくださいまし。
+story/data/04/1067/storytimeline_041067003/33.wav|ずいぶん集中なさっているみたいですわね。 ……まあ走れるなら構いませんわ。
+story/data/04/1067/storytimeline_041067003/3.wav|というわけでサトノさん、トレーナーさん。試験官は私ですわ。 1か月後、私とレースして、どこまでやれるか見せてくださいませ。
+story/data/04/1067/storytimeline_041067004/1.wav|（序盤は……どうにか、ついてこられているようですわね。 でも2400mは長い。問題はこの先ですわ）
+story/data/04/1067/storytimeline_041067004/17.wav|説明してくださいます、お二方？
+story/data/04/1067/storytimeline_041067004/11.wav|（瞳に……悔いがない……。 この目は……『やりきった』ということ？）
+story/data/04/1067/storytimeline_041067004/30.wav|そう……あれはクラシックシーズン。 皆が淡い夢を燃え立たせ、競い合っていた頃……。
+story/data/04/1067/storytimeline_041067004/6.wav|（青い……。青いですわ。そんな仕掛けで、最後まで持つと 思いまして？　ここまでですわ、サトノさん！）
+story/data/04/1067/storytimeline_041067004/32.wav|たった1度の青春を棒に振ってでも、進まなければならない 道がある……。だからこそ、私は今ここに――
+story/data/04/1067/storytimeline_041067004/15.wav|“勝ち”を目指していなかったですわよね？ さらに、2400mに特化した仕上げもしてこなかった。
+story/data/04/1067/storytimeline_041067004/10.wav|（私を……見ていない？ 声をかけても、まったく。それに――）
+story/data/04/1067/storytimeline_041067004/14.wav|……結果をお話しする前にまず、なぜこのような走りをしたのか 確認したいですわ。サトノさん、貴方、今日――
+story/data/04/1067/storytimeline_041067004/29.wav|そして敗れた時の、サトノさんの瞳の色……。 似ていましたわ、かつての私に。
+story/data/04/1067/storytimeline_041067004/33.wav|望む夢を掴むのはいつでも――他は投げ捨ててでも、 一心不乱に追い続ける覚悟がある者だけですわ。
+story/data/04/1067/storytimeline_041067004/31.wav|皆が夢中で三冠を目指した……。でも私は三冠を第一にはしないと 決め、メジロ家が重んずるべき『天皇賞（春）』を目指した。
+story/data/04/1067/storytimeline_041067004/2.wav|（まもなく最終直線！　勝負はここか……ら！？）
+story/data/04/1067/storytimeline_041067004/28.wav|……なるほど、これで合点がいきましたわ。最終直線前、 あの早すぎる仕掛けは、2000mラストを想定しての……。
+story/data/04/1067/storytimeline_041067004/4.wav|（えっ、ここでもうスパート！？　かわされた……！？）
+story/data/04/1067/storytimeline_041067004/5.wav|なかなかのスピードですわ。――でも！ ハアアアアアアアアッ！！
+story/data/04/1067/storytimeline_041067004/8.wav|サトノさん、貴方……。どういうことですの？ なぜ、あのような勝ち目のない仕掛けを……。
+story/data/04/1067/storytimeline_041067004/12.wav|（そう。そういうことでしたのね）
+story/data/04/1068/storytimeline_041068002/40.wav|ええ？　キタサンブラックさんに！？ ……どうしてです？
+story/data/04/1068/storytimeline_041068002/35.wav|ふぅ、まったく困りましたわね……。 暖かい季節になるまで待つか、それとも……。
+story/data/04/1068/storytimeline_041068002/38.wav|発電機の調子が悪いらしくて。雪さえなければ、 私がトレーニングがてら、新しいのを運ぶのですけれど……。
+story/data/04/1068/storytimeline_041068002/20.wav|いいでしょう、胸を貸してさしあげます。 3000mの長丁場、考えられる限りのものをぶつけてきなさい。
+story/data/04/1068/storytimeline_041068002/19.wav|お待たせしましたわ、キタさん。 貴方、自分の長所を知りたいそうですね。
+story/data/04/1068/storytimeline_041068002/37.wav|その件ならもう済みましたわ。 今困っているのは、山頂の別荘のことですの。
+story/data/04/1074/storytimeline_041074002/5.wav|ああ……なるほど。確か、もうすぐですものね。 専門の方に集中的に見ていただくというのは、大事なことですわ。
+story/data/04/1074/storytimeline_041074002/20.wav|今度、既にデビューしているメジロ家の面々を集めて、 ファンの皆さんに向けたトークイベントを行いますの。
+story/data/04/1074/storytimeline_041074002/19.wav|ええ。うちは関係者の方々も含め、素晴らしい方ばかりですわ。 ……今度のイベント、ブライトが司会でも面白かったでしょうね。
+story/data/04/1074/storytimeline_041074002/4.wav|仮……？
+story/data/04/1074/storytimeline_041074003/39.wav|――ドーベルも、ブライトも……頼もしいですわね。 大きな借りができてしまいましたわ。けれど……なぜ人形を？
+story/data/04/1064/storytimeline_041064004/38.wav|つまりはあれが、『メジロパーマーの走り』……ですのね。 ……どうやら私たちも、うかうかしてはいられませんわ。
+story/data/04/1064/storytimeline_041064004/25.wav|……ライアン。もう少しよく見える位置に参りましょう。 パーマー……なにやら、纏う空気が変わりましたわ。
+story/data/04/1013/storytimeline_041013001/22.wav|くっ……不甲斐ない……！
+story/data/04/1013/storytimeline_041013001/23.wav|はっ、はっ、はっ、はっ……！！　はぁ……。
+story/data/04/1013/storytimeline_041013001/13.wav|くっ……ぅ……っ！！
+story/data/04/1013/storytimeline_041013001/8.wav|はっ、はっ、はっ、はっ、はっ、はっ……！！
+story/data/04/1013/storytimeline_041013001/1.wav|そのためにも……この選抜レースで、 必ず結果を残さなければ……！
+story/data/04/1013/storytimeline_041013001/26.wav|っ……？　あ、ライアン……。 私になにかご用でも？
+story/data/04/1013/storytimeline_041013001/10.wav|はっ、はっ……くっ……！！
+story/data/04/1013/storytimeline_041013001/6.wav|あ……はいっ！ お声がけありがとうございます、アイネスフウジンさん。
+story/data/04/1013/storytimeline_041013001/29.wav|……お気遣いありがとうございます。 けど、もう少しだけ続けますわ。
+story/data/04/1013/storytimeline_041013001/21.wav|はぁっ……はぁっ……。
+story/data/04/1013/storytimeline_041013001/4.wav|…………。
+story/data/04/1013/storytimeline_041013001/7.wav|……参りましょう！
+story/data/04/1013/storytimeline_041013001/32.wav|トレセン学園は傑物揃い……。わかっていたつもりでしたが、 まだまだ覚悟が足りていませんでした。
+story/data/04/1013/storytimeline_041013001/24.wav|……まだ。 まだ、足りませんわ……！
+story/data/04/1013/storytimeline_041013001/31.wav|……選抜レースに出ていた方々、 想像以上の精鋭ばかりでしたわ。
+story/data/04/1013/storytimeline_041013001/34.wav|私は、メジロのウマ娘なのですから……！
+story/data/04/1013/storytimeline_041013001/0.wav|トゥインクル・シリーズで活躍すること……そして『天皇賞』で 1着を取ることこそ、私に課せられた、メジロ家としての使命。
+story/data/04/1013/storytimeline_041013001/33.wav|でも、このままでは終われません！ 次の選抜レースでは、必ず名誉を挽回します！
+story/data/04/1027/storytimeline_041027002/44.wav|貴方は……なぜ、トレセン学園にいらしたのですか？
+story/data/04/1027/storytimeline_041027002/29.wav|――普段のキレがありません。 ライアンらしくない走りでしたわね。
+story/data/04/1027/storytimeline_041027002/32.wav|失礼。私、彼女と少々話をして参ります。
+story/data/04/1027/storytimeline_041027002/31.wav|ええ、私も次回は出走いたしますので。 それにしても……。
+story/data/04/1027/storytimeline_041027002/42.wav|あの、ライアン。
+story/data/04/1027/storytimeline_041027002/46.wav|……申し訳ありません、不躾な質問をいたしましたわね。 私、これで失礼いたします。
+story/data/04/1027/storytimeline_041027003/27.wav|競技大会にそのような種目はございません！
+story/data/04/1027/storytimeline_041027003/30.wav|競技大会は多くのお客様も来場されますから、 メジロの名に恥じぬ走りを、きちんとお見せせねばならないのです！
+story/data/04/1027/storytimeline_041027003/29.wav|私は、見据える目標を『天皇賞』と定めておりますので。
+story/data/04/1067/storytimeline_041067002/16.wav|こんばんは。ようこそサトノさん、そして若きトレーナーさん。 少しばかり話にまぜてくださいますこと？
+story/data/04/1067/storytimeline_041067002/39.wav|サトノさん、あらためて、この方もトライアルしてみては？ もしかしてサトノグループの方々のお眼鏡にも――
+story/data/04/1067/storytimeline_041067002/14.wav|ふふ、臆するのはわかりますけれど、そこまで萎縮するのは 行き過ぎだと思いますわ。
+story/data/04/1067/storytimeline_041067002/23.wav|これはウマ娘界ならではの文化ですわね。名ウマ娘を輩出する ことは、何物にも代えがたい、最大の貢献になりますわ。
+story/data/04/1067/storytimeline_041067002/18.wav|それだけ『慎重になっている』から。 そうですわよね、サトノさん？
+story/data/04/1067/storytimeline_041067002/0.wav|在学生の皆さん。そして普段お世話になっている トレーナーの皆さん。メジロ家からお伝えしたいことがございます。
+story/data/04/1067/storytimeline_041067002/24.wav|その大望を自ら背負う期待の星が、このサトノダイヤモンドさん。 さらに支える存在を探すため行われたのがトレーナートライアル。
+story/data/04/1067/storytimeline_041067002/17.wav|サトノは確かに一大コンツェルンですが、近寄りがたい人々では ありませんわ。トレーナー選考なんて大仰なことをするのは――
+story/data/04/1067/storytimeline_041067002/42.wav|ええっ、サトノさん！？　わかっているでしょう？ 貴方のトレーナー探しが、サトノにとってどれほどの重大事項か。
+story/data/04/1067/storytimeline_041067002/43.wav|フィーリングで即決していいものではありませんわ！ まずは帰って相談を――
+story/data/04/1067/storytimeline_041067002/31.wav|……わかりますわ。これは生まれの宿命ですわね。主従があれば、 手加減こそしていないつもりでも、ねじ伏せる気概ではこない……。
+story/data/04/1067/storytimeline_041067002/38.wav|ふふ、よかったですわね。偶然のパーティーで、 いい候補が見つかって。
+story/data/04/1067/storytimeline_041067002/25.wav|サトノグループは高い位置に構えているわけではなく、 ただ必死なだけですわ。ですわよね、サトノさん？
+story/data/04/1067/storytimeline_041067002/1.wav|近々、交流のためのパーティーを、当家主催にて開催させて いただきます。どうぞお気軽に、普段着でお越しくださいませ。
+story/data/04/1068/storytimeline_041068004/20.wav|仕方ありませんわ、相手はあのテイオーさん。 しかも一瞬の閃き勝負となれば、勝ち目は……。
+story/data/04/1068/storytimeline_041068004/41.wav|ただただ……恐ろしいですわ。人を巻き込んで 変えていく熱……。これで後輩だなんて。
+story/data/04/1068/storytimeline_041068004/29.wav|これは……なにが起きてるんですの！？ テイオーさんを超えるスピード！？　この終盤で！？
+story/data/04/1068/storytimeline_041068004/13.wav|――いえ、逃げではありませんわ。 これは……！
+story/data/04/1068/storytimeline_041068003/3.wav|さてトレーナーさん、あとは待つだけですわね。でも驚きましたわ。 こんな風変わりな訓練を、あれほどの勢いで頼み込まれるなんて。
+story/data/04/1068/storytimeline_041068003/9.wav|ええ、あの子には今のところ、飛び抜けた能力はありませんわ。 でも……言葉では言い表せないものを感じますの。
+story/data/04/1068/storytimeline_041068003/17.wav|おそらく五合目前後で動けなくなっているはず。監視している スタッフに連絡して、麓のレストハウスに運ぶように……。
+story/data/04/1068/storytimeline_041068003/26.wav|レースの前？　走る前の準備ということは……。 あ！　つまり、こういうことですの？
+story/data/04/1068/storytimeline_041068003/10.wav|なんというか『格』のようなものを。その『格』で四合目。そして 持ち前の根性で五合目。そこが限界。それでも充分立派ですわ。
+story/data/04/1068/storytimeline_041068003/5.wav|重荷を担いでの雪山登攀。並のウマ娘ならば『三合目』が限界。 そして、まだデビューもしていない今のキタさんなら――
+story/data/04/1068/storytimeline_041068003/20.wav|き、キタさん……！ 貴方まさか……自力でここまで！？
+story/data/04/1068/storytimeline_041068003/8.wav|今のキタさんの力ならば―― 『五合目』というところですわね。
+story/data/04/1068/storytimeline_041068003/18.wav|ど、どうしましたの？　急に。
+story/data/04/1068/storytimeline_041068003/4.wav|ここまでしてキタさんの能力を深く探りたいなんて、 相当な入れ込みようですのね。……でも踏破はまず無理ですわ。
+story/data/04/1068/storytimeline_041068003/27.wav|キタさんに鬼のようなトレーニングを課して、その中で 武器を生み出そうと？　あのブルボンさんのように……？
+story/data/04/1068/storytimeline_041068003/16.wav|もう陽も落ちかけていますわ……。 そろそろ終わりにしましょう。
+story/data/04/1068/storytimeline_041068003/24.wav|疑いようもありませんわね。こんな無茶をやり遂げられる タフさを持ったウマ娘は、他にいませんわ。
+story/data/04/1085/storytimeline_041085003/2.wav|お招きいただき、感謝いたしますわ。 紅茶もさることながら、ティーフーズも素晴らしい色どりですわね。
+character_system_text/1013/snd_voi_title_101300/0.wav|Cygames
+character_system_text/1013/snd_voi_title_101300/1.wav|ウマ娘、プリティーダービー！
+character_system_text/1013/snd_voi_title_101300/2.wav|本日のログインボーナスですわね。
+character_system_text/1013/snd_voi_title_101300/3.wav|明日はこちらですか…♪
+character_system_text/1013/snd_voi_home_101300/0.wav|好きなものを食べられるって 幸せですのね…トレーナーさんの 献立表のおかげですわ。
+character_system_text/1013/snd_voi_home_101300/1.wav|不思議ですわね、 トレーナーさんになら つい悩みを打ち明けてしまいます。
+character_system_text/1013/snd_voi_home_101300/2.wav|今度は一緒にスポーツ観戦に 行きませんか？はしゃぐ姿を 見せてもよろしければ、ですが…。
+character_system_text/1013/snd_voi_home_101300/3.wav|あけましておめでとうございます。 今年はより一層身を引き締めて、 精進して参りましょう。
+character_system_text/1013/snd_voi_home_101300/4.wav|ハッピーバレンタイン。 いつものお礼にチョコレートを 受け取ってくださいませ。
+character_system_text/1013/snd_voi_home_101300/5.wav|プロの味には劣るでしょうが、心を 込めて作ったチョコレートです…。 …食べていただけますか？
+character_system_text/1013/snd_voi_home_101300/6.wav|必ずや悲願を達成してみせると、 星々に誓いますわ。
+character_system_text/1013/snd_voi_home_101300/7.wav|ハロウィンだなんて…。 うぅ…あちこちから お菓子の誘惑が…！
+character_system_text/1013/snd_voi_home_101300/8.wav|メジロ家では毎年クリスマスに 特注の大きなケーキを囲み、 皆でパーティーをしていましたの。
+character_system_text/1013/snd_voi_home_101300/9.wav|今日は少しだけ夜更かししても 構いませんか…？一緒に クリスマスを楽しみたくて…。
+character_system_text/1013/snd_voi_home_101300/10.wav|今年もたくさんのことがありました。 全て無駄にしないよう、 来年に繋げていきたいですわね。
+character_system_text/1013/snd_voi_home_101300/11.wav|お誕生日おめでとうございます。 1年に1度の特別な日ですから、 思いきり楽しみましょう。
+character_system_text/1013/snd_voi_home_101300/12.wav|お誕生日、お祝い申し上げますわ。 ふふ…また一段と頼もしくなられ ましたわね、トレーナーさん。
+character_system_text/1013/snd_voi_home_101300/13.wav|皆さんに祝っていただけて、 本当にありがたく思います。 このご恩は結果で返さなくては。
+character_system_text/1013/snd_voi_home_101300/14.wav|誕生日なので、少しだけわがままを 言ってもいいですか？ …一緒にケーキ、食べてください。
+character_system_text/1013/snd_voi_home_101300/15.wav|お知らせが届いているみたいです。 確認してみませんこと？
+character_system_text/1013/snd_voi_home_101300/16.wav|プレゼントがあるようです。 なにがもらえるか楽しみですわね。
+character_system_text/1013/snd_voi_home_101300/17.wav|達成したミッションが あるようです。 さすがの働きぶりですわね。
+character_system_text/1013/snd_voi_home_101300/18.wav|もうすぐイベントが 始まるようです。 どのような内容か楽しみですわね。
+character_system_text/1013/snd_voi_home_101300/19.wav|イベントが開催中だそうですわ。 ちょっと見に行ってみませんこと？
+character_system_text/1013/snd_voi_home_101300/24.wav|品があってクラシカルな服が 好きですわね…流行り廃りに 左右されず長く着られますから。
+character_system_text/1013/snd_voi_home_101300/25.wav|この服おばあ様にも似合っていると 褒めていただけたのが嬉しくて… ふふ、ついつい着てしまいます。
+character_system_text/1013/snd_voi_home_101300/26.wav|観に行く約束をしていた映画、 ついに封切りされましたわね！ いつならご都合がよろしいですか？
+character_system_text/1013/snd_voi_home_101300/20.wav|共に研鑽し、 共に励みましょう。
+character_system_text/1013/snd_voi_home_101300/21.wav|思い出が積み重なって、 歴史となるのでしょう。
+character_system_text/1013/snd_voi_home_101300/22.wav|レースのエントリー、 なさいますのっ？
+character_system_text/1013/snd_voi_home_101300/23.wav|あら、ウマ娘名鑑の レベルが上がったようですわね。
+character_system_text/1013/snd_voi_training_101300/0.wav|ふぅ…少し疲労が 溜まってきましたわね…。
+character_system_text/1013/snd_voi_training_101300/1.wav|すみません、 どうしても力が出なくて…。 休んでもよろしいでしょうか？
+character_system_text/1013/snd_voi_training_101300/2.wav|今日はとても調子がいいですわ！ トレーナーさん、早く 指示をくださいませんこと？
+character_system_text/1013/snd_voi_training_101300/3.wav|ふふっ、 今ならどんなトレーニングでも こなせる気がします！
+character_system_text/1013/snd_voi_training_101300/4.wav|コンディションは 普段よりも良さそうですわ。
+character_system_text/1013/snd_voi_training_101300/5.wav|いつも以上に早く、 メニューをこなしてみせましょう。
+character_system_text/1013/snd_voi_training_101300/6.wav|本日もトレーニング、 頑張りましょう。
+character_system_text/1013/snd_voi_training_101300/7.wav|さあ、なにから始めましょうか？
+character_system_text/1013/snd_voi_training_101300/8.wav|すみません、 あまり集中できなくて…。
+character_system_text/1013/snd_voi_training_101300/9.wav|うぅ…いつもの力が 出ないみたいです…。
+character_system_text/1013/snd_voi_training_101300/10.wav|はぁ…なんだか今日は 気が重いです…。
+character_system_text/1013/snd_voi_training_101300/11.wav|前向きにならなければと 思ってはいるのですが…。
+character_system_text/1013/snd_voi_training_101300/12.wav|またレース…ですか？ あまり続くと、体に影響が 出てしまいそうですが…。
+character_system_text/1013/snd_voi_training_101300/13.wav|あの…すみませんが 今回はレースではなく、 お休みをいただけませんか…？
+character_system_text/1013/snd_voi_training_101300/14.wav|この瞬間を待ちわびておりました。 走る準備は万全ですわ！
+character_system_text/1013/snd_voi_training_101300/15.wav|調整はバッチリですわ。 勝利は目前といったところですね。
+character_system_text/1013/snd_voi_training_101300/16.wav|鍛錬の成果を発揮し、 必ずや勝利を勝ち取って参ります！
+character_system_text/1013/snd_voi_training_101300/17.wav|目標のために 頑張ってきたおかげでしょうか。 とても調子がいいんです。
+character_system_text/1013/snd_voi_training_101300/18.wav|いつも以上の力が出せそうです。 レース開始が待ち遠しいですわね。
+character_system_text/1013/snd_voi_training_101300/19.wav|なにも問題ありませんわ。 いつでも出られます。
+character_system_text/1013/snd_voi_training_101300/20.wav|普段通りの力を出せるよう、 精一杯頑張ります。
+character_system_text/1013/snd_voi_training_101300/21.wav|努力してきたことの全て、 レースで出し切ってみせますわ。
+character_system_text/1013/snd_voi_training_101300/22.wav|必ずや、勝利をこの手に 掴んでみせますわね。
+character_system_text/1013/snd_voi_training_101300/23.wav|普段のトレーニングを思い出せば なんの問題もないはず…。 大丈夫、行けますわ。
+character_system_text/1013/snd_voi_training_101300/24.wav|全力を出せば、なんとか… いえ、どうにかしてみせます。
+character_system_text/1013/snd_voi_training_101300/25.wav|集中、集中…ふぅ…。 心を乱さないようにしないと…。
+character_system_text/1013/snd_voi_training_101300/26.wav|調整に不安はありますが… やれるだけのことはやってみます。
+character_system_text/1013/snd_voi_training_101300/27.wav|今の状態で勝てるかどうか…。 いえ、始まる前から弱気では いけませんわね…。
+character_system_text/1013/snd_voi_training_101300/28.wav|努力不足…などと今更言っても 仕方がありません。 なんとかしなければ…。
+character_system_text/1013/snd_voi_training_101300/29.wav|始めますわ。
+character_system_text/1013/snd_voi_training_101300/30.wav|いきます！
+character_system_text/1013/snd_voi_training_101300/31.wav|参りましょう！
+character_system_text/1013/snd_voi_training_101300/32.wav|集中しなくては。
+character_system_text/1013/snd_voi_training_101300/33.wav|あ、あら…？
+character_system_text/1013/snd_voi_training_101300/34.wav|うぅん…。
+character_system_text/1013/snd_voi_training_101300/37.wav|参りましょう。
+character_system_text/1013/snd_voi_training_101300/38.wav|いいですわね。
+character_system_text/1013/snd_voi_training_101300/39.wav|確かな成長を得られたと思いますわ。
+character_system_text/1013/snd_voi_training_101300/40.wav|トレーナーさん、ありがとうございました。
+character_system_text/1013/snd_voi_training_101300/41.wav|気合いは充分です！始めましょう！
+character_system_text/1013/snd_voi_race_101300/0.wav|わずかに届きませんでしたが…次こそは…！
+character_system_text/1013/snd_voi_race_101300/1.wav|もっと上を目指さなければ。
+character_system_text/1013/snd_voi_race_101300/2.wav|反省点を見つめ直し、次に懸けますわ…！
+character_system_text/1013/snd_voi_race_101300/3.wav|このままでは終われません…鍛え直さねば…！
+character_system_text/1013/snd_voi_race_101300/5.wav|ふふっ…コホン、当然ですわ。
+character_system_text/1013/snd_voi_race_101300/6.wav|勝利を、この手に！
+character_system_text/1013/snd_voi_live_101300/0.wav|レースもライブも、全力で…。
+character_system_text/1013/snd_voi_live_101300/1.wav|…よし、行って参りますわ！
+character_system_text/1013/snd_voi_outgame_101300/0.wav|最初は自己管理もできない未熟者 でした。頼れるトレーナーさんに 出会えて本当によかったですわ。
+character_system_text/1013/snd_voi_outgame_101300/4.wav|不思議…これが、想いの力…！
+character_system_text/1013/snd_voi_outgame_101300/1.wav|歩んで参りましょう…宿志への道を。
+character_system_text/1013/snd_voi_outgame_101300/2.wav|ますます、お力になれますわね。
+character_system_text/1013/snd_voi_outgame_101300/3.wav|ビシバシと、参りますわよっ！
+character_system_text/1013/snd_voi_outgame_101300/7.wav|おばあ様も着た、この制服… 自然と背筋が伸びます。
+character_system_text/1013/snd_voi_outgame_101300/8.wav|ポ、ポケットに飴なんて…入ってませんわよっ。
+character_system_text/1013/snd_voi_outgame_101300/9.wav|フリルさばきなら、お手の物…ですわ♪
+character_system_text/1013/snd_voi_outgame_101300/10.wav|この、腰回りだけは…落ち着きませんわね…。
+character_system_text/1013/snd_voi_outgame_101300/11.wav|一線を画す走り、お見せしますわ。
+character_system_text/1013/snd_voi_outgame_101300/12.wav|メジロの誇り、使命、覚悟が…私を強くする。
+character_system_text/1013/snd_voi_outgame_101300/17.wav|優美で軽やかな装いでしょう？
+character_system_text/1013/snd_voi_outgame_101300/18.wav|空の果てまで駆けて行けそうです。
+character_system_text/1013/snd_voi_outgame_101300/19.wav|リストを作ってきましたの。 海にプールに…どれから参りましょう？
+character_system_text/1013/snd_voi_outgame_101300/20.wav|実は水上バイクに少しだけ興味が… す、少しだけです！
+character_system_text/1013/snd_voi_outgame_101300/5.wav|喜んで、受けて立ちますわ。
+character_system_text/1013/snd_voi_outgame_101300/6.wav|譲りません…メジロ家の名は、 伊達ではないのです！
+character_system_text/1013/snd_voi_outgame_101300/13.wav|素晴らしいですわね
+character_system_text/1013/snd_voi_outgame_101300/14.wav|メジロの強さ、見せて差し上げます！
+character_system_text/1013/snd_voi_outgame_101300/15.wav|オフの日もメジロに相応しい、気品ある装いを。
+character_system_text/1013/snd_voi_outgame_101300/16.wav|せっかくの休日、 有意義な過ごし方をしたいですわね。
+character_system_text/1013/snd_voi_home_101301/0.wav|おはようございます。 よい1日になるよう、 気を引き締めて参りましょう。
+character_system_text/1013/snd_voi_home_101301/1.wav|『早起きは三文の徳』と申します。 朝の時間を有効に 使いたいものですわね。
+character_system_text/1013/snd_voi_home_101301/2.wav|ごきげんよう。 優雅な昼下がりと参りましょうか。
+character_system_text/1013/snd_voi_home_101301/3.wav|お昼になるとスイーツが 恋しくなりますが、体型維持の ためにも我慢しなくては…。
+character_system_text/1013/snd_voi_home_101301/4.wav|お疲れ様です。 無理はなさらぬよう、 くれぐれもご自愛くださいね。
+character_system_text/1013/snd_voi_home_101301/5.wav|夜であろうと決して 気は抜きませんわ。まだまだ 起きていられるんですから…。
+character_system_text/1013/snd_voi_home_101301/6.wav|色とりどりに咲き誇る 花々を見ていると、 心が華やかになりますわ。
+character_system_text/1013/snd_voi_home_101301/7.wav|この時期はハンカチが必須ですね… 皆さんに見苦しい姿をお見せする わけにはいきませんもの。
+character_system_text/1013/snd_voi_home_101301/8.wav|なんとなく秋は苦手なんです… 季節の変わり目で体調を 崩しやすいからでしょうか。
+character_system_text/1013/snd_voi_home_101301/9.wav|寒さが身に染みますわね…。 首元から指先まで、 きっちり防寒しませんと。
+character_system_text/1013/snd_voi_home_101301/10.wav|先程、ゴールドシップさんが急に 目の前でコサックダンスを踊り始め たのですが…なんだったのかしら…
+character_system_text/1013/snd_voi_home_101301/11.wav|ビュッフェ形式のカフェテリアは なかなか節制をするのが難しく… うぅっ…。
+character_system_text/1013/snd_voi_home_101301/12.wav|周囲の方々へのご挨拶は 徹底しています。メジロ家では いつもそうしておりましたので。
+character_system_text/1013/snd_voi_home_101301/13.wav|テイオーさんの積極性には感服 します。ただ、時折冷静になって ほしいと思うこともありますわ…。
+character_system_text/1013/snd_voi_home_101301/14.wav|昨日、テレビをつけたらたまたま スポーツ中継が…っ！コホン、 やっぱりなんでもありませんわ。
+character_system_text/1013/snd_voi_home_101301/15.wav|目先の勝利にこだわるばかりでは 足元が揺らぎます。結果だけでなく 過程も重視していきたいですわね。
+character_system_text/1013/snd_voi_home_101301/16.wav|ここには切磋琢磨できる方が 大勢いらっしゃいますわ。 この環境を大切にしなくては。
+character_system_text/1013/snd_voi_home_101301/17.wav|この勝負服で勝利を勝ち取る ことで、メジロの名は伊達では ないと証明してみせますわ。
+character_system_text/1013/snd_voi_home_101301/18.wav|悲願達成への思い、メジロ家 としての誇り…勝負服をまとうと 決意を新たにさせられますわね。
+character_system_text/1013/snd_voi_home_101301/19.wav|身だしなみは1日の基本です。 寝ぐせなど残らないよう、 毎朝丁寧に整えておりますわ。
+character_system_text/1013/snd_voi_home_101301/20.wav|オグリキャップさんがいらしたので つい…つられてお昼のデザートを おかわりしてしまいました…。
+character_system_text/1013/snd_voi_home_101301/21.wav|授業の復習は欠かせません。 試験前に焦るようでは、 メジロのウマ娘失格ですもの。
+character_system_text/1013/snd_voi_home_101301/22.wav|春らしいお花の髪飾りをドーベルに 勧めてみましたが、全く聞き入れて くれなくて…絶対似合いますのに。
+character_system_text/1013/snd_voi_home_101301/23.wav|日焼けには気を付けています。 肌荒れや炎症を起こすわけには 参りませんから。
+character_system_text/1013/snd_voi_home_101301/24.wav|秋のスイーツ特集…！ うぅ、見たいけれど 見たくありませんわ…。
+character_system_text/1013/snd_voi_home_101301/25.wav|寒さで風邪などひかぬよう、 お気をつけ――くしゅんっ！ い、今のはただのくしゃみですわ！
+character_system_text/1013/snd_voi_training_101301/0.wav|準備はできております。 さあ、指示をいただけますか？
+character_system_text/1013/snd_voi_training_101301/1.wav|メジロの名を背負う者として、 日々の鍛錬を怠るわけには 参りませんわ。
+character_system_text/1013/snd_voi_training_101301/2.wav|一歩一歩、コツコツと 積み重ねていきたいものですわね。
+character_system_text/1013/snd_voi_training_101301/3.wav|いつか必ず、 悲願を達成するために…！
+character_system_text/1013/snd_voi_training_101301/4.wav|厳しいトレーニングにも 耐えてみせます。でなければ 勝利は掴み取れませんもの。
+character_system_text/1013/snd_voi_training_101301/5.wav|周りからどう見えるかは常に意識 してきたつもりです。ライブでも それを活かしたいものですわね。
+character_system_text/1013/snd_voi_training_101301/6.wav|努力を重ねてここまで参りました。 今後もこの調子で鍛錬を積み重ねて いかなければ。
+character_system_text/1013/snd_voi_training_101301/7.wav|私に期待してくださる方々がいる… ならば、その期待を上回る 活躍をしてみせますわ。
+character_system_text/1013/snd_voi_training_101301/8.wav|トレーナーさんがいてくれたからですわ。
+character_system_text/1013/snd_voi_training_101301/9.wav|メジロのウマ娘として、やり遂げましたわ。
+character_system_text/1013/snd_voi_outgame_101301/0.wav|力がみなぎりますわ…！
+character_system_text/1013/snd_voi_outgame_101301/1.wav|まだまだ強くなれます！
+character_system_text/1013/snd_voi_outgame_101301/2.wav|はい、メジロマックイーンですわ。
+character_system_text/1013/snd_voi_gacha_101301/0.wav|勝利こそ我が定め。 盾の栄誉へ向けて、いざ！
+character_system_text/1013/snd_voi_teamst_st_101300_0000/0.wav|みなで、勝利を！
+character_system_text/1013/snd_voi_teamst_st_101300_1059/0.wav|いきますわよ！はい！
+character_system_text/1013/snd_voi_teamst_st_101300_1022/0.wav|勝利の暁には！
+character_system_text/1013/snd_voi_teamst_st_100700_1013/1.wav|なにを言ってますの！？
+character_system_text/1013/snd_voi_teamst_st_103100_1013/1.wav|で、ですわ！
+character_system_text/1013/snd_voi_teamst_st_106700_1013/1.wav|優雅に！
+character_system_text/1013/snd_voi_teamst_101300/0.wav|勇戦あるのみ、ですわ。
+character_system_text/1013/snd_voi_teamst_101300/1.wav|お見事です！
+character_system_text/1013/snd_voi_teamst_101300/2.wav|引き分けですわね。
+character_system_text/1013/snd_voi_teamst_101300/3.wav|無念ですわ…。
+character_system_text/1013/snd_voi_teamst_101300/4.wav|覚悟の違いですわ。
+character_system_text/1013/snd_voi_teamst_101300/5.wav|新記録、達成ですわね！
+character_system_text/1013/snd_voi_minigame_101300/0.wav|ふふっ♪胸が躍りますわね！
+character_system_text/1013/snd_voi_minigame_101300/1.wav|やりましたわっ！
+character_system_text/1013/snd_voi_minigame_101300/2.wav|ふぬぬぅー…。
+character_system_text/1013/snd_voi_minigame_101300/3.wav|まあ！こんなにたくさんっ！
+character_system_text/1013/snd_voi_minigame_101300/4.wav|やりましたわ！
+character_system_text/1013/snd_voi_minigame_101300/5.wav|んぅ～っ…悔しいですわ…。
+character_system_text/1013/snd_voi_minigame_101300/6.wav|ふん、ふん…♪
+character_system_text/1013/snd_voi_minigame_101300/7.wav|もう…
+character_system_text/1013/snd_voi_minigame_101300/8.wav|くすっ
+character_system_text/1013/snd_voi_minigame_101300/9.wav|素晴らしいですわっ！
+character_system_text/1013/snd_voi_minigame_101300/10.wav|うううう～…
+character_system_text/1013/snd_voi_minigame_101300/11.wav|う～ん…
+character_system_text/1013/snd_voi_minigame_101300/12.wav|もし？
+character_system_text/1013/snd_voi_minigame_101300/13.wav|よし
+character_system_text/1013/snd_voi_minigame_101300/14.wav|なんと…！
+character_system_text/1013/snd_voi_minigame_101300/15.wav|ああっ！
+character_system_text/1013/snd_voi_minigame_101300/16.wav|むぅ～…
+character_system_text/1013/snd_voi_race_101301/1.wav|参ります…お覚悟！
+character_system_text/1013/snd_voi_race_101301/2.wav|ふぅ…時は来ました…参ります。
+character_system_text/1013/snd_voi_race_101301/0.wav|祝福の喝采…感謝いたします。
+character_system_text/1013/snd_voi_home_101302/0.wav|朝の空気はいいですわね。 すがすがしくて、 何事にも集中できますもの。
+character_system_text/1013/snd_voi_home_101302/1.wav|いくら早起きしても、必ず誰かが 朝トレしてらっしゃいます。 さすがはトレセン学園ですわね。
+character_system_text/1013/snd_voi_home_101302/2.wav|たまにはアフタヌーンティーでも いかがです？メジロ家仕込みの 作法でおもてなしいたしますわ。
+character_system_text/1013/snd_voi_home_101302/3.wav|テイオーさんが昼食後すぐ グラウンドへ向かっていました。 …私も負けてはいられません。
+character_system_text/1013/snd_voi_home_101302/4.wav|遅くまで頑張っておられますのね。 貴方の姿勢、私も見習わなければ。
+character_system_text/1013/snd_voi_home_101302/5.wav|就寝前は花の香りのハンドクリーム を塗るんです。少しだけ、いい夢が 見られるような気がして。
+character_system_text/1013/snd_voi_home_101302/6.wav|花咲き乱れる春… 自然と背筋が伸びますわ。
+character_system_text/1013/snd_voi_home_101302/7.wav|にわか雨が多い季節になり ましたね…コースが荒れて しまうのは困りものですわ。
+character_system_text/1013/snd_voi_home_101302/8.wav|肌寒いと、メジロ家の温泉が恋しく なります。この時期は露天風呂で 紅葉が楽しめますのよ。
+character_system_text/1013/snd_voi_home_101302/9.wav|ふんふ～ん♪ 寒い時はホットレモンに はちみつを少しだけ…♪
+character_system_text/1013/snd_voi_home_101302/10.wav|ああ見えてイクノさんは情熱家 ですの。体調管理の相談をすると 夜中になってしまうことも…。
+character_system_text/1013/snd_voi_home_101302/11.wav|メジロ家では、悩みをパーマーに 相談することが多くて。皆、彼女の 明るさに救われているんです。
+character_system_text/1013/snd_voi_home_101302/12.wav|時々、ヘリオスさんの仰ることが わからず…『あざまる水産』とは いったい…？
+character_system_text/1013/snd_voi_home_101302/13.wav|落としたハンカチを探していたら ライスさんが手伝ってください ました。…本当に優しい方。
+character_system_text/1013/snd_voi_home_101302/14.wav|テイオーさんの元気がなかった ような…メジロ家の主治医を 紹介してあげようかしら。
+character_system_text/1013/snd_voi_home_101302/15.wav|さらなる高みへと 駆けていけそうな衣装ですわね。
+character_system_text/1013/snd_voi_home_101302/16.wav|新たな勝負服は皆さんの期待の表れ でもあります。応援してくれる方々 に恥じぬ走りをしなければ。
+character_system_text/1013/snd_voi_home_101302/17.wav|テイオーさんったら、朝からチーズ たっぷりのトーストを目の前で…！ 絶対に惑わされないんですから…！
+character_system_text/1013/snd_voi_home_101302/18.wav|あっ、にんじんみたいな形の雲が… ふふっ、かわいらしいですわね。
+character_system_text/1013/snd_voi_home_101302/19.wav|今のうちに両親に連絡を、と…。 …定期的に連絡しないと、すぐに 心配されてしまうんです。
+character_system_text/1013/snd_voi_home_101302/20.wav|メジロ家の庭園には大きな池があり ました。水面に桜の花が落ちる様を よく眺めていたものです。
+character_system_text/1013/snd_voi_home_101302/21.wav|今の時期はナイターが――いえ でもメジロ家のウマ娘がふらふらと 遊び歩くわけにはっ…！
+character_system_text/1013/snd_voi_home_101302/22.wav|木の葉が色づいていくのを見ると、 秋の深まりを感じます。 季節の移ろいは早いものですわね。
+character_system_text/1013/snd_voi_home_101302/23.wav|子どもの頃は手袋をブローチで 留めて左右一対にしていました。 …時々、片方だけなくしたもので。
+character_system_text/1013/snd_voi_training_101302/0.wav|理想の走りに近づけるよう、今日も よろしくお願いいたしますわ。
+character_system_text/1013/snd_voi_training_101302/1.wav|私の長所が活きるトレーニングを。 貴方ならおわかりでしょう？
+character_system_text/1013/snd_voi_training_101302/2.wav|水鳥の如く、強く優雅に。
+character_system_text/1013/snd_voi_training_101302/3.wav|勝利に向けて 羽ばたいていきましょうか。
+character_system_text/1013/snd_voi_training_101302/4.wav|切磋琢磨できる方が大勢いる この環境…大切にしなくては。
+character_system_text/1013/snd_voi_training_101302/5.wav|澄み切った水のように、 常に平静でありたいものです。
+character_system_text/1013/snd_voi_training_101302/6.wav|まだ見ぬ未来になにがあるのか… 確かめましょう。私たちで。
+character_system_text/1013/snd_voi_training_101302/7.wav|最高の栄誉と感謝を贈りますわ。
+character_system_text/1013/snd_voi_training_101302/8.wav|私の誇りは…貴方と共に。
+character_system_text/1013/snd_voi_outgame_101302/0.wav|天高く！
+character_system_text/1013/snd_voi_outgame_101302/1.wav|果てなく先へ！
+character_system_text/1013/snd_voi_outgame_101302/2.wav|メジロマックイーンです。 天まで駆けてみせますわ。
+character_system_text/1013/snd_voi_gacha_101302/0.wav|昇ってみせます！ 遥か、果てなき未来へ！
+character_system_text/1013/snd_voi_race_101302/1.wav|羽ばたきます！
+character_system_text/1013/snd_voi_race_101302/2.wav|この翼で、高く高く…羽ばたいてみせますわ！
+character_system_text/1013/snd_voi_race_101302/0.wav|天まで昇り…勝ち取りました！
+character_system_text/1013/snd_voi_home_101303/0.wav|朝のランニングをしていたら、 テイオーさんと鉢合わせしまして… 少し、走りすぎてしまいましたわ。
+character_system_text/1013/snd_voi_home_101303/1.wav|ライアンから海の朝焼けが 美しかったと写真が送られてきたの ですが…ふふっ、いい笑顔でした。
+character_system_text/1013/snd_voi_home_101303/2.wav|…本日のティータイムはたしか、 とっておきのジェラートが…け、 決して楽しみではありませんわ！
+character_system_text/1013/snd_voi_home_101303/3.wav|ドーベルやアルダンさんとは 洋服の趣味が似ていまして… たまに被ってしまいますの。
+character_system_text/1013/snd_voi_home_101303/4.wav|あまり汗だくで帰りたくは ありませんの。その、ほら、 …イクノさんにご迷惑でしょう？
+character_system_text/1013/snd_voi_home_101303/5.wav|『今日も1日よく頑張りましたね』 昔はよく、お母様にそう褒められ ながら眠りについたものです。
+character_system_text/1013/snd_voi_home_101303/6.wav|『春』…やはりこの響きは 気が引き締まります。 …参りましょう、桜が散る前に。
+character_system_text/1013/snd_voi_home_101303/7.wav|今度、涼しい場所へ遊びに行きま せんか？その…ちょうど、似合いの 服も購入いたしましたので。
+character_system_text/1013/snd_voi_home_101303/8.wav|ご存じかしら？今、はちみー店では 期間限定『ハチミツお芋パフェ』が 売られていますのよ！
+character_system_text/1013/snd_voi_home_101303/9.wav|不思議なことに、レース中は 寒さなど忘れてしまえるのです。 ウマ娘七不思議、でしょうか？
+character_system_text/1013/snd_voi_home_101303/10.wav|滅多にないのですが、たまーに ゴールドシップさんと見間違えられ ますの。…複雑な気分ですわ！
+character_system_text/1013/snd_voi_home_101303/11.wav|メジロ家のウマ娘たるもの、 誇り高く慎み深く、そして時には 心の声に従って…ですわね。
+character_system_text/1013/snd_voi_home_101303/12.wav|サマーウォークは毎年楽しくて。 終わったら微増、なんてことも しばしば…。油断大敵ですわね。
+character_system_text/1013/snd_voi_home_101303/13.wav|かき氷大会の案内をいただき ましたの！フルーツ盛り放題 らしくて！ふふ、楽しみです♪
+character_system_text/1013/snd_voi_home_101303/14.wav|1度、夏フェスへパーマーに連れて 行っていただいたことがあります。 もみくちゃとはあのことですわね。
+character_system_text/1013/snd_voi_home_101303/15.wav|お腹は隠れるデザインに いたしましたの。その…万が一と いうこともあるでしょう？
+character_system_text/1013/snd_voi_home_101303/16.wav|不思議と、これを着ているだけで あの日の夏空を感じますわ。
+character_system_text/1013/snd_voi_home_101303/17.wav|おばあ様より教わっていますの。 朝であっても、眠気に負けず 背筋を伸ばして…ふぁ…！
+character_system_text/1013/snd_voi_home_101303/18.wav|いい茶葉が入りましたの。 『ハロウス』の期間限定茶葉で、 甘いものによく合うんです。
+character_system_text/1013/snd_voi_home_101303/19.wav|…あら？どこからか、花火の音が 聞こえたような…少しだけ見に 行きませんか？…少しだけ、ね？
+character_system_text/1013/snd_voi_home_101303/20.wav|この時期の外周は格別ですのよ。 桜が舞って、菜の花が香って。 …今度一緒にお散歩しませんか？
+character_system_text/1013/snd_voi_home_101303/21.wav|昔、アルダンさんのお部屋に蛍が 迷い込んできたことがあるんです。 なぜか、どこで見るより美しくて。
+character_system_text/1013/snd_voi_home_101303/22.wav|ゴールドシップさんが、逆芋ほりを したいと言って、空を掘っていたの ですが…止めるべきでしょうか。
+character_system_text/1013/snd_voi_home_101303/23.wav|メ、メジロ家のウマ娘たるもの、 多少の寒さには屈しません！ …屈しませんわよ！
+character_system_text/1013/snd_voi_training_101303/0.wav|リフレッシュも済ませましたし… さ、どんなトレーニングも こなしてみせますわ！
+character_system_text/1013/snd_voi_training_101303/1.wav|大丈夫かしら…。 トレーナーさん、リボンが落ちたら すぐに教えてくださいませ。
+character_system_text/1013/snd_voi_training_101303/2.wav|勝負とあらば、いついかなる時も… 本気でなければいけません。
+character_system_text/1013/snd_voi_training_101303/3.wav|私もおかしなわがままを 言ってみてもいいでしょうか？ …ふふ、冗談ですわ。
+character_system_text/1013/snd_voi_training_101303/5.wav|『メジロ家のウマ娘たるもの』 …この矜持を忘れず、そして 縛られず、邁進して参りますわ。
+character_system_text/1013/snd_voi_training_101303/6.wav|掴み取りたいものは変わりません。 メジロの悲願を…貴方と共に。
+character_system_text/1013/snd_voi_training_101303/7.wav|貴方に見せたい夕日があるんです。 …ふふ。くたくたになって迎える、 夏の夕暮れですわ。
+character_system_text/1013/snd_voi_training_101303/8.wav|どんな私でも支えてくださったこと、 ずっと忘れませんわ。
+character_system_text/1013/snd_voi_training_101303/9.wav|トレーニングも、休日も… 貴方との思い出ばかりですわね。
+character_system_text/1013/snd_voi_outgame_101303/0.wav|休憩はたっぷりとれましたもの。
+character_system_text/1013/snd_voi_outgame_101303/1.wav|胸に熱が宿っていますわ。 まるで夏日の輝きのような…！
+character_system_text/1013/snd_voi_outgame_101303/2.wav|メジロマックイーンですわ。 夏のご予定は？
+character_system_text/1013/snd_voi_gacha_101303/0.wav|浜を歩いたり、波に触れたり… 少しくらい…いいかしら？
+character_system_text/1013/snd_voi_race_101303/1.wav|共に夏を駆けましょう。
+character_system_text/1013/snd_voi_race_101303/2.wav|夏日の煌めきのもと、貴方と過ごす夏はきっと …美しいものですわ。
+character_system_text/1013/snd_voi_race_101303/0.wav|特別に大粒いちごのかき氷を… …は！
+character_system_text/1013/snd_voi_event_090003/1.wav|例え新しい風が吹こうとも… 勝利は譲りませんわ。
+character_system_text/1013/snd_voi_event_090016/0.wav|私まで参加するハメになるなんて… ですが、やるからには本気ですわ。 それがメジロの矜持ですもの。
+character_system_text/1013/snd_voi_event_090016/6.wav|決着をつける時が来ましたわね。 私はメジロの名に恥じぬよう、 優雅に勝つと誓いますわ。
+character_system_text/1013/snd_voi_event_090016/10.wav|ゴールドシップさんにも 少しは感謝いたしませんとね。 少しだけ、ですのよ…？
+character_system_text/1013/snd_voi_event_090024/5.wav|テイオーさんは隙あらば感覚で 即興を入れてくるんですの…。 合わせる側も大変なんですからね。
+character_system_text/1013/snd_voi_event_090024/7.wav|ドロワに学年などの壁はござい ません。尊敬する先輩がいようとも …トップには立てますのよ？
+character_system_text/1013/snd_voi_valentine_101300/0.wav|ハッピーバレンタイン、ですわ
+character_system_text/1013/snd_voi_aimteam_101300/0.wav|お疲れ様です

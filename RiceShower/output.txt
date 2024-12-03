@@ -1,0 +1,877 @@
+story/data/02/0002/storytimeline_020002011/35.wav|に、『日本ダービー』！？
+story/data/02/0002/storytimeline_020002011/16.wav|まだ……まだまだ……。もっと、最後まで……。
+story/data/02/0002/storytimeline_020002011/34.wav|ライスがステイヤー……。 マックイーンさんと同じ……。
+story/data/02/0002/storytimeline_020002011/20.wav|はぁ……はぁ……はぁ……はぁ……。
+story/data/02/0002/storytimeline_020002011/28.wav|『皐月賞』、それにこの前のレースだって がんばったけど、8着だったんだよ……？
+story/data/02/0002/storytimeline_020002011/27.wav|だけど、もしホントにライスの走りがいいなら、 なんでレースで勝てないんだろう……。
+story/data/02/0002/storytimeline_020002011/30.wav|うう……でも……。
+story/data/02/0002/storytimeline_020002011/25.wav|はぁ、はぁ……え、ら、ライスが？
+story/data/02/0002/storytimeline_020002011/18.wav|……あっ！
+story/data/02/0002/storytimeline_020002011/13.wav|はぁっ、はぁっ、はぁっ、はぁっ……。
+story/data/02/0002/storytimeline_020002011/33.wav|きょ、“距離”……？
+story/data/02/0002/storytimeline_020002031/8.wav|ライスたちもいこう、トレーナーさん♪
+story/data/02/0002/storytimeline_020002031/13.wav|…………。
+story/data/02/0002/storytimeline_020002031/19.wav|だから……ライスはミホノブルボンさんに勝ちたい。
+story/data/02/0002/storytimeline_020002031/29.wav|ついてく……ついてく……。
+story/data/02/0002/storytimeline_020002031/15.wav|……トレーナーさん、いつもありがとう。 ライス、こんなに走れるなんて思ってなかったの。
+story/data/02/0002/storytimeline_020002031/12.wav|えへへ……やった。
+story/data/02/0002/storytimeline_020002031/21.wav|あうぅ……なんだかこうして口に出して言うと、 ちょっと恥ずかしい……。
+story/data/02/0002/storytimeline_020002031/11.wav|ライス、最後に観覧車に乗りたいの。 だから……一緒に乗ってくれる？
+story/data/02/0002/storytimeline_020002031/3.wav|あれ？　ライスたちしかいなくて貸切みたい。 えへへ、なんだかうれしいなっ♪
+story/data/02/0002/storytimeline_020002031/2.wav|うわぁ～！　ここがあの“有名な遊園地”なんだっ！ お姫さまの住んでるお城とか、ビッグカミナリ山があるんだよね！
+story/data/02/0002/storytimeline_020002031/17.wav|えへへ……。
+story/data/02/0002/storytimeline_020002031/14.wav|あ……うん、えっとね……。
+story/data/02/0002/storytimeline_020002031/10.wav|……あ、あのねトレーナーさん。
+story/data/02/0002/storytimeline_020002031/18.wav|……それでね、ライス思ったの。 2着もうれしかったけど、もし1着が取れたらって……。
+story/data/02/0002/storytimeline_020002031/20.wav|こんな風に、誰かに勝ちたいって思えたのはトレーナーさんの おかげだから、どうしても伝えたかったんだけど……。
+story/data/02/0002/storytimeline_020002031/9.wav|ほとんどの乗り物に乗れちゃった。 今日はお客さんが少なくてよかった～。
+story/data/02/0002/storytimeline_020002031/25.wav|トレーナーさん、今日はご褒美ありがとう。 ライス、次もがんばるね！
+story/data/02/0002/storytimeline_020002031/24.wav|うん、本当のユートピアみたいで楽しかったよ♪
+story/data/02/0002/storytimeline_020002031/22.wav|2人で……。うん、これからもよろしくね。
+story/data/02/0002/storytimeline_020002031/16.wav|いまでも信じられないもん、ダービーで2着になれるなんて。
+story/data/02/0002/storytimeline_020002031/34.wav|マックイーンさんっ！？
+story/data/02/0002/storytimeline_020002041/35.wav|うん。それじゃあ、いってきます……！
+story/data/02/0002/storytimeline_020002041/28.wav|ううう……どきどきする……。
+story/data/02/0002/storytimeline_020002041/6.wav|う、うん……。
+story/data/02/0002/storytimeline_020002041/36.wav|わかった、ついてくついてく！
+story/data/02/0002/storytimeline_020002041/9.wav|わかった……ライス、全力で走ってみる。
+story/data/02/0002/storytimeline_020002041/31.wav|そ、そうだよね……ここまでがんばってきたんだもん。 楽しんで、それから……。
+story/data/02/0002/storytimeline_020002041/15.wav|ついてく……ついてく……。
+story/data/02/0002/storytimeline_020002041/11.wav|うん、また後で会いに来るね。
+story/data/02/0002/storytimeline_020002041/17.wav|うん、ついてくついてく。
+story/data/02/0002/storytimeline_020002041/2.wav|マックイーンさん……。
+story/data/02/0002/storytimeline_020002041/32.wav|ミホノブルボンさんに、勝ってくる。
+story/data/02/0002/storytimeline_020002051/30.wav|ふ、ふええ！？　恥ずかしいから言わないでぇ～っ！
+story/data/02/0002/storytimeline_020002051/28.wav|……かわいい文字。
+story/data/02/0002/storytimeline_020002051/34.wav|……うん。 
+story/data/02/0002/storytimeline_020002051/36.wav|みんなといっぱいトレーニングして、 すっごく走れるようになれたから。
+story/data/02/0002/storytimeline_020002051/40.wav|トレーナーさん、ライスがんばるね。
+story/data/02/0002/storytimeline_020002051/37.wav|ライス、ミホノブルボンさんと早く走りたい。 ずっとワクワクしてるの。
+story/data/02/0002/storytimeline_020002061/3.wav|ブルボンさん……ついてく……ついてく……。 それで……ついていって……。
+story/data/02/0002/storytimeline_020002061/6.wav|……ライスも、今日こそは負けません。
+story/data/02/0002/storytimeline_020002063/3.wav|あ……ブルボンさん……。
+story/data/02/0002/storytimeline_020002063/0.wav|はぁっ……はぁっ……。
+story/data/02/0002/storytimeline_020002063/8.wav|ライスが……ライスが勝てた……？
+story/data/02/0002/storytimeline_020002063/12.wav|ライス、ホントに……ホントに勝てたんだ……。
+story/data/02/0002/storytimeline_020002063/11.wav|う……うん！
+story/data/02/0002/storytimeline_020002063/13.wav|ライス、やったよっ！ マックイーンさん、チームのみんな、トレーナーさん……！
+story/data/02/0002/storytimeline_020002063/5.wav|……え？
+story/data/02/0002/storytimeline_020002063/1.wav|あ、あれ……いつの間にゴールを……。
+story/data/02/0002/storytimeline_020002071/21.wav|…………。
+story/data/02/0002/storytimeline_020002071/36.wav|…………。
+story/data/02/0002/storytimeline_020002071/38.wav|……うん、がんばってみる。
+story/data/02/0002/storytimeline_020002071/30.wav|んはぁ……はぁ……ふえぇ……。
+story/data/02/0002/storytimeline_020002071/32.wav|う、うん……ごめんなさい。
+story/data/02/0002/storytimeline_020002071/25.wav|でも、今日はもう疲れたから先に帰るね。
+story/data/02/0002/storytimeline_020002071/24.wav|……みんな、ありがとう。
+story/data/02/0002/storytimeline_020002081/14.wav|だ……だけど、春の『天皇賞』は マックイーンさんの3連覇がかかって……。
+story/data/02/0002/storytimeline_020002081/12.wav|大舞台……ライスの走るレースが決まったの？
+story/data/02/0002/storytimeline_020002081/15.wav|そんな大事なレースで、ライス走れないよ。 勝てたとしても、またライスは……。
+story/data/02/0002/storytimeline_020002081/13.wav|……え？　春の『天皇賞』……！？
+story/data/02/0002/storytimeline_020002081/11.wav|はぁ……ふぅ…… あの、タイムはどうだった……？
+story/data/02/0002/storytimeline_020002091/3.wav|ううう……。
+story/data/02/0002/storytimeline_020002091/34.wav|ライスが勝つことを喜んでくれない人がいても、 それでもやっぱりライスは……。
+story/data/02/0002/storytimeline_020002091/35.wav|ライスは、勝ちたいっ！
+story/data/02/0002/storytimeline_020002091/17.wav|え……ブルボンさんと勝負……。
+story/data/02/0002/storytimeline_020002091/6.wav|ふえぇ～～！！
+story/data/02/0002/storytimeline_020002091/14.wav|はぁ……ふぅ……はぁ……。
+story/data/02/0002/storytimeline_020002091/52.wav|ブルボンさん……ライス、走れた……。 ブルボンさんに勝ちたいって、思うことができた。
+story/data/02/0002/storytimeline_020002091/37.wav|うんっ！
+story/data/02/0002/storytimeline_020002091/47.wav|やああああ～～～～っ！！
+story/data/02/0002/storytimeline_020002091/46.wav|（なら……ちゃんと応えなきゃっ！！）
+story/data/02/0002/storytimeline_020002091/30.wav|勝ちたいという、想い……。
+story/data/02/0002/storytimeline_020002091/43.wav|（ブルボンさん、すごく速い……！ 『菊花賞』のときよりも……）
+story/data/02/0002/storytimeline_020002091/57.wav|ライスは勝ちたい。 たとえマックイーンさんにとって大事なレースだとしても！
+story/data/02/0002/storytimeline_020002091/23.wav|…………。
+story/data/02/0002/storytimeline_020002091/55.wav|うん……うんっ！
+story/data/02/0002/storytimeline_020002091/32.wav|ライスだって……勝ちたいっ！
+story/data/02/0002/storytimeline_020002091/31.wav|走るのが好きで……でもずっと勝てなくて……。 そんなとき、マックイーンさんのレースを見て……。
+story/data/02/0002/storytimeline_020002091/45.wav|（みんなに認めてもらえなかったライスを、 ブルボンさんは認めてくれてたんだ）
+story/data/02/0002/storytimeline_020002091/33.wav|……そうだ、だからライスはチームを移ってきて、 いっぱいトレーニングして……。
+story/data/02/0002/storytimeline_020002091/8.wav|は、はい～！
+story/data/02/0002/storytimeline_020002091/1.wav|えええっ！？　ブ、ブルボンさん！？
+story/data/02/0002/storytimeline_020002091/27.wav|ブルボンさん……。
+story/data/02/0002/storytimeline_020002091/49.wav|はあっ……はあぁ……ふうぅ～……。
+story/data/02/0002/storytimeline_020002091/44.wav|（ライスに勝ちたくて、だからいっぱい努力して……）
+story/data/02/0002/storytimeline_020002091/56.wav|トレーナーさん、あのね…… ライス、春の『天皇賞』に出ます！
+story/data/02/0002/storytimeline_020002091/19.wav|でもライスは……。
+story/data/02/0002/storytimeline_020002101/19.wav|ライスに見せたい“景色”……。
+story/data/02/0002/storytimeline_020002101/20.wav|……わかった、ちゃんとその“景色”見てくるね。
+story/data/02/0002/storytimeline_020002101/15.wav|たくさんの人がマックイーンさんを応援してて、 『天皇賞』の3連覇を見たがってるのがよくわかるから。
+story/data/02/0002/storytimeline_020002101/16.wav|ライスが勝ったらきっとまたみんなはガッカリして、 『余計なことをするな』って怒るよね。
+story/data/02/0002/storytimeline_020002101/28.wav|…………。
+story/data/02/0002/storytimeline_020002101/21.wav|……うん、いってきます、トレーナーさん。
+story/data/02/0002/storytimeline_020002101/14.wav|緊張はね、そんなにしてないよ。 だけど……やっぱりちょっと怖い。
+story/data/02/0002/storytimeline_020002101/23.wav|マックイーンさんについてく……ついてく……。 マックイーンさんについてく……ついてく……。
+story/data/02/0002/storytimeline_020002101/13.wav|ふふふっ、そんなの聞いたことないよ。
+story/data/02/0002/storytimeline_020002101/17.wav|……うん、それでもやっぱりライスは勝ちたいから。
+story/data/02/0002/storytimeline_020002101/2.wav|マックイーンさんについてく……ついてく……。
+story/data/02/0002/storytimeline_020002101/18.wav|マックイーンさんが……？
+story/data/02/0002/storytimeline_020002101/12.wav|あ、トレーナーさん……。
+story/data/02/0002/storytimeline_020002111/20.wav|ライスを応援してくれてる人がいる……。
+story/data/02/0002/storytimeline_020002111/29.wav|ライス、胸を張る。 みんなの顔をしっかり見て、これからも走り続けて……。
+story/data/02/0002/storytimeline_020002111/10.wav|“景色”……。
+story/data/02/0002/storytimeline_020002111/30.wav|いつか、みんなに喜んでもらえるようなウマ娘になるね！
+story/data/02/0002/storytimeline_020002111/4.wav|えへへ……みんな、がっかりしてるね。
+story/data/02/0002/storytimeline_020002111/28.wav|ライスのせいでがっかりした人たちも、ライスがしっかりしなきゃ もっとがっかりしちゃうよね。
+story/data/02/0002/storytimeline_020002111/5.wav|マックイーンさんは見せたい“景色”があったみたいだけど、 『菊花賞』のときと、なんにも違わないみたい……。
+story/data/02/0002/storytimeline_020002111/12.wav|え……あっ！？
+story/data/02/0002/storytimeline_020002111/27.wav|……うん！
+story/data/02/0002/storytimeline_020002111/6.wav|こうなるのは、もちろんわかってたけど……。 やっぱりちょっと……胸が痛いかも……。
+story/data/02/0002/storytimeline_020002111/24.wav|勝者の義務と誇り……。
+story/data/02/0002/storytimeline_020002111/2.wav|…………。
+story/data/02/0002/storytimeline_020002121/31.wav|あっ、トレーナーさん。
+story/data/02/0002/storytimeline_020002121/30.wav|……はぁ。
+story/data/02/0002/storytimeline_020002121/24.wav|…………。
+story/data/02/0002/storytimeline_020002121/21.wav|それに、いつかみんなに喜んでもらえるウマ娘になるって マックイーンさんと約束したから。
+story/data/02/0002/storytimeline_020002121/13.wav|う……ううっ！　マックイーンさぁ～～ん！！
+story/data/02/0002/storytimeline_020002121/34.wav|さあ、またがんばってトレーニングしなきゃ！ いこっ、トレーナーさん！
+story/data/02/0002/storytimeline_020002121/22.wav|トレーナーさん、もう1周走ってくるね！
+story/data/02/0002/storytimeline_020002121/19.wav|……ううん、走るよ。
+story/data/02/0002/storytimeline_020002121/20.wav|どんなに勝てなくても、みんなからいっぱい怒られても、 胸を張って走るって決めたの。
+story/data/02/0002/storytimeline_020002121/11.wav|は、はい……。
+story/data/02/0002/storytimeline_020002121/33.wav|……ううん、泣かないよ。 泣くならね、うれしいときの方がいいなって。
+story/data/02/0002/storytimeline_020002121/17.wav|はぁっはぁっ……はぁっはぁっ……！ ふぅ……。
+story/data/02/0002/storytimeline_020002121/0.wav|ええっ！？　マックイーンさんがチームを抜ける……っ！？
+story/data/02/0002/storytimeline_020002121/18.wav|……先頭に追いつけるイメージはあるし、 スタミナも切れてない自信はあるよ。だけど……。
+story/data/02/0002/storytimeline_020002121/32.wav|えへへ……今日も勝てなかったね。
+story/data/02/0002/storytimeline_020002131/29.wav|トレーナーさんと、チームのみんなと一緒ならどこでも楽しい。 みんなの笑顔を見てると、ライスもうれしくて笑顔になるの。
+story/data/02/0002/storytimeline_020002131/17.wav|うん、マックイーンさんとブルボンさんについてく！
+story/data/02/0002/storytimeline_020002131/42.wav|ライスは、どこまでも走り続けます……！ 走り続けて、みんなに笑顔になってもらいますっ！！
+story/data/02/0002/storytimeline_020002131/26.wav|……うん、わかった！
+story/data/02/0002/storytimeline_020002131/31.wav|うん、いってきます！
+story/data/02/0002/storytimeline_020002131/38.wav|え……？　あ……あ……！？
+story/data/02/0002/storytimeline_020002131/30.wav|だから、みんなを笑顔にする為に 今日のレースもせいいっぱい、がんばるからね。
+story/data/02/0002/storytimeline_020002131/15.wav|ブルボンさん……ライスのためにありがとう！
+story/data/02/0002/storytimeline_020002131/28.wav|えへへ……でもライス、“あっちの遊園地”も好きだよ？
+story/data/02/0002/storytimeline_020002131/0.wav|はっ……はっ……はっ……はっ……！
+story/data/02/0002/storytimeline_020002131/27.wav|ねえねえ、トレーナーさん。 勝ったら“有名な遊園地”にご招待……なんだよね？
+story/data/02/0002/storytimeline_020002131/20.wav|ふええぇ～っ！？
+story/data/02/0002/storytimeline_020002131/40.wav|みんなが……みんなが喜んでくれてる……。 笑ってくれてる……！
+story/data/02/0002/storytimeline_020002131/12.wav|マックイーンさんっ！？　それに……っ！！
+story/data/02/0002/storytimeline_020002131/41.wav|……みんな、ありがとう！！
+story/data/02/0002/storytimeline_020002133/2.wav|ライス、小さいとき、よく絵本を読んでたの。 絵本を読んで、初めて夢を叶えたいって思ったの。
+story/data/02/0002/storytimeline_020002133/1.wav|もう1つ、ご褒美のお願い、聞いてもらってもいいかな……？
+story/data/02/0002/storytimeline_020002133/0.wav|――あのね、トレーナーさん。
+story/data/02/0002/storytimeline_020002133/3.wav|だから、今度はライスの番。 みんなに夢を届ける、そんな絵本を書いてみたいなって――
+story/data/02/0003/storytimeline_020003131/8.wav|せ……せーのっ！
+story/data/02/0003/storytimeline_020003131/3.wav|ううう～……ライスも緊張してくる……。
+story/data/02/0004/storytimeline_020004031/15.wav|ここのところ、トレーニングコースの雰囲気が ずっとピリピリしてるね……。
+story/data/02/0004/storytimeline_020004073/8.wav|ふえぇ～……！　あっちもこっちも大変……！
+story/data/02/0004/storytimeline_020004073/4.wav|ふわぁ～……！　またトレーナーさんに電話が……。
+story/data/02/0004/storytimeline_020004073/6.wav|……こんなに反響があるなんて……。
+story/data/02/0004/storytimeline_020004081/35.wav|ふぅ～……忘れたら大変だよね。
+story/data/02/0004/storytimeline_020004081/31.wav|ライスも、次はどんなレースをするんだろうって楽しみ。
+story/data/02/0004/storytimeline_020004131/5.wav|だけど……いまはもう違うよね。
+story/data/02/0005/storytimeline_020005121/22.wav|だから、みんなを笑顔にする為に 今日のレースもせいいっぱい、がんばるからね。
+story/data/02/0005/storytimeline_020005121/21.wav|ライスだって……勝ちたいっ！
+story/data/02/0005/storytimeline_020005131/5.wav|ふふふっ……。
+story/data/02/0005/storytimeline_020005091/0.wav|ふわぁ～……さっきよりも速いペース……。
+story/data/02/0006/storytimeline_020006071/58.wav|『ダービー』を勝ったスペさんでも簡単に勝てないんだから、 “黄金世代”はみんなすごいね……。
+story/data/02/0006/storytimeline_020006071/70.wav|ライスにもできることがあるなら、協力するね。 スペさん、一緒にがんばろ。
+story/data/02/0006/storytimeline_020006071/69.wav|え、えへへ……。
+story/data/02/0006/storytimeline_020006071/50.wav|……惜しいレースが続いたもんね。
+story/data/02/0006/storytimeline_020006111/8.wav|みんなで応援してる……！
+story/data/02/0006/storytimeline_020006111/1.wav|結果、見なくてもいいの……？
+story/data/02/0006/storytimeline_020006111/5.wav|トレーナーさんから聞いたよ、 お見送りは大丈夫だって言われたって。
+story/data/02/0006/storytimeline_020006121/57.wav|うん、ライスも天皇賞の盾が見たいな。
+story/data/02/0006/storytimeline_020006121/21.wav|お邪魔します……って、ふぇ？ マックイーンさんにチケットさん？
+story/data/02/0006/storytimeline_020006121/26.wav|うん、がんばってね……！
+story/data/02/0006/storytimeline_020006121/42.wav|……ライスも、『天皇賞（春）』は大事なレース。
+story/data/02/0006/storytimeline_020006121/43.wav|勝つことへの覚悟を持てたのも、勝つことのうれしさを 教えてくれたのもこのレースだから。
+story/data/02/0006/storytimeline_020006063/20.wav|『ダービー』優勝、おめでとう……！
+story/data/02/0006/storytimeline_020006131/12.wav|ライスたちもいっぱい応援するからね……！
+story/data/02/0004/storytimeline_020004091/20.wav|お医者さんはもう大丈夫だって言ってくれたの……？
+story/data/02/0006/storytimeline_020006011/49.wav|『皐月賞』に『ダービー』、それに『菊花賞』…… クラシックレースは、1つ勝つだけでも大変だもんね。
+story/data/02/0006/storytimeline_020006011/21.wav|うん……トレーニング、すごくよさそうに見えたから……。
+story/data/02/0004/storytimeline_020004021/0.wav|ふぅ……ふぅ……。
+story/data/02/0004/storytimeline_020004021/5.wav|……お疲れさま、トレーナーさん。
+story/data/02/0005/storytimeline_020005061/11.wav|ふわぁ……っ！？　すっごいスピード！？
+story/data/02/0006/storytimeline_020006133/15.wav|うん、とってもかっこよかったよ……！
+story/data/02/0006/storytimeline_020006141/19.wav|うん、『天皇賞（春）』もかっこよかったよ。
+story/data/02/0006/storytimeline_020006151/47.wav|いまのスペさんなら、『宝塚記念』でいい走りができそう……！
+story/data/02/0006/storytimeline_020006181/12.wav|スペさん、大丈夫……？
+story/data/02/0006/storytimeline_020006201/29.wav|スペさんの名前、言ってたね……。
+story/data/02/0006/storytimeline_020006211/30.wav|それにね、もうちょっとすれば心強い味方も来てくれるよ！
+story/data/02/0006/storytimeline_020006211/74.wav|がんばれ～～！
+story/data/02/0006/storytimeline_020006213/20.wav|とってもね、かっこよかったよ……！
+story/data/02/0006/storytimeline_020006221/38.wav|緊張は……してないみたいだね。
+story/data/02/0006/storytimeline_020006232/2.wav|本当にこれで、新しいメンバーが来てくれるのかな……。
+story/data/02/0006/storytimeline_020006191/53.wav|ライス、スペさんを追いかけるね……！
+story/data/02/0002/storytimeline_020002021/41.wav|でも、トレーナーさんが『なにがあっても食らいつけ』って 言ってたから……。
+story/data/02/0002/storytimeline_020002021/26.wav|ふうぅ……ふえぇ……。
+story/data/02/0002/storytimeline_020002021/11.wav|え……あっ……マックイーンさんの、トレーナーさん……。
+story/data/02/0002/storytimeline_020002021/14.wav|走るのが好きで……でもずっと勝てなくて……。 そんなとき、マックイーンさんのレースを見て……。
+story/data/02/0002/storytimeline_020002021/18.wav|あ……。
+story/data/02/0002/storytimeline_020002021/29.wav|う、うん！
+story/data/02/0002/storytimeline_020002021/2.wav|……あっ！？
+story/data/02/0002/storytimeline_020002021/35.wav|ついてく、ついてく……。
+story/data/02/0002/storytimeline_020002021/17.wav|そ、そんな…… ライスはそんなすごいウマ娘じゃないよぅ。
+story/data/02/0002/storytimeline_020002021/15.wav|ライスだって……勝ちたいっ！
+story/data/02/0002/storytimeline_020002021/7.wav|はっ……はっ……はっ……はっ……。
+story/data/02/0002/storytimeline_020002021/16.wav|ライスがダービーに……。
+story/data/02/0002/storytimeline_020002021/39.wav|ふえ？
+story/data/02/0002/storytimeline_020002021/20.wav|ずっとマックイーンさんについていけばいいの？
+story/data/02/0002/storytimeline_020002021/24.wav|……わかった。ライスがんばってマックイーンさんについてく。
+story/data/02/0002/storytimeline_020002021/19.wav|……う、うん。ライス、やってみる。
+story/data/02/0002/storytimeline_020002021/37.wav|ついてく、ついてく……。
+story/data/02/0002/storytimeline_020002021/10.wav|……こんなにいっぱい走っても、ライスは……。
+story/data/02/0002/storytimeline_020002021/33.wav|ついてく、ついてく……。
+story/data/02/0002/storytimeline_020002021/12.wav|……う……ううっ……。 ううう～……。
+story/data/02/0002/storytimeline_020002021/9.wav|うう……いたた……。
+story/data/02/0002/storytimeline_020002021/8.wav|はっ……はっ……あっ！？
+story/data/02/0002/storytimeline_020002021/13.wav|ご、ごめんなさい……違うんです……。
+story/data/02/0003/storytimeline_020003031/24.wav|ふわぁ～……チケットさん、すごい気合い……。
+story/data/02/0006/storytimeline_020006091/35.wav|みんな、お疲れさま……。
+story/data/02/0006/storytimeline_020006101/22.wav|特集してもらえるなんて、すごいね……！
+story/data/09/0006/storytimeline_090006001/33.wav|い、いえ。 ライスは……その……話しても……。
+story/data/09/0006/storytimeline_090006001/25.wav|（あのカボチャって、さっきブルボンさんが 言ってた失敗した分……かな？）
+story/data/09/0006/storytimeline_090006001/35.wav|えぇっ！？　じゃ、じゃあ……。 んと、ええっと……。
+story/data/09/0006/storytimeline_090006001/30.wav|ひゃわっ！？　ごめんなさい、ごめんなさい！ ライスは並んでなくてっ。その……。
+story/data/09/0006/storytimeline_090006001/20.wav|…………。
+story/data/09/0006/storytimeline_090006001/22.wav|あ……ご、ごめんねっ。 ライスも……そう思うよ。
+story/data/09/0006/storytimeline_090006001/23.wav|……そう、わかってるん……だけど。
+story/data/09/0006/storytimeline_090006001/36.wav|きょ……今日はいい天気ですね……？
+story/data/09/0006/storytimeline_090006002/4.wav|……悲鳴？　栗東寮の方から……！
+story/data/09/0006/storytimeline_090006002/38.wav|……ごめんね。いきなり飛び出しちゃって。 寝る前にびっくりさせちゃったよね。
+story/data/09/0006/storytimeline_090006002/7.wav|っ、ブルボンさんの声だ……！
+story/data/09/0006/storytimeline_090006002/39.wav|本当に……ごめんね。 ――おやすみ。
+story/data/09/0006/storytimeline_090006002/36.wav|あ。え、えっと……多分、大丈夫だったと思う。
+story/data/09/0006/storytimeline_090006004/12.wav|ぶ、ブルボンさん！？ きゃぁっ！？
+story/data/09/0006/storytimeline_090006004/9.wav|きゃぁぁぁっ！
+story/data/09/0006/storytimeline_090006004/36.wav|仮装の力？
+story/data/09/0006/storytimeline_090006004/23.wav|な、なんだか今日のクリークさん、 いつもと違う……？
+story/data/09/0006/storytimeline_090006004/34.wav|衣装を着てパワーアップ。勝負服……みたい？
+story/data/09/0006/storytimeline_090006004/14.wav|タマモさん！？
+story/data/09/0006/storytimeline_090006005/9.wav|………………え？　6人？
+story/data/09/0006/storytimeline_090006005/11.wav|……きゅぅ。
+story/data/09/0006/storytimeline_090006006/23.wav|でもそれはきっと、ロブロイさんが誘ってくれたおかげだね。 えへへ……ありがとう。私もここに連れて来てくれて。
+story/data/09/0006/storytimeline_090006006/15.wav|はふぅ、なんとか脱出できてよかったね……。
+story/data/09/0006/storytimeline_090006006/33.wav|もしかして……本当はすごく、怖かったの？ 仮装の裏で……ずっと？
+story/data/09/0006/storytimeline_090006006/18.wav|ひゃぁっ！
+story/data/09/0006/storytimeline_090006006/26.wav|ふぇっ？　ロブロイさん……？
+story/data/09/0006/storytimeline_090006006/31.wav|……仮装。
+story/data/09/0006/storytimeline_090006006/22.wav|……うれしかった。いつも迷惑かけちゃうライスでも、 やっとブルボンさんの役に立てたみたいで。
+story/data/09/0006/storytimeline_090006006/20.wav|え……そ、そう……かな？
+story/data/09/0006/storytimeline_090006006/21.wav|結局、謎解きはほとんどブルボンさんがしちゃって、 ライスは驚くことくらいしかできなかったけど……。
+story/data/09/0006/storytimeline_090006006/17.wav|へ？　オバケ屋敷のとき？ ええっと、そのときは――
+story/data/09/0006/storytimeline_090006006/28.wav|？　そ、そんな風に見えなかったよ？ むしろ今日のロブロイさんは堂々としていて……。
+story/data/09/0006/storytimeline_090006006/38.wav|…………ロブロイさん。 ……………………。
+story/data/09/0006/storytimeline_090006007/29.wav|で、で、でも。あの、えっと。う……うぅぅぅ～っ……！！
+story/data/09/0006/storytimeline_090006007/39.wav|……ようこそ、夜の、世界へ。 わ、私はヴァンパイアで……。
+story/data/09/0006/storytimeline_090006007/27.wav|……ごめんくださいっ！！
+story/data/09/0006/storytimeline_090006007/25.wav|…………迷惑かもって思っても、怖くても。 ロブロイさんは……ライスのために……。
+story/data/09/0006/storytimeline_090006007/30.wav|ら、ライスに仮装をさせてください！！ いまのライスには必要なんですっ、それでブルボンさんに……！
+story/data/09/0006/storytimeline_090006007/40.wav|あなたには……私の仲間になってもらうんだから……っ！
+story/data/09/0006/storytimeline_090006007/10.wav|！　……1人で？
+story/data/09/0006/storytimeline_090006007/7.wav|…………。
+story/data/09/0006/storytimeline_090006007/12.wav|……。
+story/data/09/0006/storytimeline_090006007/26.wav|…………仮装の力で……。
+story/data/09/0006/storytimeline_090006007/31.wav|ブルボン、さんに……！
+story/data/09/0006/storytimeline_090006008/54.wav|……カプッ！
+story/data/09/0006/storytimeline_090006008/18.wav|ふぇ……っ？
+story/data/09/0006/storytimeline_090006008/12.wav|わかってる、不幸にしちゃうかもしれないけど。 でも、いまのブルボンさんを1人にもしたくなくて……っ。
+story/data/09/0006/storytimeline_090006008/20.wav|ブ、ブルボンさん……？
+story/data/09/0006/storytimeline_090006008/53.wav|…………。
+story/data/09/0006/storytimeline_090006008/28.wav|……失敗なんかじゃ、ないよ。 だって協力は成功するために、するものだから。
+story/data/09/0006/storytimeline_090006008/9.wav|迷惑かもだけど、言われて困っちゃうかもだけど……！ でも、ライスは……ライスは……っ。
+story/data/09/0006/storytimeline_090006008/34.wav|……『でも』はきっともう必要ないよ。
+story/data/09/0006/storytimeline_090006008/14.wav|だめって言われても、あなたの血を吸ってムリヤリ 仲間にするから……っ！　あなたの手助けをしちゃうんだから……！
+story/data/09/0006/storytimeline_090006008/41.wav|ライス、お腹いっぱい食べるの得意だから――
+story/data/09/0006/storytimeline_090006008/36.wav|……だけどね、聞いてほしいんだ。 私、仲間になりたいの。あなたの役に立ちたいの。
+story/data/09/0006/storytimeline_090006008/51.wav|ふふっ……みんなで協力したもんね。 えへへ……ライスもちょっとだけだけど。
+story/data/09/0006/storytimeline_090006008/10.wav|ライスはブルボンさんのことを手伝いたい……っ！
+story/data/09/0006/storytimeline_090006008/7.wav|ひゃう！？ え、えっと。それは、その……。
+story/data/09/0006/storytimeline_090006008/56.wav|えへへ……いま、ロブロイさんを ヴァンパイアにしちゃったんだから。
+story/data/09/0006/storytimeline_090006008/27.wav|……ブルボンさん。 …………。
+story/data/09/0006/storytimeline_090006008/32.wav|……そ、それで、ブルボンさんが倒れた方が みんな悲しいと思う。ううん、それにきっと……。
+story/data/09/0006/storytimeline_090006008/37.wav|ブルボンさんの困っている顔じゃなくて、 笑顔が見たい……ただそれだけの気持ちなの……っ。
+story/data/09/0006/storytimeline_090006008/58.wav|……それにロブロイさんとなら お友だちになりたい子、たっくさんいると思うから。
+story/data/09/0006/storytimeline_090006008/46.wav|でもまだまだ怖い仕掛け用意してるんだよ？ ね……ブルボンさんっ。
+story/data/09/0006/storytimeline_090006008/5.wav|……ようこそ、夜の、世界へ。 わ、私はヴァンパイアで……。
+story/data/09/0006/storytimeline_090006008/57.wav|だから、あの子も仲間にしてみない？ ヴァンパイアはね……誰でもお友だちにできるんだよ？
+story/data/09/0006/storytimeline_090006008/8.wav|――っ、先にごめんなさいって言わせて！
+story/data/09/0006/storytimeline_090006008/30.wav|そ、そんなことない……！ ブルボンさんがだめだなんて誰も思わないよ……！
+story/data/09/0006/storytimeline_090006008/35.wav|ねえ、幽霊さん。あなたも私と一緒で、 怖がりな部分があったんだね。
+story/data/09/0006/storytimeline_090006008/13.wav|私は、私で……ライスじゃないから……！ 役に立てる仲間になるために仮装してきたんだから……っ！
+story/data/09/0006/storytimeline_090006008/40.wav|！　任せてっ。
+story/data/09/0014/storytimeline_090014003/35.wav|よかった……っ、これで次の謎解きにもチャレンジできるねっ。
+story/data/09/0014/storytimeline_090014003/41.wav|『全ての数を集めし部屋、仰ぎ見る場所に宝あり。 伝説の始まりは、位置について』
+story/data/09/0014/storytimeline_090014003/40.wav|でも次の問題も難しそう……。 えっと、ライス読むねっ。
+story/data/09/0014/storytimeline_090014003/3.wav|うんっ！　あっ、ウララちゃん最初は右周りだよ！
+story/data/09/0014/storytimeline_090014003/16.wav|ど、どうしよう……ライスたち、なにか間違っちゃった？
+story/data/09/0014/storytimeline_090014005/6.wav|あ……じゃあライス、その間にウララちゃんをお迎えに いってもいいかなっ？　戻ってくるの遅いから、心配で……。
+story/data/09/0014/storytimeline_090014005/18.wav|ライスがミューズになりたいのは、みんなを笑顔にしたいから……。 だから、ウララちゃんとも笑顔で走りたいよ……！
+story/data/09/0014/storytimeline_090014005/9.wav|あ……よかった、ここにいたんだ。 ウララちゃん、どうしたのこんなところで？
+story/data/09/0014/storytimeline_090014005/17.wav|だ……だったら、ライスも一緒に捜すよ……っ！ ライスも、ウララちゃんと一緒に走りたい……。
+story/data/09/0014/storytimeline_090014005/38.wav|ライスがミューズになりたいのは、みんなを笑顔にしたいから……。 だから、ウララちゃんとも笑顔で走りたいよ……！
+story/data/09/0014/storytimeline_090014005/33.wav|あったぁっ！　ウララちゃん、見つけたよっ！
+story/data/09/0014/storytimeline_090014005/25.wav|いってみよう、ウララちゃん！
+story/data/09/0006/storytimeline_090006003/17.wav|ご、ごめんなさい……っ！ 突然、迷惑だったよね……！
+story/data/09/0006/storytimeline_090006003/16.wav|……ご、ごめんねっ。前にライスの手が震えてたときに、 お母さまが手を握ってくれたの。そしたらホっとして……。
+story/data/09/0006/storytimeline_090006003/34.wav|（……もう、やめなきゃ。 こんなライスなんかが心配しても意味がない）
+story/data/09/0006/storytimeline_090006003/21.wav|…………。
+story/data/09/0006/storytimeline_090006003/32.wav|――昨日の夜、本当はブルボンさんの近くまでいこうとした。 でもタマモさんとクリークさんを見た瞬間。
+story/data/09/0006/storytimeline_090006003/14.wav|…………。
+story/data/09/0006/storytimeline_090006003/31.wav|……。
+story/data/09/0006/storytimeline_090006003/8.wav|……ぁ。
+story/data/09/0006/storytimeline_090006003/55.wav|わぁっ、カボチャさんいっぱいでかわいい……！ ダンサーさんの衣装もふわふわで……。
+story/data/09/0006/storytimeline_090006003/40.wav|へっ！？　わ、私……？
+story/data/09/0006/storytimeline_090006003/33.wav|ライスがいったら、みんなの邪魔になるんじゃないかって…… ……怖くなって。脚が震えて。気づいたら――
+story/data/09/0006/storytimeline_090006003/35.wav|（ライスが声をかけても迷惑なだけ、なんだから……）
+story/data/09/0014/storytimeline_090014001/31.wav|う……うんっ。ちっちゃい頃に、 『ビューティードリームカップ』をテレビで見たことがあって……。
+story/data/09/0014/storytimeline_090014001/33.wav|それがとっても素敵で……毎年見てて……。 だからもし、ライスが“ミューズ”を目指していいなら……っ。
+story/data/09/0014/storytimeline_090014001/32.wav|勝負服を着たミューズが走ると、 観てる人が……みんな幸せそうな笑顔になるの。
+story/data/09/0014/storytimeline_090014001/36.wav|……う、うん、そうだねっ！　あの、カレンさん！ ライスたちのこと、よろしくお願いしますっ。
+story/data/09/0014/storytimeline_090014001/28.wav|ええっ、ライスたちとオーディションに……？ でも……ライスは一緒にいたら、迷惑かけちゃうかも……。
+story/data/09/0014/storytimeline_090014002/30.wav|そうだねっ、集中……！　えっと『10は1となり100は10となる』 これって、なにかを数えるのかな？
+story/data/09/0014/storytimeline_090014002/39.wav|大変……っ、これから3つもレース場を回って、 制限時間に間に合うかなぁ……っ？
+story/data/09/0014/storytimeline_090014002/26.wav|ええっ、ファインさん、もしかして全部覚えてるのっ？
+story/data/09/0014/storytimeline_090014002/16.wav|うんっ！　あ……でも、謎解きってなにから始めたらいいのかな？
+story/data/09/0014/storytimeline_090014002/5.wav|この声……どこから？
+story/data/09/0014/storytimeline_090014004/39.wav|う、うんっ！　……ウララちゃん気をつけてねっ！
+story/data/09/0014/storytimeline_090014004/28.wav|はわぁ！　ウララちゃん待ってっ。 えっと、1たす2たす、3たす4たす……？
+story/data/09/0014/storytimeline_090014004/1.wav|えへへ、いっぱい走ったし、ライスもちょっぴり眠いかも。 でも、まだまだがんばらないとだよね！
+story/data/09/0014/storytimeline_090014004/23.wav|えっ？　う、歌うの？　えっと―― うまうまうみゃうにゃ3 2 1 fight！
+story/data/09/0014/storytimeline_090014004/21.wav|うまぴょいっ――って、ひゃわぁ、ごめんなさいっ！ このお歌っ、くせになっちゃってて！
+story/data/09/0014/storytimeline_090014006/12.wav|や、やっぱり、ライスの勘違いだったのかな……っ。
+story/data/09/0014/storytimeline_090014006/6.wav|えへへっ。それにこの針……ライス、どこかで見覚えがあって……。 あ――っ！
+story/data/09/0014/storytimeline_090014006/20.wav|え……っ、え……っ、どういうこと？
+story/data/09/0014/storytimeline_090014006/44.wav|あったよ、2人とも！ 時計の中に……これがきっと、教会の鍵だよね……っ！
+story/data/09/0014/storytimeline_090014006/3.wav|あの……ぜんぜんっ、関係ないかもしれないんだけど……。 このお部屋の柱時計……なぜか針がついてなくって……。
+story/data/09/0014/storytimeline_090014006/4.wav|だけどね…… この写真の時計には、ちゃんと針があるんだよ。
+story/data/09/0014/storytimeline_090014006/1.wav|あれ……っ？　どうして、これ……。
+story/data/09/0014/storytimeline_090014006/40.wav|ウララちゃん、時計の針、つけてみようっ！
+story/data/09/0014/storytimeline_090014006/13.wav|どうしよう……ライスが、間違ったこと言っちゃったから……。 時間、もうなくなっちゃうよね……ごめんなさいっ。
+story/data/09/0014/storytimeline_090014007/44.wav|ライス……謎解きは上手くできなかったから……っ。
+story/data/09/0014/storytimeline_090014007/13.wav|ライスも、走りでみんなを笑顔にしたい……っ。だけど ライスの力だけじゃ難しいから、勝負服さんに助けてほしい……。
+story/data/09/0014/storytimeline_090014007/40.wav|はうぅ……っ。
+story/data/09/0014/storytimeline_090014007/14.wav|観客の人たちだけじゃないの……お友だちや傍にいてくれる みんなのことを幸せにしたい……だから、お願いしますっ！
+story/data/09/0014/storytimeline_090014007/49.wav|え……それじゃ、もしかしてライスも……？
+story/data/09/0014/storytimeline_090014007/12.wav|ライスは……ずっと、ミューズに憧れてました。 ミューズが走ると、観ている人みんなが幸せそうに笑うから……。
+story/data/09/0014/storytimeline_090014007/42.wav|う……ううんっ、なんでもないのっ。 ただ今回のオーディションは、知性をみるって言ってたでしょ……？
+story/data/09/0014/storytimeline_090014008/20.wav|（だけど……ライスは……？）
+story/data/09/0014/storytimeline_090014008/9.wav|レースを観てくれるみんなは……どう思うのかな……？
+story/data/09/0014/storytimeline_090014008/23.wav|あ……、いま、ライスの名前……？ かわいいって……ありがとって……。
+story/data/09/0014/storytimeline_090014008/19.wav|（カレンさんも、ファインさんも、すごい……）
+story/data/09/0014/storytimeline_090014008/24.wav|みんな笑ってる……とっても幸せそうに……。 ライスとみんなが……ミューズが走ったから……。
+story/data/09/0014/storytimeline_090014008/30.wav|あの……ウララちゃん、イクノさん。よかったら、 ライスとわけっこしよ？　ライスも、選べないから……。
+story/data/09/0014/storytimeline_090014008/8.wav|とっても綺麗だね……。 この勝負服を見てると、すごく幸せな気持ちになるよ。
+story/data/09/0014/storytimeline_090014008/25.wav|よかった……ライスもなれたんだ……！ みんなを笑顔にする、憧れのミューズに……っ！
+story/data/10/0000/storytimeline_100000004/7.wav|ぶ、ブルボンさん、ほんとにいいの？ ほんとに……『ロボ』でいいの……！？
+story/data/10/0000/storytimeline_100000010/5.wav|ひゃあ！？　えっ、えっ、な、なんだろう……？
+story/data/10/0000/storytimeline_100000010/10.wav|……それで、こんな感じに……？
+story/data/10/0000/storytimeline_100000010/17.wav|ひゃわっ！？　い、いっちゃった……！？
+story/data/04/1030/storytimeline_041030001/0.wav|ふぅ……うん、休憩おしまいっ。
+story/data/04/1030/storytimeline_041030001/20.wav|ちゃんとデビューして、いっぱい活躍して……。 だめじゃないライスになるんだから……！
+story/data/04/1030/storytimeline_041030001/1.wav|早く戻って…… そしたら、次のメニューやらなくっちゃ。
+story/data/04/1030/storytimeline_041030001/9.wav|ごめんなさいっ！！
+story/data/04/1030/storytimeline_041030001/12.wav|ううん、ライスのせいなんです。 ライスはすぐみんなを不幸にしちゃう、だめな子だから……。
+story/data/04/1030/storytimeline_041030001/22.wav|おーっ！！
+story/data/04/1030/storytimeline_041030001/11.wav|ほんとにほんとに、ごめんなさいっ……！！
+story/data/04/1030/storytimeline_041030001/17.wav|はぁ……ほんとにだめな子だなぁ、私……。
+story/data/04/1030/storytimeline_041030001/32.wav|ふぇっ……！？
+story/data/04/1030/storytimeline_041030001/14.wav|はぁっ、はぁっ、はぁっ……はぁ。
+story/data/04/1030/storytimeline_041030001/8.wav|は、はい。 あの……ご、ご……。
+story/data/04/1030/storytimeline_041030001/13.wav|ごめんなさい……で、でもライスがいなくなれば大丈夫ですから！ それではっ……！！
+story/data/04/1030/storytimeline_041030001/10.wav|だって……ライスがそばを走ってたばっかりに、 学園まで戻るのこんなに遅くなっちゃって……。
+story/data/04/1030/storytimeline_041030001/4.wav|…………はぅ。
+story/data/04/1030/storytimeline_041030001/15.wav|……うぅ。 さっきの人、こんなに遅くなっちゃって、大丈夫だったかなぁ。
+story/data/04/1030/storytimeline_041030001/6.wav|…………っ。
+story/data/04/1030/storytimeline_041030001/19.wav|次の選抜レース出るって、決めたんだもん。 ちゃんと出て、ちゃんと走って、それで……。
+story/data/04/1030/storytimeline_041030001/5.wav|あぅぅぅ……！！
+story/data/04/1030/storytimeline_041030001/2.wav|がんばれライス、がんばれー……おー！
+story/data/04/1030/storytimeline_041030001/31.wav|ぐすっ……！ なんで……なんでライスは、こんなにだめな子なの……？
+story/data/04/1030/storytimeline_041030001/21.wav|うんっ……トレーニングしなくっちゃ！ がんばれライス、がんばれー……！
+story/data/04/1030/storytimeline_041030001/30.wav|ばかっ、ばかばか、ライスのばか！ がんばるって、がんばろうって、決めたのに……。
+story/data/04/1030/storytimeline_041030001/18.wav|…………ううんっ、でも、がんばらなきゃ！
+story/data/04/1030/storytimeline_041030001/29.wav|ぐすっ、ふえぇ……うぇぇぇぇーん！！
+story/data/04/1030/storytimeline_041030001/16.wav|お腹ぺこぺこになっちゃってたり…… 見たいテレビ終わっちゃってたりしたら、どうしよう……。
+story/data/04/1030/storytimeline_041030001/3.wav|………………。
+story/data/04/1030/storytimeline_041030001/33.wav|あ、あなたは……この前の……？
+story/data/04/1030/storytimeline_041030001/7.wav|あのっ……す、すみません……！
+story/data/04/1030/storytimeline_041030002/34.wav|ぜんぜん気づかなかった……。 ライス、ずっとわくわくしながら走ってたから……。
+story/data/04/1030/storytimeline_041030002/37.wav|ひゃあ！？　あっ、あっ、あわわわわ、ごめんなさいっ！ お腹さん、しーっだよ、しーっ……！
+story/data/04/1030/storytimeline_041030002/23.wav|うん。ライスね……小さい頃からずっと、 不幸なことばかり起こしちゃうの。
+story/data/04/1030/storytimeline_041030002/6.wav|うぅ……ぐすっ。やっぱり……やっぱり、ライスなんか……！
+story/data/04/1030/storytimeline_041030002/33.wav|あ……も、もうお日さま沈んじゃいそう……。
+story/data/04/1030/storytimeline_041030002/25.wav|ライスは、いつもいつもみんなに迷惑かけちゃう だめな子なの……。
+story/data/04/1030/storytimeline_041030002/5.wav|ちゃんとデビューして、いっぱい活躍して……。 だめじゃないライスになるんだから……！
+story/data/04/1030/storytimeline_041030002/9.wav|あわわ……ら、ライスは…… その、とってもとってもうれしいけど、でも……！
+story/data/04/1030/storytimeline_041030002/21.wav|急な雨のときに使う傘とか、着替えとか……。 帰り道で遭難しちゃったときのためのマヨネーズとか……！
+story/data/04/1030/storytimeline_041030002/35.wav|う、うんっ！　楽しかったよ、すっごく……！ トレーナーさん優しいし……やっぱり、お兄さまみたいで――
+story/data/04/1030/storytimeline_041030002/39.wav|なんでも……！　なんでも……なんでも、かぁ……。 ……………………。
+story/data/04/1030/storytimeline_041030002/2.wav|ライスも、だめじゃないライスになりたかったけど…… がんばろうって、レース出ようって思ったけど、結局……！
+story/data/04/1030/storytimeline_041030002/13.wav|すごい……お兄さまみたい……。
+story/data/04/1030/storytimeline_041030002/12.wav|……っ！
+story/data/04/1030/storytimeline_041030002/26.wav|はわ……！　お、おしゃべりしすぎちゃった……！ ごめんなさいごめんなさいっ！！
+story/data/04/1030/storytimeline_041030002/10.wav|ライス……ほんとにだめな子だよ……？ いっぱい迷惑かけるし、まともにレースも出られないのに……。
+story/data/04/1030/storytimeline_041030002/4.wav|次の選抜レース出るって、決めたんだもん。 ちゃんと出て、ちゃんと走って、それで……。
+story/data/04/1030/storytimeline_041030002/19.wav|はぁ、はぁ……ま、待たせてごめんなさい！ トレーニング、よろしくお願いしますっ……！
+story/data/04/1030/storytimeline_041030002/29.wav|ほんと……！？　よ、よかった……！！
+story/data/04/1030/storytimeline_041030002/20.wav|あっ、えっと……いろいろ、よくないことが起きたときのために 準備してきたの。転んだときの絆創膏とか、テーピングとか……。
+story/data/04/1030/storytimeline_041030002/7.wav|えっ……？
+story/data/04/1030/storytimeline_041030002/42.wav|……！　い、いいの……！？
+story/data/04/1030/storytimeline_041030002/18.wav|うんしょ、うんしょ……。
+story/data/04/1030/storytimeline_041030002/8.wav|スカウト、って……あなたが、ライスのトレーナーさんに……？
+story/data/04/1030/storytimeline_041030002/1.wav|だって……ライスのそばにいたら、また不幸にしちゃう。 また迷惑かけちゃうよ……ライスがだめな子のせいで……。
+story/data/04/1030/storytimeline_041030002/38.wav|あのっ、トレーナーさん、 なんでも好きなもの食べていいって、ほんとに……？
+story/data/04/1030/storytimeline_041030002/16.wav|えと、あの、それじゃあ…… よ、よろしくね、トレーナーさん。
+story/data/04/1030/storytimeline_041030002/0.wav|ぐすっ……うぅ。 あの、ごめんなさい……それ以上、こっちに来ないで……？
+story/data/04/1030/storytimeline_041030002/24.wav|一緒にいる子が転んだり、靴紐切っちゃったり…… ひどいときは、鳥のフンを頭に落っことされちゃって……。
+story/data/04/1030/storytimeline_041030002/30.wav|あの……トレーナーさん、もう1度走ってきてもいい？ ら、ライスはまだぜんぜん元気だよ、走れるよ！
+story/data/04/1030/storytimeline_041030002/41.wav|あ……！　はぅ……。
+story/data/04/1030/storytimeline_041030002/11.wav|それでも、いいの……？
+story/data/04/1030/storytimeline_041030002/32.wav|ピッチを速める感覚、ちょっとわかってきたから……！ だ、だめかな……？
+story/data/04/1030/storytimeline_041030002/3.wav|…………ううんっ、でも、がんばらなきゃ！
+story/data/04/1030/storytimeline_041030002/22.wav|あぅ……は、初めてのトレーニングだから、 迷惑かけないようにしようって、思ったんだけど……変だった……？
+story/data/04/1030/storytimeline_041030002/31.wav|さっき教えてもらったカーブのコツ、 もっと確かめておきたくって。
+story/data/04/1030/storytimeline_041030002/17.wav|ライス、がんばるね……！！
+story/data/04/1030/storytimeline_041030002/15.wav|ひゃっ！ ご、ごめんなさい、なんでもないの……！
+story/data/04/1030/storytimeline_041030002/28.wav|はぁっ、はぁっ……！ えっと……タイム、どうだった……？
+story/data/04/1030/storytimeline_041030002/27.wav|トレーニング、お願いしますっ！！
+story/data/04/1030/storytimeline_041030003/19.wav|みんなを不幸にしちゃう、だめな子じゃない……。 みんなを幸せにできる、青いバラに。
+story/data/04/1030/storytimeline_041030003/54.wav|と……トレーナーさん……！
+story/data/04/1030/storytimeline_041030003/13.wav|それでね、しおれかけてた青いバラは鉢に植え替えられて、 お姉さまに毎日声を掛けてもらって、見事な花を咲かせるの。
+story/data/04/1030/storytimeline_041030003/28.wav|トレーナーさん、大事なお話ってなあに……？
+story/data/04/1030/storytimeline_041030003/30.wav|じゃあライス、とうとうレースに……。
+story/data/04/1030/storytimeline_041030003/37.wav|ふふっ……ふふふふっ！
+story/data/04/1030/storytimeline_041030003/33.wav|トレーナーさんも一緒だし……ライス、がんばるよ！ うん……がんばるぞ、おー！！
+story/data/04/1030/storytimeline_041030003/26.wav|トレーナーさん……！
+story/data/04/1030/storytimeline_041030003/11.wav|『やあ、青いバラだなんてとっても素敵ね！ きっときれいに咲くに違いないわ。ぜひ買い取らせてください！』
+story/data/04/1030/storytimeline_041030003/23.wav|応援してる子が、がんばってレースで勝ったら…… みんな、とっても幸せそうなお顔になってた。
+story/data/04/1030/storytimeline_041030003/15.wav|青いバラは、お兄さまのおうちの窓辺に飾られて、 道ゆく人たちをたくさん幸せにできたんだよ。
+story/data/04/1030/storytimeline_041030003/1.wav|あ、おね……じゃなかった、トレーナーさん！ こ、こんにちは。
+story/data/04/1030/storytimeline_041030003/20.wav|そう思い始めた頃に…… お母さまがね、ライスをレースへ連れていってくれたの。
+story/data/04/1030/storytimeline_041030003/7.wav|そのうち、青いバラ自身も『ぼくはだめな花なんだ』って思って、 だんだんしおれてきちゃうんだ……。
+story/data/04/1030/storytimeline_041030003/3.wav|絵本だよ。いちばんお気に入りの…… 『しあわせの青いバラ』っていう絵本。
+story/data/04/1030/storytimeline_041030003/22.wav|でもね、それでもしっかり覚えてるんだよ！ 周りの人みんな、レースをめいっぱいの笑顔で見てた。
+story/data/04/1030/storytimeline_041030003/31.wav|あっ、えっと……！
+story/data/04/1030/storytimeline_041030003/10.wav|そう！　心の優しい、とっても穏やかに笑う人。 その人は、青いバラのつぼみを見つけて、すぐに笑顔でこう言うの。
+story/data/04/1030/storytimeline_041030003/34.wav|あ、えっと……これね、お母さまが教えてくれたの。 『こうやって言ったら、がんばる気持ちが湧いてくるよ』って。
+story/data/04/1030/storytimeline_041030003/32.wav|だ、だいじょうぶ。 選抜レースのときみたいには、しないから……。
+story/data/04/1030/storytimeline_041030003/21.wav|レース場は人がいっぱいで……迷惑かけたくないから、おうちで いつもじっとしてたライスのおめめ、ぐるぐるになっちゃったけど。
+story/data/04/1030/storytimeline_041030003/27.wav|えへへっ……うん、ありがとう！ ライス、がんばってトレーニングするねっ！！
+story/data/04/1030/storytimeline_041030003/36.wav|……！　ら、ライスも！　おー！！
+story/data/04/1030/storytimeline_041030003/29.wav|で、デビュー戦……！
+story/data/04/1030/storytimeline_041030003/52.wav|っ！？　う、ウララちゃん……どうしてここが……！？
+story/data/04/1030/storytimeline_041030003/24.wav|それでライスも……ライスもね、 あんなふうになりたいなぁって、思ったんだ。
+story/data/04/1030/storytimeline_041030003/8.wav|あっ、で、でもね、ここで終わりじゃないんだよ？ しおれた青いバラの前に、『お姉さま』が現れるの。
+story/data/04/1030/storytimeline_041030003/5.wav|でもね……ある日そのお庭に、 誰も見たことのない真っ青なバラがつぼみをつけたの。
+story/data/04/1030/storytimeline_041030003/25.wav|みんなを不幸にするだけの、だめな子じゃなくて…… みんなを幸せにできる、そんなウマ娘に。
+story/data/04/1030/storytimeline_041030003/17.wav|……！　と、トレーナーさんもそう思う！？ えへへ、うれしいな……！
+story/data/04/1030/storytimeline_041030003/0.wav|………………。
+story/data/04/1030/storytimeline_041030003/4.wav|お話はね、バラがたくさん植えられたお庭から始まるの。 色とりどりのバラたちが、訪れる人みんなに幸せをくれるお庭。
+story/data/04/1030/storytimeline_041030003/35.wav|トレーナーさんも一緒にやる？
+story/data/04/1030/storytimeline_041030003/18.wav|……ちっちゃい頃、初めてこのお話を読んだときにね。 ライスも、この青いバラみたいになりたいなぁって思ったんだ。
+story/data/04/1030/storytimeline_041030003/6.wav|そしたら周りのバラたちも、お庭を見に来た人たちもみんな、 『青いバラなんて気味が悪い』『きっと不幸の花だ』って……。
+story/data/04/1030/storytimeline_041030004/54.wav|――お姉さま！
+story/data/04/1030/storytimeline_041030004/16.wav|っ……！　トレーナー、さん。
+story/data/04/1030/storytimeline_041030004/31.wav|……！
+story/data/04/1030/storytimeline_041030004/34.wav|（迷惑かけてばかり、みんなを不幸にしてばかりの だめな子だから。ずっと、ずっと大っ嫌いだった）
+story/data/04/1030/storytimeline_041030004/1.wav|…………っ！　ご、ごめんなさい。 ごめんなさい、ごめんなさい……！
+story/data/04/1030/storytimeline_041030004/4.wav|どうしてトレーナーさんは、そんなに優しいの？ ライス……ライスは、こんなにだめな子なのに。
+story/data/04/1030/storytimeline_041030004/18.wav|あ……！！
+story/data/04/1030/storytimeline_041030004/32.wav|うんっ。……いって、きます！！
+story/data/04/1030/storytimeline_041030004/8.wav|だけどっ……だめなの。レースに出るって考えると、 どうしても怖くなっちゃうの……選抜のときも、いまも……！
+story/data/04/1030/storytimeline_041030004/11.wav|レースに出たら、ほんとのことがわかっちゃう。 この先ずうっと、だめな子だって、わかっちゃうかもしれない……。
+story/data/04/1030/storytimeline_041030004/3.wav|……どうして？
+story/data/04/1030/storytimeline_041030004/51.wav|だめ、かな……？
+story/data/04/1030/storytimeline_041030004/10.wav|ライスなんかがレースに出ても…… 誰も幸せにできないって、わかっちゃうこと。
+story/data/04/1030/storytimeline_041030004/42.wav|私はっ……なりたい私に、なるんだぁあああああ！！
+story/data/04/1030/storytimeline_041030004/39.wav|（私だって……みんなを幸せにできる、青いバラに……！）
+story/data/04/1030/storytimeline_041030004/5.wav|だめだよっ！！ ライスはっ……ライスは、だめだめの、だめっ子だよ……！
+story/data/04/1030/storytimeline_041030004/52.wav|いいの！？　じゃ、じゃあ……！
+story/data/04/1030/storytimeline_041030004/46.wav|わぁ、っ……！！
+story/data/04/1030/storytimeline_041030004/48.wav|うん。あの、あのね……？
+story/data/04/1030/storytimeline_041030004/13.wav|っ、ごめんなさいトレーナーさん。もうライスのことなんか…… こんなだめな子のことなんか、あきらめていいから……！
+story/data/04/1030/storytimeline_041030004/47.wav|トレーナーさん……あのね、いっこ、わがまま言ってもいい……？
+story/data/04/1030/storytimeline_041030004/6.wav|……っ、変わろうとしたんだよ。 何回も……何回も。
+story/data/04/1030/storytimeline_041030004/30.wav|あのっ……あの、あのね私……！！
+story/data/04/1030/storytimeline_041030004/20.wav|がんばれ、がんばれ、ライス……がんばれ……！
+story/data/04/1030/storytimeline_041030004/35.wav|（だけど――！！）
+story/data/04/1030/storytimeline_041030004/25.wav|がんばるぞ、おー……！！
+story/data/04/1030/storytimeline_041030004/36.wav|はっ、はっ、はっ、はっ……！！
+story/data/04/1030/storytimeline_041030004/14.wav|え…………？
+story/data/04/1030/storytimeline_041030004/0.wav|はぅ……トレーナーさん……。
+story/data/04/1030/storytimeline_041030004/24.wav|ウララちゃん……！ うんっ！　ありがとう……。
+story/data/04/1030/storytimeline_041030004/38.wav|（変わりたい！　あきらめたくない！ だめな子のままじゃイヤ、絶対にイヤっ！！）
+story/data/04/1030/storytimeline_041030004/17.wav|あきらめないで、いてくれるの……？ ライスは変われるって……信じて、くれるの……？
+story/data/04/1030/storytimeline_041030004/49.wav|トレーナーさんのこと……『お兄さま』って呼びたいの。
+story/data/04/1030/storytimeline_041030004/26.wav|はぁ、っ……。
+story/data/04/1030/storytimeline_041030004/22.wav|あ、っ……ウララちゃん。 待ってて、くれたの……？
+story/data/04/1030/storytimeline_041030004/29.wav|トレーナーさん……！！
+story/data/04/1030/storytimeline_041030004/27.wav|（脚も……手も、まだ震えてる。指が、すごく冷たい……！）
+story/data/04/1030/storytimeline_041030004/33.wav|（……私は、私のことが嫌い）
+story/data/04/1030/storytimeline_041030004/2.wav|ライス……ライスはっ……うぅ、ごめんなさい……！
+story/data/04/1030/storytimeline_041030004/7.wav|お母さまと離れ離れはイヤだったけど、トレセン学園まで来たよ。 いっぱいトレーニングもした、レースにも申し込んだ！
+story/data/04/1030/storytimeline_041030004/12.wav|そう考えたら……怖くて、怖くて震えが止まらないの……！
+story/data/04/1030/storytimeline_041030004/28.wav|（でも……！！）
+story/data/04/1030/storytimeline_041030004/15.wav|そ、それは……でも……。
+story/data/04/1030/storytimeline_041030004/53.wav|これからも……よろしくお願いしますっ。
+story/data/04/1030/storytimeline_041030004/9.wav|……『青いバラには絶対なれない』って、わかっちゃうこと。
+story/data/04/1030/storytimeline_041030005/16.wav|ふわ……ご、ごぇんあしゃい。 ひた、はんじゃったぁ～……！
+story/data/04/1030/storytimeline_041030005/7.wav|えっ……う、ううん！　そんなことないよ。
+story/data/04/1030/storytimeline_041030005/34.wav|うぅぅぅ、ごめんなさ～～～～いぃ！
+story/data/04/1030/storytimeline_041030005/25.wav|がんばるぞー……おー……！
+story/data/04/1030/storytimeline_041030005/22.wav|ライスは……だめな子だけど、 だめな子のままじゃイヤだから……！
+story/data/04/1030/storytimeline_041030005/23.wav|も……もう1回っ。 やるから見てて、お姉さま！
+story/data/04/1030/storytimeline_041030005/31.wav|ひゃっ！？　つめた……な、なに？
+story/data/04/1030/storytimeline_041030005/28.wav|うん！　……すごいね。お姉さまと一緒だと、 ライスのだめなとこ、少しずつなくなっていくみたい。
+story/data/04/1030/storytimeline_041030005/26.wav|きりーつ！　礼！ お兄さま、昨日はありがとうございましたっ！
+story/data/04/1030/storytimeline_041030005/15.wav|き！　きき、きりぃーつ！　れ、れいっ！ ちゃくしぇきっ……はぅ！？
+story/data/04/1030/storytimeline_041030005/17.wav|うぅ……ぜんぜん上手くできなくて、ごめんなさい。 せっかくお姉さまが協力してくれてるのに……。
+story/data/04/1030/storytimeline_041030005/6.wav|明日、日直当番なの。それで……はぁ。
+story/data/04/1030/storytimeline_041030005/10.wav|でも、号令は……すっごくすっごく苦手で……。
+story/data/04/1030/storytimeline_041030005/9.wav|学級日誌もね、枠がいっぱいになるまでみんなのこと書くし…… 黒板もたくさんジャンプして、上まで綺麗にしてるんだ。
+story/data/04/1030/storytimeline_041030005/11.wav|大きな声って、出すの難しいし……。 ライス、緊張するとすぐ声が変な感じになるから……。
+story/data/04/1030/storytimeline_041030005/0.wav|き、き、きりーつ！
+story/data/04/1030/storytimeline_041030005/2.wav|ひゃああ！？　おっ、おお、お姉さま……！？
+story/data/04/1030/storytimeline_041030005/20.wav|でも……。…………。
+story/data/04/1030/storytimeline_041030005/21.wav|……っ！ うん……うんっ。あきらめたくない……！
+story/data/04/1030/storytimeline_041030005/32.wav|ふわあぁあ！？　うそ、あんなに晴れてたのに……！
+story/data/04/1030/storytimeline_041030005/19.wav|ライス、ほんとにだめな子だ……。
+story/data/04/1030/storytimeline_041030005/12.wav|えっ、お姉さまが……？ いいの……！？
+story/data/04/1030/storytimeline_041030005/14.wav|よしっ……じゃあ、やってみるね……！
+story/data/04/1030/storytimeline_041030005/4.wav|あのっ、ご、ごめんなさい。 まだ来ないかなって思ってたから、ちょっと練習してて……！
+story/data/04/1030/storytimeline_041030005/1.wav|んん、ぜんぜんだめ……。 もう1回……！
+story/data/04/1030/storytimeline_041030005/30.wav|ふふっ、えへへへ！ なんだか、今日のトレーニングはいつもよりがんばれそう――
+story/data/04/1030/storytimeline_041030005/8.wav|ライスはこんなだけど……ちょっとでもクラスの役に立てるなら、 がんばりたいって、そう思ってるの。
+story/data/04/1030/storytimeline_041030005/33.wav|うぅ……ライスのせいだ。 こんなに不幸な雨、ライスのせいに決まってるよぉ……！
+story/data/04/1030/storytimeline_041030005/5.wav|あぅ、その……号令の、練習。
+story/data/04/1030/storytimeline_041030006/48.wav|ほんとだ……！　い、急がなくっちゃ～！！
+story/data/04/1030/storytimeline_041030006/1.wav|あっ、お兄さま……！ えへへ……うん。いいこと、あったから……。
+story/data/04/1030/storytimeline_041030006/21.wav|……お兄さま。私、『黒猫さん見てませんか』って、 周りの人に聞いてくるね。
+story/data/04/1030/storytimeline_041030006/29.wav|黒猫さん……！ に、逃げないで、聞いてくださいっ。
+story/data/04/1030/storytimeline_041030006/23.wav|あ、ぁ……あのっ！！　黒猫さん、見てませんか……！？
+story/data/04/1030/storytimeline_041030006/11.wav|えっ！？　ど、どうしよう……。 黒猫さん、この先にいっちゃったのに……！
+story/data/04/1030/storytimeline_041030006/9.wav|はぁ、はぁ……確か、こっちに……！
+story/data/04/1030/storytimeline_041030006/3.wav|えっとね……チケット、買えたんだ。 『しあわせの青いバラ』の、舞台……。
+story/data/04/1030/storytimeline_041030006/34.wav|よかった……お姉さまも、手伝ってくれてありがとう……！
+story/data/04/1030/storytimeline_041030006/25.wav|お姉さま……ありがとう。
+story/data/04/1030/storytimeline_041030006/31.wav|お願いします……にゃ……！
+story/data/04/1030/storytimeline_041030006/28.wav|じゃあ……いってきますっ。
+story/data/04/1030/storytimeline_041030006/46.wav|ほんと！？　よ、よかったぁ～……！！
+story/data/04/1030/storytimeline_041030006/32.wav|あ……。
+story/data/04/1030/storytimeline_041030006/43.wav|あの、実は……ペアチケットなんだ。 お兄さまにプレゼント……いつものお返し、したいなって思って。
+story/data/04/1030/storytimeline_041030006/16.wav|はぁっ、はぁっ……見つけた……！
+story/data/04/1030/storytimeline_041030006/38.wav|ライスね、お兄さまがそばにいてくれたら…… がんばろう、がんばるぞって、いくらでも思えるみたいなの。
+story/data/04/1030/storytimeline_041030006/33.wav|黒猫さん……ありがとう……！
+story/data/04/1030/storytimeline_041030006/5.wav|ライスね、すぐ悪いこと起きちゃうから……普段は劇場とか 人がいっぱいいるところって、いかないようにしてるんだけど。
+story/data/04/1030/storytimeline_041030006/19.wav|あいたぁっ……なんでこんなとこにバナナの皮が2つも～……！？ お兄さま、大丈夫！？
+story/data/04/1030/storytimeline_041030006/42.wav|――チケット、受け取ってくださいっ！
+story/data/04/1030/storytimeline_041030006/6.wav|でも……でもね。 こ、この舞台だけは……あのね……！
+story/data/04/1030/storytimeline_041030006/17.wav|うんっ、そーっと……！ 黒猫さ～ん、怖くない、怖くないよ～……！
+story/data/04/1030/storytimeline_041030006/30.wav|そのチケットね、ライスのすっごく大切な物で…… だ、だから、返してほしいの……！
+story/data/04/1030/storytimeline_041030006/14.wav|お姉さまも、坂でくたびれたらライスにいってね。 ライスがお姉さまの手、引っ張るから……！
+story/data/04/1030/storytimeline_041030006/13.wav|あ……お、教えてくださいっ！ 坂、大丈夫です……私、走れますっ！
+story/data/04/1030/storytimeline_041030006/40.wav|だから……だからね、お姉さま。
+story/data/04/1030/storytimeline_041030006/27.wav|でも、大丈夫……ライスががんばるよ。 がんばりたいの。
+story/data/04/1030/storytimeline_041030006/47.wav|え？　当日券って……ああっ！！
+story/data/04/1030/storytimeline_041030006/24.wav|黒猫さん……！ ライスのチケットも、まだくわえてる……よかったぁ……！
+story/data/04/1030/storytimeline_041030006/0.wav|やった……やった、やったぁ！　えへへっ……！
+story/data/04/1030/storytimeline_041030006/7.wav|きゃっ！？
+story/data/04/1030/storytimeline_041030006/18.wav|ひゃ！！
+story/data/04/1030/storytimeline_041030006/8.wav|た、大変……！ 黒猫さんっ、待ってぇ～！！
+story/data/04/1030/storytimeline_041030006/36.wav|うん……お兄さまが、一緒だから。
+story/data/04/1030/storytimeline_041030006/45.wav|い、一緒に、いってくれる……？ それとも……や、やっぱり迷惑だったかな、ライスなんかと……。
+story/data/04/1030/storytimeline_041030006/4.wav|うんっ……！
+story/data/04/1030/storytimeline_041030007/22.wav|それは――
+story/data/04/1030/storytimeline_041030007/4.wav|うん！　できてないこと、1こずつできるようになって……。 だめなとこも、1こずつだめじゃなくして……。
+story/data/04/1030/storytimeline_041030007/41.wav|ふえぇぇぇ～～～ん！
+story/data/04/1030/storytimeline_041030007/25.wav|はい。……レースに出て、いっぱい活躍して、みんなを幸せにする。 そんな私に……なりたいって、思っちゃって。
+story/data/04/1030/storytimeline_041030007/32.wav|あ……あれ？　どうして、笑って……？
+story/data/04/1030/storytimeline_041030007/43.wav|初めて、だったから。 誰かを不幸にするんじゃなくて……励ませたの、なんて。
+story/data/04/1030/storytimeline_041030007/42.wav|ぐすっ……ごめんなさい、急に泣いちゃって。 でも……うれしくって。
+story/data/04/1030/storytimeline_041030007/15.wav|へっ……？
+story/data/04/1030/storytimeline_041030007/19.wav|わっ、私も、あきらめたいって思うこと、あります………！ あるんです……たくさん。
+story/data/04/1030/storytimeline_041030007/20.wav|ライスは、できないことばっかり……だめなとこ、ばっかりだから。 こんなライスなんか嫌い、もうやだーって、思うことばっかりです。
+story/data/04/1030/storytimeline_041030007/40.wav|私、が……？ わ、たし……ふ、ふぇ……。
+story/data/04/1030/storytimeline_041030007/12.wav|や、やった……やったぁぁ～！！
+story/data/04/1030/storytimeline_041030007/29.wav|って……うひゃっ！？
+story/data/04/1030/storytimeline_041030007/6.wav|いってきますっ、お兄さま！
+story/data/04/1030/storytimeline_041030007/17.wav|すごい？　えっと……ライスが？ そ、そんなこと！　ぜんぜん、ないですっ……！
+story/data/04/1030/storytimeline_041030007/26.wav|思っちゃったら、もう、止められなかった……です。 なりたいって、走りたいって、走らなきゃって……！
+story/data/04/1030/storytimeline_041030007/30.wav|けほっ、こほっ……！！ あぁぁ、ごめんなさい！　ライスなんかと一緒にいたせいで……！
+story/data/04/1030/storytimeline_041030007/38.wav|あっ……。
+story/data/04/1030/storytimeline_041030007/46.wav|今日のライスは……ちょっとだけ、好き、かも。 えへへへっ。
+story/data/04/1030/storytimeline_041030007/23.wav|……“なりたい私”が、できちゃった、から。
+story/data/04/1030/storytimeline_041030007/0.wav|はぁっ、はぁっ、はぁ……ふぅ……。 お姉さま、タイムはどう……？
+story/data/04/1030/storytimeline_041030007/45.wav|ライスね、いままでずっと、だめなライスが嫌いだったけど――
+story/data/04/1030/storytimeline_041030007/44.wav|……！ うんっ……そうだったんなら……うれしいな……！
+story/data/04/1030/storytimeline_041030007/28.wav|あ、あのっ、ごめんなさい、うまく答えられなくて……！ ら、ライス、おしゃべりも上手じゃないから――
+story/data/04/1030/storytimeline_041030007/10.wav|はぁ、はぁ、ふわぁぁ……！
+story/data/04/1030/storytimeline_041030007/2.wav|目標には、まだ、届いてないんだね……うぅ、ごめんなさい。 ライスがだめなせいで……。
+story/data/04/1030/storytimeline_041030007/39.wav|ど、どうして……？　ライスのせいで、びしょ濡れに……。 なのに、『ありがとう』なんて……なんで……？
+story/data/04/1030/storytimeline_041030007/35.wav|えっ、えっ……？
+story/data/04/1030/storytimeline_041030007/13.wav|いっぱい、時間かかっちゃったけど、 でも……できるようになれてうれしいっ。
+story/data/04/1030/storytimeline_041030007/5.wav|ライスも……ちゃんと、速くなりたいから……！
+story/data/04/1030/storytimeline_041030007/11.wav|えっ……ほ、ホント！？
+story/data/04/1030/storytimeline_041030007/3.wav|……でもね、できてないとこ、どこなのかはわかるよ。 だ、だから……できるまでやればいいんだって思うの。
+story/data/04/1041/storytimeline_041041003/13.wav|えっと、えっと、でも……あんまりライスと一緒にいたら、 バクシンオーさんによくないことが……。
+story/data/04/1041/storytimeline_041041003/25.wav|は、はい、ですね……。
+story/data/04/1041/storytimeline_041041003/10.wav|えっ、えっ……？
+story/data/04/1041/storytimeline_041041003/17.wav|は、はわわ……。
+story/data/04/1041/storytimeline_041041003/22.wav|す、スピード……。
+story/data/04/1041/storytimeline_041041003/11.wav|えっと、ライスは…… 『バクシンオーさん、速いなぁ』って……ひ、ひとり言を……。
+story/data/04/1041/storytimeline_041041003/28.wav|なるほど、です……！？
+story/data/04/1041/storytimeline_041041003/18.wav|その……しょ、勝利のヒケツ、とか……？
+story/data/04/1041/storytimeline_041041003/20.wav|ふひゃあ！？
+story/data/04/1062/storytimeline_041062001/24.wav|はぁ、はぁ、はぁ……！
+character_system_text/1030/snd_voi_title_103000/0.wav|Cygames
+character_system_text/1030/snd_voi_title_103000/1.wav|ウマ娘、プリティーダービー！
+character_system_text/1030/snd_voi_title_103000/2.wav|今日のログインボーナスだって…。
+character_system_text/1030/snd_voi_title_103000/3.wav|明日はこれ…楽しみだね♪
+character_system_text/1030/snd_voi_home_103000/0.wav|毎日、ちょっとずつだけど、 なりたい自分に近づけてる…かな？
+character_system_text/1030/snd_voi_home_103000/2.wav|お兄さま…その、あの…ね。 ライス、毎日がんばるから。 …変われるって、信じててね。
+character_system_text/1030/snd_voi_home_103000/1.wav|お姉さま…その、あの…ね。 ライス、毎日がんばるから。 …変われるって、信じててね。
+character_system_text/1030/snd_voi_home_103000/3.wav|いまはね。ライスもライスのこと… 全部嫌いじゃ、ないんだよ。
+character_system_text/1030/snd_voi_home_103000/5.wav|あけましておめでとうございます。 …えっと、お兄さま…ライスと 今年もよろしく、してくれる…？
+character_system_text/1030/snd_voi_home_103000/4.wav|あけましておめでとうございます。 …えっと、お姉さま…ライスと 今年もよろしく、してくれる…？
+character_system_text/1030/snd_voi_home_103000/7.wav|じ…実はね、チョコ、作ってきて… ライスのだけど、大丈夫…？ 受け取ってもらえたらうれしいな。
+character_system_text/1030/snd_voi_home_103000/6.wav|…バレンタインだね、お姉さま。 え、ええっと。あの、その…まだ 一緒にチョコを食べる余裕ある？
+character_system_text/1030/snd_voi_home_103000/9.wav|お兄さまっ。バレンタインだから… ライスと一緒に、チョコのおうち 作ろ！レシピ、書いてきたの！
+character_system_text/1030/snd_voi_home_103000/8.wav|お姉さまっ。バレンタインだから… ライスと一緒に、チョコのおうち 作ろ！レシピ、書いてきたの！
+character_system_text/1030/snd_voi_home_103000/10.wav|お星さまはみんなのお願い叶えて、 みんなを幸せにできて、すごいね。 ライスも…うん、がんばらなきゃ。
+character_system_text/1030/snd_voi_home_103000/11.wav|お、お菓子もいたずらもなくていい から…ライスも言ってみて、いい？ と…とりっく・おあ・とりーと…！
+character_system_text/1030/snd_voi_home_103000/12.wav|サンタさんが出てくる絵本って、 たくさんあるんだよ。どれも幸せ いっぱいだから、好きなんだ。
+character_system_text/1030/snd_voi_home_103000/14.wav|サンタさんのお洋服みたいな、 赤いりんごのケーキ、焼いたの。 お兄さま…一緒に、食べませんか？
+character_system_text/1030/snd_voi_home_103000/13.wav|サンタさんのお洋服みたいな、 赤いりんごのケーキ、焼いたの。 お姉さま…一緒に、食べませんか？
+character_system_text/1030/snd_voi_home_103000/16.wav|はわぁ…もう今年も 終わっちゃうんだ。お兄さまと 出会ってから毎日あっという間…。
+character_system_text/1030/snd_voi_home_103000/15.wav|はわぁ…もう今年も 終わっちゃうんだ。お姉さまと 出会ってから毎日あっという間…。
+character_system_text/1030/snd_voi_home_103000/18.wav|おめでとう、お兄さま！ 今日1日、いっぱい幸せなことが 起きますように…！
+character_system_text/1030/snd_voi_home_103000/17.wav|おめでとう、お姉さま！ 今日1日、いっぱい幸せなことが 起きますように…！
+character_system_text/1030/snd_voi_home_103000/20.wav|お祝いできる日、ずっとずっと 待ってたんだ。…あのねお兄さま。 生まれてきてくれて、ありがとう。
+character_system_text/1030/snd_voi_home_103000/19.wav|お祝いできる日、ずっとずっと 待ってたんだ。…あのねお姉さま。 生まれてきてくれて、ありがとう。
+character_system_text/1030/snd_voi_home_103000/21.wav|み、みんなが『おめでとう』って… でもライス、泣いちゃって… 困らせちゃったぁ…うぇぇん…！
+character_system_text/1030/snd_voi_home_103000/23.wav|お祝いありがとう、お兄さま。 いっぱいお返しできるライスに なれるように…がんばるね！
+character_system_text/1030/snd_voi_home_103000/22.wav|お祝いありがとう、お姉さま。 いっぱいお返しできるライスに なれるように…がんばるね！
+character_system_text/1030/snd_voi_home_103000/25.wav|おっ、お兄さま！ あのね、なにかお知らせが あるみたいだよ…！
+character_system_text/1030/snd_voi_home_103000/24.wav|おっ、お姉さま！ あのね、なにかお知らせが あるみたいだよ…！
+character_system_text/1030/snd_voi_home_103000/26.wav|あのね、さっき プレゼントが届いたの！ ライスも、一緒に見ていい…？
+character_system_text/1030/snd_voi_home_103000/27.wav|目標達成、おめでちょっ…！ あぁぁ、噛んじゃったぁ～…！
+character_system_text/1030/snd_voi_home_103000/28.wav|もうすぐイベントがあるんだね。 …どんなことをするのかな？
+character_system_text/1030/snd_voi_home_103000/29.wav|イベント、やってるみたい… 迷惑かけないようにするから、 ちょこっとだけ覗いていーい…？
+character_system_text/1030/snd_voi_home_103000/34.wav|このお洋服、好きな絵本の主人公と 同じワンピースなの…その子みたく 勇気を出せるようになりたくて…。
+character_system_text/1030/snd_voi_home_103000/35.wav|ブルボンさんとお買い物したの…♪ ライスの好きな絵本オススメしたら 買ってくれて…気に入るといいな…
+character_system_text/1030/snd_voi_home_103000/36.wav|マルゼンさんとディスコにいくから なうでやんぐな服？を勉強中なの… ボディコン、大人っぽくて素敵だね
+character_system_text/1030/snd_voi_home_103000/30.wav|トレーニング…する？
+character_system_text/1030/snd_voi_home_103000/31.wav|楽しい思い出、いっぱいだね。
+character_system_text/1030/snd_voi_home_103000/32.wav|レースにエントリーするの…？
+character_system_text/1030/snd_voi_home_103000/33.wav|名鑑レベルが上がったみたい… 見てみる？
+character_system_text/1030/snd_voi_training_103000/0.wav|ふぅ…ちょっとだけ、 疲れてる…のかな…。
+character_system_text/1030/snd_voi_training_103000/1.wav|…ライス、大丈夫だから。 …疲れてなんか、ないから…。 大丈夫、だよ…？
+character_system_text/1030/snd_voi_training_103000/3.wav|ライス、いっぱいいっぱい がんばれそうだよ…！ 任せてね、お兄さまっ。
+character_system_text/1030/snd_voi_training_103000/2.wav|ライス、いっぱいいっぱい がんばれそうだよ…！ 任せてね、お姉さまっ。
+character_system_text/1030/snd_voi_training_103000/4.wav|あのね、アップは もう済ませてきたの！ なにから始めても大丈夫だよっ。
+character_system_text/1030/snd_voi_training_103000/5.wav|がんばるぞー、おー！ 今日も、よろしくお願いしますっ。
+character_system_text/1030/snd_voi_training_103000/7.wav|お兄さま、トレーニングしよ？ いまならいっぱい がんばれそうだから。
+character_system_text/1030/snd_voi_training_103000/6.wav|お姉さま、トレーニングしよ？ いまならいっぱい がんばれそうだから。
+character_system_text/1030/snd_voi_training_103000/8.wav|どのトレーニングをするの？
+character_system_text/1030/snd_voi_training_103000/9.wav|がっかりさせないように、 がんばるね。
+character_system_text/1030/snd_voi_training_103000/10.wav|うぅ～…。 がんばれライス…がんばれぇ～…。
+character_system_text/1030/snd_voi_training_103000/11.wav|ライスにできることなんて、 あるのかなぁ…。
+character_system_text/1030/snd_voi_training_103000/13.wav|あうぅ…お兄さまには、 迷惑かけたくないのに…。 ごめんね…。
+character_system_text/1030/snd_voi_training_103000/12.wav|あうぅ…お姉さまには、 迷惑かけたくないのに…。 ごめんね…。
+character_system_text/1030/snd_voi_training_103000/14.wav|…また、だめな子に なっちゃうのかな…。
+character_system_text/1030/snd_voi_training_103000/15.wav|ふえ？またレース…？ あっ…だ、大丈夫だよ…！ ライス、がんばれるから…！
+character_system_text/1030/snd_voi_training_103000/16.wav|…どうしよう、脚が…。 ううん、まだ…まだ、がんばれる。 レースもちゃんとできるはず…。
+character_system_text/1030/snd_voi_training_103000/18.wav|あとは精いっぱい走るだけ… そうだよね、お兄さま…！
+character_system_text/1030/snd_voi_training_103000/17.wav|あとは精いっぱい走るだけ… そうだよね、お姉さま…！
+character_system_text/1030/snd_voi_training_103000/19.wav|最後までしっかり走るね…！ がんばるぞー、おー！
+character_system_text/1030/snd_voi_training_103000/20.wav|始まる前からいいレースに なりそうって…わくわくしてるの。 今日は…走るの、楽しみかも…！
+character_system_text/1030/snd_voi_training_103000/21.wav|ふぅっ、よーし…！ スタート、まだかな…？
+character_system_text/1030/snd_voi_training_103000/23.wav|お兄さまと、いっぱいいっぱい トレーニングしたもん…！ がんばってくるね。
+character_system_text/1030/snd_voi_training_103000/22.wav|お姉さまと、いっぱいいっぱい トレーニングしたもん…！ がんばってくるね。
+character_system_text/1030/snd_voi_training_103000/24.wav|だめじゃない…だめじゃない。 うんっ、大丈夫… ライス、走れるよ！
+character_system_text/1030/snd_voi_training_103000/25.wav|はわっ、もうスタート…！？ が、がんばってきましゅっ…！
+character_system_text/1030/snd_voi_training_103000/26.wav|すーっ、ふぅぅ…。 怖くない、怖くない…！
+character_system_text/1030/snd_voi_training_103000/27.wav|レース前って、 やっぱりドキドキするね…。
+character_system_text/1030/snd_voi_training_103000/28.wav|だめだめ、不安になっちゃ…！ がんばれライス、がんばれぇ～…。
+character_system_text/1030/snd_voi_training_103000/30.wav|ふ、震えてきちゃった…。 あの、お兄さま…少しだけ… 手、握っててもいい…？
+character_system_text/1030/snd_voi_training_103000/29.wav|ふ、震えてきちゃった…。 あの、お姉さま…少しだけ… 手、握っててもいい…？
+character_system_text/1030/snd_voi_training_103000/31.wav|えっと、えっと… め、迷惑にならないように、 気をつけて走るね？
+character_system_text/1030/snd_voi_training_103000/32.wav|あきらめたくは、ないから…。 怖いけど、不安だけど… がんばらなきゃ…！
+character_system_text/1030/snd_voi_training_103000/34.wav|レースからは…逃げないよ。 お、お兄さまが、 ついてくれてるから…！
+character_system_text/1030/snd_voi_training_103000/33.wav|レースからは…逃げないよ。 お、お姉さまが、 ついてくれてるから…！
+character_system_text/1030/snd_voi_training_103000/35.wav|…泣いてるひまなんかない。 もう、本番なんだから… 走らなくっちゃ…！
+character_system_text/1030/snd_voi_training_103000/36.wav|よぉ～し…！
+character_system_text/1030/snd_voi_training_103000/37.wav|いくね…！
+character_system_text/1030/snd_voi_training_103000/38.wav|がんばるぞー…！
+character_system_text/1030/snd_voi_training_103000/39.wav|お勉強なら…
+character_system_text/1030/snd_voi_training_103000/40.wav|はうぅ…。
+character_system_text/1030/snd_voi_training_103000/41.wav|むぅ…？
+character_system_text/1030/snd_voi_training_103000/44.wav|うん、いこう…！
+character_system_text/1030/snd_voi_training_103000/45.wav|楽しみ…！
+character_system_text/1030/snd_voi_training_103000/46.wav|だめじゃないとこ、見せられたかな…？
+character_system_text/1030/snd_voi_training_103000/48.wav|お兄さま、ありがとうっ。
+character_system_text/1030/snd_voi_training_103000/47.wav|お姉さま、ありがとうっ。
+character_system_text/1030/snd_voi_training_103000/49.wav|お、お願いしましゅっ…！
+character_system_text/1030/snd_voi_race_103000/0.wav|あとちょっと…がんばれるように、なるね…！
+character_system_text/1030/snd_voi_race_103000/2.wav|お兄さまっ、見ててくれた…？
+character_system_text/1030/snd_voi_race_103000/1.wav|お姉さまっ、見ててくれた…？
+character_system_text/1030/snd_voi_race_103000/3.wav|うぅ、もっとがんばらなくちゃ…！
+character_system_text/1030/snd_voi_race_103000/4.wav|こんなんじゃ、だめだよね…。
+character_system_text/1030/snd_voi_race_103000/6.wav|ライス…変われたよね…？
+character_system_text/1030/snd_voi_race_103000/7.wav|いってくるね…！
+character_system_text/1030/snd_voi_live_103000/0.wav|ライスの歌、聞いてくれるかな…？
+character_system_text/1030/snd_voi_live_103000/1.wav|みんな、喜んでくれたらいいな…。
+character_system_text/1030/snd_voi_outgame_103000/0.wav|あのときよりもライス、 成長できてる？ …そうだったら、うれしいな。
+character_system_text/1030/snd_voi_outgame_103000/4.wav|力が溢れてくるよ…！
+character_system_text/1030/snd_voi_outgame_103000/1.wav|ライスのこと…見ててね。
+character_system_text/1030/snd_voi_outgame_103000/2.wav|これで役にたてるよね…？
+character_system_text/1030/snd_voi_outgame_103000/3.wav|ライス、もっとお手伝いするね…！
+character_system_text/1030/snd_voi_outgame_103000/7.wav|制服、似合ってる…？
+character_system_text/1030/snd_voi_outgame_103000/8.wav|ここに来てよかった… 大切な人たちと会えたから。
+character_system_text/1030/snd_voi_outgame_103000/9.wav|ふわぁ…ひらひらだぁ～…！
+character_system_text/1030/snd_voi_outgame_103000/10.wav|あんまり見つめられると…恥ずかしいよぉ。
+character_system_text/1030/snd_voi_outgame_103000/11.wav|バラの花みたいでしょ…？
+character_system_text/1030/snd_voi_outgame_103000/12.wav|ライスもきっと…輝けるよね…。
+character_system_text/1030/snd_voi_outgame_103000/17.wav|よ、よーし、ヴァンパイアライス…だぞー。 …うう。
+character_system_text/1030/snd_voi_outgame_103000/18.wav|ふぇっ…いまのもしかして…いたずら…？
+character_system_text/1030/snd_voi_outgame_103000/13.wav|がんばるぞ、おー……！
+character_system_text/1030/snd_voi_outgame_103000/14.wav|ライスだって、咲いてみせる……！
+character_system_text/1030/snd_voi_outgame_103000/5.wav|よ、よろしくお願いします…。
+character_system_text/1030/snd_voi_outgame_103000/6.wav|ら、ライス、 まだ…がんばれますっ…！
+character_system_text/1030/snd_voi_outgame_103000/15.wav|お洋服選びって、楽しいけど難しい…。
+character_system_text/1030/snd_voi_outgame_103000/16.wav|ライスは、かわいいお洋服が やっぱり好きかなぁ……♪
+character_system_text/1030/snd_voi_home_103001/1.wav|あ…お兄さま！ えっと…お、おはようございます！ …よかった、上手に言えたぁ…。
+character_system_text/1030/snd_voi_home_103001/0.wav|あ…お姉さま！ えっと…お、おはようございます！ …よかった、上手に言えたぁ…。
+character_system_text/1030/snd_voi_home_103001/2.wav|朝練してたらマックイーンさんに 会ったの…すごく綺麗な走りで… 優雅で…ドキドキしちゃった…！
+character_system_text/1030/snd_voi_home_103001/3.wav|さっき、ドトウさんのお弁当が 鳥に取られちゃったの…美味しそう なんて、ライスが言わなければ…！
+character_system_text/1030/snd_voi_home_103001/5.wav|午後もよろしくお願いします！ えへへ、お兄さまとのトレーニング 楽しみだなぁ…。
+character_system_text/1030/snd_voi_home_103001/4.wav|午後もよろしくお願いします！ えへへ、お姉さまとのトレーニング 楽しみだなぁ…。
+character_system_text/1030/snd_voi_home_103001/7.wav|お疲れさま、お兄さま。 …遅くまでお仕事させてごめんね。 ライスも、もっとがんばるね…！
+character_system_text/1030/snd_voi_home_103001/6.wav|お疲れさま、お姉さま。 …遅くまでお仕事させてごめんね。 ライスも、もっとがんばるね…！
+character_system_text/1030/snd_voi_home_103001/8.wav|眠くない、眠くない…。 ライスは眠くない…ふあぁ…。
+character_system_text/1030/snd_voi_home_103001/9.wav|外を走ってたら、道路の隅っこで 小さいお花を見つけたんだ。 …もうすっかり春なんだね。
+character_system_text/1030/snd_voi_home_103001/11.wav|…暑いね、お兄さま…。 はふぅ…おかゆみたいに、 とけちゃいそう…。
+character_system_text/1030/snd_voi_home_103001/10.wav|…暑いね、お姉さま…。 はふぅ…おかゆみたいに、 とけちゃいそう…。
+character_system_text/1030/snd_voi_home_103001/12.wav|ふふ、綺麗な落ち葉があったから 拾ってきちゃった。手紙に入れたら お母さま、喜んでくれるかな…？
+character_system_text/1030/snd_voi_home_103001/14.wav|えへへ、お兄さまのほっぺ りんごみたい。ふふっ、 ライスのほっぺは…どうかな？
+character_system_text/1030/snd_voi_home_103001/13.wav|えへへ、お姉さまのほっぺ りんごみたい。ふふっ、 ライスのほっぺは…どうかな？
+character_system_text/1030/snd_voi_home_103001/15.wav|いつも笑顔で一生懸命で… ウララちゃんを見てると、 ライスもがんばろーって思うの。
+character_system_text/1030/snd_voi_home_103001/16.wav|今日のお掃除では、お水こぼしたり しませんように…みんながつるつる しちゃいませんように…！
+character_system_text/1030/snd_voi_home_103001/17.wav|あ、あれ？さっきまでそこに バクシンオーさん、いたのに…。 これが言ってた、バクシンの力…？
+character_system_text/1030/snd_voi_home_103001/18.wav|マルゼンさん、なんでドライブに 誘ってくれるんだろ…前のときも 渋滞になったのに…優しいなぁ…。
+character_system_text/1030/snd_voi_home_103001/19.wav|信号を渡るときは誰も隣に 来ないように気をつけてるんだ。 …ライスが来ると赤になるから。
+character_system_text/1030/snd_voi_home_103001/20.wav|お風呂で1人のとき、 こっそり歌の練習してるんだ。 …いつもより上手に聞こえるから。
+character_system_text/1030/snd_voi_home_103001/21.wav|ステージは好きだよ。 キラキラしてて、見てる人 みんなが笑顔になるんだもん。
+character_system_text/1030/snd_voi_home_103001/22.wav|あう…せっかくの衣装なんだから 俯かないようにって歩いてたら、 おひざぶつけちゃった…。
+character_system_text/1030/snd_voi_home_103001/23.wav|ライスも、ちゃんと咲けるかな。 ううん…そう信じられるように、 なりたいな…！
+character_system_text/1030/snd_voi_home_103001/24.wav|ふぅ…牛乳毎朝飲んでるのに、 どうして大きくなれないんだろ。 量が足りない…のかな…？
+character_system_text/1030/snd_voi_home_103001/25.wav|食後のストレッチ、する？ 猫のポーズでにゃーって伸ばすと、 背中が気持ちいいんだよ…ふふっ。
+character_system_text/1030/snd_voi_home_103001/26.wav|今夜こそ、ロブロイさんに… 『その本ライスも好きだよ』って 伝えるんだ…こ、今夜こそっ…！
+character_system_text/1030/snd_voi_home_103001/27.wav|迷子の新入生さん…ライスが声を かけたら、余計に迷惑かな…？ でも…で、でもでも…。
+character_system_text/1030/snd_voi_home_103001/29.wav|今日は通り雨、降らないといいな… お兄さまが濡れちゃうなんて、 だめだもん…！
+character_system_text/1030/snd_voi_home_103001/28.wav|今日は通り雨、降らないといいな… お姉さまが濡れちゃうなんて、 だめだもん…！
+character_system_text/1030/snd_voi_home_103001/30.wav|落ち葉のベッド、絵本に描いて あった通り、ふかふかなのかな…！ ライスもごろんってしてみたいな。
+character_system_text/1030/snd_voi_home_103001/31.wav|あ…ち、近づいちゃだめ！静電気で バチバチしちゃうから…ごめんね。 寂しいけどガマンしなきゃなの…。
+character_system_text/1030/snd_voi_training_103001/0.wav|えっと、今日も、 よろしくお願いしますっ…！
+character_system_text/1030/snd_voi_training_103001/1.wav|すぅ～…ふぅ～…。 …がんばれライス、がんばれー… おー…！
+character_system_text/1030/snd_voi_training_103001/2.wav|どんなトレーニングも、 いっぱいがんばるよ…！
+character_system_text/1030/snd_voi_training_103001/3.wav|ライス…ちゃんと成長、 できてるかな…？
+character_system_text/1030/snd_voi_training_103001/4.wav|えへへ…って、あっ！ ご、ごめんなさい、笑うときじゃ ないよね。うれしくって、つい…。
+character_system_text/1030/snd_voi_training_103001/5.wav|ライスはまだまだ、ぜんぜんなの かもだけど…がんばりたいんだ。 …もっと、強くなりたいから。
+character_system_text/1030/snd_voi_training_103001/6.wav|最近、走るのが楽しいの。 えへへ…もっと速くなりたいな。
+character_system_text/1030/snd_voi_training_103001/8.wav|お兄さま、お願い。 たくさんトレーニングして。 ライス…勝ちたいのっ。
+character_system_text/1030/snd_voi_training_103001/7.wav|お姉さま、お願い。 たくさんトレーニングして。 ライス…勝ちたいのっ。
+character_system_text/1030/snd_voi_training_103001/10.wav|お兄さまがいたから、ここまで来られたよ…！
+character_system_text/1030/snd_voi_training_103001/9.wav|お姉さまがいたから、ここまで来られたよ…！
+character_system_text/1030/snd_voi_training_103001/11.wav|ライス、なりたい自分に近づけたよ。
+character_system_text/1030/snd_voi_outgame_103001/0.wav|ちょっとだけ、強くなれたかな…？
+character_system_text/1030/snd_voi_outgame_103001/2.wav|お兄さまが一緒なら、ライスだって…！
+character_system_text/1030/snd_voi_outgame_103001/1.wav|お姉さまが一緒なら、ライスだって…！
+character_system_text/1030/snd_voi_outgame_103001/3.wav|ひゃ、ひゃい…！ライスシャワーです…！
+character_system_text/1030/snd_voi_gacha_103001/0.wav|みんなを幸せにしたいから… ライス、走るよ！
+character_system_text/1030/snd_voi_teamst_st_103000_0000/0.wav|はわわ…！が、がんばろうねっ…！
+character_system_text/1030/snd_voi_teamst_st_103000_1052/0.wav|大丈夫かな…？
+character_system_text/1030/snd_voi_teamst_st_103000_1047/0.wav|紡ぎます…。
+character_system_text/1030/snd_voi_teamst_st_100400_1030/1.wav|お、お～っ！
+character_system_text/1030/snd_voi_teamst_st_104100_1030/1.wav|ぴ、ぴーんっ！
+character_system_text/1030/snd_voi_teamst_st_105000_1030/1.wav|は、はい…っ！
+character_system_text/1030/snd_voi_teamst_103000/0.wav|いっくぞー…！
+character_system_text/1030/snd_voi_teamst_103000/1.wav|えへへ、やったね…♪
+character_system_text/1030/snd_voi_teamst_103000/2.wav|引き分け…惜しかったなぁ…。
+character_system_text/1030/snd_voi_teamst_103000/3.wav|うぅ、負けちゃった…。
+character_system_text/1030/snd_voi_teamst_103000/4.wav|ライスたちの勝ちだね…♪
+character_system_text/1030/snd_voi_teamst_103000/5.wav|ハイスコアだって…すごいよ…っ！
+character_system_text/1030/snd_voi_minigame_103000/0.wav|がんばってね
+character_system_text/1030/snd_voi_minigame_103000/1.wav|やったー…！
+character_system_text/1030/snd_voi_minigame_103000/2.wav|わわっ…！
+character_system_text/1030/snd_voi_minigame_103000/3.wav|見て見て！こんなに…！
+character_system_text/1030/snd_voi_minigame_103000/4.wav|みんなかわいいなぁ…。
+character_system_text/1030/snd_voi_minigame_103000/5.wav|ふぇぇん…
+character_system_text/1030/snd_voi_minigame_103000/6.wav|はわわ…！
+character_system_text/1030/snd_voi_minigame_103000/7.wav|えへへ
+character_system_text/1030/snd_voi_minigame_103000/8.wav|てへ…
+character_system_text/1030/snd_voi_minigame_103000/9.wav|すごい…！
+character_system_text/1030/snd_voi_minigame_103000/10.wav|あわわ…！
+character_system_text/1030/snd_voi_minigame_103000/11.wav|むむむぅ…！
+character_system_text/1030/snd_voi_minigame_103000/12.wav|がんばってください
+character_system_text/1030/snd_voi_minigame_103000/13.wav|わぁっ…！
+character_system_text/1030/snd_voi_minigame_103000/14.wav|あっ！
+character_system_text/1030/snd_voi_minigame_103000/15.wav|うう…！
+character_system_text/1030/snd_voi_minigame_103000/16.wav|ごめんなさい…
+character_system_text/1030/snd_voi_race_103001/1.wav|ライスだって…咲ける…っ！
+character_system_text/1030/snd_voi_race_103001/2.wav|誓います…。大好きな人と…幸せの青いバラに。 …ライスだって…咲いてみせる…っ！
+character_system_text/1030/snd_voi_race_103001/0.wav|わあぁ…ライスやったよ…！
+character_system_text/1030/snd_voi_home_103002/1.wav|お兄さま、少し眠たいの…？ お菓子、食べる？甘いもの 食べたら、目が覚めるかも…！
+character_system_text/1030/snd_voi_home_103002/0.wav|お姉さま、少し眠たいの…？ お菓子、食べる？甘いもの 食べたら、目が覚めるかも…！
+character_system_text/1030/snd_voi_home_103002/2.wav|はふ…ふふ。夜更かししちゃった。 コウモリさんになれたら、どこに いこうかなって想像してて…。
+character_system_text/1030/snd_voi_home_103002/3.wav|もしほんとのヴァンパイアに なっちゃったら…トマトジュース だけで、ガマンしたいなぁ…。
+character_system_text/1030/snd_voi_home_103002/5.wav|ヴァンパイアは昼間は寝てるん だよね…お兄さま、疲れてない？ 一緒にお昼寝、しにいく…？
+character_system_text/1030/snd_voi_home_103002/4.wav|ヴァンパイアは昼間は寝てるん だよね…お姉さま、疲れてない？ 一緒にお昼寝、しにいく…？
+character_system_text/1030/snd_voi_home_103002/7.wav|ヴァンパイアのライスは 夜も元気だよ…！お兄さま、 お手伝いできることあるかな…？
+character_system_text/1030/snd_voi_home_103002/6.wav|ヴァンパイアのライスは 夜も元気だよ…！お姉さま、 お手伝いできることあるかな…？
+character_system_text/1030/snd_voi_home_103002/8.wav|夜かぁ…お、オバケさんに 会ったらどうしよ…この格好なら 仲良くなれる…かな？
+character_system_text/1030/snd_voi_home_103002/9.wav|お花の蜜を吸うコウモリさんも いるんだって。ふふ、かわいい… 会ってみたいな…！
+character_system_text/1030/snd_voi_home_103002/10.wav|夏ってオバケさんの話を たくさん聞くよね…はうぅ… ハロウィン以外もオバケだらけ…。
+character_system_text/1030/snd_voi_home_103002/12.wav|カボチャのパイ、マロンのタルト 梨のケーキにさつまいもクッキー！ お兄さまは、どれが好き…？
+character_system_text/1030/snd_voi_home_103002/11.wav|カボチャのパイ、マロンのタルト 梨のケーキにさつまいもクッキー！ お姉さまは、どれが好き…？
+character_system_text/1030/snd_voi_home_103002/13.wav|広いお城に住んでるヴァンパイア、 冬は寒そうだね…ライスだったら 暖炉から離れられないかも…。
+character_system_text/1030/snd_voi_home_103002/14.wav|ロブロイさんとね、お部屋で 魔法の掛け合いっこしたんだ。 明日もいい日になーれ…って！
+character_system_text/1030/snd_voi_home_103002/15.wav|ブルボンさんがね、すごい速さで カボチャのランタンを作ってくれた の…！びっくりしちゃった…！
+character_system_text/1030/snd_voi_home_103002/16.wav|ヴァンパイアはガーリックトースト 食べられないんだね…うぅ、 この格好の間はガマンしなくちゃ。
+character_system_text/1030/snd_voi_home_103002/18.wav|お、お兄さま！ お菓子くれないと、い、い、い… うう…いたずら、しなきゃだめ…？
+character_system_text/1030/snd_voi_home_103002/17.wav|お、お姉さま！ お菓子くれないと、い、い、い… うう…いたずら、しなきゃだめ…？
+character_system_text/1030/snd_voi_home_103002/19.wav|カボチャといえば、魔法使いが キャリッジにするのも有名だね…！ いつかライスも乗りたいなぁ…！
+character_system_text/1030/snd_voi_home_103002/20.wav|背中の羽で、びゅーんって お空を飛べたらいいのにな。 …と、途中で落ちなければ…。
+character_system_text/1030/snd_voi_home_103002/21.wav|実はね、お口に牙も付けてるの。 いー…。
+character_system_text/1030/snd_voi_home_103002/22.wav|変な夢を見たの…お腹ペコペコの ヴァンパイアの夢…ライスが 不幸にしちゃったのかな…？
+character_system_text/1030/snd_voi_home_103002/23.wav|学園の中を歩いてたら、 みんながお菓子をくれて… あんなにいっぱい、どうしよう？
+character_system_text/1030/snd_voi_home_103002/25.wav|寝る前に、お母さまが読んでくれた 『オバケの楽しいおうち』って絵本 …お兄さまとも一緒に読みたいな。
+character_system_text/1030/snd_voi_home_103002/24.wav|寝る前に、お母さまが読んでくれた 『オバケの楽しいおうち』って絵本 …お姉さまとも一緒に読みたいな。
+character_system_text/1030/snd_voi_home_103002/26.wav|ヴァンパイアは、 明るいうちに開くお花を 見られないのかな…。
+character_system_text/1030/snd_voi_home_103002/27.wav|盆踊りの中にオバケさんもいるかも ってほんと…？もしかしたら ウイニングライブにも…ふえぇ。
+character_system_text/1030/snd_voi_home_103002/28.wav|ハロウィンの準備、飾りつけから お菓子作りまでみんなでやったの。 ライスも少しだけ役に立てたかな？
+character_system_text/1030/snd_voi_home_103002/29.wav|屋根のつららが 牙みたいに見えてね… お揃いだねって思ったんだ…！
+character_system_text/1030/snd_voi_training_103002/0.wav|カチューシャよーし、羽よーし、 蹄鉄よーし、牙よーし…うん！ 準備オッケーだよ…！
+character_system_text/1030/snd_voi_training_103002/1.wav|トレーニングしてくれなきゃ いたずらしちゃいますっ…。 な、なんて…。
+character_system_text/1030/snd_voi_training_103002/2.wav|きっと飛ぶよりも速く なってみせるからね…！ がんばるぞー、おー！
+character_system_text/1030/snd_voi_training_103002/3.wav|パン、パン、パンプキン♪ カボチャのおっかし… はっ！？ごごご、ごめんなさい！
+character_system_text/1030/snd_voi_training_103002/4.wav|トレーニングが終わったら、 一緒にティータイムしたいな…。 お菓子、たっくさん用意したの…！
+character_system_text/1030/snd_voi_training_103002/6.wav|どんどん速くなってるみたい…！ どんなオバケが来ても、お兄さまの 手を引いて逃げ切ってみせるね…！
+character_system_text/1030/snd_voi_training_103002/5.wav|どんどん速くなってるみたい…！ どんなオバケが来ても、お姉さまの 手を引いて逃げ切ってみせるね…！
+character_system_text/1030/snd_voi_training_103002/8.wav|お兄さま…ライスがほんとに ヴァンパイアになっちゃっても 一緒にいてくれる…かな？
+character_system_text/1030/snd_voi_training_103002/7.wav|お姉さま…ライスがほんとに ヴァンパイアになっちゃっても 一緒にいてくれる…かな？
+character_system_text/1030/snd_voi_training_103002/9.wav|永遠の時間を生きても、忘れないよ…！
+character_system_text/1030/snd_voi_training_103002/10.wav|いつもと違うライス…どうだったかな？
+character_system_text/1030/snd_voi_outgame_103002/0.wav|ふっふっふっ、強くなったぞー！ …えへへ。
+character_system_text/1030/snd_voi_outgame_103002/1.wav|カプッと大成功～…なんて…。
+character_system_text/1030/snd_voi_outgame_103002/2.wav|ライスシャワーです…！ えと…か、噛んじゃうぞ～…！
+character_system_text/1030/snd_voi_gacha_103002/0.wav|噛んだら痛いから… 噛みつくのは、勝利にだけ！
+character_system_text/1030/snd_voi_race_103002/1.wav|コウモリさん…一緒にいこ！
+character_system_text/1030/snd_voi_race_103002/2.wav|綺麗な月…ひゃあ！？ えっと、えと…きしゃー！…うぅ。
+character_system_text/1030/snd_voi_race_103002/0.wav|勝利のご褒美は、首筋にカプッ！ なんて…。
+character_system_text/1030/snd_voi_event_090006/1.wav|…ブルボンさん、大変そう。 でも、ライスが手伝っても…。
+character_system_text/1030/snd_voi_event_090006/6.wav|ライスは…ううん。 ライスだって…！
+character_system_text/1030/snd_voi_event_090006/10.wav|ふっふっふー、血を吸うぞ～…！ …えへへ、これだと怖すぎるかな？
+character_system_text/1030/snd_voi_event_090006/14.wav|イベントお疲れさまでした。 えっとね、えっと… ハッピーハロウィン…！えへへ。
+character_system_text/1030/snd_voi_event_090014/2.wav|ミューズになって… ライスも、みんなを笑顔に…！
+character_system_text/1030/snd_voi_event_090014/3.wav|謎解きはむずかしいけど… みんなと一緒だから きっと大丈夫だよね…っ。
+character_system_text/1030/snd_voi_event_090014/11.wav|ライスも…なれたんだ…。 みんなを笑顔にできる 憧れのミューズに…っ。
+character_system_text/1030/snd_voi_event_090014/12.wav|イベントミッションだって。 一緒にがんばろうね、おー！
+character_system_text/1030/snd_voi_event_090014/13.wav|報酬、全部受け取った…？ ライスでよければ…忘れ物が ないか、一緒に確認するよ？
+character_system_text/1030/snd_voi_valentine_103000/0.wav|ハッピーバレンタイン
+character_system_text/1030/snd_voi_aimteam_103000/0.wav|お、お疲れさま……
