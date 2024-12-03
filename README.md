@@ -8,7 +8,7 @@
 
 Credit: [umamusume-voice-text-extractor](https://github.com/chinosk6/umamusume-voice-text-extractor)
 
-Right, this mma code was written so long time ago that I've forgot what it was meant to do...
+Right, this mma code was written so long time ago that I've forgotten what it was meant to do...
 
 Seems that it'll flatten the directory structure and reorganize dialogue script file to align with training requirements.
 
