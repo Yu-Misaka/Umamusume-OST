@@ -1,0 +1,1014 @@
+story/data/02/0005/storytimeline_020005012/36.wav|はぁ……はぁ……。
+story/data/02/0005/storytimeline_020005012/37.wav|……ふふっ。
+story/data/02/0005/storytimeline_020005012/11.wav|はっ……はっ……ふぅ……。
+story/data/02/0005/storytimeline_020005012/16.wav|はい、わかりました。
+story/data/02/0005/storytimeline_020005021/17.wav|わかってるわ。 だからこうして図書室に足を運んでいるわけだし。
+story/data/02/0005/storytimeline_020005021/5.wav|フクキタル……ええ、レース展開の知識を入れておくようにって 言われたから。
+story/data/02/0005/storytimeline_020005021/26.wav|この走りなら、1着でゴールを駆け抜ける可能性を広げてくれる。 1着でゴールすることが、何よりも大事。
+story/data/02/0005/storytimeline_020005021/19.wav|ふぅ……ふぅ……。
+story/data/02/0005/storytimeline_020005021/30.wav|…………。
+story/data/02/0005/storytimeline_020005021/33.wav|……ラスト、1本……！
+story/data/02/0005/storytimeline_020005021/37.wav|（けど、それだと私の見たい“景色”は――）
+story/data/02/0005/storytimeline_020005021/31.wav|（展開、位置取り、ペース配分、芝の状態に天候に……）
+story/data/02/0005/storytimeline_020005021/27.wav|そこには、私の見たい“景色”がきっとあるはずだから――
+story/data/02/0005/storytimeline_020005021/8.wav|だ、大丈夫。 その辺はトレーナーさんと一緒に決めるから。
+story/data/02/0005/storytimeline_020005021/18.wav|私には、見たい“景色”があるから……。
+story/data/02/0005/storytimeline_020005021/39.wav|ひゃっ！？　な……なに……？
+story/data/02/0005/storytimeline_020005021/10.wav|エアグルーヴ……ええ、次は『弥生賞』だって。 もうひと月を切っているわ。
+story/data/02/0005/storytimeline_020005021/44.wav|…………。
+story/data/02/0005/storytimeline_020005021/32.wav|（レースというのは、こんなにもたくさんのことを 考えながら走らないといけないのね）
+story/data/02/0005/storytimeline_020005021/25.wav|レースは、展開を読みながらペース配分や最善の位置取りを 意識しつつ、最小限のロスで済むコースを走ることが定石。
+story/data/02/0005/storytimeline_020005021/2.wav|ついに夢を掴むための、私のレースが始まったのね。
+story/data/02/0005/storytimeline_020005021/35.wav|（このまま、頭を真っ白にしたまま、 いつまでも走り続けていたい）
+story/data/02/0005/storytimeline_020005021/41.wav|え、えっと、あなたもウマ娘……ですよね？
+story/data/02/0005/storytimeline_020005021/13.wav|わざわざ見に来てくれるとは思わなかったわ。 応援してくれてありがとう。
+story/data/02/0005/storytimeline_020005021/1.wav|そしてデビュー戦を制し、1歩ずつ前へ……。
+story/data/02/0005/storytimeline_020005021/0.wav|期待を胸に、初めてくぐった学園の校門―― それが私のスタート。
+story/data/02/0005/storytimeline_020005021/21.wav|……はい。
+story/data/02/0005/storytimeline_020005021/36.wav|はぁ……はぁ……。
+story/data/02/0005/storytimeline_020005021/24.wav|はい、頑張ります……！
+story/data/02/0005/storytimeline_020005021/3.wav|……『ミドルディスタンス基礎Ⅰ』……『勝率とペース配分』
+story/data/02/0005/storytimeline_020005021/34.wav|（私の蹄鉄の音が響いてる。 前には誰もいない、気持ちのいい風がくるだけ）
+story/data/02/0005/storytimeline_020005031/11.wav|あの……チームに所属するにはスカウトしてもらうことが必要で、 こちらから望んだチームに入れるかは……。
+story/data/02/0005/storytimeline_020005031/24.wav|スペシャルウィークさん、もしかしたら……！
+story/data/02/0005/storytimeline_020005031/3.wav|……あら？　たしかチーム＜シリウス＞のトレーナーさん。
+story/data/02/0005/storytimeline_020005031/14.wav|＜シリウス＞のトレーナーさん。 はい、スペシャルウィークさんが出走するので。
+story/data/02/0005/storytimeline_020005031/16.wav|トゥインクル・シリーズを走って、 “日本一のウマ娘”になるという夢が。
+story/data/02/0005/storytimeline_020005031/15.wav|そうなのかもしれませんが…… スペシャルウィークさんには夢があるそうです。
+story/data/02/0005/storytimeline_020005031/5.wav|ええ、トゥインクル・シリーズに出走するには、 チームに所属することが義務づけられています。
+story/data/02/0005/storytimeline_020005031/1.wav|向こうの建物が音楽室や調理室のある棟で、 この先には室内プールの建物があります。
+story/data/02/0005/storytimeline_020005031/18.wav|えっ……？
+story/data/02/0005/storytimeline_020005031/6.wav|そしてこちらは、GⅠウマ娘を何人も輩出している チーム＜シリウス＞のトレーナーさんです。
+story/data/02/0005/storytimeline_020005031/21.wav|あ……レースが始まります。
+story/data/02/0005/storytimeline_020005031/13.wav|……それでは、私たちはこれで失礼します。
+story/data/02/0005/storytimeline_020005031/19.wav|……私は……。
+story/data/02/0005/storytimeline_020005031/17.wav|まだ出会ったばかりですけど、スペシャルウィークさんの まっすぐな気持ちは、とても伝わってきます。
+story/data/02/0005/storytimeline_020005041/3.wav|（＜シリウス＞のトレーナーさんの言葉が、 ずっと頭の中に残ってる……）
+story/data/02/0005/storytimeline_020005041/18.wav|それよりも、スペシャルウィークさんの方はどうですか？ チーム＜シリウス＞、とても賑やかそうですけど。
+story/data/02/0005/storytimeline_020005041/28.wav|……わからないの。
+story/data/02/0005/storytimeline_020005041/6.wav|（私も、夢に向かってまっすぐ走っているはず）
+story/data/02/0005/storytimeline_020005041/32.wav|ありがとう。 だけど次は『ダービー』だし、気を抜いていられないわ。
+story/data/02/0005/storytimeline_020005041/47.wav|……くっ！
+story/data/02/0005/storytimeline_020005041/21.wav|……それならよかったです。
+story/data/02/0005/storytimeline_020005041/11.wav|あの……ありがとうございます。 もう何回も同じ話をしてますけど……。
+story/data/02/0005/storytimeline_020005041/24.wav|…………。
+story/data/02/0005/storytimeline_020005041/43.wav|（……よそ見なんて、している場合じゃない。 夢に向かって走らないと……！）
+story/data/02/0005/storytimeline_020005041/0.wav|（レース展開を見つつ、ラストスパートの脚をしっかり溜める）
+story/data/02/0005/storytimeline_020005041/2.wav|（『自分の気持ちがまっすぐじゃないみたい』――）
+story/data/02/0005/storytimeline_020005041/8.wav|…………。
+story/data/02/0005/storytimeline_020005041/15.wav|…………。
+story/data/02/0005/storytimeline_020005041/37.wav|はい……！
+story/data/02/0005/storytimeline_020005041/17.wav|えっ……？　ううん、もちろん嬉しいですよ。
+story/data/02/0005/storytimeline_020005041/29.wav|レースを勝ったはずなのに、見た“景色”はどこか違っていて……。
+story/data/02/0005/storytimeline_020005041/7.wav|（……それなのに、なんで“景色”が霞みがかったように 見えるんだろう）
+story/data/02/0005/storytimeline_020005041/9.wav|……もう1周……！
+story/data/02/0005/storytimeline_020005041/26.wav|えっ！？　あ、ごめんなさい。
+story/data/02/0005/storytimeline_020005041/33.wav|……次も、必ず勝ってみせるから……。
+story/data/02/0005/storytimeline_020005041/23.wav|（本当に夢に向かってまっすぐね、スペシャルウィークさんは……）
+story/data/02/0005/storytimeline_020005041/1.wav|（それが自分のスピードを活かした、もっとも勝率の高い走り。 この走りは私自身も間違っていないと思う……けれど）
+story/data/02/0005/storytimeline_020005041/45.wav|はぁっ……！　はぁっ……！
+story/data/02/0005/storytimeline_020005041/34.wav|はぁ……はぁ……ふぅ……。
+story/data/02/0005/storytimeline_020005051/31.wav|……見えた気がしました、私が追いかけていたものが。 ずっと見たかった“景色”が。
+story/data/02/0005/storytimeline_020005051/23.wav|（風が気持ちいい、自分だけの蹄鉄の音が心地いい……。 余計な音もしない、目の前の広がりを遮るものもない）
+story/data/02/0005/storytimeline_020005051/18.wav|スペシャルウィークさんはいつも夢に向かってまっすぐで、 純粋で、とても眩しいくらいなのに……私は……。
+story/data/02/0005/storytimeline_020005051/13.wav|……わからないんです、今の自分が。 夢に向かって努力しているのは間違いありません。
+story/data/02/0005/storytimeline_020005051/14.wav|それなのに、追いかければ追いかけるほど、 夢が遠くに行ってしまうような気がして……。
+story/data/02/0005/storytimeline_020005051/27.wav|もっと、この“景色”を……！
+story/data/02/0005/storytimeline_020005051/33.wav|楽しく走った先に、私の夢が……。
+story/data/02/0005/storytimeline_020005051/32.wav|え……？
+story/data/02/0005/storytimeline_020005051/24.wav|（ただ走っているだけなのに、レースの時よりもずっと……）
+story/data/02/0005/storytimeline_020005051/25.wav|（ずっと、綺麗な“景色”――）
+story/data/02/0005/storytimeline_020005051/22.wav|……わかりました、やってみます。
+story/data/02/0005/storytimeline_020005051/17.wav|スペシャルウィークさんは、私が楽しそうに走っていたと 言いますけど……それはむしろ逆です。
+story/data/02/0005/storytimeline_020005051/16.wav|その時のことがずっと忘れられなくて、今も追い続けていて……。
+story/data/02/0005/storytimeline_020005051/1.wav|はぁ……はぁ……あと1周っ！
+story/data/02/0005/storytimeline_020005051/39.wav|…………。
+story/data/02/0005/storytimeline_020005051/34.wav|ふふっ……はい！
+story/data/02/0005/storytimeline_020005051/30.wav|……たしかにボロボロ……ですけど……。
+story/data/02/0005/storytimeline_020005051/20.wav|自分の走りたいように……思うままに……。
+story/data/02/0005/storytimeline_020005051/6.wav|いえ、こちらこそ有意義でした。
+story/data/02/0005/storytimeline_020005051/19.wav|思う……ままに？
+story/data/02/0005/storytimeline_020005051/8.wav|…………。
+story/data/02/0005/storytimeline_020005051/37.wav|……失礼します。
+story/data/02/0005/storytimeline_020005051/15.wav|小さい頃から走るのが好きでした。 聞こえてくるのは自分の走る音と、風を切る音だけ。
+story/data/02/0005/storytimeline_020005051/40.wav|チームの移籍を、お願いしに来ました。
+story/data/02/0005/storytimeline_020005071/41.wav|ふぅ～……。
+story/data/02/0005/storytimeline_020005071/35.wav|え……？　えっと……そうだったかしら……。
+story/data/02/0005/storytimeline_020005071/17.wav|はい、そうですね。
+story/data/02/0005/storytimeline_020005071/31.wav|ええ、私も夢のため――見たい“景色”を追い続けるために 走り続けるわ。
+story/data/02/0005/storytimeline_020005071/27.wav|……それは私も同じ。まっすぐ夢に向かって走るあなたを見て、 自分もそうなりたいって思えた。
+story/data/02/0005/storytimeline_020005071/28.wav|……スペちゃんの純粋な気持ちが、私に大きな1歩を 踏み出させてくれたのよ。
+story/data/02/0005/storytimeline_020005071/0.wav|ゴール前には坂があるから、脚力アップが見込めるトレーニングを 積極的に取り入れてみるとか……。
+story/data/02/0005/storytimeline_020005071/22.wav|私もレースを勝ったら祝勝会を開いてもらえるのかしら。
+story/data/02/0005/storytimeline_020005071/37.wav|ふふふっ、もう……。
+story/data/02/0005/storytimeline_020005071/10.wav|ライバルは、自分を成長させてくれる大事な存在……。 だから素敵なライバルに出会えるよう、頑張りましょう。
+story/data/02/0005/storytimeline_020005071/42.wav|トレーナーさんやチームのみんな、それにスペちゃんの支えが 私を充実させてくれています。
+story/data/02/0005/storytimeline_020005071/7.wav|それでいつか、レースでの借りをしっかりと返させてもらうわ。
+story/data/02/0005/storytimeline_020005071/4.wav|けど、慣れない知識を必死に追い続けてしまったのが、 前までの私だけれど。
+story/data/02/0005/storytimeline_020005071/6.wav|そうね……これからもっと色々なことを知って、 ひとつひとつ先へ進んでみせる。
+story/data/02/0005/storytimeline_020005071/33.wav|うん、約束……。
+story/data/02/0005/storytimeline_020005071/44.wav|ええ、応援に応えてみせるわね。
+story/data/02/0005/storytimeline_020005071/45.wav|はい、トレーナーさんにも“景色”をお見せします！
+story/data/02/0005/storytimeline_020005071/24.wav|支えるだなんて……私は大したことしてないわ。
+story/data/02/0005/storytimeline_020005071/3.wav|エアグルーヴ。 ええ、前にいろいろ覚えたから。
+story/data/02/0005/storytimeline_020005071/19.wav|……ふふっ。
+story/data/02/0005/storytimeline_020005073/4.wav|私のわがままでチームを移籍したいと言った時も、 トレーナーさんは受け入れてくれました。
+story/data/02/0005/storytimeline_020005073/1.wav|急ぎかどうかはわかりませんが、 いち早く伝えたいことがありまして。
+story/data/02/0005/storytimeline_020005073/0.wav|トレーナーさん、失礼します。
+story/data/02/0005/storytimeline_020005073/5.wav|ふふっ……。
+story/data/02/0005/storytimeline_020005073/10.wav|……これからも一緒に“景色”を見るという形で。
+story/data/02/0005/storytimeline_020005073/7.wav|私たちのことを信じて、支えてくださる方なんだなって。
+story/data/02/0005/storytimeline_020005073/8.wav|それで、ちゃんとお礼をと思ったんですけど…… もう少しだけ待ってもらえませんか？
+story/data/02/0005/storytimeline_020005073/6.wav|＜シリウス＞に入って、メンバーのみんなを見ているだけで トレーナーさんがどんな人なのかわかります。
+story/data/02/0005/storytimeline_020005073/2.wav|今日のレースを勝利して気がついたんです。 そういえば私、ちゃんとトレーナーさんにお礼をしていないって。
+story/data/02/0005/storytimeline_020005073/3.wav|違うチームだった私に対して、トレーナーさんは親身になって 話を聞いてくれました。
+story/data/02/0005/storytimeline_020005073/11.wav|はい……！
+story/data/02/0005/storytimeline_020005073/9.wav|いえ、しっかりとお礼をします。
+story/data/02/0005/storytimeline_020005081/23.wav|いえ、もし決まっているのなら、 次のレースのことを聞かせてもらおうと思いまして。
+story/data/02/0005/storytimeline_020005081/32.wav|限りを尽くします。 2人で……“景色”を見るために。
+story/data/02/0005/storytimeline_020005081/26.wav|トレーナーさんがそう言ってくれるのなら、 私は不安に思うことなんてありません。
+story/data/02/0005/storytimeline_020005081/30.wav|トレーナーさん。 私、今の走りを突き詰めていこうと思ってるんです。
+story/data/02/0005/storytimeline_020005081/25.wav|『金鯱賞』……2000mのレースですね。
+story/data/02/0005/storytimeline_020005081/29.wav|ふふっ……大丈夫です。
+story/data/02/0005/storytimeline_020005081/28.wav|GⅠ……。
+story/data/02/0005/storytimeline_020005081/31.wav|踏み込んだことのない先には、きっと綺麗な“景色”が たくさんあるんじゃないかと思いまして。
+story/data/02/0005/storytimeline_020005081/7.wav|ええ、わかりました。
+story/data/02/0005/storytimeline_020005081/24.wav|どのレースを走るか知っていた方がトレーニングにも 目標が持てますし、他にもその……メリットがあるかなと。
+story/data/02/0005/storytimeline_020005081/2.wav|はっ……はっ……ふぅ……。
+story/data/02/0005/storytimeline_020005081/22.wav|トレーナーさん、失礼します。
+story/data/02/0005/storytimeline_020005081/27.wav|それに、自分の走りがどこまで通用するのかを 確かめてみる、いいチャンスかと思いますし。
+story/data/02/0005/storytimeline_020005101/38.wav|私も坂路トレーニングと、そのあとは直線の走り込みですよね？
+story/data/02/0005/storytimeline_020005101/40.wav|トレーナーさん……？
+story/data/02/0005/storytimeline_020005101/2.wav|それに次は『宝塚記念』に出走するから。
+story/data/02/0005/storytimeline_020005101/6.wav|走っても走っても、まだまだ走れるっていうか……。
+story/data/02/0005/storytimeline_020005101/8.wav|スペちゃんや＜シリウス＞のみんな……それからトレーナーさんが 私を支えてくれているからかしら。
+story/data/02/0005/storytimeline_020005101/7.wav|走っている時に1人じゃないって感じがして、 背中を押されるように自然と前へ進んでいけるの。
+story/data/02/0005/storytimeline_020005101/41.wav|それでは、行ってきます。
+story/data/02/0005/storytimeline_020005101/11.wav|う、牛……？
+story/data/02/0005/storytimeline_020005101/1.wav|うん、私ももっと上を目指したいし、 トレーナーさんも今以上の私を見たいって。
+story/data/02/0005/storytimeline_020005112/12.wav|失礼します。
+story/data/02/0005/storytimeline_020005112/16.wav|無理をしていないか、ということでしょうか……？
+story/data/02/0005/storytimeline_020005112/15.wav|はい……。
+story/data/02/0005/storytimeline_020005112/19.wav|だって、私には――
+story/data/02/0005/storytimeline_020005112/7.wav|はぁ……ふぅ……。
+story/data/02/0005/storytimeline_020005112/11.wav|……？
+story/data/02/0005/storytimeline_020005112/18.wav|それに、今はとても気持ちが充実しているんです。 不安に思っていることは何もありません。
+story/data/02/0005/storytimeline_020005112/20.wav|いえ……それでは私は自主トレに行ってきます。 トレーナーさんこそ無理をしないでくださいね。
+story/data/02/0005/storytimeline_020005112/17.wav|だとしたら大丈夫です。レース前ということもありますし、 私も十分に気をつけていますから。
+story/data/02/0005/storytimeline_020005112/9.wav|うん、そうかなって走っていて思ったわ。 手ごたえを感じたから。
+story/data/02/0005/storytimeline_020005112/13.wav|あの、トレーナーさん……なんだか最近、 遅くまで残ってお仕事をされているみたいですけど……。
+story/data/02/0005/storytimeline_020005112/14.wav|もしかして、私の走りに問題でもありますか？ 今のままでは『宝塚記念』には勝てないとか……。
+story/data/02/0005/storytimeline_020005112/21.wav|トレーナーさん、『宝塚記念』でまた一緒に“景色”を見ましょう。
+story/data/02/0005/storytimeline_020005121/32.wav|それが、トレーナーさんが悩んでいた理由……。 私のことを心配して……。
+story/data/02/0005/storytimeline_020005121/37.wav|私は、必ず戻ってくると約束します。
+story/data/02/0005/storytimeline_020005121/33.wav|トレーナーさん……。
+story/data/02/0005/storytimeline_020005121/30.wav|トレーナーさん……？
+story/data/02/0005/storytimeline_020005121/34.wav|……わかりました、思い切り走ります。 これからも先頭でゴールを走り抜け、夢を掴んでみせます。
+story/data/02/0005/storytimeline_020005121/31.wav|1番大事なこと……ですか？
+story/data/02/0005/storytimeline_020005121/36.wav|……もちろんです。 トレーナーさんの“想い”、受け取りましたから。
+story/data/02/0005/storytimeline_020005121/35.wav|私もトレーナーさんを信じていますから。
+story/data/02/0005/storytimeline_020005131/14.wav|ええ、先頭でゴールしてみせるわ。
+story/data/02/0005/storytimeline_020005131/6.wav|はい。
+story/data/02/0005/storytimeline_020005131/16.wav|ふふふっ……ご利益を信じてるわね。
+story/data/02/0005/storytimeline_020005131/18.wav|必ずトレーナーさんの元に戻ってきます。
+story/data/02/0005/storytimeline_020005131/8.wav|エアグルーヴ、それにフクキタルも。
+story/data/02/0005/storytimeline_020005131/17.wav|思い切り走って、“景色”を楽しんで、 トレーナーさんにも“景色”を見せて、そして――
+story/data/02/0005/storytimeline_020005131/19.wav|はい……！
+story/data/02/0005/storytimeline_020005134/6.wav|これからもずっと、見たことのない“景色”を、 みんなと一緒に……！
+story/data/02/0005/storytimeline_020005134/5.wav|やっぱり、走るのって楽しい……！
+story/data/02/0005/storytimeline_020005091/2.wav|はぁ……はぁ……んっ……。
+story/data/02/0005/storytimeline_020005091/41.wav|はい、行ってきます！
+story/data/02/0005/storytimeline_020005091/18.wav|ひょっとして、新しいおまじないか何か？
+story/data/02/0005/storytimeline_020005091/5.wav|はい……！
+story/data/02/0005/storytimeline_020005091/39.wav|私、とても充実しています。 夢に向かって走れているんだって、毎日実感できて。
+story/data/02/0005/storytimeline_020005091/3.wav|はい……でも、大丈夫です。 辛さよりも楽しさの方が大きいので。
+story/data/02/0005/storytimeline_020005091/27.wav|猛者っていうなら、あなただって。 『菊花賞』を勝った時のフクキタルの走り、本当にすごかったわ。
+story/data/02/0005/storytimeline_020005091/13.wav|ええ、突き詰めてみせるわ。 その先にある“景色”を見るためにも。
+story/data/02/0005/storytimeline_020005091/15.wav|ふふっ、必ずまた一緒に走りましょうね。
+story/data/02/0005/storytimeline_020005091/31.wav|ふふふっ、レースを楽しみましょうね。
+story/data/02/0005/storytimeline_020005091/8.wav|ううん、自分の力を伸ばすためには どういうトレーニングが効果的か、調べたくなっちゃって。
+story/data/02/0005/storytimeline_020005091/6.wav|……このことから、坂路でのトレーニングは持久力と瞬発力を 鍛え上げる効果もあり――
+story/data/02/0005/storytimeline_020005091/37.wav|すぅ～……ふぅ～……。
+story/data/02/0005/storytimeline_020005091/40.wav|でしたら、成長した成果を見せないとですね。 今日のレース、必ず先頭で走り抜いてきます。
+story/data/02/0005/storytimeline_020005091/38.wav|努力の先に“景色”が待っていると思えば、 苦ではありませんでした。
+story/data/02/0005/storytimeline_020005091/24.wav|え……ええ、そうだけど……。
+story/data/02/0005/storytimeline_020005091/4.wav|土台をしっかりと……はい、わかりました。 休憩の後もよろしくお願いします！
+story/data/02/0005/storytimeline_020005091/9.wav|トレーナーさんがしっかりサポートしてくれてるから 心配はしていないんだけど、じっとしているのもなんだから。
+story/data/02/0006/storytimeline_020006021/54.wav|ふふっ、期待しているわね。
+story/data/02/0006/storytimeline_020006021/50.wav|……でもスペちゃんは“日本一のウマ娘”になることを選んだのね。
+story/data/02/0006/storytimeline_020006021/34.wav|ううん、そうじゃないの。 スペちゃんって本当にお母さん想いなんだなって。
+story/data/02/0006/storytimeline_020006021/43.wav|そうだったの……。
+story/data/02/0006/storytimeline_020006021/29.wav|お母さんにお手紙？
+story/data/02/0006/storytimeline_020006021/36.wav|どっちのお母さんにも……って？
+story/data/02/0006/storytimeline_020006021/32.wav|……ふふっ。
+story/data/02/0006/storytimeline_020006021/47.wav|……ふふっ。
+story/data/02/0006/storytimeline_020006031/0.wav|支えるだなんて……私は大したことしてないわ。
+story/data/02/0006/storytimeline_020006031/7.wav|先頭でゴール板を駆け抜ける姿、 2人のお母さんに見てもらいましょう。
+story/data/02/0006/storytimeline_020006031/4.wav|リラックスよ、スペちゃん。 深呼吸をするだけでもずいぶん緊張をほぐせるから、やってみて。
+story/data/02/0006/storytimeline_020006031/31.wav|だけど、実際一緒に走るのは私たちじゃないから、 本当の相手の研究も忘れないでね。
+story/data/02/0006/storytimeline_020006061/1.wav|あの時の胸の高鳴りがずっと心に残ってて、だから私は走ってる。 私自身が満足するために。
+story/data/02/0006/storytimeline_020006061/58.wav|スペちゃんの走り、観てるからね。
+story/data/02/0006/storytimeline_020006071/61.wav|あ……いえ、別に……。
+story/data/02/0006/storytimeline_020006071/60.wav|…………。
+story/data/02/0006/storytimeline_020006071/47.wav|フクキタルが吹き込んだのね……。
+story/data/02/0006/storytimeline_020006081/38.wav|今日のトレーニング、いつも以上に頑張ってたわね。
+story/data/02/0006/storytimeline_020006081/47.wav|＜シリウス＞に入って、これまでたくさんの“景色”を 見ることができたわ。
+story/data/02/0006/storytimeline_020006081/43.wav|……ねえ、スペちゃん。
+story/data/02/0006/storytimeline_020006081/42.wav|夢への想いが自分を突き動かす……本当にその通りだと思うわ。
+story/data/02/0006/storytimeline_020006081/50.wav|やっぱり自分の気持ちを抑えきれないから、だから……。
+story/data/02/0006/storytimeline_020006081/49.wav|もっと速く、もっと先へ――今以上の“景色”を私は追いかけたい。
+story/data/02/0006/storytimeline_020006081/48.wav|走るたびに新しい“景色”が広がって、 また走りたい気持ちが膨らんでいく……。
+story/data/02/0006/storytimeline_020006081/45.wav|私、海外のレースに挑戦してみようと思うの。
+story/data/02/0006/storytimeline_020006081/4.wav|…………。
+story/data/02/0006/storytimeline_020006111/6.wav|うん、スペちゃんのレースを見てあげてほしくて。 日本一の夢、必ず掴んでほしいから。
+story/data/02/0006/storytimeline_020006111/9.wav|うん、まだ見たことのない“景色”を楽しんでくるわね。
+story/data/02/0006/storytimeline_020006111/3.wav|だって、見なくてもわかるから。
+story/data/02/0006/storytimeline_020006111/2.wav|……ええ、大丈夫。
+story/data/02/0006/storytimeline_020006051/27.wav|ハッキリとはわからないですけど、レースの結果というよりは もっと気持ち的な部分というか……。
+story/data/02/0006/storytimeline_020006051/16.wav|うん、小さい頃に見た景色……。
+story/data/02/0006/storytimeline_020006051/17.wav|あの時の胸の高鳴りがずっと心に残ってて、だから私は走ってる。 私自身が満足するために。
+story/data/02/0006/storytimeline_020006051/1.wav|……スペちゃん、大丈夫？
+story/data/02/0006/storytimeline_020006051/28.wav|はい、わかりました。
+story/data/02/0006/storytimeline_020006051/12.wav|……どうかしたの、スペちゃん？
+story/data/02/0006/storytimeline_020006051/25.wav|――スペちゃん、相当にショックを受けているみたいで……。
+story/data/02/0006/storytimeline_020006051/18.wav|……でも、それがどうかしたの？
+story/data/02/0006/storytimeline_020006051/26.wav|……それが、なんとなくそうじゃないような気がして。
+story/data/02/0006/storytimeline_020006051/6.wav|私も見ていて、レース運びに問題はなかったと思うし、 スペちゃんの実力が劣っていたとも思えない。
+story/data/02/0006/storytimeline_020006051/7.wav|ただ、気迫……なのかしら。前の2人、特にセイウンスカイさんの 走りには、言葉で表せないような凄みを感じたわ。
+story/data/02/0006/storytimeline_020006063/32.wav|……夢って、とても大きな力をくれるわよね。
+story/data/02/0006/storytimeline_020006063/27.wav|おめでとう、スペちゃん。
+story/data/02/0006/storytimeline_020006011/30.wav|だけど、チームのみんながついているっていうのは その通りだと思う。
+story/data/02/0006/storytimeline_020006011/29.wav|……砕けちゃうのは、ちょっと……。
+story/data/02/0006/storytimeline_020006011/31.wav|スペちゃん、これまで以上に私たちと走りましょう。 経験が浅いというなら、いくらでも練習相手になるから。
+story/data/02/0005/storytimeline_020005061/35.wav|それが、トレーナーさんの見たい“景色”なんですね。
+story/data/02/0005/storytimeline_020005061/20.wav|ひどかったでしょう？ ペースも何も一切考えないで、ただただ走りたいだけ走って。
+story/data/02/0005/storytimeline_020005061/14.wav|はっ……はっ……んっ……。
+story/data/02/0005/storytimeline_020005061/5.wav|あの……よろしくお願いします。
+story/data/02/0005/storytimeline_020005061/17.wav|すごく……気持ちよくて……楽しい……。
+story/data/02/0005/storytimeline_020005061/36.wav|ふふっ……わかりました。
+story/data/02/0005/storytimeline_020005061/32.wav|ふふっ……。
+story/data/02/0005/storytimeline_020005061/8.wav|思うままに……わかりました。
+story/data/02/0005/storytimeline_020005061/4.wav|はい……！
+story/data/02/0005/storytimeline_020005061/22.wav|そんな、別に楽しそうに話してなんかないわ……ふふっ。
+story/data/02/0005/storytimeline_020005061/33.wav|以前よりも勝ちにくい走りではあるはずなのに、 目の前に広がる“景色”がとても綺麗で……。
+story/data/02/0005/storytimeline_020005061/16.wav|……だ、大丈夫……です。 ペースもぐちゃぐちゃ……タイムもボロボロ……でも……。
+story/data/02/0005/storytimeline_020005061/26.wav|楽しみにしてるわ、エアグルーヴとのレース。
+story/data/02/0005/storytimeline_020005061/10.wav|……ふっ！！
+story/data/02/0005/storytimeline_020005061/9.wav|…………。
+story/data/02/0005/storytimeline_020005061/31.wav|できれば最後まで先頭でいたかったですけど、 結果は6着でした。
+story/data/02/0005/storytimeline_020005061/15.wav|はぁっ……はぁっ……ふぅ～……。
+story/data/02/0005/storytimeline_020005061/1.wav|勝手を言ってしまい申し訳ありません。 これまで担当していただいたこと、本当に感謝しています。
+story/data/02/0005/storytimeline_020005061/18.wav|……はい！
+story/data/02/0005/storytimeline_020005061/34.wav|“景色”を掴み取る私を……。
+story/data/02/0005/storytimeline_020005061/23.wav|常識を無視した走り――それなのになぜか、見たい“景色”が 前よりもハッキリと見える気がするの。
+story/data/02/0005/storytimeline_020005061/37.wav|必ず、トレーナーさんが見たい“景色”を見せてみせます。
+story/data/02/0005/storytimeline_020005061/13.wav|はっ……はっ……はっ……はっ……！
+story/data/02/0006/storytimeline_020006211/36.wav|ふふっ、スペちゃんのレース、直接見たくて。
+story/data/02/0006/storytimeline_020006211/33.wav|……よかった、間に合ったみたいで。
+story/data/02/0006/storytimeline_020006211/42.wav|そんな中でも、堂々と走るスペちゃんを見せてね。 それがチームみんなの夢だから。
+story/data/02/0006/storytimeline_020006211/41.wav|スペちゃん、今日のこのレースには 世界中で名前を聞くようなウマ娘が集まっているわ。
+story/data/02/0006/storytimeline_020006213/21.wav|いつも全力で期待に応えてくれる……そんなスペちゃんを見ると、 私も早く次のレースを走りたくなるわ。
+story/data/02/0006/storytimeline_020006221/45.wav|ええ、これまで紡いできた＜シリウス＞のタスキを、 次に繋げるような最高のレースをしてくれるように……。
+story/data/02/0006/storytimeline_020006231/9.wav|北海道から飛び出してきて、学園までの道を間違えてしまう 放っておけない子だったはずなのにって……。
+story/data/02/0006/storytimeline_020006231/5.wav|ふふっ、でも盛り上がりたい気持ちもわかるかも。
+story/data/02/0006/storytimeline_020006231/8.wav|いまだに不思議な感覚になるんです――
+story/data/02/0006/storytimeline_020006231/17.wav|ふふっ……。
+story/data/02/0006/storytimeline_020006231/6.wav|讃えられる時はいつも、スタンドからの大歓声だもの。
+story/data/02/0006/storytimeline_020006232/3.wav|むしろ何もしない方が集まるような……。
+story/data/02/0006/storytimeline_020006191/13.wav|『トレーナーとして失格だけど、勝敗は忘れて好きに走れ』……。 その言葉にすごく救われたことを覚えています。
+story/data/02/0006/storytimeline_020006191/7.wav|すみません、こんな夜遅くに……。
+story/data/02/0006/storytimeline_020006191/6.wav|『もしもし、トレーナーさん……？』
+story/data/02/0006/storytimeline_020006191/14.wav|だから、迷う前にトレーナーさんの素直な言葉を スぺちゃんにかけてあげてください。
+story/data/02/0006/storytimeline_020006191/19.wav|『あの……トレーナーさん……？』
+story/data/02/0006/storytimeline_020006191/10.wav|『あんなにも迷いながら走っているスペちゃん、初めて見ました』
+story/data/02/0006/storytimeline_020006191/11.wav|……私も、これまでたくさん迷うことがありました。 思うように走れない時、期待通りの結果を出せない時……。
+story/data/02/0006/storytimeline_020006191/20.wav|『……はい、スペちゃんをお願いします』
+story/data/02/0006/storytimeline_020006191/9.wav|それで、あの……スペちゃんのレース、見ました。
+story/data/02/0006/storytimeline_020006191/8.wav|あっ……時差があるんでした。 なかなか慣れませんね。
+story/data/02/0006/storytimeline_020006191/15.wav|トレーナーさんが何よりも私たちのことを考えてくれている。 それは私たちが1番知っていることですから。
+story/data/02/0006/storytimeline_020006191/12.wav|けれど、いつだってトレーナーさんのまっすぐな言葉が私を支え、 後押ししてくれました。
+story/data/02/0006/storytimeline_020006191/18.wav|『……え？』
+story/data/02/0006/storytimeline_020006091/29.wav|支え、夢を掴ませる……。
+story/data/02/0006/storytimeline_020006091/25.wav|……あの、トレーナーさん……。
+story/data/02/0006/storytimeline_020006091/37.wav|はっ……はっ……はっ……はっ……。
+story/data/02/0006/storytimeline_020006091/31.wav|……ええ、そうね。
+story/data/02/0006/storytimeline_020006091/21.wav|はい、昨日の晩に。 とても驚かれましたけど……。
+story/data/02/0006/storytimeline_020006091/26.wav|…………。
+story/data/02/0006/storytimeline_020006091/20.wav|スペちゃん……。
+story/data/02/0006/storytimeline_020006091/32.wav|私もたくさんの“景色”を見てくるわ。
+story/data/02/0006/storytimeline_020006091/24.wav|…………。
+story/data/02/0006/storytimeline_020006101/26.wav|はい、よろしくお願いします。
+story/data/02/0006/storytimeline_020006101/28.wav|スペちゃん……？
+story/data/02/0006/storytimeline_020006101/30.wav|…………。
+story/data/02/0005/storytimeline_020005133/20.wav|それじゃあみんな、話の続きはまたあとで。
+story/data/02/0005/storytimeline_020005133/0.wav|…………。
+story/data/02/0005/storytimeline_020005133/26.wav|ありがとうございます。 みなさんの応援が、私の背中を押してくれました。
+story/data/02/0005/storytimeline_020005133/19.wav|ふふっ……はい、戻りました。
+story/data/02/0005/storytimeline_020005133/15.wav|……？
+story/data/02/0005/storytimeline_020005133/4.wav|ありがとう、スペちゃん。
+story/data/02/0005/storytimeline_020005133/10.wav|タキオン……？
+story/data/02/0005/storytimeline_020005133/27.wav|これからも私は、もっとたくさんの“景色”を見るために 走り続けます……そして――
+story/data/02/0005/storytimeline_020005133/16.wav|はい、そうですね。
+story/data/02/0005/storytimeline_020005133/2.wav|……ふふっ！
+story/data/02/0005/storytimeline_020005133/13.wav|研究材料って……え？　研究……？
+story/data/02/0005/storytimeline_020005133/17.wav|……みんな、応援ありがとう。 走っている時、みんなの声が聞こえたわ。
+story/data/02/0005/storytimeline_020005133/28.wav|みなさんにも、私が走る“景色”を見せ続けます……！
+story/data/02/0005/storytimeline_020005133/18.wav|それから、トレーナーさんの声も。
+story/data/09/0001/storytimeline_090001002/3.wav|あ……おはようございます。
+story/data/09/0001/storytimeline_090001002/30.wav|えっ？　うん、もう全然……平気よ。 トレーニングだって始めてるんだから。
+story/data/09/0001/storytimeline_090001002/32.wav|ん……えっと、それはまだ――
+story/data/09/0001/storytimeline_090001002/43.wav|あ、ご、ごめんなさい……あんまり素直な音だったから、 なんだか……ふふふっ、あははは……！
+story/data/09/0001/storytimeline_090001002/41.wav|ふ………… ふふっ、あははは……！
+story/data/09/0001/storytimeline_090001002/44.wav|はー……えっと。 ……まず、食べましょうか、ご飯。
+story/data/09/0001/storytimeline_090001002/8.wav|いえ……寮長のフジ先輩から同室の子だって聞けたので、 帰るついでに運ぶだけだった、というか……。
+story/data/09/0001/storytimeline_090001002/22.wav|あの、スぺシャルウィークさん……大丈夫です。 彼女、そんなに怖くないですから。……雰囲気よりは。
+story/data/09/0001/storytimeline_090001002/40.wav|………………。
+story/data/09/0001/storytimeline_090001002/38.wav|……あっ。
+story/data/09/0001/storytimeline_090001002/34.wav|……ごめんね、私、スペシャルウィークさんのところへ行くわ。
+story/data/09/0001/storytimeline_090001002/36.wav|えっとじゃあ、案内を……。ここが食堂です。 今日みたいな休日も含めて毎日、朝食と夕食が提供されて――
+story/data/09/0001/storytimeline_090001002/14.wav|ええ、まあ……寮は『栗東』と『美浦』の2つがあって、 それぞれいくつかの棟に分かれてますけど――
+story/data/09/0001/storytimeline_090001002/15.wav|それでも、生徒数が本当に多いので。 このくらいの広さがないと、ぎゅうぎゅうになっちゃうかと……。
+story/data/09/0001/storytimeline_090001002/28.wav|あ、うん……わかったわ。
+story/data/09/0001/storytimeline_090001002/11.wav|あの……大丈夫ですか？
+story/data/09/0001/storytimeline_090001005/38.wav|……少し、考えてしまっていただけ。
+story/data/09/0001/storytimeline_090001005/14.wav|えっと、そう遠くへ行くつもりはなくって…… 今から出れば、門限にはちゃんと間に合うはずだし……。
+story/data/09/0001/storytimeline_090001005/16.wav|……いいの？
+story/data/09/0001/storytimeline_090001005/24.wav|それは、そうなのだけれど…… とっても辛かったのよ、走れないのって。
+story/data/09/0001/storytimeline_090001005/12.wav|……？ あ、いけない、もう出ないと……。
+story/data/09/0001/storytimeline_090001005/18.wav|……ありがとう。
+story/data/09/0001/storytimeline_090001005/44.wav|（……走るのが好き。ずっと1人で走ってきた。 走って、走って、その先でたどり着ける静かな景色を求めて――）
+story/data/09/0001/storytimeline_090001005/10.wav|スペシャルウィークさん……？　あの、何か？
+story/data/09/0001/storytimeline_090001005/45.wav|（でも……それは、1人で走っているだけでも、 叶えられるものなんじゃないの？）
+story/data/09/0001/storytimeline_090001005/31.wav|……と、とにかくね？ 大変だったのよ、この期間。
+story/data/09/0001/storytimeline_090001005/42.wav|意味……？　それって――
+story/data/09/0001/storytimeline_090001005/27.wav|走る夢ばかり見るから、多分寝ている間に脚を動かしてて、 毎朝起きるたびに足元でお布団がくちゃくちゃになってたし……。
+story/data/09/0001/storytimeline_090001005/19.wav|（街灯りがゆらゆらしてる……。 昼間はもう暑いぐらいだけど、夜はまだまだ風が涼しいわ……）
+story/data/09/0001/storytimeline_090001005/1.wav|あ……お帰りなさい、スペシャルウィークさん。
+story/data/09/0001/storytimeline_090001005/20.wav|（……気持ちいい、本当に）
+story/data/09/0001/storytimeline_090001005/36.wav|はぁっ……ふぅ。
+story/data/09/0001/storytimeline_090001005/35.wav|……あ、少し休み過ぎたわね。 門限までに戻れなくなっちゃう。行きましょう、エアグルーヴ？
+story/data/09/0001/storytimeline_090001005/29.wav|ぼんやりしてて授業中に指された時、 立ち上がって『はい、走ってきます』って言っちゃったし……！
+story/data/09/0001/storytimeline_090001005/22.wav|平気よ。もともと、軽くひねっただけっていう診断だったから。 しばらく走っちゃダメ、なんて措置が大げさなくらい……。
+story/data/09/0001/storytimeline_090001005/46.wav|（じゃあ、私……どうしてこの学園で、レースに……？）
+story/data/09/0001/storytimeline_090001005/4.wav|ええ……日課なので。
+story/data/09/0001/storytimeline_090001005/25.wav|走っている子たちを見ると羨ましくって、 気づいたらいつまでも眺めてしまっていたし……。
+story/data/09/0001/storytimeline_090001005/33.wav|……おかしな話よね。走りたくてこの学園に来て、走りたくて レースに出ているのに――そのせいで、走れなくなるなんて。
+story/data/09/0001/storytimeline_090001005/40.wav|………………。
+story/data/09/0001/storytimeline_090001006/7.wav|えっ？　あ、はい……なんでしょうか？
+story/data/09/0001/storytimeline_090001006/14.wav|あ、えぇと――すみません。 少し、考える時間をください……。
+story/data/09/0001/storytimeline_090001006/10.wav|模擬レースへの出走、ですか……。 えっと、そうですね、走れるのなら私は――
+story/data/09/0001/storytimeline_090001006/12.wav|……おかしな話よね。走りたくてこの学園に来て、走りたくて レースに出ているのに――そのせいで、走れなくなるなんて。
+story/data/09/0001/storytimeline_090001006/11.wav|あ…………。
+story/data/09/0001/storytimeline_090001006/19.wav|（走りたい気持ちはあるけれど…… でも、模擬レースに出てまたケガでもしたら――）
+story/data/09/0001/storytimeline_090001006/5.wav|（スペシャルウィークさん……お腹でも痛いのかしら……？）
+story/data/09/0001/storytimeline_090001006/1.wav|あれ、スペシャルウィークさん…… 今日はもうおかわりしないんですか？
+story/data/09/0001/storytimeline_090001006/16.wav|それじゃ……おやすみなさい、スペシャルウィークさん。
+story/data/09/0001/storytimeline_090001001/46.wav|きゃっ！？　え……スペシャルウィークさん！？
+story/data/09/0001/storytimeline_090001001/31.wav|そうなんですか……えっと、よろしくお願いします。 私、サイレンススズカです。
+story/data/09/0001/storytimeline_090001001/26.wav|…………えっと。
+story/data/09/0001/storytimeline_090001001/29.wav|え、ええ。でも、その制服……あなたも、ですよね？
+story/data/09/0001/storytimeline_090001001/23.wav|えっ……？　え、ええ……。 あの、何か……？
+story/data/09/0001/storytimeline_090001001/48.wav|スペシャルウィークさーんっ……！？ あのっ、目を、目を開けてくださーいっ……！
+story/data/09/0001/storytimeline_090001001/40.wav|そう、でしたか……？
+story/data/09/0001/storytimeline_090001001/20.wav|……？
+story/data/09/0001/storytimeline_090001001/41.wav|あ、ところで……着きました。 ここが、トレセン学園です。
+story/data/09/0001/storytimeline_090001001/33.wav|はい……？
+story/data/09/0001/storytimeline_090001001/35.wav|はっ、はっ……ふぅ。 スペシャルウィーク、さん。あの、大丈夫ですか？
+story/data/09/0001/storytimeline_090001008/22.wav|……はぁっ！！
+story/data/09/0001/storytimeline_090001008/40.wav|これが……先頭の、景色……！
+story/data/09/0001/storytimeline_090001008/25.wav|でも――でも、私だって……譲らない！
+story/data/09/0001/storytimeline_090001008/4.wav|はいっ……、え？
+story/data/09/0001/storytimeline_090001008/38.wav|はぁっ、はぁっ、はぁっ……。
+story/data/09/0001/storytimeline_090001008/35.wav|あ……いえ。 ただ……いい景色だなぁ、って。
+story/data/09/0001/storytimeline_090001008/0.wav|あ、もうこんな時間…… スペシャルウィークさん。私、そろそろ――
+story/data/09/0001/storytimeline_090001008/12.wav|はっ、はっ、はっ……。
+story/data/09/0001/storytimeline_090001008/28.wav|はっ、はっ、はっ、はっ――
+story/data/09/0001/storytimeline_090001008/24.wav|（っ……！　この子……食らいついてくる！ 少しでも気を抜いたら、捲られそう……！）
+story/data/09/0001/storytimeline_090001008/2.wav|はいっ！？
+story/data/09/0001/storytimeline_090001008/41.wav|（思い出させてくれたんだわ……この子が）
+story/data/09/0001/storytimeline_090001008/33.wav|………………。
+story/data/09/0001/storytimeline_090001008/13.wav|（……自分だけの、コース。 誰もいない視界、静かな足音……私の、大好きなものたち……）
+story/data/09/0001/storytimeline_090001008/20.wav|あ……！　うそ、前に――
+story/data/09/0001/storytimeline_090001008/39.wav|（全力で競って、譲らないって限界まで脚を使った、その先――）
+story/data/09/0001/storytimeline_090001008/29.wav|ふふっ……！！
+story/data/09/0001/storytimeline_090001008/32.wav|ふぅ……ええ、そうですね。 いっぱいレース、しちゃいました――
+story/data/09/0001/storytimeline_090001008/15.wav|（どうしてレースに……私――）
+story/data/09/0001/storytimeline_090001008/14.wav|（じゃあ、これだけでいいのかな？ 1人で、走っているだけで……）
+story/data/09/0001/storytimeline_090001008/21.wav|（……ダメ。先頭は、私の……！！）
+story/data/09/0001/storytimeline_090001008/43.wav|……あの。
+story/data/09/0001/storytimeline_090001008/17.wav|っ……！？
+story/data/09/0001/storytimeline_090001008/9.wav|あ、え、ええ……。
+story/data/09/0001/storytimeline_090001008/36.wav|（……バカね、私、何を迷っていたのかしら）
+story/data/09/0001/storytimeline_090001008/45.wav|その……ね。 …………『スぺちゃん』って、呼んでもいい？
+story/data/09/0001/storytimeline_090001008/7.wav|レース……。 ………………。
+story/data/09/0028/storytimeline_090028001/17.wav|…………。
+story/data/09/0028/storytimeline_090028001/43.wav|…………。
+story/data/09/0028/storytimeline_090028001/0.wav|（初夏が過ぎて、セミが鳴き、朝の風がもっと暖かくなった頃。 ――私たちの夏合宿は、そんな空気のさなかに、始まる）
+story/data/09/0028/storytimeline_090028001/28.wav|…………。
+story/data/09/0028/storytimeline_090028001/29.wav|（こうして、夏合宿は幕を開けたのだけれど――）
+story/data/09/0028/storytimeline_090028002/10.wav|……！　そ、その……今から走りに行こうかな……って。
+story/data/09/0028/storytimeline_090028002/32.wav|あら、エアグルーヴ？
+story/data/09/0028/storytimeline_090028002/35.wav|ご、ごめんなさい……！ 私ったら、すっかり……。
+story/data/09/0028/storytimeline_090028002/27.wav|……すー、はー……。うん、いい空気。 よし……っ！
+story/data/09/0028/storytimeline_090028002/38.wav|エアグルーヴ……。 その、ありがとう……ごめんなさい。
+story/data/09/0028/storytimeline_090028002/12.wav|そう、よね……。
+story/data/09/0028/storytimeline_090028002/6.wav|（寮生活なら――……）
+story/data/09/0028/storytimeline_090028002/8.wav|…………。
+story/data/09/0028/storytimeline_090028002/0.wav|（夏合宿が始まって、まだまだ3日目……）
+story/data/09/0028/storytimeline_090028002/31.wav|（……ふふっ、うん、この感じ……。 スッキリして、でも満たされてもいて……）
+story/data/09/0028/storytimeline_090028002/28.wav|（ああ、やっぱり心地いい！ 走れば走るほど、景色がキラキラ輝いて――！）
+story/data/09/0028/storytimeline_090028002/7.wav|（……思い切り、走りたい。全然、足りていない）
+story/data/09/0028/storytimeline_090028002/30.wav|はぁっ、はぁっ、はぁ……、はー……。
+story/data/09/0028/storytimeline_090028002/34.wav|………………。 ――あっ！　配膳当番……っ！
+story/data/09/0028/storytimeline_090028002/17.wav|あ……ごめんなさい。 明日は早く起きたいから、私は遠慮するわ。
+story/data/09/0028/storytimeline_090028002/29.wav|（脚が勝手に前へ前へ進んでいくみたい！ どこまででも、どこまででも行けてしまいそう！　ふふっ！）
+story/data/09/0028/storytimeline_090028002/4.wav|（普段なら、朝のランニングから帰ってきて、 シャワーを浴びている頃で――）
+story/data/09/0028/storytimeline_090028002/2.wav|（みんなで朝の体操。 ……普段なら、今頃は学園の周りを走っている時間で――）
+story/data/09/0028/storytimeline_090028002/15.wav|……！　ありがとう、エアグルーヴ。
+story/data/09/0028/storytimeline_090028003/39.wav|みんなは優しいし、面白い。 慣れれば集団行動もそんなに窮屈じゃないし、景色も綺麗ね。
+story/data/09/0028/storytimeline_090028003/17.wav|（早朝から寝る前まで、 いつもより大人数が過ごす、大部屋での集団生活は――）
+story/data/09/0028/storytimeline_090028003/20.wav|（毎日が、どうしても窮屈に感じられてしまって――）
+story/data/09/0028/storytimeline_090028003/6.wav|（結局、やることになっちゃった）
+story/data/09/0028/storytimeline_090028003/43.wav|それじゃあ、その……そろそろ配膳当番の時間だから行ってくるわ。 ごめんね、エアグルーヴ。
+story/data/09/0028/storytimeline_090028003/41.wav|でも。
+story/data/09/0028/storytimeline_090028003/0.wav|私が、レクリエーション係に？ それは、ええっと……上手くできるかしら。
+story/data/09/0028/storytimeline_090028003/38.wav|そうね。夏合宿って……窮屈なだけじゃ、ない。 それは少しわかった気がするわ。
+story/data/09/0028/storytimeline_090028003/9.wav|（そうしてその日から、 みんなとの合宿を意識するようにしたのだけれど――）
+story/data/09/0028/storytimeline_090028003/42.wav|でもやっぱり――1人の時間が恋しいと思ってしまうの。 ……ごめんなさい、きっと私、わがままなのよね。
+story/data/09/0028/storytimeline_090028003/4.wav|向き合う……？
+story/data/09/0028/storytimeline_090028003/29.wav|ええっと、それじゃ……、位置について、よーい――
+story/data/09/0028/storytimeline_090028003/8.wav|（それでも勧めてくるのは、 その先に何かがあるから……なのよね、きっと……）
+story/data/09/0028/storytimeline_090028003/15.wav|（よかった……レクリエーション係が そんなに時間の取られるものじゃなくて）
+story/data/09/0028/storytimeline_090028003/23.wav|（けれど――）
+story/data/09/0028/storytimeline_090028003/16.wav|（……って、また1人の時間を確保すること考えちゃった……。 集団生活に向き合ってみてって、言われてるのに）
+story/data/09/0028/storytimeline_090028003/7.wav|（自由な時間を取れなくて、憂鬱で…… そのことはエアグルーヴだって、もうわかってくれているはず……）
+story/data/09/0028/storytimeline_090028003/25.wav|えっと、……そうね。 その、もう少し……みんなと、喋ってみようかなって……。
+story/data/09/0028/storytimeline_090028004/53.wav|え、え？　いつからいたの……！？
+story/data/09/0028/storytimeline_090028004/29.wav|標的……遠慮……？　え、なんのこと？
+story/data/09/0028/storytimeline_090028004/31.wav|！？
+story/data/09/0028/storytimeline_090028004/24.wav|（ポッケが言っていた場所、ここで合ってるかしら？）
+story/data/09/0028/storytimeline_090028004/25.wav|それにしても……いい天気……。 こんな天気の下で思い切り走ったらとても気持ちよさそう……。
+story/data/09/0028/storytimeline_090028004/50.wav|え？
+story/data/09/0028/storytimeline_090028004/39.wav|ちょ、ちょっと待って……！ 私、何が起こってるのか……どういうこと？
+story/data/09/0028/storytimeline_090028004/43.wav|……スピード勝負、なのね。それなら……！！
+story/data/09/0028/storytimeline_090028004/41.wav|スピード……。
+story/data/09/0028/storytimeline_090028004/35.wav|あ、ありがとう……じゃなくて！　どうして急に……！ そもそも私、水鉄砲なんて小さい時に遊んだくらいで――
+story/data/09/0028/storytimeline_090028004/27.wav|ポッケ……と、 その後ろにいるみんなは……？
+story/data/09/0028/storytimeline_090028004/48.wav|ふふっ、ほら、理由を教えて？
+story/data/09/0028/storytimeline_090028004/45.wav|はぁ、はぁ、はぁっ！ く……っ、もう少しで……届く！　――えいっ！
+story/data/09/0028/storytimeline_090028005/2.wav|本当にやるの？ その、タキオンはともかく、エアグルーヴとカフェも……？
+story/data/09/0028/storytimeline_090028005/18.wav|えっ。
+story/data/09/0028/storytimeline_090028005/4.wav|（……そうして、走り回って撃ち合って、全員ずぶ濡れになって、 空が茜色に染まっていたことに、誰も気づかないくらいで――）
+story/data/09/0028/storytimeline_090028005/30.wav|不思議と、あの時のことはなんだか、しばらく忘れなそうなの。
+story/data/09/0028/storytimeline_090028005/14.wav|え……えーーーいっ！！
+story/data/09/0028/storytimeline_090028005/12.wav|……ええ、海に沈めるのね……！
+story/data/09/0028/storytimeline_090028005/20.wav|……ふふっ、私も、あんなことするなんて……。
+story/data/09/0028/storytimeline_090028005/21.wav|……あんなに思いきっちゃったの、久しぶりだわ。 ……楽しかった。
+story/data/09/0028/storytimeline_090028005/32.wav|……？　ええ。
+story/data/09/0028/storytimeline_090028005/29.wav|（赤い夕陽に、白い飛沫、みんなのはしゃいだ声。 少しだけ肌寒い浜辺で食べた、冷たくて甘い味――）
+story/data/09/0028/storytimeline_090028005/9.wav|（みんなが、こんなにはしゃぐなんて…… でも、だったら、私も……もう少しだけ――）
+story/data/09/0028/storytimeline_090028005/28.wav|そうね、初めはみんなの様子に驚いたけど…… 気づけば私も夢中になっちゃって。それに――
+story/data/09/0028/storytimeline_090028005/16.wav|……あ、あの、ごめんなさいエアグルーヴ。 海にタックルなんか……。少し、勢い余っちゃったっていうか……。
+story/data/09/0028/storytimeline_090028006/28.wav|（でも、いつからかしら。その気持ちは和らいでいて…… 今日の夕方は、本当に楽しくて）
+story/data/09/0028/storytimeline_090028006/39.wav|その、もう少し特別なもののほうが、いいのかなって……、 思うんですけど……。
+story/data/09/0028/storytimeline_090028006/47.wav|ええ。 みんなは、どんな企画であれば嬉しいのかしら？
+story/data/09/0028/storytimeline_090028006/13.wav|……そんなことが……。
+story/data/09/0028/storytimeline_090028006/54.wav|あっ！
+story/data/09/0028/storytimeline_090028006/27.wav|（……夏合宿が、嫌だった。窮屈で、煩わしくって――）
+story/data/09/0028/storytimeline_090028006/29.wav|（それは、その理由は……――）
+story/data/09/0028/storytimeline_090028006/26.wav|……――
+story/data/09/0028/storytimeline_090028006/36.wav|（いつか、私の背中を押してくれるもの、なのかしら）
+story/data/09/0028/storytimeline_090028006/42.wav|せっかくの、夏合宿ですし。
+story/data/09/0028/storytimeline_090028006/19.wav|…………。
+story/data/09/0028/storytimeline_090028006/52.wav|ありがとう。でも、どれも悪くはないけど、バラバラね……。 全員が楽しめるものなんて――
+story/data/09/0028/storytimeline_090028006/53.wav|――
+story/data/09/0028/storytimeline_090028006/38.wav|……っ、あ、あの……！
+story/data/09/0028/storytimeline_090028006/34.wav|（“ある少しだけ特別な出来事”）
+story/data/09/0028/storytimeline_090028006/41.wav|もっと、こう……みんなの記憶に、心の底に残るような そんなレクリエーションのほうが、いいような気がするんです。
+story/data/09/0028/storytimeline_090028006/35.wav|（それが……今、なのかしら。 この景色は……いつか思い出す大切なもの、なのかしら）
+story/data/09/0028/storytimeline_090028006/45.wav|そ、そのほうが、みんなにとっていいように思えたの。 でも……一体何をすればいいのかわからなくって。
+story/data/09/0028/storytimeline_090028006/23.wav|（見ていなければ通り過ぎる、もの。 ……そういえばあの時、エアグルーヴは――）
+story/data/09/0028/storytimeline_090028007/28.wav|はっ、はっ、はっ、はっ！ ――……ふっ！
+story/data/09/0028/storytimeline_090028007/1.wav|各々、ゲームをしたり、お喋りをしたり、食事をしたり、 それぞれ自由に過ごせるパーティーで……。
+story/data/09/0028/storytimeline_090028007/36.wav|……ふふ、早く帰らなきゃ。
+story/data/09/0028/storytimeline_090028007/19.wav|水着……！　そうね、それなら海にも入りやすいし……。 うん、ありがとうタキオン。提案してみるわ！
+story/data/09/0028/storytimeline_090028007/30.wav|（――準備に漏れはない、わよね。水着は届いたし、装飾品は 予定数完成したし、シフト表も作ったし……うん。大丈夫）
+story/data/09/0028/storytimeline_090028007/27.wav|（そうして、1日1日が風のように過ぎていって――）
+story/data/09/0028/storytimeline_090028007/31.wav|……。 ……綺麗な景色。
+story/data/09/0028/storytimeline_090028007/13.wav|（そうして、次の日。 簡単な企画書を作って委員会に提出すると――）
+story/data/09/0028/storytimeline_090028007/11.wav|間に合わせるなら、こんな感じ…… うぅん、でもパーティーならもっとこう……。
+story/data/09/0028/storytimeline_090028007/10.wav|……――
+story/data/09/0028/storytimeline_090028007/26.wav|それなら……ドリンクの提供は生徒がするのはどうかしら。 希望者を募って、シフト制で担当する……とか？
+story/data/09/0028/storytimeline_090028007/6.wav|ビーチパーティー……！
+story/data/09/0028/storytimeline_090028007/2.wav|あの時みたいに、食事――BBQをしながら、みんなが それぞれ自由に好きな遊びができれば、いいんじゃないかしら？
+story/data/09/0028/storytimeline_090028007/34.wav|（……。みんなにとって、忘れられない日になるかしら）
+story/data/09/0028/storytimeline_090028007/16.wav|（こうして、新たな取り組みに火のついた私たちは、 ビーチパーティーに向けて着々と準備を進めていった――）
+story/data/09/0028/storytimeline_090028007/7.wav|うん、すごくよさそう……！ ありがとう。もう少し練って、次の委員会で提案してみるわ！
+story/data/09/0028/storytimeline_090028007/17.wav|フジ先輩からドレスコードは一体感が出るってアドバイスを もらったの。でも、いい衣装が思い浮かばなくって……。
+story/data/09/0028/storytimeline_090028007/29.wav|（…………。 ……ついに、明日はビーチパーティー）
+story/data/09/0028/storytimeline_090028007/12.wav|みんなにとって特別で…… 忘れられなくなるようなものにするなら……。
+story/data/09/0028/storytimeline_090028007/35.wav|（……私に、とっても）
+story/data/09/0028/storytimeline_090028007/23.wav|す、すごい……。 この人数を、あっという間にまとめ上げて……。
+story/data/09/0028/storytimeline_090028007/14.wav|『BBQ実行委員会と合同で、みんなでビーチパーティー』に 決定したわ。みんな、意見をたくさんくれてありがとう……！
+story/data/09/0028/storytimeline_090028007/0.wav|あの……！ 前に栗東寮で、パーティーをしたことがあったの。
+story/data/09/0028/storytimeline_090028008/22.wav|『ねぇ、エアグルーヴ。変な話、してもいいかしら？』
+story/data/09/0028/storytimeline_090028008/14.wav|『その……走ると、周りが見えなくなってしまって。 ……ごめんなさい』
+story/data/09/0028/storytimeline_090028008/47.wav|（……昨日の景色がまだ、脳裏に焼きついている。 ……太陽に包まれた、青くて騒がしい、あの景色は――）
+story/data/09/0028/storytimeline_090028008/25.wav|『でも、それでも…… あれを見ると、“おかえりなさい”と言われている気がするの』
+story/data/09/0028/storytimeline_090028008/29.wav|そう、だったのね。
+story/data/09/0028/storytimeline_090028008/46.wav|…………。
+story/data/09/0028/storytimeline_090028008/17.wav|『う、うそでしょ……』
+story/data/09/0028/storytimeline_090028008/24.wav|『――夜に帰ってくると、ああして寮の窓が光っているでしょう。 ……わかっているのよ、ただ電気がついているだけだって』
+story/data/09/0028/storytimeline_090028008/36.wav|……ふふ、ううん。ありがとう。
+story/data/09/0028/storytimeline_090028008/42.wav|さっきまでの元気がうそみたい……。 昨日の疲れ、残っていたのかしら……。
+story/data/09/0028/storytimeline_090028008/48.wav|（きっと、きっと。忘れずにいられるわ……）
+story/data/09/0028/storytimeline_090028008/11.wav|そう？
+story/data/09/0028/storytimeline_090028008/37.wav|私なんだか、今の言葉を、ずっとずっと忘れられない気がするわ。
+story/data/09/0028/storytimeline_090028008/38.wav|（そうしてそれから、エアグルーヴと一緒に食事をして、 ポッケたちとビーチバレーをして――）
+story/data/09/0028/storytimeline_090028008/9.wav|そうね、参加してみようかしら。
+story/data/09/0028/storytimeline_090028008/6.wav|エアグルーヴ。
+story/data/09/0028/storytimeline_090028008/27.wav|『それが……くすぐったくて、なんだか、嬉しいの。 ……ふふ、私、変よね』
+story/data/09/0028/storytimeline_090028008/32.wav|エアグルーヴの？
+story/data/09/0028/storytimeline_090028008/26.wav|『……“おかえりなさい”、“お疲れ様”。 それから、“明日もまた、いってらっしゃい”って』
+story/data/09/0028/storytimeline_090028008/30.wav|……エアグルーヴって、いつも陰で気にかけてくれているわよね。 ありがとう。私のために、そんなに――
+story/data/09/0028/storytimeline_090028008/39.wav|（ビーチで笑う友だちの姿を見ているうちに、 あっという間に日は暮れてしまったの）
+story/data/10/0000/storytimeline_100000007/16.wav|できるわ、スぺちゃんなら。……思い出して。
+story/data/10/0000/storytimeline_100000007/7.wav|……スぺちゃん、本番はまだよ？ その……だいぶ、緊張してる？
+story/data/10/0000/storytimeline_100000007/17.wav|私たち、毎日毎日、どんな日だって…… ひたすら前にだけ、走ってきたでしょう？
+story/data/10/0000/storytimeline_100000008/15.wav|えぇと……とりあえず…… ご飯、取りに行きましょうか？　スぺちゃん。
+story/data/10/0000/storytimeline_100000008/4.wav|……そうね。 ……またいつか、一緒に見たいわね。
+story/data/10/0000/storytimeline_100000008/1.wav|スぺちゃん……？　まだ着替えていなかったの？ ……ファスナー、引っ掛かっちゃった？　下ろしましょうか？
+story/data/10/0001/storytimeline_100001002/1.wav|………………あ、いけない。 えっと――ふ、フクキタルー？　……みんなー？
+story/data/10/0001/storytimeline_100001002/8.wav|…………もう？
+story/data/10/0001/storytimeline_100001002/7.wav|え、もう？　そう……。
+story/data/10/0001/storytimeline_100001002/4.wav|それは困るわ……エアグルーヴがね、あと2回同じ理由で 遅刻したら、早朝ランニングを禁じることも考えるって言うの……。
+story/data/10/0001/storytimeline_100001002/0.wav|はっ、はっ……ふぅ。
+story/data/04/1002/storytimeline_041002001/20.wav|まだ速く……？　本当ですか？
+story/data/04/1002/storytimeline_041002001/10.wav|はっ……はっ……はっ……！！
+story/data/04/1002/storytimeline_041002001/6.wav|あの……私に何か……？
+story/data/04/1002/storytimeline_041002001/33.wav|ん……うん、ちょっとね。
+story/data/04/1002/storytimeline_041002001/4.wav|……ふふっ。この景色全部、ひとり占めね。
+story/data/04/1002/storytimeline_041002001/14.wav|先頭は譲らない……誰にもっ！！
+story/data/04/1002/storytimeline_041002001/37.wav|大丈夫。きっと、もっといい景色が見られるはず……。
+story/data/04/1002/storytimeline_041002001/3.wav|そういえば、今日はちょっとだけ星が明るいかしら……？
+story/data/04/1002/storytimeline_041002001/34.wav|それより、今の話を忘れないうちに少し走って来るわ。 また後でね、エアグルーヴ。
+story/data/04/1002/storytimeline_041002001/30.wav|ありがとう、エアグルーヴ。 丁寧に教えてくれて、助かったわ。
+story/data/04/1002/storytimeline_041002001/7.wav|は、はぁ……そうですか。
+story/data/04/1002/storytimeline_041002001/18.wav|え？　あっ……えっと、はい。
+story/data/04/1002/storytimeline_041002001/36.wav|“セオリー”……つまり、“正しい”ってこと……なのよね。 うん、大丈夫……教えてもらった通りに走れば……。
+story/data/04/1002/storytimeline_041002001/5.wav|……あら？
+story/data/04/1002/storytimeline_041002001/2.wav|ふぅっ……！！ うん……夜に走ると、静かでいいわね……。
+story/data/04/1002/storytimeline_041002001/24.wav|……わかりました。スカウト、お受けします。
+story/data/04/1002/storytimeline_041002001/0.wav|はっ、はっ、はっ……！！
+story/data/04/1002/storytimeline_041002001/27.wav|速度を出すためのエネルギーを使い果たさないように、 序盤はスピードを抑えて温存しておく、ということよね……。
+story/data/04/1002/storytimeline_041002001/8.wav|えっと……すみません、失礼します。 私、もう少し走って行くので……。
+story/data/04/1002/storytimeline_041002001/16.wav|ふぅっ……。
+story/data/04/1002/storytimeline_041002001/29.wav|そういう走り方があるのは知っていたつもりだけど…… ちゃんとした理論が背景にあるのよね、やっぱり……。
+story/data/04/1002/storytimeline_041002001/23.wav|どんなレースでも、先頭を……！
+story/data/04/1002/storytimeline_041002001/1.wav|はっ……はぁっ……ふふっ……！！
+story/data/04/1002/storytimeline_041002002/8.wav|指導してもらった通り、最初は抑えて、終盤まで力を残して……。
+story/data/04/1002/storytimeline_041002002/25.wav|……すみません、わかりません。 自分でも……どうしてしまったのか……。
+story/data/04/1002/storytimeline_041002002/28.wav|えっ……！？
+story/data/04/1002/storytimeline_041002002/40.wav|今日は……もう帰ります。
+story/data/04/1002/storytimeline_041002002/29.wav|出走を取り消すって……わ、私に走るなと言うんですか！？
+story/data/04/1002/storytimeline_041002002/1.wav|えっと……デビュー戦を想定した走りの実践、です。
+story/data/04/1002/storytimeline_041002002/9.wav|うん……大丈夫。 正しいやり方なんだもの……きっと、勝てるわ。
+story/data/04/1002/storytimeline_041002002/34.wav|…………っ。
+story/data/04/1002/storytimeline_041002002/17.wav|あ……！！
+story/data/04/1002/storytimeline_041002002/37.wav|それから、って……いつ……？
+story/data/04/1002/storytimeline_041002002/10.wav|はっ……はっ……はっ……！！
+story/data/04/1002/storytimeline_041002002/24.wav|あ……ご、ごめんなさい。えっと……。
+story/data/04/1002/storytimeline_041002002/31.wav|待ってください、私は走れます！！ いえ、走りたいんです……！！
+story/data/04/1002/storytimeline_041002002/11.wav|ダメ……まだ、抑えてなくちゃ……！
+story/data/04/1002/storytimeline_041002002/15.wav|あ……あれ？ 脚に……うまく力が……！！
+story/data/04/1002/storytimeline_041002002/32.wav|レースで先頭を走るのが、私の――！！
+story/data/04/1002/storytimeline_041002002/18.wav|前が、見えない……。
+story/data/04/1002/storytimeline_041002002/19.wav|景色が……見えない…………。
+story/data/04/1002/storytimeline_041002002/6.wav|うん。……先頭は、譲らないから。
+story/data/04/1002/storytimeline_041002002/4.wav|……はい。
+story/data/04/1002/storytimeline_041002002/13.wav|う……くっ……。
+story/data/04/1002/storytimeline_041002002/22.wav|…………。
+story/data/04/1002/storytimeline_041002002/39.wav|……すみません、なんでもありません。
+story/data/04/1002/storytimeline_041002002/14.wav|最後の直線……！　今っ……！
+story/data/04/1002/storytimeline_041002003/15.wav|……いいんですか？
+story/data/04/1002/storytimeline_041002003/43.wav|私、担当トレーナーさんにお話ししようと思います。 『逃げない走り方はできません』って。
+story/data/04/1002/storytimeline_041002003/6.wav|……ずっと、走ってきたんです。ずっと。 走ることは、私にとってすべてだったから。
+story/data/04/1002/storytimeline_041002003/33.wav|……はい、スッキリしました。 頭が空っぽになるまで、思いっきり走ったから。
+story/data/04/1002/storytimeline_041002003/18.wav|それに、この道……どこへ続いているのかしら……？
+story/data/04/1002/storytimeline_041002003/14.wav|でも、学園の近くのそういう場所は、 だいたいランニングで通い慣れてしまって……。
+story/data/04/1002/storytimeline_041002003/22.wav|（まだ、ちょっと脚が重い……でも……）
+story/data/04/1002/storytimeline_041002003/19.wav|あ……。
+story/data/04/1002/storytimeline_041002003/0.wav|はぁっ……はぁ。……あっ！？
+story/data/04/1002/storytimeline_041002003/42.wav|もう1度、何度でもあそこに辿り着きたい。 この気持ちだけは……譲れない……！
+story/data/04/1002/storytimeline_041002003/24.wav|……うん。もう少し、走ろう。
+story/data/04/1002/storytimeline_041002003/27.wav|（そうだ。こうやって走って、走っていたら、そのうち――）
+story/data/04/1002/storytimeline_041002003/8.wav|もう走りたくないって、思うなんて。 こんなの……初めて……。
+story/data/04/1002/storytimeline_041002003/38.wav|だから……誰もいない場所まで行こうと思って、先頭に出たんです。
+story/data/04/1002/storytimeline_041002003/46.wav|い、いけませんか……？
+story/data/04/1002/storytimeline_041002003/39.wav|はい。誰もいない、絶対に追いつけない場所まで行こうって、 思いっきり走ったら……目の前がぱっと開けて。
+story/data/04/1002/storytimeline_041002003/13.wav|景色……。
+story/data/04/1002/storytimeline_041002003/34.wav|おかげで……思い出せました。
+story/data/04/1002/storytimeline_041002003/30.wav|（聞こえるのは、風の音と心臓の鼓動だけ。 他に誰もいない、まっさらな……私だけの世界……！）
+story/data/04/1002/storytimeline_041002003/31.wav|そうだ、私……！！
+story/data/04/1002/storytimeline_041002003/10.wav|そういえば、今日はちょっとだけ星が明るいかしら……？
+story/data/04/1002/storytimeline_041002003/35.wav|小さな頃から走ってばかりいた私に、 ある日、両親がレースへの出走を勧めてくれたんです。
+story/data/04/1002/storytimeline_041002003/23.wav|…………いい風。 ひんやりする……。
+story/data/04/1002/storytimeline_041002003/40.wav|静かな……誰もいない景色に、辿り着けたんです。
+story/data/04/1002/storytimeline_041002003/20.wav|……そうですね。行ってきます！
+story/data/04/1002/storytimeline_041002003/44.wav|あの、それで……その。
+story/data/04/1002/storytimeline_041002003/11.wav|……ふふっ。この景色全部、ひとり占めね。
+story/data/04/1002/storytimeline_041002003/1.wav|あ……す、すみません。なんでもないです、大丈夫です……。 ただ……ちょっと、脚が重いだけで……。
+story/data/04/1002/storytimeline_041002003/17.wav|電車に乗ってるうちに……空、晴れてたんですね。 緑がいっぱい陽を浴びて……綺麗……。
+story/data/04/1002/storytimeline_041002003/21.wav|はっ、はっ、はっ……ふぅ。
+story/data/04/1002/storytimeline_041002003/4.wav|鎖がついてるみたいに、脚が重たくて。 それでも走り続けると、そのうち目の前が暗くなって……。
+story/data/04/1002/storytimeline_041002003/29.wav|（――静かな景色に、辿り着けるの）
+story/data/04/1002/storytimeline_041002003/2.wav|調子……そう、なんでしょうか。
+story/data/04/1002/storytimeline_041002003/36.wav|走れるのならいいかな、と思って出てみたレースは、 最初……すごく苦しいものに感じられました。
+story/data/04/1002/storytimeline_041002003/32.wav|はっ、はっ……はぁーーーーっ。 …………ふぅっ。
+story/data/04/1002/storytimeline_041002003/26.wav|（両足が地面を蹴る感覚……体が熱くて、風は冷たい……）
+story/data/04/1002/storytimeline_041002003/28.wav|はっ、はぁっ……！！
+story/data/04/1002/storytimeline_041002003/5.wav|無理……？　無理なんかしていません。 いつもだったら、もっと走れるんです。
+story/data/04/1002/storytimeline_041002003/37.wav|たくさんの子たちに囲まれてしまったので…… 騒がしくって、窮屈で。
+story/data/04/1002/storytimeline_041002003/7.wav|なのに、今は……っ。 どうしよう、こんなの、初めてなんです。
+story/data/04/1002/storytimeline_041002003/16.wav|わぁっ……。
+story/data/04/1002/storytimeline_041002003/25.wav|はっ、はっ、はっ……。
+story/data/04/1002/storytimeline_041002003/9.wav|ふぅっ……！！ うん……夜に走ると、静かでいいわね……。
+story/data/04/1002/storytimeline_041002003/45.wav|……あなたも一緒に、来て頂けないでしょうか。 私、話をするのがあまり得意な方ではないので……。
+story/data/04/1002/storytimeline_041002003/12.wav|違う場所、ですか……？
+story/data/04/1002/storytimeline_041002003/41.wav|……私、先頭を走りたい。
+story/data/04/1002/storytimeline_041002003/3.wav|……変なんです、私。 模擬レースの後から。
+story/data/04/1002/storytimeline_041002005/8.wav|勝負……ですか？　それは……えぇと……。
+story/data/04/1002/storytimeline_041002005/6.wav|えっ？　ええ、そうですけど……。 楽しいですよ、1人神経衰弱。
+story/data/04/1002/storytimeline_041002005/13.wav|えぇ……そこも……！？　いやっ……！ ああっ、そこまで……っ！？
+story/data/04/1002/storytimeline_041002005/16.wav|……はい。
+story/data/04/1002/storytimeline_041002005/19.wav|ええ。……次は絶対に邪魔させませんから。
+story/data/04/1002/storytimeline_041002005/10.wav|えっと、わかりました。とりあえず……やってみましょうか。 よろしくお願いします。
+story/data/04/1002/storytimeline_041002005/0.wav|ハートの7は、たしかこの右の方の……。
+story/data/04/1002/storytimeline_041002005/18.wav|トレーナーさん、どうかなさったんですか？ 次のカード、並べちゃいますよ。
+story/data/04/1002/storytimeline_041002005/7.wav|ミスの回数に制限をつけているので、 程よい緊張感も持てますし。
+story/data/04/1002/storytimeline_041002005/4.wav|……いえ、気にしないでください。 やり直すだけなので。
+story/data/04/1002/storytimeline_041002005/11.wav|あ……ここじゃなかった。 はい、トレーナーさんの番です。
+story/data/04/1002/storytimeline_041002005/15.wav|ゲームの終盤、記憶したカードを誰にも邪魔されず、 一気にめくっていくのが気持ちいいのに……。
+story/data/04/1002/storytimeline_041002005/17.wav|あ、でも気にしないでください。 トレーナーさんの誘いに乗ったのは私ですから。
+story/data/04/1002/storytimeline_041002005/9.wav|あ……すみません。 ちょっと……戸惑ってしまったというか……。
+story/data/04/1002/storytimeline_041002005/12.wav|ああ……！？
+story/data/04/1002/storytimeline_041002005/14.wav|ああ……狙っていたカードを次々と……。
+story/data/04/1002/storytimeline_041002005/3.wav|ああっ、どこに何があったのか忘れちゃった……。
+story/data/04/1002/storytimeline_041002005/2.wav|ここまで順調に進んでて、このままいけばすべてのトランプを…… あれ……？
+story/data/04/1002/storytimeline_041002005/1.wav|あ、トレーナーさん。 今、神経衰弱をしていたんです。
+story/data/04/1002/storytimeline_041002005/5.wav|……よし、今度こそ。
+story/data/04/1002/storytimeline_041002006/22.wav|はい、行ってきます。 ……ご褒美、楽しみにしていますね。
+story/data/04/1002/storytimeline_041002006/34.wav|前までは、どうやって振舞おうとか失敗したらどうしようとか、 いろいろ考えてしまっていたんですけど……。
+story/data/04/1002/storytimeline_041002006/16.wav|フォローはいいです。 今さら会話の練習しても焼け石に水ですよね、やっぱり。
+story/data/04/1002/storytimeline_041002006/18.wav|とはいえ……せめてもう少し、 明るい気持ちで交流できたらと思うのですが……。
+story/data/04/1002/storytimeline_041002006/2.wav|あ、いえ。 トレーニングには何も問題なくて。
+story/data/04/1002/storytimeline_041002006/15.wav|……あの、以上です。
+story/data/04/1002/storytimeline_041002006/36.wav|レースみたいに、目指すはゴールのみ…… そういう気持ちで挑むことが出来ました。
+story/data/04/1002/storytimeline_041002006/3.wav|……実は今度の週末、ファンの方との交流イベントがあるんです。
+story/data/04/1002/storytimeline_041002006/7.wav|そういうこともあって、『交流イベント』と聞くと ちょっと憂鬱なんです……また何かやらかさないといいけれど。
+story/data/04/1002/storytimeline_041002006/29.wav|そっか、タルトって焼いてから冷ます行程もあるから、 きっとそれで時間がかかって……。
+story/data/04/1002/storytimeline_041002006/31.wav|でも、おかげさまでイベントの方はとても上手くいきました。
+story/data/04/1002/storytimeline_041002006/32.wav|あ……気の利いた応対ができた、というわけではないんですが。 なんというか……。
+story/data/04/1002/storytimeline_041002006/10.wav|えっ……練習、ですか？　トレーナーさんと……？
+story/data/04/1002/storytimeline_041002006/28.wav|4時間……そんなにも並ぶ羽目になったんですか？
+story/data/04/1002/storytimeline_041002006/24.wav|あの、ありがとうございます。 それから、えっと……う～ん……。
+story/data/04/1002/storytimeline_041002006/6.wav|のちに雑誌で、『私に声をかけると左旋回を始める謎のイベント』 として紹介されました……。
+story/data/04/1002/storytimeline_041002006/30.wav|あの、すみませんでした。突然ご褒美と言われても浮かばず、 クラスで話題になってたものを頼んだばかりに……。
+story/data/04/1002/storytimeline_041002006/25.wav|あっ！ 細かいところまで見ていただいて光栄です。
+story/data/04/1002/storytimeline_041002006/35.wav|“ご褒美”を用意してもらったおかげで、 そこに向かって頑張ればいいってシンプルに考えられたというか。
+story/data/04/1002/storytimeline_041002006/14.wav|……ありがとうございます。
+story/data/04/1002/storytimeline_041002006/26.wav|それから、う～ん……う～ん……。
+story/data/04/1002/storytimeline_041002006/20.wav|ふぅ～……なんだか、レースとは違う緊張感ですね。
+story/data/04/1002/storytimeline_041002006/33.wav|はい、そうですね。 少なくとも今までよりは、ずっと。
+story/data/04/1002/storytimeline_041002006/11.wav|あ……思ったよりも難易度の高い内容ですね。
+story/data/04/1002/storytimeline_041002006/8.wav|確かに、そうなのかもしれませんが……。
+story/data/04/1002/storytimeline_041002006/17.wav|占いの話ができるフクキタルや、どんな話も乗れるタイキのように おしゃべりで盛り上げるのは、あまり私には向いていないようです。
+story/data/04/1002/storytimeline_041002006/12.wav|ええと……『素敵な走り』というのは、素直に受け止めて……。
+story/data/04/1002/storytimeline_041002006/1.wav|ふぅ～、0.1秒更新。 走るのだったら何も問題ないのに……はぁ……。
+story/data/04/1002/storytimeline_041002006/21.wav|不安も正直、残ってはいますが……うん。 でも前向きに。頑張ってきます。
+story/data/04/1002/storytimeline_041002006/0.wav|はっ……はっ……はっ……はっ……！
+story/data/04/1002/storytimeline_041002006/37.wav|ふふっ、どんな味なのか楽しみです。
+story/data/04/1002/storytimeline_041002006/9.wav|でも、だからといって適当に済ませるなんてしたくないですし。 とはいえ、上手くできる気もしないし……。
+story/data/04/1002/storytimeline_041002006/13.wav|『これまで以上』というのは、つまり今までも 憧れてくれていたということで……う～ん……。
+story/data/04/1002/storytimeline_041002006/5.wav|前もファンの方に話しかけられた時、返事に悩むあまり 無意識にその場でクルクル回ってしまっていたみたいで……。
+story/data/04/1002/storytimeline_041002006/19.wav|ご褒美……？
+story/data/04/1002/storytimeline_041002006/4.wav|でも私は、これまで走ることばかりに躍起だったというか…… あまりそういうのに慣れていなくて。
+story/data/04/1002/storytimeline_041002007/9.wav|参加者、結構いますね……。 トレーニングの一環として出ている子が多いのかしら……。
+story/data/04/1002/storytimeline_041002007/40.wav|どんなレースでも、 必ず先頭でトレーナーさんの元に帰ってきますから。
+story/data/04/1002/storytimeline_041002007/35.wav|私は、静かで風の音と心臓の鼓動だけが聞こえる 私1人だけの世界……それが何よりも大切な景色でした。
+story/data/04/1002/storytimeline_041002007/8.wav|はい、お願いします。 私も精いっぱい走りますね。
+story/data/04/1002/storytimeline_041002007/39.wav|ふふっ、ありがとうございます。
+story/data/04/1002/storytimeline_041002007/11.wav|いえ、私は私の走りしかできませんから。
+story/data/04/1002/storytimeline_041002007/38.wav|その景色が、私に最後の力を出させてくれたんです。
+story/data/04/1002/storytimeline_041002007/32.wav|だけど、前の交流イベントのように難しく考えず、シンプルに、 私の走りをすればいいんじゃないかって……そんなふうに思えて。
+story/data/04/1002/storytimeline_041002007/3.wav|あ……そういえば、トレーナーさん。 トライアスロン大会のことなのですが……。
+story/data/04/1002/storytimeline_041002007/22.wav|……はあっ……はあっ……くっ……！
+story/data/04/1002/storytimeline_041002007/5.wav|でも……。
+story/data/04/1002/storytimeline_041002007/36.wav|……でも、それが少しだけ変わったんです。
+story/data/04/1002/storytimeline_041002007/34.wav|はい。 ……それと、もう1つ見つけたことがあるんです。
+story/data/04/1002/storytimeline_041002007/14.wav|えっと、そうですね……今夜は、夏祭りだそうですから。 連れて行ってくれる、とか……？
+story/data/04/1002/storytimeline_041002007/31.wav|たとえトライアスロンであっても、先頭の景色は譲りたくない……。 でもそれは困難なことだから、出場するつもりはなかったんです。
+story/data/04/1002/storytimeline_041002007/37.wav|周りには誰もいない、 開けた視界の先にトレーナーさんがいる――
+story/data/04/1002/storytimeline_041002007/12.wav|あの、トレーナーさん。 ……お願い、聞いてもらえませんか？
+story/data/04/1002/storytimeline_041002007/30.wav|かき氷、ごちそうさまでした。 思い切り体を動かした後だけあって格別ですね。
+story/data/04/1002/storytimeline_041002007/0.wav|合宿も残すところあと数日……。
+story/data/04/1002/storytimeline_041002007/33.wav|トレーナーさんのおかげで、 こうした考え方もできるようになったんだと思います。
+story/data/04/1002/storytimeline_041002007/26.wav|この景色……誰にも譲らないっ！
+story/data/04/1002/storytimeline_041002007/6.wav|あの、トレーナーさん。 私、やっぱり出てみてもいいですか？
+story/data/04/1002/storytimeline_041002007/15.wav|ありがとうございます。 では……行ってきます。
+story/data/04/1002/storytimeline_041002007/4.wav|ええ……私は、得意なのも中距離ですし、 “逃げ”しかできませんから、不向きな競技だと思って……。
+story/data/04/1002/storytimeline_041002007/2.wav|ふふっ、そうですね。
+story/data/04/1002/storytimeline_041002007/1.wav|トレーニングに集中できる環境なだけに、 終わってしまうのが名残惜しいです。
+story/data/04/1002/storytimeline_041002007/13.wav|――ご褒美。用意して、待っていてほしいんです。
+story/data/04/1002/storytimeline_041002007/7.wav|“悔いなく過ごす”ために…… 試してみたいことがあるんです。
+story/data/04/1002/storytimeline_041002007/25.wav|……っ！！
+story/data/04/1002/storytimeline_041002007/10.wav|……でも、私も同じですから。 終始自分のペースで走るだけです。
+story/data/04/1010/storytimeline_041010002/33.wav|え？　……あ、あれっ！？ 確かに後ろを走ってたはずなのに……！
+story/data/04/1010/storytimeline_041010002/21.wav|あなたのは勢いがちょっと……。 というか、今はトレーニング中じゃないの？
+story/data/04/1010/storytimeline_041010002/37.wav|あ、タイキの声……！　行ってみましょう！
+story/data/04/1010/storytimeline_041010002/31.wav|あっ！？　ちょ……い、行ってきますっ！！
+story/data/04/1010/storytimeline_041010002/6.wav|うん、東南東、ね？　東南南東東だと…… それ、どの方角ってことになるのかしら……。
+story/data/04/1010/storytimeline_041010002/32.wav|はっ、はっ、はっ……ただいま戻りました。
+story/data/04/1010/storytimeline_041010002/25.wav|えっ？　えっと……。 い、いいんでしょうか、トレーナーさん……？
+story/data/04/1010/storytimeline_041010002/40.wav|タイキ！　よかった、ここにいたのね……！
+story/data/04/1010/storytimeline_041010002/35.wav|私も走っているとすぐ夢中になってしまうので…… ほ、本当にすみません！！
+story/data/04/1010/storytimeline_041010002/29.wav|待って待ってタイキ、 今のはトレーナーさんに質問したのよ……？
+story/data/04/1010/storytimeline_041010002/26.wav|わかりました。今日は長距離のランニングをする予定だったので、 学園の外へ行っても構いませんか？
+story/data/04/1010/storytimeline_041010002/34.wav|す、すみません……！　彼女、誰にでもすぐ話しかけに 行っちゃうので、よく気をつけてたつもりだったんですが……！
+story/data/04/1010/storytimeline_041010002/43.wav|タイキ…………。
+story/data/04/1010/storytimeline_041010002/10.wav|き、気持ちは嬉しいけれど、 プニプニはちょっと困るかな……。
+story/data/04/1010/storytimeline_041010002/19.wav|あ、タイキ……ストップ、飛びつかないでね。
+story/data/04/1018/storytimeline_041018001/15.wav|くっ……！
+story/data/04/1018/storytimeline_041018001/2.wav|エアグルーヴ！　待たせてごめんなさい。 外を走っていたら、ちょっと夢中になっちゃって……。
+story/data/04/1018/storytimeline_041018001/8.wav|はっ、はっ、はっ……！！
+story/data/04/1018/storytimeline_041018001/5.wav|ええ、それは大丈夫。始めましょうか。
+story/data/04/1018/storytimeline_041018003/34.wav|わ……本当！？
+story/data/04/1018/storytimeline_041018003/36.wav|ええ……！　ありがとう、エアグルーヴ。
+story/data/04/1018/storytimeline_041018003/31.wav|トレーニングコースが整備不良で使用できないらしくて……。 走れないとなると……なんだか、することがなくて。
+story/data/04/1018/storytimeline_041018003/30.wav|えっ？　ええと……特に何も。
+story/data/04/1018/storytimeline_041018004/2.wav|ええ……！　ありがとう、エアグルーヴ。
+story/data/04/1028/storytimeline_041028004/23.wav|あ、おいしい……。珍しいお野菜使ってるのね。
+story/data/04/1028/storytimeline_041028004/33.wav|ええと……。隣の……隣の山まで、かしら？
+story/data/04/1046/storytimeline_041046002/23.wav|あの……すみません、 明日のレースに向けて練習をしたいので……。
+story/data/04/1046/storytimeline_041046002/29.wav|ファルコン先輩、ありがとう。 私、どうしたらいいのかわからなくて……。
+story/data/04/1056/storytimeline_041056001/33.wav|だからそのラッキーナンバーからは離れてぇ～……！
+story/data/04/1056/storytimeline_041056001/28.wav|はぁ……はぁ……だから……言ったのに……。 しかもあんなに飛ばして走ればなおさら……。
+story/data/04/1056/storytimeline_041056001/19.wav|あの……急に連れ出されたけど、いったい何をするの？
+story/data/04/1056/storytimeline_041056001/21.wav|まあ、そのくらいなら別に……。
+story/data/04/1056/storytimeline_041056001/30.wav|4周しかしてないけど……。
+story/data/04/1056/storytimeline_041056001/24.wav|え……っ！？　1周で2kmあるのよ？ 39周だと、60kmを超えるんだけど……。
+story/data/04/1056/storytimeline_041056001/26.wav|ちょっと……ほ、ほんとに？
+story/data/04/1056/storytimeline_041056004/12.wav|あの……今、負けてくるって……え？
+story/data/04/1056/storytimeline_041056004/21.wav|ホント、惜しかったわ。 ゴールがあと50m先にあれば、全員を抜けてたと思う。
+story/data/04/1056/storytimeline_041056004/4.wav|あの、今日は見学させてもらうわね。
+story/data/04/1056/storytimeline_041056004/10.wav|うん、頑張って……って、え？
+story/data/04/1002/storytimeline_041002004/17.wav|もう1度、何度でもあそこに辿り着きたい。 この気持ちだけは……譲れない……！
+story/data/04/1002/storytimeline_041002004/43.wav|はぁっ……。
+story/data/04/1002/storytimeline_041002004/27.wav|ふふっ……出走、もうすぐだから。行ってくるわね。
+story/data/04/1002/storytimeline_041002004/45.wav|もっといい景色、一緒に見に行きましょう。 ……トレーナーさん！
+story/data/04/1002/storytimeline_041002004/44.wav|ふふっ……いいえ。
+story/data/04/1002/storytimeline_041002004/6.wav|えっと……あ、あなたは、いいんでしょうか？ こんな私で……。
+story/data/04/1002/storytimeline_041002004/23.wav|山、とか……登っちゃいましょうか？ この際ですし……！
+story/data/04/1002/storytimeline_041002004/11.wav|はいっ……！！
+story/data/04/1002/storytimeline_041002004/20.wav|序盤から先頭を走って、終盤でも減速しない走り……。 どうしたら実現できるんでしょうか？
+story/data/04/1002/storytimeline_041002004/40.wav|先頭の景色は……誰にもッ！！
+story/data/04/1002/storytimeline_041002004/24.wav|あら、エアグルーヴ！　来ていたの？
+story/data/04/1002/storytimeline_041002004/14.wav|それで……走り方は、どうすべきでしょうか……？
+story/data/04/1002/storytimeline_041002004/8.wav|ありがとう……ございます。 よろしくお願いします、トレーナーさん……！
+story/data/04/1002/storytimeline_041002004/39.wav|（誰にも邪魔させない。誰にも、譲らない）
+story/data/04/1002/storytimeline_041002004/7.wav|……！
+story/data/04/1002/storytimeline_041002004/16.wav|……私、先頭を走りたい。
+story/data/04/1002/storytimeline_041002004/31.wav|はっ、はっ、はっ……！！
+story/data/04/1002/storytimeline_041002004/12.wav|あの……さっそくですみませんが、トレーナーさん。 予定だと来月がデビュー戦だったんですが、どうしましょう……？
+story/data/04/1002/storytimeline_041002004/15.wav|学んだおかげで理解はできました。大逃げはリスクが高いって。 今のままじゃ、いつか先頭を走れなくなる日が来るかもしれない。
+story/data/04/1002/storytimeline_041002004/36.wav|ふっ……！！
+story/data/04/1002/storytimeline_041002004/13.wav|走っていいんですか……！！ ありがとうございますっ。
+story/data/04/1002/storytimeline_041002004/0.wav|――ですから、すみません。 指示していただいた走り方、私には……。
+story/data/04/1002/storytimeline_041002004/4.wav|えっ、移籍……？
+story/data/04/1002/storytimeline_041002004/18.wav|……私の走りを、信じてくださっているんですね。
+story/data/04/1002/storytimeline_041002004/22.wav|坂路ダッシュですね、わかりました。 でも……学内のコースだけじゃ、ちょっと物足りないですね。
+story/data/04/1002/storytimeline_041002004/19.wav|わかりました。……応えます、必ず。
+story/data/04/1002/storytimeline_041002004/35.wav|（まだ……まだ、騒がしい。まだ、もっと……！）
+story/data/04/1002/storytimeline_041002004/21.wav|『スピードを出すためのエネルギーには限りがあるから、 温存する走り方が必要なんだ』って、前に聞いたのですが……。
+story/data/04/1001/storytimeline_041001001/17.wav|あ、スペちゃん！　ここにいたのね……！ もう門限なのに帰ってこないから心配したのよ。
+story/data/04/1001/storytimeline_041001003/36.wav|スペちゃん！　ここにいたのね……って、あ、えっと。 ごめんなさい、お取り込み中だったかしら……？
+story/data/04/1001/storytimeline_041001003/38.wav|その、寮にお母様からのお手紙がきてたから、 早く届けてあげようと思って……。
+story/data/04/1001/storytimeline_041001003/39.wav|スペちゃん、いつも楽しみにしてたでしょう？ だから……。
+character_system_text/1002/snd_voi_title_100200/0.wav|Cygames
+character_system_text/1002/snd_voi_title_100200/1.wav|ウマ娘、プリティーダービー！
+character_system_text/1002/snd_voi_title_100200/2.wav|これが今日のログインボーナス…。
+character_system_text/1002/snd_voi_title_100200/3.wav|明日はこれがもらえるそうですね。
+character_system_text/1002/snd_voi_home_100200/0.wav|トレーナーさんが私の走りを 信じてくださるなら、私も自信を 持ってこの走りを貫けます。
+character_system_text/1002/snd_voi_home_100200/1.wav|苦手なことも少しずつできるように なれる気がします。 トレーナーさんと一緒なら。
+character_system_text/1002/snd_voi_home_100200/2.wav|誰もいない景色こそが特別だと 思っていました。でも、今は…。
+character_system_text/1002/snd_voi_home_100200/3.wav|ようやく来ました…！フクキタルに もらった大きな門松を飾る時が…！
+character_system_text/1002/snd_voi_home_100200/4.wav|みんなチョコレートをたくさん 食べているけど、あんなに食べて レースに影響出ないのかな…？
+character_system_text/1002/snd_voi_home_100200/5.wav|これ、受け取ってもらえますか？ バレンタインだと昨夜気づいたので 簡単なトリュフですが…。
+character_system_text/1002/snd_voi_home_100200/6.wav|星空を見ながら走ると楽しいん です。何かにぶつからないよう、 気をつけないといけませんが…。
+character_system_text/1002/snd_voi_home_100200/7.wav|『トリックオアトリート。 お菓子くれなきゃ追いかけます』 っていうのは…どうでしょう？
+character_system_text/1002/snd_voi_home_100200/8.wav|雪がかかったモミの木は自然の クリスマスツリーみたいで… 近くを走ると気持ちいいんです。
+character_system_text/1002/snd_voi_home_100200/9.wav|クリスマスのイルミネーションを 見に行きませんか？雪みたいに キラキラしてて…好きなんです。
+character_system_text/1002/snd_voi_home_100200/10.wav|お坊さんが忙しく走るから師走って いうんですよね。ちょっと見て みたいな、走ってるお坊さん…。
+character_system_text/1002/snd_voi_home_100200/11.wav|誕生日おめでとうございます。 レースで勝利をプレゼント させてください。
+character_system_text/1002/snd_voi_home_100200/12.wav|せっかくの誕生日ですし、思い出に なることをしませんか。高い所から 景色を見るとか…どうでしょう？
+character_system_text/1002/snd_voi_home_100200/13.wav|あ、そっか…誕生日。 走ることに夢中で、 すっかり忘れていました。
+character_system_text/1002/snd_voi_home_100200/14.wav|思い出が増えれば、見える景色も 増えていく…その中に今は トレーナーさんの姿もあります。
+character_system_text/1002/snd_voi_home_100200/15.wav|お知らせがあるみたいです。 見てみますか？
+character_system_text/1002/snd_voi_home_100200/16.wav|プレゼントだそうです。 見てみましょうか。
+character_system_text/1002/snd_voi_home_100200/17.wav|ミッション達成ですね。 この調子で駆け抜けて いきましょう。
+character_system_text/1002/snd_voi_home_100200/18.wav|もうすぐイベントみたいです。 どんな内容でしょう。 …たくさん走れるかな。
+character_system_text/1002/snd_voi_home_100200/19.wav|イベントが始まっています。 走って行ってみますか？
+character_system_text/1002/snd_voi_home_100200/24.wav|この服の色が、走っている時に 見える景色の色と似ていて。 着ているだけで心地いいんです。
+character_system_text/1002/snd_voi_home_100200/25.wav|リボンが曲がっていると、 エアグルーヴが直してくれるんです すごく綺麗な手つきなんですよ。
+character_system_text/1002/snd_voi_home_100200/26.wav|タイキが薦めてくれる服は、 おへそが出てるのが多くて…。 お腹が冷えないか気になるんです。
+character_system_text/1002/snd_voi_home_100200/20.wav|これからトレーニングですか？
+character_system_text/1002/snd_voi_home_100200/21.wav|いろんな記録があるんですね…。
+character_system_text/1002/snd_voi_home_100200/22.wav|レースのエントリーですか？
+character_system_text/1002/snd_voi_home_100200/23.wav|名鑑レベルが上がった みたいですね。
+character_system_text/1002/snd_voi_training_100200/0.wav|体が重い…？ ううん、まだ大丈夫…なはず…。
+character_system_text/1002/snd_voi_training_100200/1.wav|うぅ、力が出ない…。 走りたいのに…！
+character_system_text/1002/snd_voi_training_100200/2.wav|走ってきてもいいですか？ 脚がウズウズしてて…！
+character_system_text/1002/snd_voi_training_100200/3.wav|なんだか体が軽い…！ トレーニング、早く始めませんか？
+character_system_text/1002/snd_voi_training_100200/4.wav|すごく爽やかな風… この中を走ったら 気持ちいいだろうな。
+character_system_text/1002/snd_voi_training_100200/5.wav|今日はどんなコースを走れるのか、 楽しみです。
+character_system_text/1002/snd_voi_training_100200/6.wav|走る準備はできています。
+character_system_text/1002/snd_voi_training_100200/7.wav|今日はどうしましょうか？
+character_system_text/1002/snd_voi_training_100200/8.wav|体の動きが悪い…？ …いえ、なんでもありません。
+character_system_text/1002/snd_voi_training_100200/9.wav|なぜかしら、脚が重い…。
+character_system_text/1002/snd_voi_training_100200/10.wav|いつもの調子が出ない…。 どうして…！
+character_system_text/1002/snd_voi_training_100200/11.wav|体に力が入らない…！ こんなことって…！
+character_system_text/1002/snd_voi_training_100200/12.wav|走りたい気持ちはありますが、 無理をして体を壊すわけにも いきません…難しいですね。
+character_system_text/1002/snd_voi_training_100200/13.wav|レースには出たいですが… これ以上はもう…体が…。
+character_system_text/1002/snd_voi_training_100200/14.wav|うんっ、脚が軽い…！ レースでも速く走れそうな 気がします！
+character_system_text/1002/snd_voi_training_100200/15.wav|レースが楽しみです！ 早く始まらないかな、ふふっ。
+character_system_text/1002/snd_voi_training_100200/16.wav|先頭の景色… 必ずこの目で見てきます！
+character_system_text/1002/snd_voi_training_100200/17.wav|いい仕上がりになっていると 思います。レースが楽しみですね。
+character_system_text/1002/snd_voi_training_100200/18.wav|調子はよさそうです。 この日のために調整して きましたから。
+character_system_text/1002/snd_voi_training_100200/19.wav|今日はどんな景色が 見られるんだろう…。
+character_system_text/1002/snd_voi_training_100200/20.wav|問題ありません。 普段通りの力が出せそうです。
+character_system_text/1002/snd_voi_training_100200/21.wav|今まで身につけてきたこと、 レースで発揮してきます。
+character_system_text/1002/snd_voi_training_100200/22.wav|見ていてください。 勝ってみせますから。
+character_system_text/1002/snd_voi_training_100200/23.wav|少し不安はありますが… 大丈夫です。
+character_system_text/1002/snd_voi_training_100200/24.wav|普段のトレーニングを思い出して なんとか、いつも通りに…。
+character_system_text/1002/snd_voi_training_100200/25.wav|ただ、先頭を目指して走るだけ…。 それ以外のことは 考えないようにします。
+character_system_text/1002/snd_voi_training_100200/26.wav|調整は少し不安かも…。 ううん、そう言っていても 仕方ないですよね。
+character_system_text/1002/snd_voi_training_100200/27.wav|なんとかしてみせます。 …私にできることは それだけなので。
+character_system_text/1002/snd_voi_training_100200/28.wav|今の状態で勝てる方法を… 考えないと…。
+character_system_text/1002/snd_voi_training_100200/29.wav|いきます。
+character_system_text/1002/snd_voi_training_100200/30.wav|やりましょう。
+character_system_text/1002/snd_voi_training_100200/31.wav|始めますね。
+character_system_text/1002/snd_voi_training_100200/32.wav|頑張ります。
+character_system_text/1002/snd_voi_training_100200/33.wav|あ、あら…？
+character_system_text/1002/snd_voi_training_100200/34.wav|うぅ…。
+character_system_text/1002/snd_voi_training_100200/37.wav|行きましょう。
+character_system_text/1002/snd_voi_training_100200/38.wav|楽しみ…！
+character_system_text/1002/snd_voi_training_100200/39.wav|以前より、確実に速くなれたと思います！
+character_system_text/1002/snd_voi_training_100200/40.wav|ありがとうございました、トレーナーさん。
+character_system_text/1002/snd_voi_training_100200/41.wav|一緒に頑張りましょう。
+character_system_text/1002/snd_voi_race_100200/0.wav|あと、もう少しでした…！
+character_system_text/1002/snd_voi_race_100200/1.wav|悪くはないのでしょうが…まだ足りません。
+character_system_text/1002/snd_voi_race_100200/2.wav|これで満足はできません…！
+character_system_text/1002/snd_voi_race_100200/3.wav|…次はいい結果にしてみせます。必ず。
+character_system_text/1002/snd_voi_race_100200/5.wav|ふぅ、気持ちよかった。
+character_system_text/1002/snd_voi_race_100200/6.wav|駆け抜けます！
+character_system_text/1002/snd_voi_live_100200/0.wav|レースより緊張するかも…。
+character_system_text/1002/snd_voi_live_100200/1.wav|頑張ってきます！
+character_system_text/1002/snd_voi_outgame_100200/0.wav|トレーナーさんが見せてくれた 景色…きっと、これからも 忘れることはありません。
+character_system_text/1002/snd_voi_outgame_100200/4.wav|体がとても暖かい…。
+character_system_text/1002/snd_voi_outgame_100200/1.wav|駆け抜けましょう、共に…！
+character_system_text/1002/snd_voi_outgame_100200/2.wav|できること、増えた気がします。
+character_system_text/1002/snd_voi_outgame_100200/3.wav|サポートのコツ、わかってきました。
+character_system_text/1002/snd_voi_outgame_100200/7.wav|この制服も着慣れてきました。
+character_system_text/1002/snd_voi_outgame_100200/8.wav|たまに、賑やか過ぎるけど…楽しいです。
+character_system_text/1002/snd_voi_outgame_100200/9.wav|ちょっとだけ…恥ずかしいですね。
+character_system_text/1002/snd_voi_outgame_100200/10.wav|笑顔で歌って踊って…ライブって難しいです。
+character_system_text/1002/snd_voi_outgame_100200/11.wav|誰よりも前に、誰よりも先に…。
+character_system_text/1002/snd_voi_outgame_100200/12.wav|いろんな景色を見たいんです。
+character_system_text/1002/snd_voi_outgame_100200/17.wav|ふふ…とっても涼しいです。
+character_system_text/1002/snd_voi_outgame_100200/18.wav|海の色みたいで素敵ですよね。
+character_system_text/1002/snd_voi_outgame_100200/5.wav|あ…。 よろしくお願いします。
+character_system_text/1002/snd_voi_outgame_100200/6.wav|先頭は渡しません…！
+character_system_text/1002/snd_voi_outgame_100200/13.wav|一緒に走りましょう
+character_system_text/1002/snd_voi_outgame_100200/14.wav|先頭の景色は譲らない……！
+character_system_text/1002/snd_voi_outgame_100200/15.wav|お気に入りを着ると、景色も違って見えます。
+character_system_text/1002/snd_voi_outgame_100200/16.wav|ネックレスは両親からの入学祝いなんですよ。
+character_system_text/1002/snd_voi_home_100201/0.wav|おはようございます。 朝練なら済ませてきましたが… 追加でトレーニングしますか？
+character_system_text/1002/snd_voi_home_100201/1.wav|朝食はしっかり食べています。 エネルギー補給をしないと 走れませんから。
+character_system_text/1002/snd_voi_home_100201/2.wav|午後のトレーニングの準備は できています。始めませんか？
+character_system_text/1002/snd_voi_home_100201/3.wav|芝にダート、坂路…今日も たくさん走れますね、ふふっ。
+character_system_text/1002/snd_voi_home_100201/4.wav|あら、もうこんな時間…？ トレーニングしていたら あっという間ですね。
+character_system_text/1002/snd_voi_home_100201/5.wav|まだ走り足りない…。 寮まで走って帰ろうかしら。 …すごく短い距離だけど。
+character_system_text/1002/snd_voi_home_100201/6.wav|頭に花びらが付いてた…。 鏡を見るまで気づかなかった なんて…は、恥ずかしい…。
+character_system_text/1002/snd_voi_home_100201/7.wav|夏バテ防止にはきゅうりがいいって エアグルーヴが言っていたっけ…。 1日に何本食べたらいいのかしら。
+character_system_text/1002/snd_voi_home_100201/8.wav|外を走っていたら、干し柿を 吊るしている家があったんです。 秋…っていう感じがしますよね。
+character_system_text/1002/snd_voi_home_100201/9.wav|水たまりに氷が張っていると、 その上を走りたくなっちゃうん ですが…やっぱり危ないですか？
+character_system_text/1002/snd_voi_home_100201/10.wav|短距離のコツをタイキに聞いたら 『エンジョイスピリッツデース☆』 って…何もわからない…。
+character_system_text/1002/snd_voi_home_100201/11.wav|都会は建物だらけ…。 たまには子どもの頃みたいに、 何もない原っぱを走りたいな…。
+character_system_text/1002/snd_voi_home_100201/12.wav|フクキタルにもらったお守り、 どうしたらいいの…あんなに大きな 金色の鯛を飾る場所なんて…うぅ。
+character_system_text/1002/snd_voi_home_100201/13.wav|コースの芝っていつも綺麗…。 整備してくれる人たちに 感謝しないと、ですね。
+character_system_text/1002/snd_voi_home_100201/14.wav|いい天気が続くといいですね…。 雨の中だと体が冷えて、 長時間走れませんから。
+character_system_text/1002/snd_voi_home_100201/15.wav|お腹が冷えないように、 気をつけないと…。
+character_system_text/1002/snd_voi_home_100201/16.wav|勝った者だけが立てる舞台って 特別なものですね。
+character_system_text/1002/snd_voi_home_100201/17.wav|この服を着ると蘇ってくる…。 先頭で風を切る、あの感覚…！
+character_system_text/1002/snd_voi_home_100201/18.wav|ど、どうしましょう…。 勝負服を着ると、すぐにでも 走り出したくなってしまって…！
+character_system_text/1002/snd_voi_home_100201/19.wav|アラーム音をファンファーレに 設定すると、とても気持ちよく 起きられるんです。ふふっ。
+character_system_text/1002/snd_voi_home_100201/20.wav|スペちゃんと一緒だと、いつもより 多くご飯を食べてしまうんです。 どうしたらいいのかしら…。
+character_system_text/1002/snd_voi_home_100201/21.wav|寝る前に目をつむると、 今まで走ってきた景色が 蘇ってくるんです…。
+character_system_text/1002/snd_voi_home_100201/22.wav|春はレースがいっぱい。 とても楽しい季節だわ…！ ふふっ！
+character_system_text/1002/snd_voi_home_100201/23.wav|朝のジョギング用、午後のトレー ニング用に、夜のランニング用… タオルがたくさん必要ね…。
+character_system_text/1002/snd_voi_home_100201/24.wav|そういえばこの前、 服にひっつき虫がついていました。 森を走ったせいでしょうか…はぁ。
+character_system_text/1002/snd_voi_home_100201/25.wav|雪を見ると落ち着きます。静かで 綺麗で――あ、それに降り積もった 雪の中を走るのも楽しいんですよ。
+character_system_text/1002/snd_voi_training_100201/0.wav|いつでも走れます。 もちろん、今すぐにでも。
+character_system_text/1002/snd_voi_training_100201/1.wav|今日はどんなコースを 走らせてくれますか？
+character_system_text/1002/snd_voi_training_100201/3.wav|走りでは誰にも 負けたくないんです。だからぜひ、 厳しいトレーニングを。
+character_system_text/1002/snd_voi_training_100201/4.wav|いい風…走ったらもっと 心地よく感じるのかな…ふふっ。
+character_system_text/1002/snd_voi_training_100201/2.wav|準備はできています。 始めませんか？
+character_system_text/1002/snd_voi_training_100201/5.wav|少しずつ実力が身についている ように感じます。…この感覚、 忘れないようにしないと。
+character_system_text/1002/snd_voi_training_100201/6.wav|このまま成長していったら どんな景色が見えるように なるのかしら…。
+character_system_text/1002/snd_voi_training_100201/7.wav|些細なきっかけで、見える景色も 変わってくる…そんなことを 教えてもらったような気がします。
+character_system_text/1002/snd_voi_training_100201/8.wav|見られました…1人では見られなかった景色。
+character_system_text/1002/snd_voi_training_100201/9.wav|おかげ様で、予想以上に成長できました。
+character_system_text/1002/snd_voi_outgame_100201/0.wav|より速く…！
+character_system_text/1002/snd_voi_outgame_100201/1.wav|もっと先へ！
+character_system_text/1002/snd_voi_outgame_100201/2.wav|はい、サイレンススズカです。
+character_system_text/1002/snd_voi_gacha_100201/0.wav|先頭のもっと先… 誰も見たことがない景色へ…！
+character_system_text/1002/snd_voi_teamst_st_100200_0000/0.wav|みなさん、頑張りましょう。
+character_system_text/1002/snd_voi_teamst_st_100200_1001/0.wav|いきましょう、スペちゃん。
+character_system_text/1002/snd_voi_teamst_st_100200_1018/0.wav|エアグルーヴ。
+character_system_text/1002/snd_voi_teamst_st_100100_1002/1.wav|よろしくね。
+character_system_text/1002/snd_voi_teamst_st_105600_1002/1.wav|あ、ありがとう。
+character_system_text/1002/snd_voi_teamst_st_104600_1002/1.wav|逃げ切ります。
+character_system_text/1002/snd_voi_teamst_st_106600_1002/1.wav|ご、ごー…？
+character_system_text/1002/snd_voi_teamst_100200/0.wav|負けない…！
+character_system_text/1002/snd_voi_teamst_100200/1.wav|いいレースだったわ。
+character_system_text/1002/snd_voi_teamst_100200/2.wav|みんな、お疲れ様。
+character_system_text/1002/snd_voi_teamst_100200/3.wav|今度こそ勝ちましょう。
+character_system_text/1002/snd_voi_teamst_100200/4.wav|私たちの勝利ね。
+character_system_text/1002/snd_voi_teamst_100200/5.wav|ハイスコア…！やったわね。
+character_system_text/1002/snd_voi_minigame_100200/0.wav|頑張ってください
+character_system_text/1002/snd_voi_minigame_100200/1.wav|やった…！
+character_system_text/1002/snd_voi_minigame_100200/2.wav|ああっ！
+character_system_text/1002/snd_voi_minigame_100200/3.wav|見てください、こんなに…！
+character_system_text/1002/snd_voi_minigame_100200/4.wav|ふふ、可愛い。
+character_system_text/1002/snd_voi_minigame_100200/5.wav|難しいですね、これ。
+character_system_text/1002/snd_voi_minigame_100200/6.wav|くすっ
+character_system_text/1002/snd_voi_minigame_100200/7.wav|ふふっ…
+character_system_text/1002/snd_voi_minigame_100200/8.wav|うぅ～…
+character_system_text/1002/snd_voi_minigame_100200/9.wav|すごいです…！
+character_system_text/1002/snd_voi_minigame_100200/10.wav|そんな…
+character_system_text/1002/snd_voi_minigame_100200/11.wav|わぁ…
+character_system_text/1002/snd_voi_minigame_100200/12.wav|トレーナーさん
+character_system_text/1002/snd_voi_minigame_100200/13.wav|あっ！
+character_system_text/1002/snd_voi_minigame_100200/14.wav|…っ！
+character_system_text/1002/snd_voi_minigame_100200/15.wav|むぅ…
+character_system_text/1002/snd_voi_minigame_100200/16.wav|うぅぅ…
+character_system_text/1002/snd_voi_race_100201/1.wav|やっと見えた…これが私だけの…！
+character_system_text/1002/snd_voi_race_100201/2.wav|…やっと見えた！ スピードの向こう側…静かでどこまでも綺麗な… 私が見たかったもの…！
+character_system_text/1002/snd_voi_race_100201/0.wav|これが…私だけの景色…！
+character_system_text/1002/snd_voi_home_100202/0.wav|おはようございま――くしゅんっ。 この格好…朝だと少し 肌寒いですね。
+character_system_text/1002/snd_voi_home_100202/1.wav|ふぅ…。 朝の風が頬に心地いい…。
+character_system_text/1002/snd_voi_home_100202/2.wav|こんにちは。 プールトレーニングなら すぐにでもできます。
+character_system_text/1002/snd_voi_home_100202/3.wav|お昼はどこで食べようかしら。 たまにはシートを敷いて 外で食べるのも…。
+character_system_text/1002/snd_voi_home_100202/4.wav|日が沈むのは一瞬ですね… だからこそ綺麗だと 思うんでしょうか。
+character_system_text/1002/snd_voi_home_100202/5.wav|疲労にはココナッツオイルが効く ってエアグルーヴが言ってました。 使い方はわかりませんが…。
+character_system_text/1002/snd_voi_home_100202/6.wav|こ、困りました…新入生がみんな プールの場所を聞いてきて…！
+character_system_text/1002/snd_voi_home_100202/7.wav|いい陽気ですね。水の中に入ったら 気持ちがよさそう。
+character_system_text/1002/snd_voi_home_100202/8.wav|西日が眩しい季節ですね。 日焼け止め、忘れないように しないと…。
+character_system_text/1002/snd_voi_home_100202/9.wav|学園のプールは温かいので 冬はとても助かります…。
+character_system_text/1002/snd_voi_home_100202/10.wav|…夢を、見ました。 パール先輩が浜辺で サンバを教えてくれる夢を…。
+character_system_text/1002/snd_voi_home_100202/11.wav|南国のリゾートもいいですよね。 雪が降らないのはちょっと 残念ですけど…。
+character_system_text/1002/snd_voi_home_100202/12.wav|『ワタシの勝負服とそっくり デース♪』ってタイキに 言われました。確かに…。
+character_system_text/1002/snd_voi_home_100202/13.wav|スペちゃんが髪の毛を結ぶの 手伝ってくれるんです。 『三つ編みは得意だから』…って。
+character_system_text/1002/snd_voi_home_100202/14.wav|今日のラッキーフードはドラゴン フルーツだと、フクキタルが… …どこで買えるんでしょう。
+character_system_text/1002/snd_voi_home_100202/15.wav|プルメリアの香りは集中力を 高めてくれるそうです。 …レース前によさそうですよね。
+character_system_text/1002/snd_voi_home_100202/16.wav|小さな真珠って綺麗… キラキラしていて、雪みたいで…。
+character_system_text/1002/snd_voi_home_100202/17.wav|うぅん…波の音は心地よすぎて アラームには向きませんね。
+character_system_text/1002/snd_voi_home_100202/18.wav|いい陽気… 日光浴でもしようかしら。
+character_system_text/1002/snd_voi_home_100202/19.wav|貝殻を耳にあてた時の音… なんだか落ち着きますよね。
+character_system_text/1002/snd_voi_home_100202/20.wav|ふぁ…木漏れ日が綺麗。 眠ってしまいそうなくらい…。
+character_system_text/1002/snd_voi_home_100202/21.wav|今日みたいな日に海へ行ったら 楽しいんだろうな…。
+character_system_text/1002/snd_voi_home_100202/22.wav|涼しいのは慣れています。 雪国育ちですから。
+character_system_text/1002/snd_voi_home_100202/23.wav|ええと…大丈夫です。 走れば温かくなりますから。
+character_system_text/1002/snd_voi_training_100202/0.wav|今日はどこまで走りましょうか？
+character_system_text/1002/snd_voi_training_100202/1.wav|いずれは、水平線の向こうまで…。
+character_system_text/1002/snd_voi_training_100202/2.wav|風の音が聞こえます。 心地いい…。
+character_system_text/1002/snd_voi_training_100202/3.wav|サンダルのベルト、 しっかり留めておかないと…。
+character_system_text/1002/snd_voi_training_100202/5.wav|ええと…何か、気になりますか？
+character_system_text/1002/snd_voi_training_100202/6.wav|たまにはどこかでのんびり… というのもいいかもしれませんね。
+character_system_text/1002/snd_voi_training_100202/7.wav|これからも、たくさんの景色を 一緒に見に行きたいです。
+character_system_text/1002/snd_voi_training_100202/8.wav|夢のような景色でした…！
+character_system_text/1002/snd_voi_training_100202/9.wav|この鮮やかな思い出…忘れません。
+character_system_text/1002/snd_voi_outgame_100202/0.wav|青く、深く…！
+character_system_text/1002/snd_voi_outgame_100202/1.wav|大海原の果てまで…！
+character_system_text/1002/snd_voi_outgame_100202/2.wav|サイレンススズカです。 海の向こうまで…行ってみませんか？
+character_system_text/1002/snd_voi_gacha_100202/0.wav|風の呼ぶまま―― 青い海の向こうまで…！
+character_system_text/1002/snd_voi_race_100202/1.wav|海も星空も越えて、先へ…！
+character_system_text/1002/snd_voi_race_100202/2.wav|誰もいない空、海、そして―― ふふふっ…！どこまでも続く…道！
+character_system_text/1002/snd_voi_race_100202/0.wav|景色が、彩られていくみたい…！
+character_system_text/1002/snd_voi_event_090028/2.wav|朝礼に、配膳当番に…。お風呂の 時間も細かいし、うぅん、今日も 好きなだけ走るのは無理そうね…。
+character_system_text/1002/snd_voi_event_090028/5.wav|朝起きてすぐに、大人数の子と 顔を合わせる生活…うん、 少しは慣れてきたのかしら…。
+character_system_text/1002/snd_voi_event_090028/8.wav|海に落とした時のエアグルーヴ、 本当にすごく驚いていて… …ふふっ。うん、楽しかったわ。
+character_system_text/1002/snd_voi_event_090028/10.wav|まだ脳裏に残っているの。 あの暑いビーチで、 笑うみんなの姿が…。
+character_system_text/1002/snd_voi_event_090028/14.wav|少し寂しくなるだなんて… 思ってもみなかったわ。
+character_system_text/1002/snd_voi_valentine_100200/0.wav|ハッピーバレンタイン
+character_system_text/1002/snd_voi_aimteam_100200/0.wav|お疲れ様です
