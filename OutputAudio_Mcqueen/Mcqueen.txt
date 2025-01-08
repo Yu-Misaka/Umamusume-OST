@@ -1,0 +1,1325 @@
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_2.wav|Mcqueen|jp|言いましたでしょ、オグリさんの走る姿を…… 勇姿を目の前で見たいと！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_12.wav|Mcqueen|jp|そうですわ、だってトレーナーさんもオグリさんも こんなに素晴らしいレースをしたのですから！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_11.wav|Mcqueen|jp|あっ、お疲れ様です、トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_24.wav|Mcqueen|jp|はいっ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_0.wav|Mcqueen|jp|ほら、サブトレーナーさん！ もっと急いでください！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_9.wav|Mcqueen|jp|これがオグリさんの…… “エース”の走りですのね……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_19.wav|Mcqueen|jp|そうですわね。サブトレーナーさんは ちょっと頼りないですから、逆にこの私が支えてさしあげますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_8.wav|Mcqueen|jp|すごい……すごいですわ！ 本当に勝ってしまうなんて！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_20.wav|Mcqueen|jp|私が春の天皇賞を勝てば、 少しはサブトレーナーさんも自信がつくでしょうし。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_1.wav|Mcqueen|jp|オグリさんの最後のレース、ゴールの瞬間を見逃しでもしたら 一生後悔することになりますわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_4.wav|Mcqueen|jp|あーもう、ゴールしてしまいます！ ほら、私の手に掴まって！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_7.wav|Mcqueen|jp|うわぁ……っ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001011_21.wav|Mcqueen|jp|どうぞご期待くださいませ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_11.wav|Mcqueen|jp|ですから、どうぞごゆっくり！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_7.wav|Mcqueen|jp|それでは、私はチームメンバーの勧誘にでも 行ってきますわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_5.wav|Mcqueen|jp|トレーナーさんと話したいことがあるらしいので、 こうして場を設けただけですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_10.wav|Mcqueen|jp|別に怒っていませんっ。ライアンと貴方がどんな内緒話を しようが、私には関係ありませんし。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_1.wav|Mcqueen|jp|ここからはもう少し速いペースでっ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_9.wav|Mcqueen|jp|邪魔者はとっとと退散させていただきます。 ええ、どうせ私は邪魔者ですからっ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_8.wav|Mcqueen|jp|なんでもライアンは、トレーナーさんと2人っきりで 内緒のお話をしたいとのことですので。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_4.wav|Mcqueen|jp|違いますわ。彼女はメジロライアン。 私と同じメジロ家のウマ娘です。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_2.wav|Mcqueen|jp|春の天皇賞、私は絶対に勝たないと いけないのですから！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001031_0.wav|Mcqueen|jp|はっ……はぁっ……はっ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_13.wav|Mcqueen|jp|――って、気づいていましたの！？ 私が自主トレしていることを。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_22.wav|Mcqueen|jp|いつだって私たちのことを1番に優先して。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_15.wav|Mcqueen|jp|で、自主トレを止めろ と仰いたいのですね？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_21.wav|Mcqueen|jp|ふふ、その迷いのない返事、 サブトレーナーのころから変わらないですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_9.wav|Mcqueen|jp|ここは……？　え、トレーナーさん？ どうして……？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_16.wav|Mcqueen|jp|……このような醜態を晒してしまった以上、 私にはなにも言えませんわ。貴方の指示に従います。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_12.wav|Mcqueen|jp|そうみたいですわね……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_10.wav|Mcqueen|jp|……熱。はぁ……思っていた以上に 疲労が溜まっていたようですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_11.wav|Mcqueen|jp|小さい頃、はしゃぎまわった後に よく熱を出していたことを思い出しますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_6.wav|Mcqueen|jp|はっ、はぁっ……はっ、はぁっ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_25.wav|Mcqueen|jp|そして、絶対に勝ちますわよ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_8.wav|Mcqueen|jp|……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_7.wav|Mcqueen|jp|……はっ、はっ……ん、あっ……ぁあっ！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_17.wav|Mcqueen|jp|どうしてそのこと……あっ！ ライアンから聞いたんですのね？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_14.wav|Mcqueen|jp|……そうですか。 そういうところの鼻は、あいも変わらず利きますのね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_23.wav|Mcqueen|jp|――わかりました。 でしたら私も遠慮はしません。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_24.wav|Mcqueen|jp|天皇賞制覇の夢を叶えるため、 トレーナーさんにとことんわがままを言わせていただきます。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_20.wav|Mcqueen|jp|トレーナーさんに、その覚悟はありますの？ 私と……その、“一心同体”のような関係になる覚悟が。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_19.wav|Mcqueen|jp|けど、いいんですの？　本気で私の手伝いをするということは メジロ家の使命を共に背負うということ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001041_18.wav|Mcqueen|jp|……まったく、内緒話ってそのことでしたの。 相変わらずお節介なんですから。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_3.wav|Mcqueen|jp|ふふっ、そうですわよね。 この程度で音を上げたりなどしていられませんし。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_2.wav|Mcqueen|jp|ちなみに、私はまだまだ走れますが。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_1.wav|Mcqueen|jp|メニューはひと通り終わりましたけど、 この後はどうします？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_0.wav|Mcqueen|jp|はぁ……ふぅ……ふぅ～……。 だいぶ息の整え方がわかってきましたわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_9.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_17.wav|Mcqueen|jp|ええ、必ず勝って参りますわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_13.wav|Mcqueen|jp|んもう、しっかりしてくださいませ。 トレーナーには大事なスキルですのよ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_11.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_16.wav|Mcqueen|jp|夢はもう、手の届く位置にあります。 あとは全力で掴みに行くだけ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_12.wav|Mcqueen|jp|あの……緊張をほぐすの ヘタクソすぎません？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_4.wav|Mcqueen|jp|それでは行って参りますわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_14.wav|Mcqueen|jp|逆に今ので気が抜けてしまったのではと 心配になってしまいますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_15.wav|Mcqueen|jp|……ふふっ、 そうしてくださいませ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001051_10.wav|Mcqueen|jp|え……？　ええ、そうですわね……。 せっかくの京都ですし、京料理とか。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_0.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_4.wav|Mcqueen|jp|そして、この結果を出すことができたのは トレーナーさんのおかげです。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_2.wav|Mcqueen|jp|天皇賞制覇を成し遂げましたわ！！ これでメジロ家に、私の盾を飾れますわ！！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_1.wav|Mcqueen|jp|やりましたわっ！！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_6.wav|Mcqueen|jp|ふふっ、これからもたくさん 勝利を重ねて差し上げますわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_5.wav|Mcqueen|jp|たった1人のメンバーのために尽くしていただいて、 本当に感謝していますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_3.wav|Mcqueen|jp|ごめんあそばせ、はしゃいでしまって。 でも、それほどの結果なんですもの。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001053_7.wav|Mcqueen|jp|さあ、このあとはウイニングライブ。 応援してくださった皆さんに歌で感謝を伝えて参りますわね！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_34.wav|Mcqueen|jp|ええ、次のレースのことも 見据えておかないと……ですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_27.wav|Mcqueen|jp|……別に見るのは構いませんけど、 邪魔はしないでくださいませ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_33.wav|Mcqueen|jp|自覚がありませんの？ “貴方に絡まれたから”ですわ、まったく。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_35.wav|Mcqueen|jp|天皇賞を勝ったと言っても 私のレースはまだまだ続きますもの。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_43.wav|Mcqueen|jp|はあ……！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_10.wav|Mcqueen|jp|結果を出すというのは、 こんなにも大きな影響を及ぼすものなのですね……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_40.wav|Mcqueen|jp|真面目ですわよ！ ふざけるような空気ではなかったでしょ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_31.wav|Mcqueen|jp|ふぅ……。今日は激しく疲れましたわ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_20.wav|Mcqueen|jp|ご、ゴールドシップさん……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_11.wav|Mcqueen|jp|とにかく、チームとして正式に認められるまで、 あと一歩ですわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_2.wav|Mcqueen|jp|あ、ありがとうございます……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_15.wav|Mcqueen|jp|あれにはコツがありますの、お見せしますわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_24.wav|Mcqueen|jp|そんなことしてませんわよ！ というか、相手の攻撃ってなんですの！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_18.wav|Mcqueen|jp|……って、誰ですの！？ どさくさに紛れてたかろうとするのは！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_30.wav|Mcqueen|jp|やりませんわよっ！！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_6.wav|Mcqueen|jp|はぁ……ふぅ……。 トレーナーさん、今のタイムは？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_21.wav|Mcqueen|jp|知り合い……といいますか、 なぜかよく絡んでくる相手といいますか……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_8.wav|Mcqueen|jp|も、もう…… いいかげんにしてくださいませ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_17.wav|Mcqueen|jp|ええ、かしこまりましたわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_37.wav|Mcqueen|jp|当然ですわ。メジロ家の栄誉は いくつあっても困る物ではありません。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_9.wav|Mcqueen|jp|ですけど、こうしてたくさんの方と トレーニングに励むなんて、本当に久しぶりですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_4.wav|Mcqueen|jp|え、ええ……頑張りましょう。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_45.wav|Mcqueen|jp|本当に大丈夫ですの？　このチーム……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_13.wav|Mcqueen|jp|もちろん、かまいませんわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_38.wav|Mcqueen|jp|それに私には、このチームを 盛り上げていくという義務がありますから。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001061_5.wav|Mcqueen|jp|うう……なんだかくすぐったいですわ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_22.wav|Mcqueen|jp|はぁ……はぁ……はぁ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_36.wav|Mcqueen|jp|皆さんは私の走りを見て、 一緒に走りたいと思ってくれたのですよね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_11.wav|Mcqueen|jp|あっ！？　先導するのは私の役割ですのよ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_34.wav|Mcqueen|jp|あ……ええ。 ちょっとメンバーのことを考えてましたの。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_41.wav|Mcqueen|jp|ええ、任せてくださいませ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_37.wav|Mcqueen|jp|そう考えると、誇らしいような 気恥ずかしいような、複雑な気持ちですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_25.wav|Mcqueen|jp|ライアンには負けていられませんわ。 宝塚記念の時には、してやられましたから。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_28.wav|Mcqueen|jp|うう……。 このヨイショはいつまで続きますの？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_0.wav|Mcqueen|jp|見えてきましたわ。 あの島がメジロ家の別荘ですの。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_38.wav|Mcqueen|jp|春の天皇賞を勝って、チームとしての形を 保つことはできましたが……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_19.wav|Mcqueen|jp|みっちり遊ぶようにしか見えませんわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_4.wav|Mcqueen|jp|んもう、遊びに来たわけじゃないんですのよ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_39.wav|Mcqueen|jp|トレーナーさん、 私には新たにすべきことができました。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_9.wav|Mcqueen|jp|さあ、皆さんもう1周しますわよ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_2.wav|Mcqueen|jp|島を破壊しないでくださいませっ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_35.wav|Mcqueen|jp|1度はもぬけの殻になったチームに 今はこうして、メンバーがいます。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_5.wav|Mcqueen|jp|はぁ……。 トレーナーさんまでそんなこと言って。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_40.wav|Mcqueen|jp|期待してくださる皆さんに 愛想を尽かされぬよう、これからも走り続けることですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_32.wav|Mcqueen|jp|あ、抜け駆けですわよ！ 私だって走ります！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_21.wav|Mcqueen|jp|ま、待ってください！ 飛ばし過ぎですーっ！！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_16.wav|Mcqueen|jp|ゴールドシップさん！ 貴方はなにをやってますの！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001071_33.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_31.wav|Mcqueen|jp|貴方の場合、手合せよりも先に ゲート試験をしっかりと受けてください。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_21.wav|Mcqueen|jp|もう……あくまで勝ったらの話ですわよ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_15.wav|Mcqueen|jp|おはようございます、皆さん。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_12.wav|Mcqueen|jp|そ、そんなワケありませんわっ！ メジロ家のウマ娘として、常に胸を張っていますもの！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_27.wav|Mcqueen|jp|はぁ……はぁ……ふぅ～……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_3.wav|Mcqueen|jp|ええ、よろしいですわよ。 あと“メジロマックイーン”ですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_9.wav|Mcqueen|jp|ええ、さようなら。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_29.wav|Mcqueen|jp|理想のレース展開に持って行くためにも、 ダッシュ力と位置取りを意識しなくてはいけませんわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_36.wav|Mcqueen|jp|えっ？　無理に付き合わなくても……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_25.wav|Mcqueen|jp|さあ、それではトレーニングを 始めますわよ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_28.wav|Mcqueen|jp|宝塚記念では、好位をとれないばっかりに コーナーで大回りする羽目になりましたもの。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_1.wav|Mcqueen|jp|ここまで持ち上げられるとは、 私自身も思いませんでしたわ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_7.wav|Mcqueen|jp|ありがとうございます。必ず勝利いたしますわね。 あと“メジロマックイーン”ですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_33.wav|Mcqueen|jp|せっかくの上り調子ですし、 私はもう1本走ってきますわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_24.wav|Mcqueen|jp|わかりましたわ皆さん。 次のレースも、必ず勝ってみせます。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_40.wav|Mcqueen|jp|ちょっと！！ 尻尾を握ろうとしないでくださいませっ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_17.wav|Mcqueen|jp|京都大賞典の後から、 ひっきりなしですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_38.wav|Mcqueen|jp|もう……では行って参りますわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_14.wav|Mcqueen|jp|もう、適当なことを言わないでください。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_10.wav|Mcqueen|jp|……思っていた以上に 評判というのは膨らんでいくものですのね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_32.wav|Mcqueen|jp|あの、トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001081_5.wav|Mcqueen|jp|もう……ひやかしはやめてくださいませ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_6.wav|Mcqueen|jp|とにかく、取材の件は承りました。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_1.wav|Mcqueen|jp|そのようですわね……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_0.wav|Mcqueen|jp|私が、記者会見を……？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_39.wav|Mcqueen|jp|私を信頼してくださるチームメンバーと、 トレーナーさんからの期待……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_5.wav|Mcqueen|jp|いえ、気の緩みが思わぬ事態を 招くこともありますから。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_12.wav|Mcqueen|jp|ええ。今ではメンバーも増え、 ようやく持ち直せたと言いましょうか……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_37.wav|Mcqueen|jp|ふうぅー……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_31.wav|Mcqueen|jp|でも、仕上がりが順調な今こそ その調子を崩したくないんです。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_27.wav|Mcqueen|jp|あの……私は遠慮しておきますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_40.wav|Mcqueen|jp|……皆さん、必ず勝ってみせますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_21.wav|Mcqueen|jp|普通に答えたのですから当然ですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_10.wav|Mcqueen|jp|それは……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_15.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_32.wav|Mcqueen|jp|よろしいですか？　トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_19.wav|Mcqueen|jp|皆さんの期待にお応えできるよう、 レース当日までしっかりとトレーニングに励んで参ります。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_28.wav|Mcqueen|jp|今日は取材も入ってしまいましたし、 その分のトレーニングをしたいと思ってましたので。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_30.wav|Mcqueen|jp|もちろん無理はしませんわ。 前に倒れたこともありますし。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_8.wav|Mcqueen|jp|自信はもちろんありますが、勝負ではなにが起こるか わかりませんから。慢心せずに挑みたいと思っております。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_4.wav|Mcqueen|jp|貴方、私がケーキ屋の前で 悩んでいたのを見ましたわね！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_38.wav|Mcqueen|jp|メジロ家のウマ娘としての期待、 応援してくださるファンの方々の期待、そして――
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_33.wav|Mcqueen|jp|ありがとうございます。 では、行って参ります。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_16.wav|Mcqueen|jp|え？　ああ、その……そうですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001091_18.wav|Mcqueen|jp|私を1番人気に推していただき、光栄に存じます。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_11.wav|Mcqueen|jp|ええ、そういたしますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_30.wav|Mcqueen|jp|あれは私の判断で行ったことです！ トレーナーさんはなにも関係ありません！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_18.wav|Mcqueen|jp|それよりも、今度はちゃんと勝利して 明るい話題の取材を受けないとですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_20.wav|Mcqueen|jp|寮は目の前ですのよ？ 別に送っていただかなくても平気ですのに……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_3.wav|Mcqueen|jp|えっ！？　ええ、もちろんですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_34.wav|Mcqueen|jp|……わかりましたわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_27.wav|Mcqueen|jp|おひとりおひとり、 お詫びをさせていただきました。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_31.wav|Mcqueen|jp|だって、これではまるで トレーナーさんが原因だと思われて……！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_38.wav|Mcqueen|jp|どうかジャパンカップへの出走を 認めてください。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_33.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_15.wav|Mcqueen|jp|私を取材しようと待ち構えていたんですわ、きっと。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_5.wav|Mcqueen|jp|でも、だからこそ下を向いてなんていられません。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_24.wav|Mcqueen|jp|この度は、レースに関係する方々に ご迷惑をおかけし、まことに申し訳ございませんでした。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_29.wav|Mcqueen|jp|……トレーナーさんの指示！？ そんなことありませんわっ！！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_21.wav|Mcqueen|jp|ですから、私は別にかまいませんのに……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_19.wav|Mcqueen|jp|さあ、体を動かしたい気分ですわ！ 行きますわよ、トレーナーさん！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_4.wav|Mcqueen|jp|多くの方の期待に応えられず、 一緒に出走した方々を危険な目に合せてしまったのは事実です。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_35.wav|Mcqueen|jp|あの……トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_14.wav|Mcqueen|jp|……記者の方たちですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_36.wav|Mcqueen|jp|次のレース、予定していた有馬記念より先に ジャパンカップへ出走したいのですが。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_6.wav|Mcqueen|jp|レースの失態は、レースで取り戻してみせます。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_25.wav|Mcqueen|jp|私が未熟であったばかりに、周りへ気を配ることができず、 あのような事態を招いてしまいました。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_32.wav|Mcqueen|jp|トレーナーさん！！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_17.wav|Mcqueen|jp|別に気にしませんわ。 なにか聞かれれば誠心誠意、対応します。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_39.wav|Mcqueen|jp|ありがとうございます。 必ず……必ず勝ってみせますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001101_37.wav|Mcqueen|jp|いいえ、問題ありません。 走る準備は整っています。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_32.wav|Mcqueen|jp|ふう～……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_6.wav|Mcqueen|jp|そのせいで、期待を寄せてくださった 皆さんやトレーナーさんにまで、迷惑をかけた私をですか！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_17.wav|Mcqueen|jp|今日はレースで負けた上に、ご心配をおかけして なんと申し上げたらよいのか――
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_22.wav|Mcqueen|jp|私はこれからも 胸を張って走り続けますっ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_3.wav|Mcqueen|jp|変わっていませんわね。 私たちに真摯に向き合う、その姿勢……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_5.wav|Mcqueen|jp|……レース中、あってはならないミスを 犯した、私をですか？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_7.wav|Mcqueen|jp|……トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_1.wav|Mcqueen|jp|……なんだか、前にもこんなことが ありましたわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_31.wav|Mcqueen|jp|んもうっ、宣言は済みましたから 早く下ろしてくださいませ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_2.wav|Mcqueen|jp|私がくじけそうになっていると、 こうしてトレーナーさんが駆けつけてくれて。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_35.wav|Mcqueen|jp|それは私に夢を見てくださっている 証拠ですわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_19.wav|Mcqueen|jp|ちょ、ちょっとなにをっ！？ いったいなんのマネですのっ！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_12.wav|Mcqueen|jp|あの……ただいま戻りましたわ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_4.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_9.wav|Mcqueen|jp|私も……私も皆さんにとって、 そんなウマ娘になれていますか？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_36.wav|Mcqueen|jp|そして……その思いが 私の背中を押してくれています。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_38.wav|Mcqueen|jp|ええ、行ってきますわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_11.wav|Mcqueen|jp|……う、うう……ううう～……！！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_10.wav|Mcqueen|jp|チームの“エース”として…… 皆さんに夢を見せてあげられていますか？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_8.wav|Mcqueen|jp|“エース”……。 いつまでも、信じたくなるような存在……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_24.wav|Mcqueen|jp|それでも私は、皆さんの期待を背に受けて 走り続けてみせますわ！　チームの“エース”としてっ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_23.wav|Mcqueen|jp|負けることだって、落ち込んで 泣くことだってあるかもしれません！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_0.wav|Mcqueen|jp|と、トレーナーさん……！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001121_21.wav|Mcqueen|jp|わ、私は……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_24.wav|Mcqueen|jp|皆さん、行ってきますわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_6.wav|Mcqueen|jp|今日のレースに関しては、 私の力負けでした。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_3.wav|Mcqueen|jp|皆さん、わざわざ迎えに 来てくださったのですね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_31.wav|Mcqueen|jp|そ、そうですわね。 集中……集中……すいーちゅー……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_13.wav|Mcqueen|jp|ええ、もちろんです。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_40.wav|Mcqueen|jp|私はこれからも、 皆さんの夢であり続けてみせますわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_10.wav|Mcqueen|jp|ジャパンカップの時とは違い、 納得のいく走りはできました。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_19.wav|Mcqueen|jp|私、今日までレースのために 食事制限をしていたので、お腹がぺこぺこですの。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_39.wav|Mcqueen|jp|ありがとうございます、皆さん！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_8.wav|Mcqueen|jp|その辺りのことがよーくわかりましたわ。 それに……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_7.wav|Mcqueen|jp|とても実りの多いレースでしたから。 今の私に足りていないもの、今後鍛えていかなければならない箇所。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_5.wav|Mcqueen|jp|ええ、それは間違いありませんわ。 調整も完璧でしたし、勝負どころでの集中力もすごかったです。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_23.wav|Mcqueen|jp|ふふっ、行きますわよ！　トレーナーさん！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_20.wav|Mcqueen|jp|私たちの底知れぬ食欲を、 みっちりと教えて差し上げますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_0.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_33.wav|Mcqueen|jp|ええ、必ず勝って参ります！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_11.wav|Mcqueen|jp|トレーナーさんの、 そして皆さんの期待を“力”に変えて、全力で走れましたわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_16.wav|Mcqueen|jp|“エース”の名に恥じない走りを お見せいたしますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_27.wav|Mcqueen|jp|まあ、本当ですのっ！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_18.wav|Mcqueen|jp|……言いましたわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001131_32.wav|Mcqueen|jp|ふふっ、任せてくださいませ。今の私は皆さんに背中を 押していただいて、天までも昇っていけそうな気分ですわ！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002011_10.wav|Mcqueen|jp|はっ、はっ、はっ、はっ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002011_32.wav|Mcqueen|jp|それは“距離”ですわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002011_19.wav|Mcqueen|jp|はっはっ、はっはっ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002011_17.wav|Mcqueen|jp|……まさか、ここまでついて来るなんて。 ですが――
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002011_24.wav|Mcqueen|jp|も、もう、そのヨイショはやめてくださいませ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002011_31.wav|Mcqueen|jp|それと、一緒に走って確信したものがありますわ。 ライスさんにもう1つ足りていないもの。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002011_15.wav|Mcqueen|jp|はっ、はっ、はっ、はっ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002031_27.wav|Mcqueen|jp|……でも、次はちゃんとしたご褒美を頼みますわよ？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002031_5.wav|Mcqueen|jp|いくら今月のお給料が厳しいからって、 “こちらの遊園地”に来るのはどうなのです？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002031_28.wav|Mcqueen|jp|はっ、はっ、はっ、はっ、はっ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002031_7.wav|Mcqueen|jp|ちょっと！　そこは関係者専用の出入り口ですわよ！？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002031_4.wav|Mcqueen|jp|トレーナーさん……ライスさんはここが“有名な遊園地”だと、 本気で信じてますわよ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002031_26.wav|Mcqueen|jp|ライスさんの顔を見る限り、 このご褒美は正解だったようですわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_27.wav|Mcqueen|jp|あっ！？　……んもう、私が走りたくて ウズウズしてるのをわかっててああいうことを……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_0.wav|Mcqueen|jp|……まったく、とんだヘマをやらかしてしまいましたわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_10.wav|Mcqueen|jp|ふふっ、あとはトレーナーさんの付き添いだけで充分です。 ライスさんもトレーニングに戻ってください。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_1.wav|Mcqueen|jp|これから病院でちゃんと見てもらいますが、 どうやら宝塚記念は諦めざるを得ないようですわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_29.wav|Mcqueen|jp|ふふっ、その緊張ごと楽しむことをお勧めしますわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_5.wav|Mcqueen|jp|ライスさんとのトレーニングはできなくなってしまいますけど、 きっとチームの皆さんが力を貸してくれるでしょう。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_19.wav|Mcqueen|jp|お疲れ様です。皆さんにとっても、 よいトレーニングになっているみたいですわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_25.wav|Mcqueen|jp|こちらこそ、ライスさんの頑張る姿は励みになります。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_22.wav|Mcqueen|jp|み、見てましたのっ！？　あれはプリンが美味しすぎるのが いけないのであって、私は悪くありませんわ！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_8.wav|Mcqueen|jp|私たちの胸が躍るような熱いレースを、 ぜひとも見せてくださいませ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_4.wav|Mcqueen|jp|思い入れのあるこのレースで偉業を達成するためにも、 今はケガを治すことに専念します。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_3.wav|Mcqueen|jp|そんな暗い顔をしないでくださいませ。宝塚記念は残念ですが、 私には天皇賞3連覇という目標があります。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_13.wav|Mcqueen|jp|ええ、私も負けていられませんわ。 治療を頑張りませんと。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_7.wav|Mcqueen|jp|トレーナーさんも皆さんも、そして私も…… 貴方に期待をしています。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_12.wav|Mcqueen|jp|……今のライスさんには、 不思議とチームを引っ張る力がありますわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002041_23.wav|Mcqueen|jp|っと、そんなことより、 ライスさんの仕上がりは好調のようですわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002051_33.wav|Mcqueen|jp|レースのたびに縮まっている着差が、その証拠です。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002051_39.wav|Mcqueen|jp|ゆうに3000kmを超えますわよっ！？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002051_32.wav|Mcqueen|jp|臆することありませんわ。ライスさんはその 話題のウマ娘に匹敵する実力を持っているのですから。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002051_27.wav|Mcqueen|jp|なんでオムライスですの？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002061_13.wav|Mcqueen|jp|……ただ、心配なのはむしろブルボンさん本人よりも 勝った時に周りの方々が――
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002061_12.wav|Mcqueen|jp|あながち間違いじゃありませんわ。 ライスさんの“ついていく力”は、本物ですから。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002063_20.wav|Mcqueen|jp|心配なのはむしろ、多くの方々が期待した 三冠ウマ娘誕生を阻むということ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002063_15.wav|Mcqueen|jp|ええ！　見事、期待に応えてくれましたわ！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_34.wav|Mcqueen|jp|ちょっと！　適当なことを言わないでくださいませ！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_28.wav|Mcqueen|jp|ですが、ライスさんはこの状況を乗り越えなくてはいけません。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_39.wav|Mcqueen|jp|トレーナーさん、失礼します。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_29.wav|Mcqueen|jp|勝者として……期待を背負うものとしての、義務があるのですから。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_27.wav|Mcqueen|jp|……それはそうですわ。 努力の果てにあのような仕打ちでは、報われませんもの。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_37.wav|Mcqueen|jp|ライスさん、もう1度走りましょう。 今の私であれば、抜き去ることもできるはずです。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_19.wav|Mcqueen|jp|ライスさーん！　今日の走り、最高でしたわよー！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_40.wav|Mcqueen|jp|ええ、天皇賞のことでお願いがあってまいりました。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_16.wav|Mcqueen|jp|おやめなさい、仕方ないですわ。 ブルボンさんの三冠を望んでいた方々は多いのですから。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_42.wav|Mcqueen|jp|ライスさんも、そのレースに出走させてください。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_35.wav|Mcqueen|jp|私には天皇賞3連覇という大きな偉業がかかっていますの。 休んでいた分もトレーニングしないと。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_41.wav|Mcqueen|jp|私の3連覇がかかった春の天皇賞――
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002071_18.wav|Mcqueen|jp|それよりも私たちがすべきことは……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_3.wav|Mcqueen|jp|そして偶然にも菊花賞に似た状況なのが、 春の天皇賞です。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_6.wav|Mcqueen|jp|トレーナーさんは、トレーナーだからこそできることを…… ライスさんを天皇賞の舞台へと上げてください。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_2.wav|Mcqueen|jp|ブルボンさんの三冠を阻んだとして、称えてもらうべき 場面のはずなのに、まるで正反対の声が上がりました。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_8.wav|Mcqueen|jp|言っておきますが、負ける気はありません。メジロ家のウマ娘 として、天皇賞3連覇の偉業を達成してみせます。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_0.wav|Mcqueen|jp|私の3連覇がかかった春の天皇賞に、ライスさんも……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_4.wav|Mcqueen|jp|ライスさんには、そこで見せて差し上げたい “景色”がありますの。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_5.wav|Mcqueen|jp|ターフを駆ける者にしか伝えられないことは、 私が責任を持って伝えます。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_10.wav|Mcqueen|jp|ええ、よろしくお願いいたしますわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_7.wav|Mcqueen|jp|ふふっ、トレーナーさんは私が負けると思ってますのね。 と～っても傷つきましたわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_9.wav|Mcqueen|jp|トレーナーさんは大変ですわね。どちらが勝っても、 もう1人を慰めなくてはいけないのですから。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002081_1.wav|Mcqueen|jp|菊花賞でのブーイング……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002091_9.wav|Mcqueen|jp|……さあ、私もトレーニングですわ。 春の天皇賞まで、あっという間ですし。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002091_11.wav|Mcqueen|jp|ええ、信じていますわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002091_10.wav|Mcqueen|jp|ライスさんと天皇賞で走るのが楽しみですわ。 ね、トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002091_13.wav|Mcqueen|jp|あ、ちょっと！　お待ちなさいっ！ まだ公にする話ではありませんのよっ！！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002091_39.wav|Mcqueen|jp|ライスさん、しっかり前を見て走っていますわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002091_40.wav|Mcqueen|jp|ええ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002091_58.wav|Mcqueen|jp|ふふっ、臨むところですわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_25.wav|Mcqueen|jp|参りましたわね……ライスさんからの重圧が これほどのものだなんて……
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_7.wav|Mcqueen|jp|ここではそうですが、ターフの上では違います。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_10.wav|Mcqueen|jp|必ず先頭でゴールを駆け抜けてみせますわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_9.wav|Mcqueen|jp|皆さんが期待してくださる天皇賞3連覇……。 その“期待”が、私にとってなによりの“力”です。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_6.wav|Mcqueen|jp|あれだけのトレーニングを積んで気持ちも充分でしょうけど、 きっと不安もあるはずです。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_4.wav|Mcqueen|jp|あら、トレーナーさん。 ライスさんのところへは、行かなくていいのですか？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_27.wav|Mcqueen|jp|それでも私はメジロ家のウマ娘として、 そしてエースとして、全力で走るだけ
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_24.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_11.wav|Mcqueen|jp|ええ、任せてくださいませ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_5.wav|Mcqueen|jp|ふふっ、トレーナーの鑑ですわね。 ですが、ライスさんのところに行ってあげてくださいませ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002101_8.wav|Mcqueen|jp|私はこのレースに、全身全霊をかけて挑みます。 一切手を抜くことはありません。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_33.wav|Mcqueen|jp|ライスさん、自分が足りなかったものに 気が付いてくださったようですわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_31.wav|Mcqueen|jp|期待していますわ、ライスさん。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_37.wav|Mcqueen|jp|あと一歩でしたのに……勝ちたかったですのにぃ……っ！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_36.wav|Mcqueen|jp|……うう……うううっ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_9.wav|Mcqueen|jp|ですが、そこで私はその“景色”を目の当たりにしましたの。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_3.wav|Mcqueen|jp|ライスさん……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_23.wav|Mcqueen|jp|そうした方々の想いをここでしっかりと受け止めるのが、 勝者の義務であり、誇りでもあるのです。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_11.wav|Mcqueen|jp|きっとライスさんにも見えるはずですわ。 さあ、ステージに出ますわよ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_32.wav|Mcqueen|jp|……トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_8.wav|Mcqueen|jp|多くの人の期待を裏切ってしまい、 しっかりと前を向くことができなかったことが……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_21.wav|Mcqueen|jp|これが、レースを勝利した者だけが見られる“景色”――
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_35.wav|Mcqueen|jp|本当に……素晴らしい走りでしたわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_7.wav|Mcqueen|jp|……私も、秋の天皇賞で降着した時、 似たような体験をしましたわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_25.wav|Mcqueen|jp|僅かでも自分に期待をしてくださった人のために……そして、 期待が叶わなかった人のためにも、胸を張ってくださいませ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_34.wav|Mcqueen|jp|まったく、格好付かないですわね。 レースに出すよう頼んでおいて、負けてしまったのですから。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_38.wav|Mcqueen|jp|ううう……トレーナーさんっ！ うあああ……っ！！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_22.wav|Mcqueen|jp|自分に期待してくれた方々、期待が叶わなかった方々……。 この場に立つと、様々な顔を見ることができます。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002111_26.wav|Mcqueen|jp|さあ、見せて差し上げましょう。 勝者に相応しい姿を。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002121_3.wav|Mcqueen|jp|そもそもちょっかいを出さないでくださいませ！！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002121_7.wav|Mcqueen|jp|ええ、私だってもっと走りたいですもの。 すぐに帰ってきますわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002121_10.wav|Mcqueen|jp|それと、ライスさん……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002121_12.wav|Mcqueen|jp|どうか貴方の夢……皆さんに喜んでいただけるような、 そんなウマ娘を目指してください。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002121_1.wav|Mcqueen|jp|あくまで一時的にですわ。 メジロ家の事情で、外せない用ができてしまいましたの。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002121_9.wav|Mcqueen|jp|どうかその絆を、大事にしてくださいませ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002121_8.wav|Mcqueen|jp|このチームは、皆さんがお互いを支え合い、 夢に向かって走ることのできるチームです。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_2.wav|Mcqueen|jp|お邪魔しますわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_8.wav|Mcqueen|jp|私は今日、その為に来たのですわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_4.wav|Mcqueen|jp|……なるほど。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_16.wav|Mcqueen|jp|さあ、それでは以前と同じように、 私とブルボンさんの後ろについてきてください。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_10.wav|Mcqueen|jp|それに、これ以上チームの皆さんと走るのを 我慢しきれませんわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_7.wav|Mcqueen|jp|ということで……さっそく着替えてきますわね。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_3.wav|Mcqueen|jp|ライスさん、この前のレースでも振るわなかったようですが、 調子はどうです？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_24.wav|Mcqueen|jp|ライスさん、貴方の努力する姿が……その強い心が、 私たちにとって大きな支えとなっています。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_25.wav|Mcqueen|jp|今一度見せてくださいませ。 私やブルボンさんに勝利した、貴方の走りを。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_9.wav|Mcqueen|jp|まだこちらの用が終わりきったわけではありませんが、 いくらか時間を作れるようになりましたので。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_11.wav|Mcqueen|jp|――とその前に、1つお願いを聞いていただきたいのですが……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_18.wav|Mcqueen|jp|……あ、でも私生活にまでついてこなくても大丈夫です。 今回は、常識の範囲内でお願いしますわ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_6.wav|Mcqueen|jp|でも逆に言えば、目標をしっかりと示すことで 以前のように走れる可能性があるということですわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002131_5.wav|Mcqueen|jp|今のライスさんは、追いかけるべき背中を 見つけられていないのかもしれません。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003011_32.wav|Mcqueen|jp|どれだけわさびを入れますの！？
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003011_27.wav|Mcqueen|jp|キャベツ？　なんの話をしてますの？
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003011_30.wav|Mcqueen|jp|嫌な予感しかしませんわ……。 トレーナーさん、焼きそばの毒味は任せます。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003011_37.wav|Mcqueen|jp|それを目標とする人もいるくらいで、表彰されると東京レース場 にあるウマ娘ミュージアムで写真や戦績が展示されますのよ。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003011_36.wav|Mcqueen|jp|貴方、知りませんの？　輝かしい功績を残した、 ウマ娘やトレーナーに与えられる栄誉ですわ。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003021_43.wav|Mcqueen|jp|話は聞いています、チケットさん。 ダービー制覇を目指しておられるのですよね。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003021_44.wav|Mcqueen|jp|ダービーは多くのウマ娘にとって憧れ。 ライバルも多いでしょうが、夢に向かって頑張りましょう。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003101_14.wav|Mcqueen|jp|トレーナーさん、チケットさんのことを しっかり見てあげてくださいませ。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003101_12.wav|Mcqueen|jp|いつもの気合いも、底抜けな元気も感じませんわね。 皐月賞で負けたことが、それだけショックなのでしょう。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003111_8.wav|Mcqueen|jp|今日はダービーの公開トレーニング―― ですからいつも以上にカメラマンも多いみたいですわね。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003111_5.wav|Mcqueen|jp|取材の方々ですわ。 今日は“公開トレーニング”の日ですから。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003111_7.wav|Mcqueen|jp|レースが近づくと、いつもやっていますでしょ？ 仕上がりの状態を取材陣の方に見ていただくということを。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003111_2.wav|Mcqueen|jp|なんで準備運動で力を使い果たしますの！？ ちゃんとトレーニングしてくださいませ！
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003131_1.wav|Mcqueen|jp|チケットさん、これまでになく集中していますわね。 背中からも見てとれるほどですわ。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003131_11.wav|Mcqueen|jp|これでもう大丈夫ですわ！ チケットさん、最高のダービーを！
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003131_6.wav|Mcqueen|jp|どうしても痒いのでしたら、 私たちがとっておきの方法で送り出してあげますわ。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003133_2.wav|Mcqueen|jp|当然ですわ、最高のダービーだったのですから。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004012_11.wav|Mcqueen|jp|皐月賞であれだけの走りをしてみせましたのに、 まだまだ力をつける一方のようですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004012_29.wav|Mcqueen|jp|三冠を取ったところで、 あの方のレースに対する渇望は治まらない……。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004012_17.wav|Mcqueen|jp|……トレーナーさん、またトレーニングメニューを 見直す必要がありそうですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004012_28.wav|Mcqueen|jp|そのままの意味ですわ。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004031_10.wav|Mcqueen|jp|ダービーという大舞台で背負う、1番人気のプレッシャーに どう立ち向かうか……ここが1つの山場ですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004031_9.wav|Mcqueen|jp|多くの期待は、一歩間違えれば大きな障害になりますわ。 かつての私のように。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004031_6.wav|Mcqueen|jp|ものすごい記者の数ですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004031_8.wav|Mcqueen|jp|恐らくレース当日も1番人気に推されることは 間違いないでしょうが……。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004031_7.wav|Mcqueen|jp|ここまで5連勝、そのうちＧⅠ勝利が2つ―― その勢いで次に挑むのが日本ダービーですものね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004051_31.wav|Mcqueen|jp|あの方のレースをご存じないのですか？ 後方から一気に先頭へ立つ、驚異的な脚――
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004051_32.wav|Mcqueen|jp|ブライアンさんのレース以上に 衝撃を受けたと仰る方もいるほどですのよ。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004051_9.wav|Mcqueen|jp|皆さん、勝つことを前提に話をされてますわね。 さすがブライアンさんですわ。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004061_4.wav|Mcqueen|jp|次はいつ、この歴史的な瞬間に立ち会えるかわかりませんもの。 取材が押し寄せてくるのも当然です。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004061_10.wav|Mcqueen|jp|一緒に走りたかった相手が出走できないだなんて、 少し心配ですわね……。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004061_9.wav|Mcqueen|jp|それもありますし、有馬記念で共に走ることを ブライアンさん自身も楽しみにされていたと思いますから。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004061_7.wav|Mcqueen|jp|前はお誘いしたのに断られましたものね。 気持ちの整理がついていなかったのかもしれません。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004061_3.wav|Mcqueen|jp|それはそうですわ。なにせ“三冠ウマ娘”という とてつもない偉業を果たしたのですから。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004061_6.wav|Mcqueen|jp|ブライアンさんは、ハヤヒデさんのお見舞いへ？
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004073_3.wav|Mcqueen|jp|ええ……マークしてきた相手を振り切るだなんて……。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_6.wav|Mcqueen|jp|長距離レースでありながら、上がりタイムが自己ベストだなんて。 留まるところを知らないとは、このことですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_32.wav|Mcqueen|jp|私も同じ気持ちですが、期待をかけてばかりいてもダメですわね。 ブライアンさんを見習いませんと。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_34.wav|Mcqueen|jp|レースに挑むといえば、ブライアンさんの出走登録が そろそろ締め切りなのでは？
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_36.wav|Mcqueen|jp|最高のパフォーマンスに仕上げても、 レースに出られなかったら意味がありませんもの。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_30.wav|Mcqueen|jp|どこまでも走る気持ちが前向きですわね、ブライアンさんは。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_38.wav|Mcqueen|jp|ブライアンさんっ！？
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_5.wav|Mcqueen|jp|お疲れ様です、ブライアンさん。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_33.wav|Mcqueen|jp|……あっ！？
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_37.wav|Mcqueen|jp|……っ！？
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004081_11.wav|Mcqueen|jp|ルドルフ会長の七冠越えも確実と言われていますし、 今年はどれだけの記録を出すのでしょう。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004101_25.wav|Mcqueen|jp|ええ……そうですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004101_24.wav|Mcqueen|jp|レース勘が鈍るというのもありますし、復帰後すぐに 状態をピークにもっていくのはとても難しいことですわ。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004111_30.wav|Mcqueen|jp|位置取りは申し分ないですわっ！ ここから一気にっ！！
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004131_6.wav|Mcqueen|jp|ブライアンさん、精いっぱい走ってきてくださいませ。 私たちも全力で応援させていただきます。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004131_11.wav|Mcqueen|jp|行ってらっしゃいませ。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004131_4.wav|Mcqueen|jp|それはこれまで我々が、ブライアンさんの走りに圧倒されるだけの 傍観者であったからですわ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005012_3.wav|Mcqueen|jp|ええ、それだけに多くのウマ娘たちの憧れであり、 目標なのですわ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005012_19.wav|Mcqueen|jp|いよいよデビューしますのね、レースを見るのが楽しみですわ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005012_9.wav|Mcqueen|jp|なんの歓声でしょう？ あちらの方で盛り上がっているようですわね。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005012_6.wav|Mcqueen|jp|貴方だって真面目に走れば、栄光を掴む可能性はありますのよ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005041_42.wav|Mcqueen|jp|というか、貴方もトレーニングしてくださいませっ！
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_18.wav|Mcqueen|jp|それぞれが自分の能力に即したスタイルを確立し、 1番勝てるという走り方を突き詰めています。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_16.wav|Mcqueen|jp|ブライアンさんは爆発力のある末脚を長く使えるので、道中は控え、 最後の直線で他を一気に突き放す攻撃的な勝ち方。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_17.wav|Mcqueen|jp|ライスさんは持ち前のスタミナを活かしたロングスパートで ライバルを完封する。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_19.wav|Mcqueen|jp|ですが、スズカさんのは誰もが1度は理想として考え、 そして実現不可能という答えに行きつく走り――
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_13.wav|Mcqueen|jp|ええ……ただの“逃げ”ではありませんもの、 スズカさんのそれは。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_12.wav|Mcqueen|jp|重賞連勝もさることながら、その内容の方が印象的ですわ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_15.wav|Mcqueen|jp|私は、スタミナを武器に速いレース展開へと持ち込み、 好位から一気に抜け出す王道パターン――
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_14.wav|Mcqueen|jp|個人の性格が十人十色であるように、 私たちウマ娘の走り方にもそれぞれの特色があります。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005081_21.wav|Mcqueen|jp|これから先も、もっともっと見てみたいですわ。 夢としか思えない、スズカさんの走りを……！
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005093_1.wav|Mcqueen|jp|重賞レースですわよ、これ！？ なのに、10バ身以上引き離しての大差勝ちだなんて！？
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005093_5.wav|Mcqueen|jp|まったく……夢としか言いようのない走りを 見せられてしまいましたわね……！
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005093_4.wav|Mcqueen|jp|さすがにそれは無理ですが、お気持ちは私にもわかります。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005112_2.wav|Mcqueen|jp|本当ならこの辺りでスピードを緩めますのに…… スズカさんの場合は、ここからっ！
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005112_1.wav|Mcqueen|jp|誰もが真似できない、ウマ娘にとって夢のような走り……！ 見ているだけで興奮してきますわ！
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_3.wav|Mcqueen|jp|スズカさんを勝たせるため？
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_12.wav|Mcqueen|jp|これ以上は無理、これ以上は限界だと、私だって何度も感じました。 多分、＜シリウス＞の皆さんもそうでしょう。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_7.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_8.wav|Mcqueen|jp|そうですわね、まずは肩の力を抜くこと……でしょうか。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_2.wav|Mcqueen|jp|大事に至らなかったのが幸いです。 ……それで、倒れるほど無理をしていた理由はなんですの？
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_14.wav|Mcqueen|jp|私たちを信じ、共に夢を見てくれる方々の“想い”があれば、 “ウマ娘”はどこまでだって駆けていける。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_11.wav|Mcqueen|jp|己の夢を叶えるその過程で、ウマ娘は何度も限界だと 感じることがあります。時には肉体的に、時には精神的に。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_16.wav|Mcqueen|jp|私たちが挫けそうな時、どなたが支えてくださいましたか？ 夢に向かって走っている時、どなたが一緒に夢を見てくれましたか？
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_29.wav|Mcqueen|jp|スズカさんなら、まだコースで走っておられますわ。 どうか背中を押してあげてくださいませ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_17.wav|Mcqueen|jp|トレーナーさんがいつだって二人三脚で歩んできてくれたから、 今の私たちがあるのです。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_18.wav|Mcqueen|jp|私たちは、想い描いた以上の夢を叶えてこれたのです。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_9.wav|Mcqueen|jp|トレーナーさん、私は万が一など起こらないと思いますわ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_5.wav|Mcqueen|jp|スズカさんの走りのリスク……。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_6.wav|Mcqueen|jp|……万が一が起きてしまうのではと、おっしゃりたいのですね。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_13.wav|Mcqueen|jp|ですが、それを乗り越えられるのも“ウマ娘”なのです。 そして1度乗り越えたそれは、もはや限界ではありません。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_28.wav|Mcqueen|jp|だってトレーナーさんがそれほどまでに強く、 スズカさんに“想い”を託しているのですから。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_10.wav|Mcqueen|jp|トレーナーさんは聞いたことありませんか？ ウマ娘はたくさんの“想い”を背負い、走るのだと。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_1.wav|Mcqueen|jp|最近、根を詰めてお仕事をされているとは思っていましたが、 まさか倒れるまでとは思いませんでしたわ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_19.wav|Mcqueen|jp|たった1人のメンバーのために尽くしていただいて、 本当に感謝していますわ。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_4.wav|Mcqueen|jp|今のスズカさんの充実ぶりを考えれば、倒れるほどに心配する 要素はないと思いますが……本当にそれが理由ですか？
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_0.wav|Mcqueen|jp|目が覚めましたか、トレーナーさん。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_15.wav|Mcqueen|jp|なにより、それを証明してくれたのは貴方ではないですか。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_20.wav|Mcqueen|jp|それでも私は、皆さんの期待を背に受けて 走り続けてみせますわ！　チームの“エース”としてっ！
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005121_27.wav|Mcqueen|jp|スズカさんと進む道の先に限界があったとしても、きっと大丈夫。 必ず乗り越えられます。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005131_3.wav|Mcqueen|jp|走る本人よりも緊張しているみたいですわね……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006021_24.wav|Mcqueen|jp|ウマ娘の支えとなって、共に夢を掴む。 天皇賞を制覇したあの時から、ずっとそのままですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006021_22.wav|Mcqueen|jp|今日も残って情報収集ですか？
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006021_27.wav|Mcqueen|jp|私たちチームメンバーも尽力いたしますわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006021_23.wav|Mcqueen|jp|……トレーナーさんは本当にお変わりありませんわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006021_25.wav|Mcqueen|jp|ええ、本当に……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006021_26.wav|Mcqueen|jp|ですが、今度の夢は大変ですわね。 なにせゴールは“日本一のウマ娘”ですから。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006031_28.wav|Mcqueen|jp|ふぅ……お疲れ様でした、スペシャルウィークさん。 ますますレース運びが上達していますわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006031_6.wav|Mcqueen|jp|私たちも精いっぱい応援いたしますわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_2.wav|Mcqueen|jp|私は、貴方がなぜここにいるのかで悩んでいます。 メジロ家の新年会の席ですのよ、ここは。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_42.wav|Mcqueen|jp|いえ……やはり、そうなりますわよね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_40.wav|Mcqueen|jp|ブライトの春の目標は天皇賞春ですか……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_29.wav|Mcqueen|jp|“黄金世代”……ですわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_23.wav|Mcqueen|jp|ブライト、天皇賞春の勝利は本当にお見事でしたわ。 URA賞も受賞されたそうで。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_9.wav|Mcqueen|jp|ドーベルは去年もGⅠ勝利を収め、乗りに乗っていますわね。 なにかと話を耳にしますし、期待の高さがうかがえますわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_7.wav|Mcqueen|jp|ライアンにドーベル、明けましておめでとうございます。 今年もよろしくお願いいたしますわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006071_5.wav|Mcqueen|jp|わけがわかりませんわ……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006081_3.wav|Mcqueen|jp|天皇賞春へ向けて最高の門出になりましたわ！
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_4.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_16.wav|Mcqueen|jp|レースについてお話しすると仰っていましたので、 私もなにか力になれることはないかと。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_6.wav|Mcqueen|jp|ええ、ああ見えてブライトは芯の強いウマ娘ですから。 もちろん、実力も。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_17.wav|Mcqueen|jp|ええ、承知いたしましたわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_56.wav|Mcqueen|jp|ふふっ、でしたらお願いいたしますわ。 チーム再スタートのきっかけである春の盾を、ぜひ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_13.wav|Mcqueen|jp|失礼いたします。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_61.wav|Mcqueen|jp|トレーナーさんも、スペシャルウィークさんに 想いを託してみてはいかがです？
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_55.wav|Mcqueen|jp|チームの一員として……ですか。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_9.wav|Mcqueen|jp|今はトレーナーさんと、本番に向けてのミーティングを しているところですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_15.wav|Mcqueen|jp|トレーナーさんに、というよりも お2人に用事があると言った方が正しいでしょうか。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_7.wav|Mcqueen|jp|ですが、スペシャルウィークさんも負けてはいませんわ。 しっかりと努力を重ねています。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_30.wav|Mcqueen|jp|前にたづなさんが連絡してくださいましたでしょう？
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006121_36.wav|Mcqueen|jp|私のレース……？
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006063_25.wav|Mcqueen|jp|ええ、皐月賞の時以上に気迫が―― 想いが伝わってくる走りでしたわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006131_11.wav|Mcqueen|jp|ふふっ、眠い中で必死に応援してくださるその気持ちが伝われば 充分なはずですわ。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004091_3.wav|Mcqueen|jp|大きなケガでなかったのが幸いですが、 それでも春いっぱいは休養ですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004091_2.wav|Mcqueen|jp|本来なら出走予定だったブライアンさんにも、 多くの取材が押し寄せていたのでしょうが……。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004091_1.wav|Mcqueen|jp|……それはそうと、春の天皇賞も近づいてきて、 また取材陣の方々が増えてきましたわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006011_36.wav|Mcqueen|jp|お疲れ様です、スペシャルウィークさん。 これで今日のメニューは終わりですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006011_53.wav|Mcqueen|jp|たしかにそれだけ大きな目標となると、 生半可なトレーニングでは足りないかもしれませんわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006011_44.wav|Mcqueen|jp|たしかに“日本一”とひと口に言いましても、 戦績であったり偉業であったり、形は様々ですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006011_56.wav|Mcqueen|jp|ふふっ……トレーナーさんがスペシャルウィークさんを チームに招いた理由がよくわかりますわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006011_19.wav|Mcqueen|jp|……あの、あまり大きな声を上げますと 周りの方々にご迷惑ですから……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006011_20.wav|Mcqueen|jp|それにしましても、今回の結果は意外といいますか、 足をすくわれた感じですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001111_0.wav|Mcqueen|jp|皆さん、申し訳ありません。 不甲斐ない結果となってしまって……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001111_6.wav|Mcqueen|jp|有馬記念だって控えてますし、 走ったばかりでお腹も減っていませんから。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001111_7.wav|Mcqueen|jp|あっ、私、おばあ様に電話をしないと。 お先に失礼しますわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001111_24.wav|Mcqueen|jp|ふふ、その迷いのない返事、 サブトレーナーのころから変わらないですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001111_8.wav|Mcqueen|jp|皆さん、本当に…… 本当に申し訳ありませんでした……っ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001111_5.wav|Mcqueen|jp|私は……その、遠慮しておきますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001111_25.wav|Mcqueen|jp|いつだって私たちのことを1番に優先して。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004041_14.wav|Mcqueen|jp|本当に、走ることへの想いが強い方ですわね。 どれだけ栄誉を掴んでも、まるで満たされた様子がありませんわ。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004041_11.wav|Mcqueen|jp|あることだけにしてくださいませ！
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004041_15.wav|Mcqueen|jp|……あの想いの強さの根源は、いったいなんなのでしょう。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004041_7.wav|Mcqueen|jp|今日もメディアの方々が押しかけているそうですわ。 そろそろ取材を受けてほしいと、たづなさんに泣きつかれました。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006133_14.wav|Mcqueen|jp|堂々とすればいいのです。 今、見せてくださったレースのように。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_19.wav|Mcqueen|jp|勧誘に気を取られてトレーニングをおろそかにしていたら 本末転倒……。では、準備をして参りますわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_16.wav|Mcqueen|jp|って、どうして1人も希望者が現れないんですの！？ この私が勧誘しているというのに！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_11.wav|Mcqueen|jp|私は名門メジロ家のウマ娘。このくらいのトラブル、 お茶の子さいさいで解決してみせますわ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_14.wav|Mcqueen|jp|安いですわよー！　安いですわよー！ 穫れたてのにんじんがお買い得ですわよー！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_4.wav|Mcqueen|jp|たった一夜にしてチームがもぬけの殻になってしまうだなんて、 皆さん、あまりに薄情すぎますわっ！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_13.wav|Mcqueen|jp|未勝利の方でも大歓迎！ アットホームなチームですわよ～！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_21.wav|Mcqueen|jp|ええ、わかりましたわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_18.wav|Mcqueen|jp|……そうですわね。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_6.wav|Mcqueen|jp|受け継いだチームが 無くなってしまうかもしれませんのに！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_24.wav|Mcqueen|jp|いえ、トレーナーさんの指導は理にかなっています。 ですから不満なんてありません。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_5.wav|Mcqueen|jp|どうして貴方はそんなに落ち着いていますのっ！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_12.wav|Mcqueen|jp|チームメンバー募集中ですわ～！ 一緒に汗を流しましょう～！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_20.wav|Mcqueen|jp|はっ……はっ……ふっ……。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_22.wav|Mcqueen|jp|……あと3周だけ、ですか？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_15.wav|Mcqueen|jp|しかも、今ならもれなくチーム＜シリウス＞のメンバーになれる 特典付きですわー！　さあ、そこの貴方！　いかがです！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_0.wav|Mcqueen|jp|チーム解散ってどういうことですのぉぉ！？
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_17.wav|Mcqueen|jp|ちょっ、なに冷静に分析してますの！ もっと危機感を持ってくださいまし！
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_23.wav|Mcqueen|jp|……なるほど。 承知いたしましたわ。
+.\training_set\Mcqueen\story_data_02_0001_storytimeline_020001021_10.wav|Mcqueen|jp|ふんっ、上等ですわ！ チームメンバーなんてすぐにでも集めてみせます！
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006141_38.wav|Mcqueen|jp|ええ、いくらでも力になりますわ。 “日本一のウマ娘”になった姿を見せてくださいませ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006141_22.wav|Mcqueen|jp|そんなスペシャルウィークさんにプレゼント―― といいますか、素敵なお知らせがありますのよ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006151_58.wav|Mcqueen|jp|ふふっ、チームに入った時からずっと変わらず、 目標がとても大きいですわね、スペシャルウィークさんは。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006151_41.wav|Mcqueen|jp|気持ちの充実ですか……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006151_42.wav|Mcqueen|jp|天皇賞春を志して、トレーナーさんと試行錯誤した あの時の感覚を思い出しますわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006151_43.wav|Mcqueen|jp|“夢に向かっている”という感覚を、 スペシャルウィークさんも感じているのかもしれませんわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006151_39.wav|Mcqueen|jp|張り切っていますわね、スペシャルウィークさん。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006181_14.wav|Mcqueen|jp|……1度、休憩を入れましょうか？
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_23.wav|Mcqueen|jp|やはり、少し緊張いたしますか？
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_80.wav|Mcqueen|jp|チーム＜シリウス＞のメンバーたる走りを…… 夢を掴む姿を見せてくださいませ、スペシャルウィークさん。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_78.wav|Mcqueen|jp|ライスさんやチケットさん、ブライアンさんにスズカさんが レースに臨む時も、あのような凛々しさを感じたなと。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_79.wav|Mcqueen|jp|夢を掴んでみせる……ずっと続いていますのね。 ウマ娘を1番に考えるトレーナーと、それに応えるウマ娘の想い。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_25.wav|Mcqueen|jp|日本のウマ娘として、もっとも期待を受けているのが スペシャルウィークさんですものね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_75.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_77.wav|Mcqueen|jp|いえ、スペシャルウィークさんを見て、 思い出したといいますか……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006211_26.wav|Mcqueen|jp|ですが、裏を返せば日本のウマ娘としてもっとも実力を 持ち合わせているとも言えます。胸を張ってくださいませ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006213_16.wav|Mcqueen|jp|なにせスペシャルウィークさんを応援する声が、 スタンド中を埋め尽くしていたのですから。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006213_15.wav|Mcqueen|jp|出走していたご本人にこんなことを言うのもおかしいですが、 スタンドの一体感を味わっていただきたかったですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006213_40.wav|Mcqueen|jp|ですが、この光景もまた＜シリウス＞らしいですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006213_39.wav|Mcqueen|jp|ふふっ、まったく締まりませんわね……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006213_41.wav|Mcqueen|jp|また1人、このチームで夢を叶えたということです。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_0.wav|Mcqueen|jp|ここにいましたの、トレーナーさん。 まだメインレースの本バ場入場まで時間がありますのに。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_43.wav|Mcqueen|jp|トレーナーさんも声をかけてあげてくださいませ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_1.wav|Mcqueen|jp|……ふふっ、今の＜シリウス＞が始まったのも、 この大舞台の日の、この場所でしたわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_5.wav|Mcqueen|jp|トレーナーさんがいてくれたから、私たちは今日も走るんですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_44.wav|Mcqueen|jp|スペシャルウィークさんが今日のレースでまた、 誰かにとっての“日本一のウマ娘”になれるように。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_3.wav|Mcqueen|jp|それを言うなら、私も―― そしてチームの皆さんもきっと同じですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_2.wav|Mcqueen|jp|……本当に、そうですわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_4.wav|Mcqueen|jp|いつもウマ娘に寄り添い、支えてくれるトレーナーさんが いてくれたからこそ、ここまで走り続けられたんです。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006221_47.wav|Mcqueen|jp|さあ、私たちも応援しますわよ！
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006231_4.wav|Mcqueen|jp|やめてくださいませ！　厳かな場ですのよ、ここは！
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006231_10.wav|Mcqueen|jp|あっという間に駆け抜けた気もしますけど、 振り返ってみるといろいろなことがありましたわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006232_0.wav|Mcqueen|jp|安いですわよー！　安いですわよー！ 穫れたてのにんじんがお買い得ですわよー！
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006161_48.wav|Mcqueen|jp|珍しくゴールドシップさんがまともなことを仰っていますが、 まずは自分の走りに徹する――ですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006161_42.wav|Mcqueen|jp|さあ、取りに行きますわよ、宝塚記念を！
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006161_41.wav|Mcqueen|jp|私も、できることがあれば協力させていただきますわ。 チームメイトの勝利は何度でも見たいですから。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006161_38.wav|Mcqueen|jp|状態も、それに気持ちの方も申し分ないようですわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006191_52.wav|Mcqueen|jp|ふふっ……よろしければ、私たちも 混ぜていただこうかと思いまして。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004121_28.wav|Mcqueen|jp|性格もまるで違うお2人ですけど、互いのレースを意識し合ったり、 共に“年度代表ウマ娘”に選ばれたり、欠かせない存在ですわね。
+.\training_set\Mcqueen\story_data_02_0004_storytimeline_020004121_51.wav|Mcqueen|jp|まさかのご指名ですわね……彼女はブライアンさんと同じく、 クラシック級で有馬記念を制覇するほどの実力者ですわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_1.wav|Mcqueen|jp|いえ、こちらをじっと見ている方がいるので……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_28.wav|Mcqueen|jp|ええ、ライスさんのスタミナは必ず武器になりますわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_36.wav|Mcqueen|jp|ふぅ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_38.wav|Mcqueen|jp|……あの、ライスさん。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_40.wav|Mcqueen|jp|今日もまた、一緒に寝ますの？ 私生活にまでついてくる意味が、私にはわからないのですが……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_0.wav|Mcqueen|jp|さあ、今日のトレーニングはこのくらいで……って、あら？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_34.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_21.wav|Mcqueen|jp|ダービーに出走するウマ娘の中で本命視されているのが、 ここまで無敗の“ミホノブルボン”さん……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_42.wav|Mcqueen|jp|……絶対にこういうことじゃないですわ
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_3.wav|Mcqueen|jp|トレーナーさんのお知り合いですか？
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_25.wav|Mcqueen|jp|はぁ……はぁ……。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_22.wav|Mcqueen|jp|機械のように正確なペースで逃げの展開を打つ、 驚異的な実力者ですわ。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_5.wav|Mcqueen|jp|なんですの！？　そのロクでもない名前の催しは！？ そんなのやりませんわよ！
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_23.wav|Mcqueen|jp|そんな彼女に勝つためにも、ライスさんには私に離されぬよう しっかり着いてきていただきます。
+.\training_set\Mcqueen\story_data_02_0002_storytimeline_020002021_30.wav|Mcqueen|jp|それでは皆さん、ごきげんよう。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003031_6.wav|Mcqueen|jp|な、なにを言ってますのっ！？　食事はオマケですわ！ とにかく今は集中です！　集中っ！
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003031_34.wav|Mcqueen|jp|この熱に、トレーナーさんもお応えしないとですわね。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003031_2.wav|Mcqueen|jp|チームメイトの晴れ舞台ですもの。 今日来られなかった方々の分も、精いっぱい応援いたしますわ。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003031_36.wav|Mcqueen|jp|まさかの連闘ですのっ！？ 思った以上に大変ですのよ、あれは！！
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003031_4.wav|Mcqueen|jp|メロンパフェっ！　メロンパフェもお忘れなくっ！
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003031_26.wav|Mcqueen|jp|お友だちに励まされたと、おっしゃってましたわ。 チケットさんの夢を理解してくださる、素敵なご友人ですのね。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003031_41.wav|Mcqueen|jp|チケットさんの影響でしょう。 お2人がどのような物語を紡ぐのか、楽しみですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006091_30.wav|Mcqueen|jp|さあ、スズカさんも勝負服に着替えますわよ。 しっかりと気合いを入れて、ぜひとも海外での活躍を。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006091_23.wav|Mcqueen|jp|転入時から一緒だったスズカさんと別れるとなると、 多少の動揺はあると思っておりましたが……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006091_27.wav|Mcqueen|jp|ふふっ、面白そうですわね。 ＜シリウス＞がおかしなことを始めたと言われそうですが。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006091_22.wav|Mcqueen|jp|もはや説明が要らないほどわかりやすく動揺してますわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006091_33.wav|Mcqueen|jp|それでは最後、コースを1周して上がりましょう。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006091_28.wav|Mcqueen|jp|スズカさん……ウマ娘を支え、夢を掴ませるのが ＜シリウス＞というチームですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006101_57.wav|Mcqueen|jp|貴方は阪神大賞典を語る前に、 まずはデビューを果たしてくださいませ！
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006101_58.wav|Mcqueen|jp|それにしましても、フライトの日がレースと重なるだなんて スズカさんも残念でしょうね……。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006101_13.wav|Mcqueen|jp|トレーナーさんにスペシャルウィークさん、 相手に一切の抜かりはないようですわ。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006101_4.wav|Mcqueen|jp|ええ、天皇賞春の前哨戦として。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006101_61.wav|Mcqueen|jp|そうでしたの。 それは、なんとしても勝利しないとですわね。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006101_1.wav|Mcqueen|jp|ライアンにブライト、貴方がたもこれからトレーニングですか。
+.\training_set\Mcqueen\story_data_02_0006_storytimeline_020006101_10.wav|Mcqueen|jp|……まさに王者の貫禄ですわね。
+.\training_set\Mcqueen\story_data_02_0003_storytimeline_020003061_15.wav|Mcqueen|jp|ふふふっ、喜んでばかりもいられませんわよ。 タイシンさんの好調ぶりは話題になっているくらいですから。
+.\training_set\Mcqueen\story_data_02_0005_storytimeline_020005133_5.wav|Mcqueen|jp|本当に、とんでもない走りを見せていただきましたわ。 こちらまで走りだしたくなるような走りを。
+.\training_set\Mcqueen\story_data_09_0003_storytimeline_090003001_33.wav|Mcqueen|jp|なっ……もう、余計なお世話ですわ！ ……いずれにせよ、皆さん私しか見えなくなりますもの。
+.\training_set\Mcqueen\story_data_09_0003_storytimeline_090003001_30.wav|Mcqueen|jp|まったく、会長はまだお話し中でしたのに…… 貴方って本当に目立ちたがりですわね。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_2.wav|Mcqueen|jp|言えませんわ……あの時の二の舞になってしまう。 もう、周りへ迷惑をかけるのは……
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_38.wav|Mcqueen|jp|まさか。やると決めたからには全力です。 メジロの名に相応しい結果を残してみせますわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_8.wav|Mcqueen|jp|しょうもない……？　私が、ですか？ 私はメジロのウマ娘として、きちんと己を律しようと……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_3.wav|Mcqueen|jp|……そ、そうでしたか。ありがとうございます。 存分に羽を伸ばして参りますわね。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_5.wav|Mcqueen|jp|たまたま予定が空いていたからいいものの…… もう、ゴールドシップさんってば勝手すぎます。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_40.wav|Mcqueen|jp|あら、誰に仰っていますの？ 私をお誘いになったこと、後悔なさいませ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_10.wav|Mcqueen|jp|……っ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_32.wav|Mcqueen|jp|使いませんからご安心なさいな。 予選の4種目は案内に書いてありましたでしょう？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_12.wav|Mcqueen|jp|……っ。ですが、私は……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_1.wav|Mcqueen|jp|せ、先生、仕事が早すぎですわ……！ うう……今さらキャンセルしたいなんて……
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016002_4.wav|Mcqueen|jp|――結局、参加することになってしまいましたわ。 
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_33.wav|Mcqueen|jp|行きませんっ！　……まったく貴方は。 はしゃぎすぎて周りに迷惑をかけないようになさいませ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_34.wav|Mcqueen|jp|私も……ですが。メジロのウマ娘として 羽目を外し過ぎないようにいたしませんと……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_23.wav|Mcqueen|jp|わぷっ！　水をかけないでくださいまし！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_9.wav|Mcqueen|jp|っとと！　あと少し……！ このまま1着でっ……きゃあぁっ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_28.wav|Mcqueen|jp|あれだけふざけていたのに、まさか貴方も勝ち残るとは……。 自由形200mなんてロクに泳がずビリだったじゃありませんの。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_2.wav|Mcqueen|jp|ふぅっ、メジロの名に相応しい結果を残せましたわ。 それより……貴方の憧れのあのお方も、お強いようですわよ？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_24.wav|Mcqueen|jp|もうっ、本当にいつも好き放題なんですから。 イベントごとでも、節度は守らないといけませんのに……
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016003_6.wav|Mcqueen|jp|はぁっ――！　ほっ、はぁっ！！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_16.wav|Mcqueen|jp|その大荷物……またなにか余計なものを買ってきましたのね？ まったく、連日浮かれて……はぁ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_35.wav|Mcqueen|jp|いい機会ですわ。貴方の素っ頓狂なわがままぶりは、 以前から目に余ると思っておりました……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_36.wav|Mcqueen|jp|ゴールドシップさん。私が勝ったら、 しばらくのあいだ大人しくする……と約束していただきますわ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_23.wav|Mcqueen|jp|そ、そんな顔してもダメですわっ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_33.wav|Mcqueen|jp|賭けで決着……？ なるほど、確かにこのままでは平行線ですものね。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_27.wav|Mcqueen|jp|はっ、ナカヤマさん！　申し訳ございません、お騒がせして……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_19.wav|Mcqueen|jp|もちろん競技には本気を出しますわ。ですが私は、 遊びほうけて周りに迷惑をかけたりしたくありませんの。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_30.wav|Mcqueen|jp|ですから、貴方がわがまますぎるんです！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_25.wav|Mcqueen|jp|んも～っ！　そんなの知りませんわっ！ わがままもいい加減になさいましーーーっ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016004_21.wav|Mcqueen|jp|……っ。放っておいてくださいまし。 貴方にとやかく言われることではありませんわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_40.wav|Mcqueen|jp|まあ、ちゃんと勝ち残ってくださいましたのね。 そうでなければ肩透かしですわ……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_7.wav|Mcqueen|jp|私は、あんなふうにハメを外したりはいたしませんわ。 メジロ家のウマ娘として、優雅に勝ちます……
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_43.wav|Mcqueen|jp|他の生徒たちも見ているのですから、きちんとしませんと。 賭けはあくまで個人間のこと……熱くなりすぎてはダメ
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_41.wav|Mcqueen|jp|ですが最後に勝つのは私っ！　絶っ対に私ですっ！ 約束通り大人しくしていただきますから、お覚悟を……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_44.wav|Mcqueen|jp|……メインステージで、あの方を待つといたしましょうか。 そのほうが行事も盛り上がるでしょう。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_5.wav|Mcqueen|jp|……今の声っ！　メインステージにいますのね？ いい度胸ですわ！　今すぐ倒しにいって差し上げま……！！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_45.wav|Mcqueen|jp|私はメジロ家のウマ娘として、 粛々と勝利を収めるのみですわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_42.wav|Mcqueen|jp|……っと！　いけませんわね。 あまり私怨をにじませては……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016006_6.wav|Mcqueen|jp|ご、ごほんっ……！　まったく、ずいぶんはしゃいでいますこと。 司会者さんにもご迷惑じゃありませんの……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_43.wav|Mcqueen|jp|――おっ黙りなさぁーーーっい！ 試合放棄なんて許しませんわーーっ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_20.wav|Mcqueen|jp|ゴ、ゴールドシップさん！？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_37.wav|Mcqueen|jp|思えば……記者の方々だって、嫌な顔ひとつせず 私の希望を聞いてくださったじゃありませんの……
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_52.wav|Mcqueen|jp|貴方が勝ったら、他の遊びにも付き合って差し上げますわ！ 大王イカ探しだって、蹴鞠だってお付き合いします！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_41.wav|Mcqueen|jp|……ゴールドシップさん、よろしいですか？ こほんっ……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_24.wav|Mcqueen|jp|あ、飽きた……？　なにを仰いますの？ ほら早くお立ちなさいっ、起きないと撃ちますわよ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_10.wav|Mcqueen|jp|なにがというわけでですの？ 皆さん困惑していらっしゃるじゃありませんの。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_34.wav|Mcqueen|jp|わがまま……だから？　彼女の破天荒ぶりなんか、 皆さんはとっくに受け入れている、ということ……？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_36.wav|Mcqueen|jp|わがままを言ったら迷惑…… なんて、気にしすぎだったのでしょうか？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_35.wav|Mcqueen|jp|…………
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_49.wav|Mcqueen|jp|帰るなんて許しませんわ！ 本気で勝負なさい！　賭けの決着をつけますわよ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_15.wav|Mcqueen|jp|時間が押していますわ。 お喋りはこのくらいにして、始めましょう。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_17.wav|Mcqueen|jp|なっ、なんですの？　急に叫んで……っ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_11.wav|Mcqueen|jp|戦う前に1つよろしいですか？　私たちは賭けをしていますが、 それ以前にこれは学園主催の行事であることをお忘れなく。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_38.wav|Mcqueen|jp|そうですわ。私のわがままを……至らぬ点を…… 笑って受け入れてくださっていたじゃ、ありませんの……
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_39.wav|Mcqueen|jp|……私は、今までなにを遠慮していたのでしょう。 まだまだ、未熟者ですわね……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_0.wav|Mcqueen|jp|――すぅっ……ふぅ……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_33.wav|Mcqueen|jp|皆さん、なぜあんなに楽しそうに……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_46.wav|Mcqueen|jp|貴方、気まぐれが過ぎますのよっ！！ 飽きたってなんなんですのっ！　いい加減になさいませっ！！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_48.wav|Mcqueen|jp|前言撤回ですっ！　そんなことより、 貴方にお灸をすえるほうが大事だと気づきましたの！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_26.wav|Mcqueen|jp|なんてわがままな……あのですね、 もう少し周りの迷惑をお考えになって――
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_28.wav|Mcqueen|jp|……っ！　え……？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016007_13.wav|Mcqueen|jp|私は熱くなりすぎて周りを見失うような戦い方はしません。 見ている皆さんに恥じない勝利を目指しますので、そのつもりで。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_36.wav|Mcqueen|jp|騒がしくするのは禁止です。普通の話をなさいませ。 本当に訳のわからない方なんですから……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_5.wav|Mcqueen|jp|はっ……弾切れっ！？　給水スポットは……！？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_39.wav|Mcqueen|jp|あまり調子に乗らないでくださいませ。 ですが……そうですわね――
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_52.wav|Mcqueen|jp|でも、その間は動かないでくださいませ。 しばらく、このまま……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_51.wav|Mcqueen|jp|大人しくするのは、 この夕日が沈むまででかまいませんわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_10.wav|Mcqueen|jp|負けませんわっ！　勝つのは……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_47.wav|Mcqueen|jp|あの時、急に飽きたなんて言われなければ…… この方の態度に爆発していなければ……私は、きっと今も……
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_45.wav|Mcqueen|jp|なんですのそれ？ つつかれるほうの身にもなってくださいまし。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_34.wav|Mcqueen|jp|完全に無言でなくとも、構いませんのよ？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_54.wav|Mcqueen|jp|いいんです……だって、夏ですもの！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_56.wav|Mcqueen|jp|ふふっ、ほら、動いちゃダメですわっ！ うふふふふ……っ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_50.wav|Mcqueen|jp|…………ゴールドシップさん。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_37.wav|Mcqueen|jp|だけど今回ばかりは……そんな貴方に気づかされましたわ。 こういうことも、あるんですのね……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_15.wav|Mcqueen|jp|大人しくするというのはそういうことではない、 と言いたいところですが……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_2.wav|Mcqueen|jp|なんですってぇっ！　このっ……！ これで、どうですのーーーっ！！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_20.wav|Mcqueen|jp|意味がわかりませんわ……って、なんですのそれ？ ちょっ、かけませんわよ！　かけませんわよそんなものーっ！！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_32.wav|Mcqueen|jp|ふぅ……！　さすがにくたくたですわね……。 でも……ふふふっ……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_16.wav|Mcqueen|jp|喋らないでいただくだけでも、ずいぶん静かになりましたわね。 ふふふっ！　今後しばらくは落ち着いて暮らせそうです。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_42.wav|Mcqueen|jp|別に、思ったことを言ったまでですわ。 貴方こそ、今回はやけにしつこく絡んで来たじゃありませんの？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_18.wav|Mcqueen|jp|なんですの？　文句は受けつけませんわよ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_8.wav|Mcqueen|jp|ふんっ！　この私にスタミナ勝負を挑むおつもり？ ――はあぁあぁーーーーーーっ！！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_46.wav|Mcqueen|jp|でも……それってつまり、 私の様子が変だったから構ってきた、ということでは……？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_40.wav|Mcqueen|jp|少しだけ、ですが……感謝いたしますわ。 いろいろありましたが、貴方と参加できて、よかったです……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016008_48.wav|Mcqueen|jp|……ふっ。なんて……。 貴方の真意など考えるだけ無駄ですわね。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024073_10.wav|Mcqueen|jp|アルダンさんならば想定済みでしょう？ この直接対決も。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_46.wav|Mcqueen|jp|あら、そんな条件で賭けを……。 スプラッシュ・レク、貴方もご参加なさるのですね？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_6.wav|Mcqueen|jp|そうですわね、ミルクティーに合う紅茶など…… 最近はハロウスのバニラブレンドが気に入っておりますの。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_14.wav|Mcqueen|jp|ええ、とても……って、そうではなくてですね！ これでは私がスイーツ大好きみたいじゃありませんの。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_10.wav|Mcqueen|jp|ご、ごほんっ！　私は、それほど頻繁にはいただきませんが。 お茶会でお出しする品は吟味しておりますので……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_48.wav|Mcqueen|jp|はい？　今なんと！？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_23.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_1.wav|Mcqueen|jp|私、こんなにスイーツのお話ばかりした覚えは…… いえっ、少しはしたかもしれませんが……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_42.wav|Mcqueen|jp|まったく……相変わらず騒がしいですわね。 
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_29.wav|Mcqueen|jp|いえ、私は通りかかっただけですのよ。 スプラッシュ・レク……ですか。チヨノオーさんはご参加を？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_39.wav|Mcqueen|jp|あの声は……？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_22.wav|Mcqueen|jp|まあ……っ、恐れ入ります。 私の勝手で、その……お手数をおかけいたしますわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_26.wav|Mcqueen|jp|ですが……わがまま、でしたわよね……。 今後は、メジロ家のウマ娘としてもっと慎まなければ――！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_3.wav|Mcqueen|jp|違いますわ！　先日受けたインタビュー記事の確認です。 ですが……これは由々しき事態です……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_36.wav|Mcqueen|jp|な、なるほど……？ 素敵なサマーウォークを過ごせるといいですわね。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_17.wav|Mcqueen|jp|とにかく！　これはNGですわ。 スイーツのくだりはカットしていただきませんと。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_12.wav|Mcqueen|jp|おっ、音読なさらないでくださいませっ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_7.wav|Mcqueen|jp|豊かな甘い香りと、それに負けないしっかりした渋みが 焼き菓子にも生菓子にもよく合って……とても美味ですのよ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_24.wav|Mcqueen|jp|……本当に、大丈夫だったのでしょうか？ スイーツのお話は、確かに私の口から出たものなのに……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_4.wav|Mcqueen|jp|――休日の過ごし方、ですか？ 友人たちとお茶会をすることが多いですわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_20.wav|Mcqueen|jp|それでしたら私としても問題ありません。 ですが、いいのですか？　大幅な修正になってしまうのでは……？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_50.wav|Mcqueen|jp|わっ……私の参加届を勝手に！？ ちょっと！　お待ちなさ～～～～いっ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_16.wav|Mcqueen|jp|うぅっ……！　ですがっ…… そのまま書かれてしまいますと……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_33.wav|Mcqueen|jp|まあ、穴場と名高いリゾート地ではありませんの。 静かで美しい島だと聞きましたわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_25.wav|Mcqueen|jp|いえ！　それでもダメなものはダメですわっ。 あのまま世に出ては困ります……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_9.wav|Mcqueen|jp|ええ、とても……！　特にいちごショートとの相性は抜群ですわ！ まさに最高のマリアージュで……はっ！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016001_0.wav|Mcqueen|jp|なっ、なんですの、これは～～～っ！？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_29.wav|Mcqueen|jp|なんですの？　今の悲鳴は……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_42.wav|Mcqueen|jp|な、なんて大博打を…… って！　彼女はまだ近くに……！？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_46.wav|Mcqueen|jp|貴方ときたら、まったく……！ わかりました。ではお望み通り冷やして差し上げますわ。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_18.wav|Mcqueen|jp|ゴールドシップさん、 約束、忘れてはおりませんよね？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_44.wav|Mcqueen|jp|ひゃっ！　まあっ、砂まみれじゃありませんの！ ナカヤマさん、大丈夫ですの！？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_27.wav|Mcqueen|jp|はぁっ、はぁっ……隠れ潜みながら進むのは、 けっこう体力を削られますのね……。
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_26.wav|Mcqueen|jp|まずは、冷静に敵の数を減らして参りましょう。 ゴールドシップさんを狙うのは、その後ですわ……！
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_30.wav|Mcqueen|jp|こ、これは一体……？　皆さん、なぜ座り込んで…… まさか、もう3人とも失格に……？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_32.wav|Mcqueen|jp|ナカヤマさんが……！？
+.\training_set\Mcqueen\story_data_09_0016_storytimeline_090016005_47.wav|Mcqueen|jp|えいっ……！ メジロ家のウマ娘としては、少し不本意な勝ち方ですわね。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024002_43.wav|Mcqueen|jp|ああ、もしやボランティアの？ 希望者へのレッスンの日程が決まりましたのね。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024002_34.wav|Mcqueen|jp|っ、当然ですっ！！ 次っ、いきますわよ！
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024002_32.wav|Mcqueen|jp|テイオーさんっ！
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024004_45.wav|Mcqueen|jp|今日の午後、お時間はございますでしょうか。 私、貴方にお話したいことがございまして。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024004_44.wav|Mcqueen|jp|もし。サクラチヨノオーさん。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_23.wav|Mcqueen|jp|しかし、1度アルダンさんが貴方を“特別”だと思う理由を 探してからでも、遅くないのではなくて？
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_33.wav|Mcqueen|jp|テイオーさん、どうして隠れているのです？ 覗き見だなんて感心しませんわね。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_28.wav|Mcqueen|jp|ええ。貴方とならなれると、信じていたからでしょう。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_19.wav|Mcqueen|jp|きっとアルダンさんも同じ。己の時間を割くことを考慮すれば、 ことさら慎重に、デートに値するウマ娘を選んだことでしょう。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_20.wav|Mcqueen|jp|半端な思いで、貴方の手を取るわけがございませんわ。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_18.wav|Mcqueen|jp|私はドロワのデートには、私を最も生かし成長させてくれる 相手こそが相応しいと考え、今回の相手を選びました。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_36.wav|Mcqueen|jp|……ええ。そんな彼女を誰が凡才だなんて思うのかしら。 それ自体が才能だというのに。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_0.wav|Mcqueen|jp|……ウバはお口に合いませんでしたか？
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_3.wav|Mcqueen|jp|率直に申し上げます。アルダンさんは、体こそ脆いものの、 まぎれもないメジロ家の誇る俊傑の1人です。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_25.wav|Mcqueen|jp|それとも、アルダンさんは 貴方を“特別”扱いされていませんでしたか？
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_30.wav|Mcqueen|jp|アルダンさんが思う貴方の強さは、 私たちに匹敵するか、それ以上だと思っていたのでしょう。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_39.wav|Mcqueen|jp|……そうして刺激が与えられたなら、 私たちはより高みを目指して成長する。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_17.wav|Mcqueen|jp|メジロ家では学園での行事、ひとつにおいても 己の糧にできるようという教えがございます。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_4.wav|Mcqueen|jp|己に与えられた時間を1秒たりとも無駄にせず、 自らの理想を叶えるためなら、どのような辛抱すらもいとわない。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_40.wav|Mcqueen|jp|ライバルがいるから、私たちはさらに強くなる。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_8.wav|Mcqueen|jp|私がメジロ家のウマ娘として立つにあたり、 教えを受けた尊敬すべきお姉さまの1人です。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_13.wav|Mcqueen|jp|……貴方がそう思っていたとしても、 アルダンさんは貴方を選んだのです。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_5.wav|Mcqueen|jp|……そして優しいお方。昔、病床に伏せがちだった幼い私にも、 ダンスの基礎を教えてくださった。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_2.wav|Mcqueen|jp|……そうですわね。用を済ませてしまいましょう。 顔をあげて、ついて来てくださいませ。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_7.wav|Mcqueen|jp|ええ。体の筋肉がどのように動いているか、 意識を強めるには、ダンスがよいと仰って。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_22.wav|Mcqueen|jp|それでも貴方が、ご自身を“普通”だと思う理由を探したいのなら 構いません。どうぞご自由に。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_11.wav|Mcqueen|jp|なぜ、そこで俯くのですか。チヨノオーさん。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_32.wav|Mcqueen|jp|ごきげんよう、チヨノオーさん。 ………………それで。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024005_14.wav|Mcqueen|jp|貴方こそが、自分にとっての“特別”なデートだと。
+.\training_set\Mcqueen\story_data_09_0024_storytimeline_090024008_48.wav|Mcqueen|jp|それでテイオーさん。 マルゼンさんに頼まれた言付けは彼女に伝えたんですか？
+.\training_set\Mcqueen\story_data_10_0000_storytimeline_100000007_1.wav|Mcqueen|jp|ええ、そうですわね！　いよいよ私たちの、 記念すべきWINNING DREAM STAGEの幕が――
+.\training_set\Mcqueen\story_data_10_0000_storytimeline_100000007_3.wav|Mcqueen|jp|なにを始めようとしていますの！？ 私たちがこれからするのはラ・イ・ブ！　ライブですからっ！！
+.\training_set\Mcqueen\story_data_10_0000_storytimeline_100000007_14.wav|Mcqueen|jp|記念するとは、過去を想うだけでなく、 未来を切り開くことでもあらねばなりません。
+.\training_set\Mcqueen\story_data_10_0000_storytimeline_100000007_13.wav|Mcqueen|jp|……いえ、まあ。言動自体は相変わらず理解に苦しみますが、 ゴールドシップさんの言うことも一理……0.2理程度はありますわ。
+.\training_set\Mcqueen\story_data_10_0000_storytimeline_100000008_12.wav|Mcqueen|jp|褒めていませんわよっ！！
+.\training_set\Mcqueen\story_data_10_0000_storytimeline_100000008_14.wav|Mcqueen|jp|そ、そんな係は不要ですわ！　メジロの名に恥じない 完璧な自制をこそ、ご覧に入れて差しあげますっ。
+.\training_set\Mcqueen\story_data_10_0000_storytimeline_100000008_10.wav|Mcqueen|jp|……よくもまあそう口から出まかせをポンポン言えますわね。 いっそ感心してしまいますわ……。
+.\training_set\Mcqueen\story_data_10_0001_storytimeline_100001001_46.wav|Mcqueen|jp|テイオーさん？　……なにをご覧になっていましたの？
+.\training_set\Mcqueen\story_data_10_0001_storytimeline_100001001_48.wav|Mcqueen|jp|……楽しみ、ですか？
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_17.wav|Mcqueen|jp|けれど、どうして貴方が 追いかけられることになったのでしょう？
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_21.wav|Mcqueen|jp|とにかく、なかなかトレーナーが付かず 無理やり捕まえようとしたのでしょうね……。
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_19.wav|Mcqueen|jp|ウマ娘が正式なレースに出るには、 トレーナーの存在が必要不可欠。
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_24.wav|Mcqueen|jp|絡まれると厄介ですので、私はここで失礼いたします。 貴方もどうかお気をつけて……！
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_20.wav|Mcqueen|jp|けれどゴールドシップさんは、掴みどころがないと言いますか、 掴みきれないと言いますか、なんと言いますか……。
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_15.wav|Mcqueen|jp|随分と息切れしているようですが、 なにかあったのでしょうか。
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_16.wav|Mcqueen|jp|まあ、ゴールドシップさんに！？ それは、なんというか……ご愁傷様でしたわ。
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_18.wav|Mcqueen|jp|なるほど……あの方、レースに出たいという情熱は しっかりと持っていますものね。
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_14.wav|Mcqueen|jp|そこの貴方……大丈夫ですか？
+.\training_set\Mcqueen\story_data_04_1007_storytimeline_041007001_23.wav|Mcqueen|jp|まあっ……こちらに来たようですわ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_0.wav|Mcqueen|jp|はぁ……はぁっ、はぁ……っ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_9.wav|Mcqueen|jp|だというのに、なぜ……？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_3.wav|Mcqueen|jp|えっ！？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_34.wav|Mcqueen|jp|その……申し訳ございません！ もう1周、走って参ります！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_21.wav|Mcqueen|jp|立派な家族に囲まれ、代々応援してくださる方々に 期待をかけていただき……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_19.wav|Mcqueen|jp|私を、メジロの名に相応しいウマ娘として 育てていただけるか否かを。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_13.wav|Mcqueen|jp|……けれど。私をご担当いただくか否かは、 ぜひ、走りを見てご判断くださいませ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_6.wav|Mcqueen|jp|光栄ですわ。 ご足労いただき、感謝いたします。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_25.wav|Mcqueen|jp|ありがとうございます。先日は少々情けない姿を お見せしましたが……ここで挽回させてくださいませ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_32.wav|Mcqueen|jp|……うぅ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_30.wav|Mcqueen|jp|ふぅっ……ふぅっ…… いかがでしたか、私のトレーニングは？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_4.wav|Mcqueen|jp|貴方は…… すみません、どちら様ですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_22.wav|Mcqueen|jp|そのおかげで今、私はここに立てています。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_15.wav|Mcqueen|jp|はい。 ――天皇賞の制覇という目標です。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_10.wav|Mcqueen|jp|心……なるほど。精神的な面を見ていただけたのですね。 ありがとうございます。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_1.wav|Mcqueen|jp|……ダメですわね。 脚にうまく力が伝わらない……昨日と同じ、イヤな感覚……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_20.wav|Mcqueen|jp|ええ！　私は――この家に生まれたことを、 とても幸せに思っておりますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_27.wav|Mcqueen|jp|はっ！　はっ！　はっ！　はっ！　はっ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_16.wav|Mcqueen|jp|それはもちろん、トレーナーさんとの 適切な信頼関係も無ければ果たせないもの。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_8.wav|Mcqueen|jp|私、先の選抜レースでは、メジロの名に泥を塗ってしまうような 情けない走りしかお見せできませんでした。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_18.wav|Mcqueen|jp|ですから、貴方には…… 走りの方も認めていただいた上で、ご判断願いたいのです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_17.wav|Mcqueen|jp|言い換えれば、トレーナーさんが私の力を信じられなければ、 成し得ないことなのです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_33.wav|Mcqueen|jp|あっ、い、いえ！　そういうわけでは！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_2.wav|Mcqueen|jp|…………ふぅ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_26.wav|Mcqueen|jp|では、行って参りますわ。 メジロ家仕込みのトレーニング、ご覧ください！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_31.wav|Mcqueen|jp|え？ あっ……そ、それは――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_35.wav|Mcqueen|jp|次こそは……っ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_28.wav|Mcqueen|jp|ふぅっ……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_14.wav|Mcqueen|jp|私には、メジロの名を持つウマ娘として、 果たさなければならない、高い目標があります。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_24.wav|Mcqueen|jp|そのためにもどうか、 走りの方も認めた上でのご判断を。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_11.wav|Mcqueen|jp|メジロのウマ娘たるもの、 心も常に強く在らねばならない……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_12.wav|Mcqueen|jp|せめてそちらだけでもお見せできたのなら、 嬉しく思います。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_23.wav|Mcqueen|jp|ですから……勝利を義務付けられたメジロのウマ娘として、 責任を果たしたいのです！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_5.wav|Mcqueen|jp|まあ、トレーナーさん！ もしかして、私のトレーニングをご覧にいらしたのですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_7.wav|Mcqueen|jp|けれど……1つ、お聞かせください。 なぜ、私に興味を持っていただけたのですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013002_29.wav|Mcqueen|jp|さあ……もう1本！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_34.wav|Mcqueen|jp|……少々、太りやすいのです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_32.wav|Mcqueen|jp|わかりました、お話しします。 ……その制限には、理由があるのです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_3.wav|Mcqueen|jp|……あ、あら？ からだに、ちからが……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_4.wav|Mcqueen|jp|あっ……！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_30.wav|Mcqueen|jp|う、そ、それは……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_1.wav|Mcqueen|jp|メジロのウマ娘として……。 これ以上の失態は許されませんわ……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_23.wav|Mcqueen|jp|けれど、もう大丈夫ですわ！ すぐにトレーニングを再開して――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_0.wav|Mcqueen|jp|はっ……はっ……。 まだ……まだ、鍛え足りない……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_31.wav|Mcqueen|jp|……ここまで気にかけてくださっているのですから、 隠すというのも不誠実ですわね……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_36.wav|Mcqueen|jp|メジロの名を背負って選抜レースに挑む以上、 だらしない体を晒すわけには参りません！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_29.wav|Mcqueen|jp|……いかがでしたか？ 問題ないメニューかと思いますが。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_39.wav|Mcqueen|jp|すみませんが、私はこれで失礼いたします。 今日は……本当に、ご迷惑をおかけして申し訳ございませんでした。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_2.wav|Mcqueen|jp|……脚に力が入らない、だなんて。 言っていられません……！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_21.wav|Mcqueen|jp|そうでしたか……。 トレーニング中に意識を……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_35.wav|Mcqueen|jp|普通に食事をしているだけでも、 すぐにお肉がついてしまって。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_28.wav|Mcqueen|jp|え……？ ええ、構いませんが……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_33.wav|Mcqueen|jp|私は、えっと……体質、といいますか……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_27.wav|Mcqueen|jp|倒れてしまったのは、私が未熟だからです！ 日々の鍛錬が足りなかっただけですわ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_38.wav|Mcqueen|jp|……倒れてしまっては本末転倒ですわね。 なにか、対策を考えます。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_22.wav|Mcqueen|jp|大変なご迷惑をおかけしてしまい、 申し訳ございませんでした、トレーナーさん。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_37.wav|Mcqueen|jp|ですから、食事制限を行っていたのですが――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_25.wav|Mcqueen|jp|も……もちろんですわ！　メジロのウマ娘たるもの、食生活を含む 日々の生活も、完璧に整えておりますもの！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_24.wav|Mcqueen|jp|ひゃっ……！？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013003_26.wav|Mcqueen|jp|ただ……選抜レースのこともありましたし、 多少食事制限はしておりましたが……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_10.wav|Mcqueen|jp|献立表……脂肪になりにくいメニューを、 こんなにたくさん……トレーナーさんが調べてくださったのですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_20.wav|Mcqueen|jp|――ふっ！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_14.wav|Mcqueen|jp|……ありがとうございます。 まだ担当でさえない私のために、ここまでしてくださって。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_21.wav|Mcqueen|jp|はっ、はっ、はっ、はっ、はっ……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_22.wav|Mcqueen|jp|ふふっ……体が、軽いですわ……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_37.wav|Mcqueen|jp|これより、ご指導ご鞭撻のほど、 よろしくお願いいたしますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_35.wav|Mcqueen|jp|ふふっ……頼もしいお答えですわね！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_19.wav|Mcqueen|jp|それでは、トレーニングを始めますので。 ……見ていてくださいませ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_25.wav|Mcqueen|jp|ふふっ、光栄ですわ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_9.wav|Mcqueen|jp|わかりました。拝見いたしますわね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_7.wav|Mcqueen|jp|あら？　貴方は…… またいらしてくださったんですね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_1.wav|Mcqueen|jp|……いえ、いけませんわ！ 食事は決めたメニューだけに留めなければ……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_36.wav|Mcqueen|jp|ありがとうございます。 それでは、トレーナーさん。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_26.wav|Mcqueen|jp|力が出せたのは……あの献立表のおかげです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_29.wav|Mcqueen|jp|おかげで、スイーツも口にできて…… ふふっ、まだまだ走れそうですわ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_13.wav|Mcqueen|jp|トレーナーさん……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_31.wav|Mcqueen|jp|ありがとうございます。 ――では、改めて。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_27.wav|Mcqueen|jp|食事制限というと、どうしても私は 食べない方にばかり意識がいきがちだったのですが――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_34.wav|Mcqueen|jp|いかがです？ ――その覚悟は、おありかしら？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_32.wav|Mcqueen|jp|私はメジロのウマ娘。華麗に、優雅に、完璧に勝利することを この名に義務付けられておりますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_18.wav|Mcqueen|jp|1週間ぶりですわね、トレーナーさん。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_28.wav|Mcqueen|jp|あの献立表は食物の特性をよく理解した上で、緻密にカロリーを 計算し、食べる方向で組み上げられておりました。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_30.wav|Mcqueen|jp|……ともあれ。これで、走りの実力の方も、 認めていただけたでしょうか。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_8.wav|Mcqueen|jp|えっ、トレーナーさんのノートを、ですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_11.wav|Mcqueen|jp|しかも、これって…… スイーツ、ですわよね！？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_12.wav|Mcqueen|jp|スイーツが、献立表の中に……！？ た、食べて、よろしいのですか……！？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_23.wav|Mcqueen|jp|……ふぅっ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_17.wav|Mcqueen|jp|では、またお会いいたしましょう。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_16.wav|Mcqueen|jp|それから……そうですわね。 1週間後にまた、トレーニングを見に来てくださいませんか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_15.wav|Mcqueen|jp|この献立表、しばらくお借りしても よろしいでしょうか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_24.wav|Mcqueen|jp|トレーナーさん……いかがでしたか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_33.wav|Mcqueen|jp|私を担当すると仰るのならば、貴方にもまた、メジロ家の トレーナーであるという自覚を持っていただかなければなりません。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013004_0.wav|Mcqueen|jp|うぅ……物足りませんわね……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_5.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_3.wav|Mcqueen|jp|いえ、そこまでしていただかなくても大丈夫です。 メジロ家のウマ娘たるもの、学業との両立くらいできて当然ですわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_9.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_4.wav|Mcqueen|jp|ですから明日のトレーニングは普段通りということで、 よろしくお願いいたしますわね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_19.wav|Mcqueen|jp|それに関しては訂正させていただきますわ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_16.wav|Mcqueen|jp|これ以上ご迷惑をおかけするのは本意ではありませんので、 今日は終わりにいたしましょうか。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_0.wav|Mcqueen|jp|この数式に代入して計算する……っと。 なるほど……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_11.wav|Mcqueen|jp|ほ、本当に寝てなどおりませんわ！ きっとトレーナーさんの見間違いでしょう。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_21.wav|Mcqueen|jp|これだけは本当に、本当なんですからねっ！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_17.wav|Mcqueen|jp|お心づかい感謝いたしますわ、トレーナーさん。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_6.wav|Mcqueen|jp|ひゃあぁぁっ！？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_12.wav|Mcqueen|jp|ですからどうぞ続きを。 私、きちんと聞いておりますから。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_15.wav|Mcqueen|jp|……どうやらトレーナーさんに、 ご心配をおかけしてしまったようですね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_14.wav|Mcqueen|jp|っ……！　それは……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_7.wav|Mcqueen|jp|も、もちろん起きておりますわ！ メジロ家のウマ娘が、居眠りなんてするはずがありませんもの！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_10.wav|Mcqueen|jp|……はっ！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_2.wav|Mcqueen|jp|けれど難解なところがあって、 思った以上に長引いてしまいました。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_20.wav|Mcqueen|jp|きちんと睡眠は取っていますし、 先ほども決して居眠りなんてしておりません！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_1.wav|Mcqueen|jp|あら、トレーナーさん。 そうなんです。明日の小テストに備えて少しばかり復習を。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_13.wav|Mcqueen|jp|えっ……？ ですがミーティングはまだ途中のはず――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_18.wav|Mcqueen|jp|なっ……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013005_8.wav|Mcqueen|jp|確か、今日のトレーニングについて 振り返っていましたわよね……？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_29.wav|Mcqueen|jp|ふふっ……少し恥ずかしかったですが、 思いきり歌えて楽しかったです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_30.wav|Mcqueen|jp|こうしていると、 今すぐにでもスポーツ観戦に行きたくなってしまいますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_38.wav|Mcqueen|jp|うぅ……今になって恥ずかしくなってきましたわ。 我を忘れてあんなに叫んでしまうなんて……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_3.wav|Mcqueen|jp|ひゃああぁぁぁっ！？ トト、トレーナーさん……っ！？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_27.wav|Mcqueen|jp|かっとばせーーっ！！　ユ・タ・カッ！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_25.wav|Mcqueen|jp|……って、もう曲が入っているではありませんか！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_32.wav|Mcqueen|jp|私はメジロ家のウマ娘として、 いかなる時も己を律するよう心がけてきましたから――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_15.wav|Mcqueen|jp|実のところ、カラオケに来たのは ウイニングライブの練習ではなかったんです。本当は――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_10.wav|Mcqueen|jp|トレーナーさん、どうかされました？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_7.wav|Mcqueen|jp|そ、そうですか……ありがとうございます。 でしたら、一緒に参りましょうか……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_5.wav|Mcqueen|jp|なんというか、その…… ウイニングライブの練習でもしようかと思いまして。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_9.wav|Mcqueen|jp|今の歌、トレーナーさんはどう思われました？ 改善点があれば、なんなりとおっしゃってください。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_28.wav|Mcqueen|jp|かっとばせーーーーっ！！　ユ・タ・カッ！！！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_26.wav|Mcqueen|jp|うぅっ……仕方ありません！　こうなったら！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_13.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_40.wav|Mcqueen|jp|……けれどトレーナーさん、これだけは約束ですからね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_19.wav|Mcqueen|jp|休みの日にはこうして1人でカラオケに足を運び、 応援歌を歌って楽しむこともありますの。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_18.wav|Mcqueen|jp|私、スポーツ観戦を少々―― 本当にほんの少々ですが、たしなんでおりまして。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_24.wav|Mcqueen|jp|ですが、そんなはしたない姿をお見せするのは――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_14.wav|Mcqueen|jp|……ここは、正直に申し上げるべきですわね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_36.wav|Mcqueen|jp|ええ、そういうことなんだと思いますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_39.wav|Mcqueen|jp|はい、それは……あそこまで気持ちよく歌えたのは 久々のことでしたから。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_12.wav|Mcqueen|jp|決してそういうことはないんです。 その、なんといいますか――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_8.wav|Mcqueen|jp|ふぅ、こんなところでしょうか。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_0.wav|Mcqueen|jp|ふん、ふん、ふふ～ん♪ ゴーゴーレッツゴー、ヴィクトリーズ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_35.wav|Mcqueen|jp|会場に漂う独特の開放感が、 とても新鮮で魅力的なものに思えましたの。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_37.wav|Mcqueen|jp|さあ、お話はこれくらいにして、そろそろ次の曲を歌いませんか？ 次はどの応援歌にいたしましょう。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_21.wav|Mcqueen|jp|う、歌えるはずがありません！ はしゃいで子どもっぽい姿を見せてしまうと思うと、とても……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_17.wav|Mcqueen|jp|はい……。スポーツ観戦の際に観客の皆さんが大きな声で歌う、 あの応援歌のことですわ……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_16.wav|Mcqueen|jp|…………お、応援歌が歌いたかったんです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_31.wav|Mcqueen|jp|そうですね……やはり、会場の雰囲気のおかげだと思います。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_23.wav|Mcqueen|jp|ま、ま、待ってください！ 私はずっと我慢しておりましたのに……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_4.wav|Mcqueen|jp|うぅっ……そ、そうですわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_33.wav|Mcqueen|jp|初めてスポーツ観戦をした時は、すごく驚いたんです。 ……会場のあの雰囲気に。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_22.wav|Mcqueen|jp|えっ……トレーナーさんが、ですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_6.wav|Mcqueen|jp|えっ、トレーナーさんもいらっしゃるんですの？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_11.wav|Mcqueen|jp|えっ……！？ そんな、お邪魔だなんて……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_20.wav|Mcqueen|jp|ですから今日も、本当はそのつもりで……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_2.wav|Mcqueen|jp|誰にも見つからないうちに カラオケに入ってしまわないと――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_34.wav|Mcqueen|jp|どれだけはしゃいでも許される環境といいますか、 熱くなって歓声を上げても目立たない空間といいますか……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_41.wav|Mcqueen|jp|今日のことは、絶対にだれにも話さないでください。 そしてできれば、綺麗さっぱり忘れてください……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013006_1.wav|Mcqueen|jp|ふふっ、今日という日を待ちわびていましたわ♪
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_1.wav|Mcqueen|jp|普段のコースとは全く感覚が違いますわね。 けれど、鍛えられていると実感できて悪くありませんわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_30.wav|Mcqueen|jp|今日は一緒に来てくださってありがとうございました。 おかげですごく楽しめましたわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_12.wav|Mcqueen|jp|ありがとうございます。では参りましょう。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_16.wav|Mcqueen|jp|今度は決してはぐれないよう、はしゃがず きちんとトレーナーさんについて行きますわ……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_36.wav|Mcqueen|jp|っ……、ありがとうございます！ では早速、提案があるのですが――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_33.wav|Mcqueen|jp|今まではメジロ家のウマ娘として、 いかなる時も節度を守るよう心がけてきましたから。でも――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_10.wav|Mcqueen|jp|屋台もたくさんあって目移りしてしまいます。 どこから見て回りましょうか――あっ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_24.wav|Mcqueen|jp|やりましたわ、トレーナーさん！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_2.wav|Mcqueen|jp|さあ、今のうちにもう少し――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_8.wav|Mcqueen|jp|でしたら、早めにトレーニングを終わらせないといけませんね。 気合いを入れて、もう1本行って参りますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_28.wav|Mcqueen|jp|どんな景品が当たるのでしょう。 せっかくですし、行ってみませんか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_21.wav|Mcqueen|jp|よろしければ、一緒に行ってくださいませんか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_37.wav|Mcqueen|jp|お祭りで買ったにんじんカステラ、 歩きながら一緒に食べませんか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_25.wav|Mcqueen|jp|ふふっ、なかなか苦労しましたが、 取れると嬉しいものですね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_22.wav|Mcqueen|jp|ここで釣り上げれば――はっ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_17.wav|Mcqueen|jp|ですが、それでまたご迷惑をかけてしまってはいけませんし――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_9.wav|Mcqueen|jp|まあ、大勢の人でにぎわっていますわね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_6.wav|Mcqueen|jp|確か、小さい頃に連れて行ってもらったことがあります。 たくさんの屋台があって、にぎやかだったのを覚えていますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_18.wav|Mcqueen|jp|えっ、お祭りのルール……ですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_7.wav|Mcqueen|jp|まあ……いいんですの？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_11.wav|Mcqueen|jp|あの、奥の方にある屋台…… ちょっと見に行ってみてもよろしいですか？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_27.wav|Mcqueen|jp|――あっ、見てください！　あちらには射的があるようです！ しかも、豪華景品ありと書いてありますわ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_20.wav|Mcqueen|jp|そういうことなら、少しだけお願いがあります。 先ほど行こうとした屋台なんですが――
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_35.wav|Mcqueen|jp|だってトレーナーさんなら、許してくださるでしょう？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_23.wav|Mcqueen|jp|あぁ、紐が切れてしまいました……。 すみません店員さん、もう1回お願いします！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_15.wav|Mcqueen|jp|ごめんなさい、私が先に行ってしまったせいで……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_14.wav|Mcqueen|jp|あっ……トレーナーさん！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_31.wav|Mcqueen|jp|そんなことはありません。 その、なんと言いますか……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_26.wav|Mcqueen|jp|今ならどんな遊びも、うまくできそうな気分です。 さあ、次はどのお店に行きましょうか。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_5.wav|Mcqueen|jp|あら、お祭り……？ なかなか風流なことをやっていますのね。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_38.wav|Mcqueen|jp|普段は食べ歩きなんて絶対にしないのですが、 今ここには私たちだけしかいませんから……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_32.wav|Mcqueen|jp|一緒に来たのがトレーナーさんでなければ、 こんなに羽目を外すことはなかったと思うんです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_39.wav|Mcqueen|jp|ふふっ、ありがとうございます。 ではトレーナーさんから、おひとつどうぞ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_29.wav|Mcqueen|jp|さあトレーナーさん、こっちですわ！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_19.wav|Mcqueen|jp|ふふっ、確かにそうですわね。 ここに来ている方は皆、羽目を外して楽しんでいますもの。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_34.wav|Mcqueen|jp|トレーナーさんの前でなら、 少しだけ……それを破ってもいいかなと思うのです。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013007_0.wav|Mcqueen|jp|ふっ……ふっ……。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_11.wav|Mcqueen|jp|――ライアン、もう1度お訊ねします。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_38.wav|Mcqueen|jp|……！　ライアン、貴方……。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_3.wav|Mcqueen|jp|声援の気の入れようもひとしお、といったところでしょうか。 しかし、もちろん――
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_7.wav|Mcqueen|jp|ですから、負けてもよいとお思いですか？
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_9.wav|Mcqueen|jp|立派な、崇高な理由で勝利を目指している相手であったならば、 自分は負けてもよいと……そうお思いですか、ライアン？
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_32.wav|Mcqueen|jp|っ！　ライアン……！！
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_5.wav|Mcqueen|jp|――私もメジロのウマ娘として、無様なところは見せられません。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_43.wav|Mcqueen|jp|ふふっ……。でしたら、全力でお相手いたしますわ。 私だってメジロのウマ娘として、勝つつもりでおりますから。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_12.wav|Mcqueen|jp|貴方はなぜ、トレセン学園にいらしたのですか？
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027004_0.wav|Mcqueen|jp|例年通り、多くの方が来場されていますわね。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067003_34.wav|Mcqueen|jp|なにをどこまで磨いてきたのか、レースで見せてもらいましょう。 無論、一切の手加減なしで。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067003_5.wav|Mcqueen|jp|仕方ありませんわ。貴方のご母堂には逆らえませんもの。 距離は日本ダービーと同じ2400mでとのことですわ。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067003_31.wav|Mcqueen|jp|――！？　サトノさん、貴方……。 その泥まみれな出で立ちは……まともに走れますの？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067003_6.wav|Mcqueen|jp|切れ味だけではなく、スタミナやペース配分も要求される根幹距離。 そこでこのコンビなら間違いないと言わせてくださいまし。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067003_33.wav|Mcqueen|jp|ずいぶん集中なさっているみたいですわね。 ……まあ走れるなら構いませんわ。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067003_3.wav|Mcqueen|jp|というわけでサトノさん、トレーナーさん。試験官は私ですわ。 1か月後、私とレースして、どこまでやれるか見せてくださいませ。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_1.wav|Mcqueen|jp|序盤は……どうにか、ついてこられているようですわね。 でも2400mは長い。問題はこの先ですわ
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_17.wav|Mcqueen|jp|説明してくださいます、お二方？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_11.wav|Mcqueen|jp|瞳に……悔いがない……。 この目は……やりきったということ？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_30.wav|Mcqueen|jp|そう……あれはクラシックシーズン。 皆が淡い夢を燃え立たせ、競い合っていた頃……。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_6.wav|Mcqueen|jp|青い……。青いですわ。そんな仕掛けで、最後まで持つと 思いまして？　ここまでですわ、サトノさん！
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_32.wav|Mcqueen|jp|たった1度の青春を棒に振ってでも、進まなければならない 道がある……。だからこそ、私は今ここに――
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_15.wav|Mcqueen|jp|“勝ち”を目指していなかったですわよね？ さらに、2400mに特化した仕上げもしてこなかった。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_10.wav|Mcqueen|jp|私を……見ていない？ 声をかけても、まったく。それに――
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_14.wav|Mcqueen|jp|……結果をお話しする前にまず、なぜこのような走りをしたのか 確認したいですわ。サトノさん、貴方、今日――
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_29.wav|Mcqueen|jp|そして敗れた時の、サトノさんの瞳の色……。 似ていましたわ、かつての私に。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_33.wav|Mcqueen|jp|望む夢を掴むのはいつでも――他は投げ捨ててでも、 一心不乱に追い続ける覚悟がある者だけですわ。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_31.wav|Mcqueen|jp|皆が夢中で三冠を目指した……。でも私は三冠を第一にはしないと 決め、メジロ家が重んずるべき天皇賞春を目指した。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_2.wav|Mcqueen|jp|まもなく最終直線！　勝負はここか……ら！？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_28.wav|Mcqueen|jp|……なるほど、これで合点がいきましたわ。最終直線前、 あの早すぎる仕掛けは、2000mラストを想定しての……。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_4.wav|Mcqueen|jp|えっ、ここでもうスパート！？　かわされた……！？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_5.wav|Mcqueen|jp|なかなかのスピードですわ。――でも！ ハアアアアアアアアッ！！
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_8.wav|Mcqueen|jp|サトノさん、貴方……。どういうことですの？ なぜ、あのような勝ち目のない仕掛けを……。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067004_12.wav|Mcqueen|jp|そう。そういうことでしたのね
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068002_40.wav|Mcqueen|jp|ええ？　キタサンブラックさんに！？ ……どうしてです？
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068002_35.wav|Mcqueen|jp|ふぅ、まったく困りましたわね……。 暖かい季節になるまで待つか、それとも……。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068002_38.wav|Mcqueen|jp|発電機の調子が悪いらしくて。雪さえなければ、 私がトレーニングがてら、新しいのを運ぶのですけれど……。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068002_20.wav|Mcqueen|jp|いいでしょう、胸を貸してさしあげます。 3000mの長丁場、考えられる限りのものをぶつけてきなさい。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068002_19.wav|Mcqueen|jp|お待たせしましたわ、キタさん。 貴方、自分の長所を知りたいそうですね。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068002_37.wav|Mcqueen|jp|その件ならもう済みましたわ。 今困っているのは、山頂の別荘のことですの。
+.\training_set\Mcqueen\story_data_04_1074_storytimeline_041074002_5.wav|Mcqueen|jp|ああ……なるほど。確か、もうすぐですものね。 専門の方に集中的に見ていただくというのは、大事なことですわ。
+.\training_set\Mcqueen\story_data_04_1074_storytimeline_041074002_20.wav|Mcqueen|jp|今度、既にデビューしているメジロ家の面々を集めて、 ファンの皆さんに向けたトークイベントを行いますの。
+.\training_set\Mcqueen\story_data_04_1074_storytimeline_041074002_19.wav|Mcqueen|jp|ええ。うちは関係者の方々も含め、素晴らしい方ばかりですわ。 ……今度のイベント、ブライトが司会でも面白かったでしょうね。
+.\training_set\Mcqueen\story_data_04_1074_storytimeline_041074002_4.wav|Mcqueen|jp|仮……？
+.\training_set\Mcqueen\story_data_04_1074_storytimeline_041074003_39.wav|Mcqueen|jp|――ドーベルも、ブライトも……頼もしいですわね。 大きな借りができてしまいましたわ。けれど……なぜ人形を？
+.\training_set\Mcqueen\story_data_04_1064_storytimeline_041064004_38.wav|Mcqueen|jp|つまりはあれが、メジロパーマーの走り……ですのね。 ……どうやら私たちも、うかうかしてはいられませんわ。
+.\training_set\Mcqueen\story_data_04_1064_storytimeline_041064004_25.wav|Mcqueen|jp|……ライアン。もう少しよく見える位置に参りましょう。 パーマー……なにやら、纏う空気が変わりましたわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_22.wav|Mcqueen|jp|くっ……不甲斐ない……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_23.wav|Mcqueen|jp|はっ、はっ、はっ、はっ……！！　はぁ……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_13.wav|Mcqueen|jp|くっ……ぅ……っ！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_8.wav|Mcqueen|jp|はっ、はっ、はっ、はっ、はっ、はっ……！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_1.wav|Mcqueen|jp|そのためにも……この選抜レースで、 必ず結果を残さなければ……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_26.wav|Mcqueen|jp|っ……？　あ、ライアン……。 私になにかご用でも？
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_10.wav|Mcqueen|jp|はっ、はっ……くっ……！！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_6.wav|Mcqueen|jp|あ……はいっ！ お声がけありがとうございます、アイネスフウジンさん。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_29.wav|Mcqueen|jp|……お気遣いありがとうございます。 けど、もう少しだけ続けますわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_21.wav|Mcqueen|jp|はぁっ……はぁっ……。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_4.wav|Mcqueen|jp|…………。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_7.wav|Mcqueen|jp|……参りましょう！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_32.wav|Mcqueen|jp|トレセン学園は傑物揃い……。わかっていたつもりでしたが、 まだまだ覚悟が足りていませんでした。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_24.wav|Mcqueen|jp|……まだ。 まだ、足りませんわ……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_31.wav|Mcqueen|jp|……選抜レースに出ていた方々、 想像以上の精鋭ばかりでしたわ。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_34.wav|Mcqueen|jp|私は、メジロのウマ娘なのですから……！
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_0.wav|Mcqueen|jp|トゥインクル・シリーズで活躍すること……そして天皇賞で 1着を取ることこそ、私に課せられた、メジロ家としての使命。
+.\training_set\Mcqueen\story_data_04_1013_storytimeline_041013001_33.wav|Mcqueen|jp|でも、このままでは終われません！ 次の選抜レースでは、必ず名誉を挽回します！
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027002_44.wav|Mcqueen|jp|貴方は……なぜ、トレセン学園にいらしたのですか？
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027002_29.wav|Mcqueen|jp|――普段のキレがありません。 ライアンらしくない走りでしたわね。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027002_32.wav|Mcqueen|jp|失礼。私、彼女と少々話をして参ります。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027002_31.wav|Mcqueen|jp|ええ、私も次回は出走いたしますので。 それにしても……。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027002_42.wav|Mcqueen|jp|あの、ライアン。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027002_46.wav|Mcqueen|jp|……申し訳ありません、不躾な質問をいたしましたわね。 私、これで失礼いたします。
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027003_27.wav|Mcqueen|jp|競技大会にそのような種目はございません！
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027003_30.wav|Mcqueen|jp|競技大会は多くのお客様も来場されますから、 メジロの名に恥じぬ走りを、きちんとお見せせねばならないのです！
+.\training_set\Mcqueen\story_data_04_1027_storytimeline_041027003_29.wav|Mcqueen|jp|私は、見据える目標を天皇賞と定めておりますので。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_16.wav|Mcqueen|jp|こんばんは。ようこそサトノさん、そして若きトレーナーさん。 少しばかり話にまぜてくださいますこと？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_39.wav|Mcqueen|jp|サトノさん、あらためて、この方もトライアルしてみては？ もしかしてサトノグループの方々のお眼鏡にも――
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_14.wav|Mcqueen|jp|ふふ、臆するのはわかりますけれど、そこまで萎縮するのは 行き過ぎだと思いますわ。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_23.wav|Mcqueen|jp|これはウマ娘界ならではの文化ですわね。名ウマ娘を輩出する ことは、何物にも代えがたい、最大の貢献になりますわ。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_18.wav|Mcqueen|jp|それだけ慎重になっているから。 そうですわよね、サトノさん？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_0.wav|Mcqueen|jp|在学生の皆さん。そして普段お世話になっている トレーナーの皆さん。メジロ家からお伝えしたいことがございます。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_24.wav|Mcqueen|jp|その大望を自ら背負う期待の星が、このサトノダイヤモンドさん。 さらに支える存在を探すため行われたのがトレーナートライアル。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_17.wav|Mcqueen|jp|サトノは確かに一大コンツェルンですが、近寄りがたい人々では ありませんわ。トレーナー選考なんて大仰なことをするのは――
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_42.wav|Mcqueen|jp|ええっ、サトノさん！？　わかっているでしょう？ 貴方のトレーナー探しが、サトノにとってどれほどの重大事項か。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_43.wav|Mcqueen|jp|フィーリングで即決していいものではありませんわ！ まずは帰って相談を――
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_31.wav|Mcqueen|jp|……わかりますわ。これは生まれの宿命ですわね。主従があれば、 手加減こそしていないつもりでも、ねじ伏せる気概ではこない……。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_38.wav|Mcqueen|jp|ふふ、よかったですわね。偶然のパーティーで、 いい候補が見つかって。
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_25.wav|Mcqueen|jp|サトノグループは高い位置に構えているわけではなく、 ただ必死なだけですわ。ですわよね、サトノさん？
+.\training_set\Mcqueen\story_data_04_1067_storytimeline_041067002_1.wav|Mcqueen|jp|近々、交流のためのパーティーを、当家主催にて開催させて いただきます。どうぞお気軽に、普段着でお越しくださいませ。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068004_20.wav|Mcqueen|jp|仕方ありませんわ、相手はあのテイオーさん。 しかも一瞬の閃き勝負となれば、勝ち目は……。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068004_41.wav|Mcqueen|jp|ただただ……恐ろしいですわ。人を巻き込んで 変えていく熱……。これで後輩だなんて。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068004_29.wav|Mcqueen|jp|これは……なにが起きてるんですの！？ テイオーさんを超えるスピード！？　この終盤で！？
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068004_13.wav|Mcqueen|jp|――いえ、逃げではありませんわ。 これは……！
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_3.wav|Mcqueen|jp|さてトレーナーさん、あとは待つだけですわね。でも驚きましたわ。 こんな風変わりな訓練を、あれほどの勢いで頼み込まれるなんて。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_9.wav|Mcqueen|jp|ええ、あの子には今のところ、飛び抜けた能力はありませんわ。 でも……言葉では言い表せないものを感じますの。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_17.wav|Mcqueen|jp|おそらく五合目前後で動けなくなっているはず。監視している スタッフに連絡して、麓のレストハウスに運ぶように……。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_26.wav|Mcqueen|jp|レースの前？　走る前の準備ということは……。 あ！　つまり、こういうことですの？
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_10.wav|Mcqueen|jp|なんというか格のようなものを。その格で四合目。そして 持ち前の根性で五合目。そこが限界。それでも充分立派ですわ。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_5.wav|Mcqueen|jp|重荷を担いでの雪山登攀。並のウマ娘ならば三合目が限界。 そして、まだデビューもしていない今のキタさんなら――
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_20.wav|Mcqueen|jp|き、キタさん……！ 貴方まさか……自力でここまで！？
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_8.wav|Mcqueen|jp|今のキタさんの力ならば―― 五合目というところですわね。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_18.wav|Mcqueen|jp|ど、どうしましたの？　急に。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_4.wav|Mcqueen|jp|ここまでしてキタさんの能力を深く探りたいなんて、 相当な入れ込みようですのね。……でも踏破はまず無理ですわ。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_27.wav|Mcqueen|jp|キタさんに鬼のようなトレーニングを課して、その中で 武器を生み出そうと？　あのブルボンさんのように……？
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_16.wav|Mcqueen|jp|もう陽も落ちかけていますわ……。 そろそろ終わりにしましょう。
+.\training_set\Mcqueen\story_data_04_1068_storytimeline_041068003_24.wav|Mcqueen|jp|疑いようもありませんわね。こんな無茶をやり遂げられる タフさを持ったウマ娘は、他にいませんわ。
+.\training_set\Mcqueen\story_data_04_1085_storytimeline_041085003_2.wav|Mcqueen|jp|お招きいただき、感謝いたしますわ。 紅茶もさることながら、ティーフーズも素晴らしい色どりですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_title_101300_0.wav|Mcqueen|jp|Cygames
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_title_101300_1.wav|Mcqueen|jp|ウマ娘、プリティーダービー！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_title_101300_2.wav|Mcqueen|jp|本日のログインボーナスですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_title_101300_3.wav|Mcqueen|jp|明日はこちらですか…♪
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_0.wav|Mcqueen|jp|好きなものを食べられるって 幸せですのね…トレーナーさんの 献立表のおかげですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_1.wav|Mcqueen|jp|不思議ですわね、 トレーナーさんになら つい悩みを打ち明けてしまいます。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_2.wav|Mcqueen|jp|今度は一緒にスポーツ観戦に 行きませんか？はしゃぐ姿を 見せてもよろしければ、ですが…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_3.wav|Mcqueen|jp|あけましておめでとうございます。 今年はより一層身を引き締めて、 精進して参りましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_4.wav|Mcqueen|jp|ハッピーバレンタイン。 いつものお礼にチョコレートを 受け取ってくださいませ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_5.wav|Mcqueen|jp|プロの味には劣るでしょうが、心を 込めて作ったチョコレートです…。 …食べていただけますか？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_6.wav|Mcqueen|jp|必ずや悲願を達成してみせると、 星々に誓いますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_7.wav|Mcqueen|jp|ハロウィンだなんて…。 うぅ…あちこちから お菓子の誘惑が…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_8.wav|Mcqueen|jp|メジロ家では毎年クリスマスに 特注の大きなケーキを囲み、 皆でパーティーをしていましたの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_9.wav|Mcqueen|jp|今日は少しだけ夜更かししても 構いませんか…？一緒に クリスマスを楽しみたくて…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_10.wav|Mcqueen|jp|今年もたくさんのことがありました。 全て無駄にしないよう、 来年に繋げていきたいですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_11.wav|Mcqueen|jp|お誕生日おめでとうございます。 1年に1度の特別な日ですから、 思いきり楽しみましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_12.wav|Mcqueen|jp|お誕生日、お祝い申し上げますわ。 ふふ…また一段と頼もしくなられ ましたわね、トレーナーさん。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_13.wav|Mcqueen|jp|皆さんに祝っていただけて、 本当にありがたく思います。 このご恩は結果で返さなくては。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_14.wav|Mcqueen|jp|誕生日なので、少しだけわがままを 言ってもいいですか？ …一緒にケーキ、食べてください。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_15.wav|Mcqueen|jp|お知らせが届いているみたいです。 確認してみませんこと？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_16.wav|Mcqueen|jp|プレゼントがあるようです。 なにがもらえるか楽しみですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_17.wav|Mcqueen|jp|達成したミッションが あるようです。 さすがの働きぶりですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_18.wav|Mcqueen|jp|もうすぐイベントが 始まるようです。 どのような内容か楽しみですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_19.wav|Mcqueen|jp|イベントが開催中だそうですわ。 ちょっと見に行ってみませんこと？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_24.wav|Mcqueen|jp|品があってクラシカルな服が 好きですわね…流行り廃りに 左右されず長く着られますから。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_25.wav|Mcqueen|jp|この服おばあ様にも似合っていると 褒めていただけたのが嬉しくて… ふふ、ついつい着てしまいます。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_26.wav|Mcqueen|jp|観に行く約束をしていた映画、 ついに封切りされましたわね！ いつならご都合がよろしいですか？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_20.wav|Mcqueen|jp|共に研鑽し、 共に励みましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_21.wav|Mcqueen|jp|思い出が積み重なって、 歴史となるのでしょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_22.wav|Mcqueen|jp|レースのエントリー、 なさいますのっ？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101300_23.wav|Mcqueen|jp|あら、ウマ娘名鑑の レベルが上がったようですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_0.wav|Mcqueen|jp|ふぅ…少し疲労が 溜まってきましたわね…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_1.wav|Mcqueen|jp|すみません、 どうしても力が出なくて…。 休んでもよろしいでしょうか？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_2.wav|Mcqueen|jp|今日はとても調子がいいですわ！ トレーナーさん、早く 指示をくださいませんこと？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_3.wav|Mcqueen|jp|ふふっ、 今ならどんなトレーニングでも こなせる気がします！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_4.wav|Mcqueen|jp|コンディションは 普段よりも良さそうですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_5.wav|Mcqueen|jp|いつも以上に早く、 メニューをこなしてみせましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_6.wav|Mcqueen|jp|本日もトレーニング、 頑張りましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_7.wav|Mcqueen|jp|さあ、なにから始めましょうか？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_8.wav|Mcqueen|jp|すみません、 あまり集中できなくて…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_9.wav|Mcqueen|jp|うぅ…いつもの力が 出ないみたいです…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_10.wav|Mcqueen|jp|はぁ…なんだか今日は 気が重いです…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_11.wav|Mcqueen|jp|前向きにならなければと 思ってはいるのですが…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_12.wav|Mcqueen|jp|またレース…ですか？ あまり続くと、体に影響が 出てしまいそうですが…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_13.wav|Mcqueen|jp|あの…すみませんが 今回はレースではなく、 お休みをいただけませんか…？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_14.wav|Mcqueen|jp|この瞬間を待ちわびておりました。 走る準備は万全ですわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_15.wav|Mcqueen|jp|調整はバッチリですわ。 勝利は目前といったところですね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_16.wav|Mcqueen|jp|鍛錬の成果を発揮し、 必ずや勝利を勝ち取って参ります！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_17.wav|Mcqueen|jp|目標のために 頑張ってきたおかげでしょうか。 とても調子がいいんです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_18.wav|Mcqueen|jp|いつも以上の力が出せそうです。 レース開始が待ち遠しいですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_19.wav|Mcqueen|jp|なにも問題ありませんわ。 いつでも出られます。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_20.wav|Mcqueen|jp|普段通りの力を出せるよう、 精一杯頑張ります。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_21.wav|Mcqueen|jp|努力してきたことの全て、 レースで出し切ってみせますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_22.wav|Mcqueen|jp|必ずや、勝利をこの手に 掴んでみせますわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_23.wav|Mcqueen|jp|普段のトレーニングを思い出せば なんの問題もないはず…。 大丈夫、行けますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_24.wav|Mcqueen|jp|全力を出せば、なんとか… いえ、どうにかしてみせます。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_25.wav|Mcqueen|jp|集中、集中…ふぅ…。 心を乱さないようにしないと…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_26.wav|Mcqueen|jp|調整に不安はありますが… やれるだけのことはやってみます。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_27.wav|Mcqueen|jp|今の状態で勝てるかどうか…。 いえ、始まる前から弱気では いけませんわね…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_28.wav|Mcqueen|jp|努力不足…などと今更言っても 仕方がありません。 なんとかしなければ…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_29.wav|Mcqueen|jp|始めますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_30.wav|Mcqueen|jp|いきます！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_31.wav|Mcqueen|jp|参りましょう！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_32.wav|Mcqueen|jp|集中しなくては。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_33.wav|Mcqueen|jp|あ、あら…？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_34.wav|Mcqueen|jp|うぅん…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_37.wav|Mcqueen|jp|参りましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_38.wav|Mcqueen|jp|いいですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_39.wav|Mcqueen|jp|確かな成長を得られたと思いますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_40.wav|Mcqueen|jp|トレーナーさん、ありがとうございました。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101300_41.wav|Mcqueen|jp|気合いは充分です！始めましょう！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101300_0.wav|Mcqueen|jp|わずかに届きませんでしたが…次こそは…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101300_1.wav|Mcqueen|jp|もっと上を目指さなければ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101300_2.wav|Mcqueen|jp|反省点を見つめ直し、次に懸けますわ…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101300_3.wav|Mcqueen|jp|このままでは終われません…鍛え直さねば…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101300_5.wav|Mcqueen|jp|ふふっ…コホン、当然ですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101300_6.wav|Mcqueen|jp|勝利を、この手に！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_live_101300_0.wav|Mcqueen|jp|レースもライブも、全力で…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_live_101300_1.wav|Mcqueen|jp|…よし、行って参りますわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_0.wav|Mcqueen|jp|最初は自己管理もできない未熟者 でした。頼れるトレーナーさんに 出会えて本当によかったですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_4.wav|Mcqueen|jp|不思議…これが、想いの力…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_1.wav|Mcqueen|jp|歩んで参りましょう…宿志への道を。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_2.wav|Mcqueen|jp|ますます、お力になれますわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_3.wav|Mcqueen|jp|ビシバシと、参りますわよっ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_7.wav|Mcqueen|jp|おばあ様も着た、この制服… 自然と背筋が伸びます。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_8.wav|Mcqueen|jp|ポ、ポケットに飴なんて…入ってませんわよっ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_9.wav|Mcqueen|jp|フリルさばきなら、お手の物…ですわ♪
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_10.wav|Mcqueen|jp|この、腰回りだけは…落ち着きませんわね…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_11.wav|Mcqueen|jp|一線を画す走り、お見せしますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_12.wav|Mcqueen|jp|メジロの誇り、使命、覚悟が…私を強くする。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_17.wav|Mcqueen|jp|優美で軽やかな装いでしょう？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_18.wav|Mcqueen|jp|空の果てまで駆けて行けそうです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_19.wav|Mcqueen|jp|リストを作ってきましたの。 海にプールに…どれから参りましょう？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_20.wav|Mcqueen|jp|実は水上バイクに少しだけ興味が… す、少しだけです！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_5.wav|Mcqueen|jp|喜んで、受けて立ちますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_6.wav|Mcqueen|jp|譲りません…メジロ家の名は、 伊達ではないのです！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_13.wav|Mcqueen|jp|素晴らしいですわね
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_14.wav|Mcqueen|jp|メジロの強さ、見せて差し上げます！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_15.wav|Mcqueen|jp|オフの日もメジロに相応しい、気品ある装いを。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101300_16.wav|Mcqueen|jp|せっかくの休日、 有意義な過ごし方をしたいですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_0.wav|Mcqueen|jp|おはようございます。 よい1日になるよう、 気を引き締めて参りましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_1.wav|Mcqueen|jp|早起きは三文の徳と申します。 朝の時間を有効に 使いたいものですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_2.wav|Mcqueen|jp|ごきげんよう。 優雅な昼下がりと参りましょうか。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_3.wav|Mcqueen|jp|お昼になるとスイーツが 恋しくなりますが、体型維持の ためにも我慢しなくては…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_4.wav|Mcqueen|jp|お疲れ様です。 無理はなさらぬよう、 くれぐれもご自愛くださいね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_5.wav|Mcqueen|jp|夜であろうと決して 気は抜きませんわ。まだまだ 起きていられるんですから…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_6.wav|Mcqueen|jp|色とりどりに咲き誇る 花々を見ていると、 心が華やかになりますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_7.wav|Mcqueen|jp|この時期はハンカチが必須ですね… 皆さんに見苦しい姿をお見せする わけにはいきませんもの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_8.wav|Mcqueen|jp|なんとなく秋は苦手なんです… 季節の変わり目で体調を 崩しやすいからでしょうか。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_9.wav|Mcqueen|jp|寒さが身に染みますわね…。 首元から指先まで、 きっちり防寒しませんと。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_10.wav|Mcqueen|jp|先程、ゴールドシップさんが急に 目の前でコサックダンスを踊り始め たのですが…なんだったのかしら…
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_11.wav|Mcqueen|jp|ビュッフェ形式のカフェテリアは なかなか節制をするのが難しく… うぅっ…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_12.wav|Mcqueen|jp|周囲の方々へのご挨拶は 徹底しています。メジロ家では いつもそうしておりましたので。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_13.wav|Mcqueen|jp|テイオーさんの積極性には感服 します。ただ、時折冷静になって ほしいと思うこともありますわ…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_14.wav|Mcqueen|jp|昨日、テレビをつけたらたまたま スポーツ中継が…っ！コホン、 やっぱりなんでもありませんわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_15.wav|Mcqueen|jp|目先の勝利にこだわるばかりでは 足元が揺らぎます。結果だけでなく 過程も重視していきたいですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_16.wav|Mcqueen|jp|ここには切磋琢磨できる方が 大勢いらっしゃいますわ。 この環境を大切にしなくては。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_17.wav|Mcqueen|jp|この勝負服で勝利を勝ち取る ことで、メジロの名は伊達では ないと証明してみせますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_18.wav|Mcqueen|jp|悲願達成への思い、メジロ家 としての誇り…勝負服をまとうと 決意を新たにさせられますわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_19.wav|Mcqueen|jp|身だしなみは1日の基本です。 寝ぐせなど残らないよう、 毎朝丁寧に整えておりますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_20.wav|Mcqueen|jp|オグリキャップさんがいらしたので つい…つられてお昼のデザートを おかわりしてしまいました…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_21.wav|Mcqueen|jp|授業の復習は欠かせません。 試験前に焦るようでは、 メジロのウマ娘失格ですもの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_22.wav|Mcqueen|jp|春らしいお花の髪飾りをドーベルに 勧めてみましたが、全く聞き入れて くれなくて…絶対似合いますのに。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_23.wav|Mcqueen|jp|日焼けには気を付けています。 肌荒れや炎症を起こすわけには 参りませんから。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_24.wav|Mcqueen|jp|秋のスイーツ特集…！ うぅ、見たいけれど 見たくありませんわ…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101301_25.wav|Mcqueen|jp|寒さで風邪などひかぬよう、 お気をつけ――くしゅんっ！ い、今のはただのくしゃみですわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_0.wav|Mcqueen|jp|準備はできております。 さあ、指示をいただけますか？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_1.wav|Mcqueen|jp|メジロの名を背負う者として、 日々の鍛錬を怠るわけには 参りませんわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_2.wav|Mcqueen|jp|一歩一歩、コツコツと 積み重ねていきたいものですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_3.wav|Mcqueen|jp|いつか必ず、 悲願を達成するために…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_4.wav|Mcqueen|jp|厳しいトレーニングにも 耐えてみせます。でなければ 勝利は掴み取れませんもの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_5.wav|Mcqueen|jp|周りからどう見えるかは常に意識 してきたつもりです。ライブでも それを活かしたいものですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_6.wav|Mcqueen|jp|努力を重ねてここまで参りました。 今後もこの調子で鍛錬を積み重ねて いかなければ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_7.wav|Mcqueen|jp|私に期待してくださる方々がいる… ならば、その期待を上回る 活躍をしてみせますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_8.wav|Mcqueen|jp|トレーナーさんがいてくれたからですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101301_9.wav|Mcqueen|jp|メジロのウマ娘として、やり遂げましたわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101301_0.wav|Mcqueen|jp|力がみなぎりますわ…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101301_1.wav|Mcqueen|jp|まだまだ強くなれます！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101301_2.wav|Mcqueen|jp|はい、メジロマックイーンですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_gacha_101301_0.wav|Mcqueen|jp|勝利こそ我が定め。 盾の栄誉へ向けて、いざ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_st_101300_0000_0.wav|Mcqueen|jp|みなで、勝利を！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_st_101300_1059_0.wav|Mcqueen|jp|いきますわよ！はい！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_st_101300_1022_0.wav|Mcqueen|jp|勝利の暁には！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_st_100700_1013_1.wav|Mcqueen|jp|なにを言ってますの！？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_st_103100_1013_1.wav|Mcqueen|jp|で、ですわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_st_106700_1013_1.wav|Mcqueen|jp|優雅に！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_101300_0.wav|Mcqueen|jp|勇戦あるのみ、ですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_101300_1.wav|Mcqueen|jp|お見事です！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_101300_2.wav|Mcqueen|jp|引き分けですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_101300_3.wav|Mcqueen|jp|無念ですわ…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_101300_4.wav|Mcqueen|jp|覚悟の違いですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_teamst_101300_5.wav|Mcqueen|jp|新記録、達成ですわね！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_0.wav|Mcqueen|jp|ふふっ♪胸が躍りますわね！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_1.wav|Mcqueen|jp|やりましたわっ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_2.wav|Mcqueen|jp|ふぬぬぅー…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_3.wav|Mcqueen|jp|まあ！こんなにたくさんっ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_4.wav|Mcqueen|jp|やりましたわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_5.wav|Mcqueen|jp|んぅ～っ…悔しいですわ…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_6.wav|Mcqueen|jp|ふん、ふん…♪
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_7.wav|Mcqueen|jp|もう…
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_8.wav|Mcqueen|jp|くすっ
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_9.wav|Mcqueen|jp|素晴らしいですわっ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_10.wav|Mcqueen|jp|うううう～…
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_11.wav|Mcqueen|jp|う～ん…
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_12.wav|Mcqueen|jp|もし？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_13.wav|Mcqueen|jp|よし
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_14.wav|Mcqueen|jp|なんと…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_15.wav|Mcqueen|jp|ああっ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_minigame_101300_16.wav|Mcqueen|jp|むぅ～…
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101301_1.wav|Mcqueen|jp|参ります…お覚悟！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101301_2.wav|Mcqueen|jp|ふぅ…時は来ました…参ります。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101301_0.wav|Mcqueen|jp|祝福の喝采…感謝いたします。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_0.wav|Mcqueen|jp|朝の空気はいいですわね。 すがすがしくて、 何事にも集中できますもの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_1.wav|Mcqueen|jp|いくら早起きしても、必ず誰かが 朝トレしてらっしゃいます。 さすがはトレセン学園ですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_2.wav|Mcqueen|jp|たまにはアフタヌーンティーでも いかがです？メジロ家仕込みの 作法でおもてなしいたしますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_3.wav|Mcqueen|jp|テイオーさんが昼食後すぐ グラウンドへ向かっていました。 …私も負けてはいられません。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_4.wav|Mcqueen|jp|遅くまで頑張っておられますのね。 貴方の姿勢、私も見習わなければ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_5.wav|Mcqueen|jp|就寝前は花の香りのハンドクリーム を塗るんです。少しだけ、いい夢が 見られるような気がして。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_6.wav|Mcqueen|jp|花咲き乱れる春… 自然と背筋が伸びますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_7.wav|Mcqueen|jp|にわか雨が多い季節になり ましたね…コースが荒れて しまうのは困りものですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_8.wav|Mcqueen|jp|肌寒いと、メジロ家の温泉が恋しく なります。この時期は露天風呂で 紅葉が楽しめますのよ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_9.wav|Mcqueen|jp|ふんふ～ん♪ 寒い時はホットレモンに はちみつを少しだけ…♪
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_10.wav|Mcqueen|jp|ああ見えてイクノさんは情熱家 ですの。体調管理の相談をすると 夜中になってしまうことも…。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_11.wav|Mcqueen|jp|メジロ家では、悩みをパーマーに 相談することが多くて。皆、彼女の 明るさに救われているんです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_12.wav|Mcqueen|jp|時々、ヘリオスさんの仰ることが わからず…あざまる水産とは いったい…？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_13.wav|Mcqueen|jp|落としたハンカチを探していたら ライスさんが手伝ってください ました。…本当に優しい方。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_14.wav|Mcqueen|jp|テイオーさんの元気がなかった ような…メジロ家の主治医を 紹介してあげようかしら。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_15.wav|Mcqueen|jp|さらなる高みへと 駆けていけそうな衣装ですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_16.wav|Mcqueen|jp|新たな勝負服は皆さんの期待の表れ でもあります。応援してくれる方々 に恥じぬ走りをしなければ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_17.wav|Mcqueen|jp|テイオーさんったら、朝からチーズ たっぷりのトーストを目の前で…！ 絶対に惑わされないんですから…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_18.wav|Mcqueen|jp|あっ、にんじんみたいな形の雲が… ふふっ、かわいらしいですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_19.wav|Mcqueen|jp|今のうちに両親に連絡を、と…。 …定期的に連絡しないと、すぐに 心配されてしまうんです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_20.wav|Mcqueen|jp|メジロ家の庭園には大きな池があり ました。水面に桜の花が落ちる様を よく眺めていたものです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_21.wav|Mcqueen|jp|今の時期はナイターが――いえ でもメジロ家のウマ娘がふらふらと 遊び歩くわけにはっ…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_22.wav|Mcqueen|jp|木の葉が色づいていくのを見ると、 秋の深まりを感じます。 季節の移ろいは早いものですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101302_23.wav|Mcqueen|jp|子どもの頃は手袋をブローチで 留めて左右一対にしていました。 …時々、片方だけなくしたもので。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_0.wav|Mcqueen|jp|理想の走りに近づけるよう、今日も よろしくお願いいたしますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_1.wav|Mcqueen|jp|私の長所が活きるトレーニングを。 貴方ならおわかりでしょう？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_2.wav|Mcqueen|jp|水鳥の如く、強く優雅に。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_3.wav|Mcqueen|jp|勝利に向けて 羽ばたいていきましょうか。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_4.wav|Mcqueen|jp|切磋琢磨できる方が大勢いる この環境…大切にしなくては。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_5.wav|Mcqueen|jp|澄み切った水のように、 常に平静でありたいものです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_6.wav|Mcqueen|jp|まだ見ぬ未来になにがあるのか… 確かめましょう。私たちで。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_7.wav|Mcqueen|jp|最高の栄誉と感謝を贈りますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101302_8.wav|Mcqueen|jp|私の誇りは…貴方と共に。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101302_0.wav|Mcqueen|jp|天高く！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101302_1.wav|Mcqueen|jp|果てなく先へ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101302_2.wav|Mcqueen|jp|メジロマックイーンです。 天まで駆けてみせますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_gacha_101302_0.wav|Mcqueen|jp|昇ってみせます！ 遥か、果てなき未来へ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101302_1.wav|Mcqueen|jp|羽ばたきます！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101302_2.wav|Mcqueen|jp|この翼で、高く高く…羽ばたいてみせますわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101302_0.wav|Mcqueen|jp|天まで昇り…勝ち取りました！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_0.wav|Mcqueen|jp|朝のランニングをしていたら、 テイオーさんと鉢合わせしまして… 少し、走りすぎてしまいましたわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_1.wav|Mcqueen|jp|ライアンから海の朝焼けが 美しかったと写真が送られてきたの ですが…ふふっ、いい笑顔でした。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_2.wav|Mcqueen|jp|…本日のティータイムはたしか、 とっておきのジェラートが…け、 決して楽しみではありませんわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_3.wav|Mcqueen|jp|ドーベルやアルダンさんとは 洋服の趣味が似ていまして… たまに被ってしまいますの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_4.wav|Mcqueen|jp|あまり汗だくで帰りたくは ありませんの。その、ほら、 …イクノさんにご迷惑でしょう？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_5.wav|Mcqueen|jp|今日も1日よく頑張りましたね 昔はよく、お母様にそう褒められ ながら眠りについたものです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_6.wav|Mcqueen|jp|春…やはりこの響きは 気が引き締まります。 …参りましょう、桜が散る前に。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_7.wav|Mcqueen|jp|今度、涼しい場所へ遊びに行きま せんか？その…ちょうど、似合いの 服も購入いたしましたので。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_8.wav|Mcqueen|jp|ご存じかしら？今、はちみー店では 期間限定ハチミツお芋パフェが 売られていますのよ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_9.wav|Mcqueen|jp|不思議なことに、レース中は 寒さなど忘れてしまえるのです。 ウマ娘七不思議、でしょうか？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_10.wav|Mcqueen|jp|滅多にないのですが、たまーに ゴールドシップさんと見間違えられ ますの。…複雑な気分ですわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_11.wav|Mcqueen|jp|メジロ家のウマ娘たるもの、 誇り高く慎み深く、そして時には 心の声に従って…ですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_12.wav|Mcqueen|jp|サマーウォークは毎年楽しくて。 終わったら微増、なんてことも しばしば…。油断大敵ですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_13.wav|Mcqueen|jp|かき氷大会の案内をいただき ましたの！フルーツ盛り放題 らしくて！ふふ、楽しみです♪
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_14.wav|Mcqueen|jp|1度、夏フェスへパーマーに連れて 行っていただいたことがあります。 もみくちゃとはあのことですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_15.wav|Mcqueen|jp|お腹は隠れるデザインに いたしましたの。その…万が一と いうこともあるでしょう？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_16.wav|Mcqueen|jp|不思議と、これを着ているだけで あの日の夏空を感じますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_17.wav|Mcqueen|jp|おばあ様より教わっていますの。 朝であっても、眠気に負けず 背筋を伸ばして…ふぁ…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_18.wav|Mcqueen|jp|いい茶葉が入りましたの。 ハロウスの期間限定茶葉で、 甘いものによく合うんです。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_19.wav|Mcqueen|jp|…あら？どこからか、花火の音が 聞こえたような…少しだけ見に 行きませんか？…少しだけ、ね？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_20.wav|Mcqueen|jp|この時期の外周は格別ですのよ。 桜が舞って、菜の花が香って。 …今度一緒にお散歩しませんか？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_21.wav|Mcqueen|jp|昔、アルダンさんのお部屋に蛍が 迷い込んできたことがあるんです。 なぜか、どこで見るより美しくて。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_22.wav|Mcqueen|jp|ゴールドシップさんが、逆芋ほりを したいと言って、空を掘っていたの ですが…止めるべきでしょうか。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_home_101303_23.wav|Mcqueen|jp|メ、メジロ家のウマ娘たるもの、 多少の寒さには屈しません！ …屈しませんわよ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_0.wav|Mcqueen|jp|リフレッシュも済ませましたし… さ、どんなトレーニングも こなしてみせますわ！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_1.wav|Mcqueen|jp|大丈夫かしら…。 トレーナーさん、リボンが落ちたら すぐに教えてくださいませ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_2.wav|Mcqueen|jp|勝負とあらば、いついかなる時も… 本気でなければいけません。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_3.wav|Mcqueen|jp|私もおかしなわがままを 言ってみてもいいでしょうか？ …ふふ、冗談ですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_5.wav|Mcqueen|jp|メジロ家のウマ娘たるもの …この矜持を忘れず、そして 縛られず、邁進して参りますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_6.wav|Mcqueen|jp|掴み取りたいものは変わりません。 メジロの悲願を…貴方と共に。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_7.wav|Mcqueen|jp|貴方に見せたい夕日があるんです。 …ふふ。くたくたになって迎える、 夏の夕暮れですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_8.wav|Mcqueen|jp|どんな私でも支えてくださったこと、 ずっと忘れませんわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_training_101303_9.wav|Mcqueen|jp|トレーニングも、休日も… 貴方との思い出ばかりですわね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101303_0.wav|Mcqueen|jp|休憩はたっぷりとれましたもの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101303_1.wav|Mcqueen|jp|胸に熱が宿っていますわ。 まるで夏日の輝きのような…！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_outgame_101303_2.wav|Mcqueen|jp|メジロマックイーンですわ。 夏のご予定は？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_gacha_101303_0.wav|Mcqueen|jp|浜を歩いたり、波に触れたり… 少しくらい…いいかしら？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101303_1.wav|Mcqueen|jp|共に夏を駆けましょう。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101303_2.wav|Mcqueen|jp|夏日の煌めきのもと、貴方と過ごす夏はきっと …美しいものですわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_race_101303_0.wav|Mcqueen|jp|特別に大粒いちごのかき氷を… …は！
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_event_090003_1.wav|Mcqueen|jp|例え新しい風が吹こうとも… 勝利は譲りませんわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_event_090016_0.wav|Mcqueen|jp|私まで参加するハメになるなんて… ですが、やるからには本気ですわ。 それがメジロの矜持ですもの。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_event_090016_6.wav|Mcqueen|jp|決着をつける時が来ましたわね。 私はメジロの名に恥じぬよう、 優雅に勝つと誓いますわ。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_event_090016_10.wav|Mcqueen|jp|ゴールドシップさんにも 少しは感謝いたしませんとね。 少しだけ、ですのよ…？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_event_090024_5.wav|Mcqueen|jp|テイオーさんは隙あらば感覚で 即興を入れてくるんですの…。 合わせる側も大変なんですからね。
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_event_090024_7.wav|Mcqueen|jp|ドロワに学年などの壁はござい ません。尊敬する先輩がいようとも …トップには立てますのよ？
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_valentine_101300_0.wav|Mcqueen|jp|ハッピーバレンタイン、ですわ
+.\training_set\Mcqueen\character_system_text_1013_snd_voi_aimteam_101300_0.wav|Mcqueen|jp|お疲れ様です
