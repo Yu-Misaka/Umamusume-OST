@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     30473,        759]
-NotebookOptionsPosition[     28577,        723]
-NotebookOutlinePosition[     28993,        740]
-CellTagsIndexPosition[     28950,        737]
+NotebookDataLength[     31951,        798]
+NotebookOptionsPosition[     29737,        757]
+NotebookOutlinePosition[     30153,        774]
+CellTagsIndexPosition[     30110,        771]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -719,6 +719,40 @@ Cell[BoxData[
    "]"}], ";"}]], "Input",
  CellChangeTimes->{{3.945420121619147*^9, 3.945420161567419*^9}},
  CellLabel->"In[27]:=",ExpressionUUID->"16161231-1b53-4553-a626-95b9792537ba"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Ready For Training", "Section",
+ CellChangeTimes->{{3.9454209327486534`*^9, 
+  3.9454209461763906`*^9}},ExpressionUUID->"204064c2-6960-4c15-84f4-\
+b5ff28d6b376"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"text", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{
+    "\"\<OutputAudio_Mcqueen\\\\Mcqueen.txt\>\"", ",", "\"\<Data\>\""}], 
+    "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.945420948454067*^9, 3.9454209511242456`*^9}},
+ CellLabel->"In[2]:=",ExpressionUUID->"16950cf0-68af-4a0b-a7b0-b3c2038f26d3"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Export", "[", 
+   RowBox[{"\"\<OutputAudio_Mcqueen\\\\Mcqueen-train.list\>\"", ",", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"StringReplace", "[", 
+       RowBox[{"#", ",", 
+        RowBox[{
+        "\"\<.\\\\training_set\\\\Mcqueen\\\\\>\"", "->", 
+         "\"\</root/autodl-tmp/data/\>\""}]}], "]"}], "&"}], "/@", "text"}], 
+    ",", "\"\<Text\>\""}], "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.9454209592952895`*^9, 3.945421021373685*^9}, {
+  3.9454210735212493`*^9, 3.9454211178751764`*^9}},
+ CellLabel->"In[6]:=",ExpressionUUID->"4dacec7d-615e-4f47-a239-e86c20858a65"]
 }, Open  ]]
 },
 WindowSize->{1190.25, 708.75},
@@ -739,7 +773,7 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 395, 10, 43, "Input",ExpressionUUID->"442cd21f-4b1a-4603-8135-84bc67547d2a"],
+Cell[558, 20, 395, 10, 98, "Input",ExpressionUUID->"442cd21f-4b1a-4603-8135-84bc67547d2a"],
 Cell[956, 32, 2344, 56, 175, "Input",ExpressionUUID->"6cef550f-b607-43c5-9811-43101e028336"],
 Cell[CellGroupData[{
 Cell[3325, 92, 230, 6, 67, "Section",ExpressionUUID->"008ba8e1-c195-4e36-b1b9-0fc5212af744"],
@@ -759,7 +793,12 @@ Cell[CellGroupData[{
 Cell[26990, 677, 154, 3, 67, "Section",ExpressionUUID->"681918dd-91a3-4149-a601-2901afb7f781"],
 Cell[27147, 682, 345, 8, 43, "Input",ExpressionUUID->"c2e80f6d-767d-46df-bb4c-296995e23677"],
 Cell[27495, 692, 756, 19, 43, "Input",ExpressionUUID->"a7e41fcd-105f-490f-a013-628fe581f7e2"],
-Cell[28254, 713, 307, 7, 98, "Input",ExpressionUUID->"16161231-1b53-4553-a626-95b9792537ba"]
+Cell[28254, 713, 307, 7, 43, "Input",ExpressionUUID->"16161231-1b53-4553-a626-95b9792537ba"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[28598, 725, 167, 3, 67, "Section",ExpressionUUID->"204064c2-6960-4c15-84f4-b5ff28d6b376"],
+Cell[28768, 730, 337, 8, 43, "Input",ExpressionUUID->"16950cf0-68af-4a0b-a7b0-b3c2038f26d3"],
+Cell[29108, 740, 613, 14, 98, "Input",ExpressionUUID->"4dacec7d-615e-4f47-a239-e86c20858a65"]
 }, Open  ]]
 }
 ]
