@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     28459,        705]
-NotebookOptionsPosition[     26969,        675]
-NotebookOutlinePosition[     27391,        692]
-CellTagsIndexPosition[     27348,        689]
+NotebookDataLength[     30473,        759]
+NotebookOptionsPosition[     28577,        723]
+NotebookOutlinePosition[     28993,        740]
+CellTagsIndexPosition[     28950,        737]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -654,7 +654,7 @@ Cell[BoxData[
   3.8846668061918993`*^9, {3.909890007394707*^9, 3.9098900165726137`*^9}, {
    3.909890085828453*^9, 3.9098900883148675`*^9}, {3.945338000946541*^9, 
    3.945338004124074*^9}},
- CellLabel->"In[6]:=",ExpressionUUID->"36238069-9c79-4df4-908e-3ddb380aa813"],
+ CellLabel->"In[3]:=",ExpressionUUID->"36238069-9c79-4df4-908e-3ddb380aa813"],
 
 Cell[BoxData[
  RowBox[{
@@ -671,10 +671,58 @@ Cell[BoxData[
   3.8846668061918993`*^9, {3.9071223303712444`*^9, 3.907122334594677*^9}, {
    3.909890121758461*^9, 3.909890125854694*^9}, 3.9453380751276474`*^9},
  CellLabel->"In[7]:=",ExpressionUUID->"3270d1d5-18f8-4a60-b71b-31903e09e536"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Selection", "Section",
+ CellChangeTimes->{{3.945419691178104*^9, 
+  3.945419695837194*^9}},ExpressionUUID->"681918dd-91a3-4149-a601-\
+2901afb7f781"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"preProcessed", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{
+    "\"\<OutputAudio_Mcqueen\\\\Mcqueen.txt\>\"", ",", "\"\<Data\>\""}], 
+    "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.9454197065638313`*^9, 3.945419740134956*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"c2e80f6d-767d-46df-bb4c-296995e23677"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"postProcess", "=", 
+   RowBox[{"Select", "[", 
+    RowBox[{"preProcessed", ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"Length", "[", 
+        RowBox[{
+         RowBox[{"Characters", "@", 
+          RowBox[{
+           RowBox[{"StringSplit", "[", 
+            RowBox[{"#", ",", "\"\<|\>\""}], "]"}], "[", 
+           RowBox[{"[", 
+            RowBox[{"-", "1"}], "]"}], "]"}]}], "//", "DeleteDuplicates"}], 
+        "]"}], ">", "2"}], "&"}]}], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.94541974143274*^9, 3.945419800408784*^9}, {
+  3.9454198577306967`*^9, 3.945420062667378*^9}, {3.9454201132563734`*^9, 
+  3.945420119746745*^9}},
+ CellLabel->"In[26]:=",ExpressionUUID->"a7e41fcd-105f-490f-a013-628fe581f7e2"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Export", "[", 
+   RowBox[{
+   "\"\<OutputAudio_Mcqueen\\\\Mcqueen-1.txt\>\"", ",", "postProcess"}], 
+   "]"}], ";"}]], "Input",
+ CellChangeTimes->{{3.945420121619147*^9, 3.945420161567419*^9}},
+ CellLabel->"In[27]:=",ExpressionUUID->"16161231-1b53-4553-a626-95b9792537ba"]
 }, Open  ]]
 },
-WindowSize->{1200, 718.5},
-WindowMargins->{{-4.875, Automatic}, {Automatic, -4.875}},
+WindowSize->{1190.25, 708.75},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
 FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (2023\:5e746\:67083\
 \:65e5)",
 StyleDefinitions->"Default.nb",
@@ -706,6 +754,12 @@ Cell[17158, 426, 5153, 124, 366, "Input",ExpressionUUID->"42d21206-c81b-4f51-aa5
 Cell[22314, 552, 4004, 104, 330, "Input",ExpressionUUID->"36238069-9c79-4df4-908e-3ddb380aa813"],
 Cell[26321, 658, 236, 4, 28, "Input",ExpressionUUID->"e00a39b5-c752-48ac-9fc0-2f6a2343c3df"],
 Cell[26560, 664, 393, 8, 28, "Input",ExpressionUUID->"3270d1d5-18f8-4a60-b71b-31903e09e536"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[26990, 677, 154, 3, 67, "Section",ExpressionUUID->"681918dd-91a3-4149-a601-2901afb7f781"],
+Cell[27147, 682, 345, 8, 43, "Input",ExpressionUUID->"c2e80f6d-767d-46df-bb4c-296995e23677"],
+Cell[27495, 692, 756, 19, 43, "Input",ExpressionUUID->"a7e41fcd-105f-490f-a013-628fe581f7e2"],
+Cell[28254, 713, 307, 7, 98, "Input",ExpressionUUID->"16161231-1b53-4553-a626-95b9792537ba"]
 }, Open  ]]
 }
 ]
