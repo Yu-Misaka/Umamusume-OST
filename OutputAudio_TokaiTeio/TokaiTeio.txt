@@ -1,0 +1,701 @@
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_29.wav|TokaiTeio|jp|まずここが学内ジム！　あ、器具はもちろんウマ娘仕様だから、 パワー全開でやっちゃって大丈夫だよ♪
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_49.wav|TokaiTeio|jp|てーんにゅーせークーンっ！ どうだった？　ＧⅠレースは……って。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_42.wav|TokaiTeio|jp|その中でも最っ高の格付けの、ＧⅠレースが！　始まるんだよっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_16.wav|TokaiTeio|jp|さあっ、さっそく学園案内にれっつごー！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_50.wav|TokaiTeio|jp|あははっ、聞くまでもなさそーだね！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_28.wav|TokaiTeio|jp|それじゃートレーニング施設3連発、いっくよー！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_35.wav|TokaiTeio|jp|フーム、じゃあ……よし、決めたっ！！ 時間もちょーどいいし！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_15.wav|TokaiTeio|jp|はーいっ、ごめんなさーい♪ あ、キミが転入生だよね？　ボク、トウカイテイオー！　よろしく♪
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_12.wav|TokaiTeio|jp|カイチョーの危機に駆けつけるのは、もちろんこのボク！ トウカイテイオー様だぁー！　わーっはっはっはっはー！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_34.wav|TokaiTeio|jp|むむむ、疲れちゃった？ まあこの学園広いし、だいぶ駆け回ったもんねー。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_20.wav|TokaiTeio|jp|それじゃー学園案内、はっじめっるよ～！ まずここが教室！　お勉強もちゃんとするからねっ！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_38.wav|TokaiTeio|jp|まーまーまー、細かいことはいーからいーから！ それよりほら、早く行かなきゃ始まっちゃう！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_30.wav|TokaiTeio|jp|こっちはプール！　1年中泳げるなんてサイコーだよね～。 ちなみにボク、飛び込みも得意でーす！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_10.wav|TokaiTeio|jp|そ・こ・でっ、ボクの出番！！ ……とぅっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_25.wav|TokaiTeio|jp|そこんトコは整備スタッフさんに感謝だねー。 いつもボクらを支えてくれてありがとーございますっ！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_21.wav|TokaiTeio|jp|……あ、でもこんなとこ見たってつまんないか？ ほかの学校にもフツーにあるもんね。じゃ、次いってみよー！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_39.wav|TokaiTeio|jp|もうすぐ、ＧⅠレースの出走だよっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_36.wav|TokaiTeio|jp|最後の案内場所へ、れっつごー！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_41.wav|TokaiTeio|jp|そうっ！　レースの世界で生きるウマ娘たちの憧れ、 トゥインクル・シリーズ――
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_31.wav|TokaiTeio|jp|――でもいっちばん得意なのはダンス！ 転入生クン、ウイニングライブの練習も忘れちゃダメだぞよ～？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_32.wav|TokaiTeio|jp|それでそれで、ここが～……って、あれれ？ 転入生ク～ン？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_26.wav|TokaiTeio|jp|ほい、次つぎ～！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001003_23.wav|TokaiTeio|jp|じゃじゃーん！　芝コース～！！ これから、こーんな立派なコースでトレーニングできちゃうよ！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_37.wav|TokaiTeio|jp|と、いうワケで……ほら、ついてきてっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_30.wav|TokaiTeio|jp|もったいない、もったいないよキミ～！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_35.wav|TokaiTeio|jp|この学園のいっちばんサイコーなとこ、 わかってないまんまじゃん！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_34.wav|TokaiTeio|jp|うんっ！！　だってさ、それじゃ――
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_39.wav|TokaiTeio|jp|ほらほら、早くおいでよ～！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_31.wav|TokaiTeio|jp|確かにトレセン学園は勉強もトレーニングもしないとだし、 他の子たちもけっこー速いからタイヘンって気持ちもわかるけど。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_24.wav|TokaiTeio|jp|……あれあれ？ キミ、なーんか元気なくないっ？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_32.wav|TokaiTeio|jp|でも、キミにとってのトレセン学園が それだけになっちゃうのは、もったいないよっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_21.wav|TokaiTeio|jp|ふんふふ～ん♪　ヒマ・ヒマ・ヒマ～♪ な～んか楽しいことな・い・か・なっと……あ！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_22.wav|TokaiTeio|jp|転・入・生・ク～～～～～ンっ！！ どうどう？　学園にはもう馴れたかなっ？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_27.wav|TokaiTeio|jp|フーム、なるほどなるほど～……うんっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_28.wav|TokaiTeio|jp|もったいないっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001006_25.wav|TokaiTeio|jp|……なるほどねぇ～。それでしょんぼりしてたんだ。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_47.wav|TokaiTeio|jp|……！！　……そっか。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_52.wav|TokaiTeio|jp|さぁーてと。……どうだった、スぺちゃん？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_26.wav|TokaiTeio|jp|もちろん、口で言ってるだけならただの夢だけどさ。 ――ボクたちは、トレセン学園の生徒なんだ！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_44.wav|TokaiTeio|jp|うわっと！？　突き放したのに――
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_40.wav|TokaiTeio|jp|でも――抜かせないよっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_23.wav|TokaiTeio|jp|ボクはあのカイチョーみたいに、1番すごいウマ娘になるんだ。 どんな子が相手でも負けない。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_8.wav|TokaiTeio|jp|――“世界最強”！ その証明をするために、走ってるんだって！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_37.wav|TokaiTeio|jp|じゃ、行くよ？　用意――スタートっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_4.wav|TokaiTeio|jp|あはははっ、今日もアツいな～エルは！ 確か、キミと同じクラスだったよね。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_5.wav|TokaiTeio|jp|――キミはさ、エルがどうして走ってるかって聞いたことある？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_30.wav|TokaiTeio|jp|さてとっ。じゃ、ボクたちもそろそろ走ろっか？ 併走といこうじゃーないか、転入生クン！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_55.wav|TokaiTeio|jp|そっか！　……にっしし。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_11.wav|TokaiTeio|jp|ちっちっち～、すごいのはエルだけじゃないよ？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_20.wav|TokaiTeio|jp|――ま、“世界最強”だろうが“頂点”だろうが、 勝って“1番すごいウマ娘”になるのはボクだけどね。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_13.wav|TokaiTeio|jp|グラスもさ、すごいよね～。 すごいっていうか、あの子の場合はすさまじいって感じ？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_32.wav|TokaiTeio|jp|そうっ、今から！！ ほらほら、ぐずぐずしない、レースだよレース！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_9.wav|TokaiTeio|jp|トゥインクルだけじゃない、 海外のレースでも勝って、自分の実力を証明するんだってさ。
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_16.wav|TokaiTeio|jp|――“頂点”！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_28.wav|TokaiTeio|jp|ボクたちみんな、ここへ、夢をホントにしに来たんだ。 ――ここでなら、ここでだけ、それができるんだ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_22.wav|TokaiTeio|jp|シンボリルドルフ会長、わかるよね？ トレセン学園の中でも随一って言われるウマ娘さ！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_33.wav|TokaiTeio|jp|それでさ――教えてよ！　キミはさ、どうして走ってるの？ どうして、このトレセン学園に来たの？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_24.wav|TokaiTeio|jp|ボクこそが、“無敵のテイオー様”なんだから！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_19.wav|TokaiTeio|jp|あははっ、すごいよね～2人とも！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_39.wav|TokaiTeio|jp|おっ！！　いい感じに追ってくるじゃん、スぺちゃん……！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_48.wav|TokaiTeio|jp|それでも――勝つのはボクだよ、スぺちゃんっ！！
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_17.wav|TokaiTeio|jp|レースっていう道を歩むんなら、 目指すべき場所はそれ以外ないってさ。シンプルだよね？
+.\training_set\TokaiTeio\story_data_09_0001_storytimeline_090001007_27.wav|TokaiTeio|jp|この学園でトレーナーがつけばトゥインクル・シリーズに出られる。 いくつものレースの先には絶対、ボクたちの目指す場所がある！
+.\training_set\TokaiTeio\story_data_09_0003_storytimeline_090003001_34.wav|TokaiTeio|jp|へへっ、そーこなくっちゃ！ ――負けないよ、マックイーン！
+.\training_set\TokaiTeio\story_data_09_0003_storytimeline_090003001_29.wav|TokaiTeio|jp|じゃじゃーんっ！　どう、この新しい勝負服！ 燃えてる感じが眩しくて、カッコいいでしょ～っ♪
+.\training_set\TokaiTeio\story_data_09_0003_storytimeline_090003001_25.wav|TokaiTeio|jp|カイッチョー！ 話の続きは――ボクたちに任せてよ！
+.\training_set\TokaiTeio\story_data_09_0003_storytimeline_090003001_28.wav|TokaiTeio|jp|みんなーっ、おっまたせ～！ 最強のウマ娘、トウカイテイオー……ボクはここだよ～っ！
+.\training_set\TokaiTeio\story_data_09_0003_storytimeline_090003001_31.wav|TokaiTeio|jp|そういうマックイーンも、 本当はもっと注目されたいんじゃないの？
+.\training_set\TokaiTeio\story_data_09_0003_storytimeline_090003001_32.wav|TokaiTeio|jp|キミの新しい勝負服もなかなかイカしてるもん。 ほらほら、アピールしなくて大丈夫～？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017002_37.wav|TokaiTeio|jp|……あれ？　他に誰もいないの？ お師匠さんみたいなヒトは？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017002_38.wav|TokaiTeio|jp|キミ、飛行機を追いかけてその製作者に 弟子入りしたって言ってなかったっけ。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017002_27.wav|TokaiTeio|jp|ま、そうなんだけど！　たぶんこれってミッションでしょ？ ってことは、ゲーム的に考えて～……クリア条件、わかるよね？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017002_40.wav|TokaiTeio|jp|全部1人でやってるの！？　それじゃ倒れるのも無理ないよ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017002_45.wav|TokaiTeio|jp|なら、資金集めを手伝おっか！　……確か、 街のヒトの依頼をこなすと報酬がもらえたはずだから、それで！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017004_37.wav|TokaiTeio|jp|このままじゃ、実験が成功してもあの子は心から喜べないよ！ だからボクも先代と話してみたい！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017004_45.wav|TokaiTeio|jp|やるじゃん！　お手柄だよっ！！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017004_36.wav|TokaiTeio|jp|んー……ひとまず、先代と話してみない？ 話の振り方には気をつけてさ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017004_2.wav|TokaiTeio|jp|回収だけでも先代に頼まなかったの？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017008_49.wav|TokaiTeio|jp|ふふっ、じゃあボクと同じだ！ カイチョーもみんなに夢を与えてくれるからね！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017008_16.wav|TokaiTeio|jp|天才テイオー様がいるんだから、それくらい当然だよ！ さーて、山向こうには何があるのかな～♪　楽しみだねっ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017008_3.wav|TokaiTeio|jp|3人乗っても平気じゃない？ タイシンとターボ、ちっこいしさ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017008_9.wav|TokaiTeio|jp|わぁ……！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017008_38.wav|TokaiTeio|jp|へへっ、ボクたちいい仕事したんじゃない？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017008_51.wav|TokaiTeio|jp|あははっ！　キミの全力は夢のかたまりだよ！ ツインターボ師匠♪
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017007_41.wav|TokaiTeio|jp|……あの子は先代の期待を背負って、完成させたよ。 託した夢の結末を見なくていいの？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017007_43.wav|TokaiTeio|jp|続いてるよ！！　あの子が夢をつないだんだ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017007_32.wav|TokaiTeio|jp|――ねえ、チケゾー。失敗を失敗で終わらせないならさ。 叶わなかった夢にも……価値があること、伝えなきゃだよね。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017007_40.wav|TokaiTeio|jp|前の機体を回収して、先代との研究成果を 新しい機体にも組み込んでるんだ。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017007_31.wav|TokaiTeio|jp|うん。失敗をふまえて、方程式を組み立て直す。 ハヤヒデらしいね！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024073_8.wav|TokaiTeio|jp|あれれ～、おかしいなー？ キミたちが踊る前はボクらが主役だったんだけどなー！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017001_33.wav|TokaiTeio|jp|えーと、ゲームのクリア条件は……ミッションの達成だって！ 内容が空欄になってるから、ミッションはこのあとわかるのかな？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017001_19.wav|TokaiTeio|jp|ボクはジョブなしの“ハードモード”にしよっと！ そのほうが楽しそうだし！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017001_10.wav|TokaiTeio|jp|ほら、ウマレーターってレースシミュレーターだけど、 提携してるオンラインゲームもプレイできるらしいじゃん！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017001_9.wav|TokaiTeio|jp|はいはーい！　提案っ！！ どうせならさ、VRウマレーターでプレイしない？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017001_32.wav|TokaiTeio|jp|1回だけジョブスキルが使える“EXジョブチェンジ”もあるし！ あとまあ、このボクがいるんだし？　大丈夫、なんとかなるなる！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017001_28.wav|TokaiTeio|jp|あれ！？　ハヤヒデもハードモードになっちゃってる！ ジョブ決めないとそうなるんだ？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017003_41.wav|TokaiTeio|jp|え？　まとめて1回で担いできただけだよ？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017003_51.wav|TokaiTeio|jp|やめちゃったって……それ、先代の研究者のこと？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017003_7.wav|TokaiTeio|jp|あはは、さっすが。じゃ、任せたよ！ またあとでね～！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017003_39.wav|TokaiTeio|jp|こんにちはー！　注文の食材、 裏に積んでおいたから確認お願いしまーす！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017003_2.wav|TokaiTeio|jp|じゃ、同じ方向の配達とおつかいをまとめて片づけよう！ これで一気に17個の依頼をこなせるよ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_47.wav|TokaiTeio|jp|ターボ……！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_24.wav|TokaiTeio|jp|先代は？　あの子のこと、信じてないの？ プレッシャーに潰されちゃうくらい弱い子だって思ってるの？
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_41.wav|TokaiTeio|jp|服が変わった！？ ――そうか、“EXジョブチェンジ”！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_19.wav|TokaiTeio|jp|……だけどさ、だけど――
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_34.wav|TokaiTeio|jp|可能性があるなら、当然やるよね！ じゃあターボ全開で頼むよ、ダブルジェット！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_20.wav|TokaiTeio|jp|どんなに重くても、ボクは期待してもらえるほうが嬉しかった。 期待しててほしかった！！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_18.wav|TokaiTeio|jp|期待ってさ、上手くいかなくなった途端、 その重さに潰されそうになることもあるから……。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_23.wav|TokaiTeio|jp|カイチョーも、ボクなら大丈夫って信じて待っててくれた。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_16.wav|TokaiTeio|jp|たしかに、大きな期待を背負うのは大変だよね。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_26.wav|TokaiTeio|jp|ふふっ、そっか。あとね、彼女にはボクたちっていう スーパー有能天才協力者がいるんだよ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_22.wav|TokaiTeio|jp|期待を背負うのは重いけど、重いからこそ―― 潰されずに受け止めてみせるって踏ん張る力にもなるんだよ！！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_11.wav|TokaiTeio|jp|そっか……キミは、あの子の負担になるかもしれないと思って、 関わらないようにしてるんだね……。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_21.wav|TokaiTeio|jp|期待してもらえたから、ボクは絶対応えてみせるって 頑張ることができたんだ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_17.wav|TokaiTeio|jp|その重さが、足を引っ張ることもある…… だから声をかけたくない気持ち、わかるかも。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017005_15.wav|TokaiTeio|jp|あの子に期待してるんだ。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_28.wav|TokaiTeio|jp|車……？　あ、ホントだ！　猛スピードで追ってきてる。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_22.wav|TokaiTeio|jp|ボクもダブルターボに負けてられないし！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_20.wav|TokaiTeio|jp|天才ドライバー参上ッ！！ テイオー様のドラテクにかかれば、牽引なんてチョロいもんさ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_18.wav|TokaiTeio|jp|――けど、あきらめるわけにはいかないよね。
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_21.wav|TokaiTeio|jp|死にもの狂いでこの車を動くようにしてもらったんだもん。 つないだ夢、途切れさせるわけにはいかないよ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_16.wav|TokaiTeio|jp|わっ、たっ、とととっ……！　やばっ！！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_1.wav|TokaiTeio|jp|こちらテイオー！　全然わかんないから誘導よろしく！ オーバー！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_19.wav|TokaiTeio|jp|負けない！　絶対あきらめない！！ そして飛行機を飛ばすんだ！
+.\training_set\TokaiTeio\story_data_09_0017_storytimeline_090017006_24.wav|TokaiTeio|jp|さあみんな、出発するよーっ！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024002_35.wav|TokaiTeio|jp|いいねー！！　サイコー♪ じゃあもう1回っ！　ラストーっ♪
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024002_33.wav|TokaiTeio|jp|あははっ！　マックイーン……気を抜かないでよっ？ キミはボクに……っ、ついてこられるよねっ？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024002_41.wav|TokaiTeio|jp|は～……も～、クタクタ～。あの衣装、キュークツすぎー！ って、ありゃ？　ネイチャ？　わーっ、なんでいるのー！？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_22.wav|TokaiTeio|jp|ニシシッ。だってキミも、 ベストデートを目指してるんでしょ？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_20.wav|TokaiTeio|jp|チヨノオーも負けたくないんじゃないの？ もしマルゼンが、ドロワに参加してきたとしても。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_15.wav|TokaiTeio|jp|うん。ボクらしい振り付けでしょ？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_5.wav|TokaiTeio|jp|それ、マルゼンのダンスのコピー？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_19.wav|TokaiTeio|jp|コピーが対抗できるのは引き分けまで。 勝つには、誰でもないボク自身で勝負しないとね！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_7.wav|TokaiTeio|jp|ねえねえ、ボクもスタジオつかってもいーい？　いーよねっ！ 最終調整したくってさ～。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_17.wav|TokaiTeio|jp|えーーっ、そんなのするわけないじゃん！ ボクは“皇帝”を超える“帝王”様だぞ！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_11.wav|TokaiTeio|jp|だからドロワでもカイチョーみたいに、 チョー輝いてみせるんだー！　こんな感じに！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_18.wav|TokaiTeio|jp|それにカイチョーのモノマネが完璧にできたって意味ないよ。 カイチョー本人がドロワに出たなら、真似じゃあ勝てないでしょ？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_9.wav|TokaiTeio|jp|だってカイチョーのダンスは、ぜーんぶチェックしてるもーんっ！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024004_25.wav|TokaiTeio|jp|チヨノオーも負けたくないんじゃないの？ もしマルゼンが、ドロワに参加してきたとしても。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024005_35.wav|TokaiTeio|jp|何度落ち込んだって、すぐ立ち直ってきてさ。 そのたびに対策を練ろうとする。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024005_38.wav|TokaiTeio|jp|そしてチヨノオーみたいな、いいライバルが現れれば、 ボクらのダンスにも、より火がつく。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024005_34.wav|TokaiTeio|jp|いやー、マックイーンもボクと同じだなーって。 ……チヨノオーって、意外とたくましいよね。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024005_41.wav|TokaiTeio|jp|同感！　それに1位を獲るだけじゃ物足りないなぁ。 キミとボクで史上最高のダンスを更新しようよ、マックイーン！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024005_37.wav|TokaiTeio|jp|あの姿を見せられるとさ、 こっちも負けてられないぞって思っちゃうよね。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_33.wav|TokaiTeio|jp|もっちろーん！ 同期でライバルのお手前、チェックさせてもらうよ～？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_8.wav|TokaiTeio|jp|審査員にはアピールできたし、力も出し尽くしたし！ あとは結果を待つことにするよ。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_27.wav|TokaiTeio|jp|さあ、踊ろう！　ネイチャ！！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_39.wav|TokaiTeio|jp|やっほー、チヨノオー。 今日も張り切ってるねー。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_29.wav|TokaiTeio|jp|もー、覚悟はもう決まってたくせに。 それにボクの予感だけどキミは――
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_49.wav|TokaiTeio|jp|あっ……！　ニシシッ、忘れちゃった。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_50.wav|TokaiTeio|jp|マルゼンには直接チヨノオーに宣言したほうがいいよって、 言っとくよ。――負けられないってさ♪
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_20.wav|TokaiTeio|jp|いいよ。じゃあ今から踊りに行こう。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_22.wav|TokaiTeio|jp|そうだよ。今。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_7.wav|TokaiTeio|jp|だってあの服、首元がすっごくキュークツなんだもん！ ボクのカッコよさを引き立ててはくれてるけどさ！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_24.wav|TokaiTeio|jp|そんなのまた着替えればいいだけじゃん。ネイチャは当日用の 衣装をレンタルしてさ。それくらいはあるでしょ、ほら！
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_42.wav|TokaiTeio|jp|それにしてはそんなに落ち込んでいないようにみえるけど。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_45.wav|TokaiTeio|jp|あははっ。負けず嫌いだね～、キミも。
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_12.wav|TokaiTeio|jp|……ネイチャ？
+.\training_set\TokaiTeio\story_data_09_0024_storytimeline_090024008_30.wav|TokaiTeio|jp|どんなダンスでも、ボクになら合わせられるでしょ？
+.\training_set\TokaiTeio\story_data_10_0000_storytimeline_100000007_4.wav|TokaiTeio|jp|あはは、ゴルシがまた無茶苦茶なこと言ってるよー。 1回信じちゃうマックイーンもマックイーンだけど……って、んん？
+.\training_set\TokaiTeio\story_data_10_0000_storytimeline_100000007_5.wav|TokaiTeio|jp|もしもーし、スぺちゃん？
+.\training_set\TokaiTeio\story_data_10_0000_storytimeline_100000007_15.wav|TokaiTeio|jp|ま、よーするに。これまでのことじゃなくってさ、 これからを全力で頑張ってこー！　ってことだよ♪
+.\training_set\TokaiTeio\story_data_10_0000_storytimeline_100000008_13.wav|TokaiTeio|jp|あはは！　じゃ、ボクはマックイーンがスイーツを 食べ過ぎちゃわないように、横からもらってあげる係やろっかなー。
+.\training_set\TokaiTeio\story_data_10_0000_storytimeline_100000008_7.wav|TokaiTeio|jp|早く行かなきゃ始まっちゃうよ？ ――ボクたちのライブ慰労パーティーっ！
+.\training_set\TokaiTeio\story_data_10_0000_storytimeline_100000008_6.wav|TokaiTeio|jp|こらこらこらぁーっ！　な～にのんびりしちゃってるのさ、 2人とも！　早く移動の準備だよ、じゅ・ん・び！
+.\training_set\TokaiTeio\story_data_10_0001_storytimeline_100001001_49.wav|TokaiTeio|jp|うん！ ――この先の夢も、楽しみだなーってさ！！
+.\training_set\TokaiTeio\story_data_10_0001_storytimeline_100001001_47.wav|TokaiTeio|jp|ん？　……んーん、なんでも～。 ただ、楽しみだなーって。
+.\training_set\TokaiTeio\story_data_10_0002_storytimeline_100002002_33.wav|TokaiTeio|jp|わあああああ！？
+.\training_set\TokaiTeio\story_data_10_0002_storytimeline_100002002_31.wav|TokaiTeio|jp|ってなわけで、次のライブは絶対観に来てよね！ ……え？　なんでみんなポカンとしてるの？
+.\training_set\TokaiTeio\story_data_10_0002_storytimeline_100002002_29.wav|TokaiTeio|jp|せっかくだし、ちょっとだけ走ってこようかなー。 キミたちもボクの走るカット、ほしいでしょ？
+.\training_set\TokaiTeio\story_data_10_0002_storytimeline_100002002_26.wav|TokaiTeio|jp|――ん～！　ひんやり冷たくて美味しい～！ 学校の購買部に置いてほしいくらいだよ！
+.\training_set\TokaiTeio\story_data_10_0002_storytimeline_100002002_28.wav|TokaiTeio|jp|合宿所の近くのあぜ道は、朝のランニングで使う子が多いよ～！ 空気が美味しくって、いい気分転換になるんだよね！
+.\training_set\TokaiTeio\story_data_10_0002_storytimeline_100002002_38.wav|TokaiTeio|jp|いやいやいや、お構いしちゃうよ！
+.\training_set\TokaiTeio\story_data_10_0002_storytimeline_100002002_36.wav|TokaiTeio|jp|なになに、いつの間に後ろにいたの！？ え……ずっとついてきてた！？　うっそ！？　なんで！？
+.\training_set\TokaiTeio\story_data_10_0003_storytimeline_100003001_44.wav|TokaiTeio|jp|大漁大漁～♪　シュヴァルすごいよ！！ いよっ！　釣りの天才！！
+.\training_set\TokaiTeio\story_data_10_0003_storytimeline_100003001_40.wav|TokaiTeio|jp|だってさっき竿振った時の動き、なんかプロっぽかったもん！
+.\training_set\TokaiTeio\story_data_10_0003_storytimeline_100003001_33.wav|TokaiTeio|jp|うーん、全然釣れなーい！ なんでー！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_25.wav|TokaiTeio|jp|えへへ、どーしよっかなー？　実はボク、 選抜レースが始まる前からいーっぱい声かけられてるんだよね～。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_10.wav|TokaiTeio|jp|びっくりした？　びっくりしたでしょー！ へへーん♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_35.wav|TokaiTeio|jp|やぁった～～～！！　えへへ、カイチョーに褒めてもらえたっ♪ ねえねえ、今の聞いた！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_30.wav|TokaiTeio|jp|じゃ、ボクとじゃんけんして勝ったヒトで！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_21.wav|TokaiTeio|jp|あはっ、ありがとーーー！ ま、ボクならトーゼンの結果だねっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_9.wav|TokaiTeio|jp|あはっ、ボクはこのくらいへっちゃらだよ！ ほら、ぜーんぜんなんともないっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_29.wav|TokaiTeio|jp|まあでも、実際に走るのはボクなんだし、 誰がトレーナーでもあんまり変わらないかな。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_28.wav|TokaiTeio|jp|わわっ、増えちゃった！！　うーん、こんなにいっぱい来られても 誰にしたらいいかわかんないよー……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_37.wav|TokaiTeio|jp|なにぃー！？　そんなことってなにさ、そんなことって！！ キミ、カイチョーのすごさを知らないな！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_39.wav|TokaiTeio|jp|ボク、いつか絶対カイチョーみたいになって、 いーっぱいカイチョーに褒めてもらうんだ～♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_15.wav|TokaiTeio|jp|へへっ……1着は、ボクがもらうよっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_41.wav|TokaiTeio|jp|そーだなぁ、まず……デビュー戦は見た？　見たよね！？ カイチョーってば、第1コーナーからもうすごくてさ～……！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_18.wav|TokaiTeio|jp|ふーっ！ みんなー、ボクのレースはどうだったー！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_7.wav|TokaiTeio|jp|……っと、そーだった。 キミ！　びっくりさせちゃってごめんね。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_0.wav|TokaiTeio|jp|わわわっ、どいてどいてぇー！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_22.wav|TokaiTeio|jp|へ？　キミ……あーっ、昨日公園にいたヒト！ あれれ、なんでこんなとこに……？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_38.wav|TokaiTeio|jp|カイチョーはトレセン学園の生徒会長で、速くて強くてカッコいい 最強のウマ娘で、ボクのいっちばん憧れなんだから！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_32.wav|TokaiTeio|jp|あぁっ、カイチョー！！ カイチョーだ～～～！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_8.wav|TokaiTeio|jp|ブレーキかけられなくてさー、キミのことまで飛び越しちゃった！ あ、ケガとかしてないよね？　大丈夫？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_24.wav|TokaiTeio|jp|じゃあもしかして、声かけてくれたのは～…… ボクのこと、スカウトしたいからかなっ！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_1.wav|TokaiTeio|jp|――ほっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_4.wav|TokaiTeio|jp|ちっちっち。お姉ちゃんじゃなくて、 無敵のテイオー様って呼んでね♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_12.wav|TokaiTeio|jp|はっ、はっ、はっ、はっ……！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_33.wav|TokaiTeio|jp|選抜レース、見に来てくれたんだねっ！？　ねえねえねえ、 ボクの走り、どうだった！？　ボク、また1着だったよ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_40.wav|TokaiTeio|jp|だーかーら、ボクをスカウトしたいみんなは、 もっとちゃぁんとカイチョーのすごさをわかっててくれなくっちゃ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_2.wav|TokaiTeio|jp|しゅたっ！！ ……はいこれ、帽子だよっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_6.wav|TokaiTeio|jp|わっはっはっは～！！ もっとボクを褒め称えるといいぞよ～！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_23.wav|TokaiTeio|jp|って、そっか！　キミ、トレーナーなんだ！？ よく見たらバッジもつけてるじゃーん！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003001_11.wav|TokaiTeio|jp|……っといけない！　ボク、ランニング中なんだった。 それじゃーねー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_5.wav|TokaiTeio|jp|へー、ホッピング？　コース上に置かれたミニハードルを、 片足で飛び越えるトレーニングかぁ……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_21.wav|TokaiTeio|jp|はっ、はっ……はぁーっ！ タイム、どうだった？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_29.wav|TokaiTeio|jp|えっ、カイチョーも走ってくれるの！？ やったやったー！！　もちろんいいよね、トレーナー！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_8.wav|TokaiTeio|jp|ふぅっ。……ねー、これだけ？ ボク、まだまだいけるよ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_15.wav|TokaiTeio|jp|けどトゥインクル・シリーズに出たら、もっともーっと たくさんのヒトたちにボクってすごいんだぞ！って示せるよね？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_2.wav|TokaiTeio|jp|それじゃ、テストするからついてきてー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_12.wav|TokaiTeio|jp|褒められるってやっぱり気持ちいいよね♪　褒めてくれるって ことは、ボクのことすごい！って思ったってことだもん。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_18.wav|TokaiTeio|jp|あっ、今はテスト中なんだったっけ。ねーねー、 キミのメニューはこれでおしまい？　もうクールダウンする？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_9.wav|TokaiTeio|jp|――おーしまいっ！！ どうどう？　ボクの記録が1番すごいでしょ？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_34.wav|TokaiTeio|jp|うんっ、負けちゃった！　やっぱりカイチョーはすごいな～！！ さっすが、最強のウマ娘だねっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_16.wav|TokaiTeio|jp|ピンポンピンポーン！！ そのとーりっ♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_13.wav|TokaiTeio|jp|初めてレースに出た時もさ、1着だったボクに、 みんながいーっぱいすごかったぞー！って言ってくれたんだ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_4.wav|TokaiTeio|jp|それなら、1回トレーニング受けてみるのが手っ取り早いでしょ？ だから今日はテスト！　キミのトレーナー力をボクに見せてよ♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_0.wav|TokaiTeio|jp|あっ、いたいた！　おーいっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_19.wav|TokaiTeio|jp|2500m？　ボクが得意なやつじゃん！ 適性距離で実力確かめよーってとこかな？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_10.wav|TokaiTeio|jp|でっしょぉーーー！！　えへへー、無敵のテイオー様を もっともーっと褒め称えるといいぞよ～！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_17.wav|TokaiTeio|jp|うぅ～、楽しみだな～～！！　早くGⅠとかに出たい出たーい！！ ボクが1番すごいウマ娘だって言われたーい！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_38.wav|TokaiTeio|jp|えっ、えっ？　えーっと、うん。 だから、カイチョーはすごいなーって……え？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_32.wav|TokaiTeio|jp|カイチョー……ボクより2秒も速い……！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_3.wav|TokaiTeio|jp|それがねー、あの後カイチョーから、 信頼出来るトレーナーを熟考の上で選べって言われちゃってさ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_6.wav|TokaiTeio|jp|なんか面白そーだね！　目標タイムは？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_24.wav|TokaiTeio|jp|わっ、カイチョー！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_20.wav|TokaiTeio|jp|オッケー！ じゃ、行ってきまーす♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_22.wav|TokaiTeio|jp|おっ、自己ベスト更新！ やったね♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_25.wav|TokaiTeio|jp|なになにどうしたの？ ボクに会いに来てくれたのっ！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_7.wav|TokaiTeio|jp|なーんだ、このくらい？ ラクショーラクショー！　いってきまーすっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_1.wav|TokaiTeio|jp|ねえキミ、選抜レースの後で ボクに声をかけてくれたトレーナーだよね？　そうだよねっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_41.wav|TokaiTeio|jp|あ、うん！　そうするー！ トレーナー、後でね～！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_11.wav|TokaiTeio|jp|そっ。ボク今まで誰かに負けたことってないんだー。どのレースも ぜーんぶ勝って、いつもみーんなに褒められてたんだよ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_14.wav|TokaiTeio|jp|それが、ホントにホントに気持ちよくてさー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003002_36.wav|TokaiTeio|jp|えっ、ほか？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_4.wav|TokaiTeio|jp|ちっちっち～、ワガハイはテイオー様だぞよ？　そんなの絶好調に 決まってるじゃーん！　トーゼン大勝利して、歓声はボクのもの――
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_17.wav|TokaiTeio|jp|うひゃあ！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_39.wav|TokaiTeio|jp|1番強くて、1番速くて、1番すごい。 1番みんなに褒め称えられてる。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_12.wav|TokaiTeio|jp|はぁっ、はぁっ……！ くぅっ、最後の直線……！　でも……まだまだっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_7.wav|TokaiTeio|jp|へっ！？ あ、えっと……ううん！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_28.wav|TokaiTeio|jp|じゃあね。 ……っ！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_42.wav|TokaiTeio|jp|なのに……どうしてだろ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_36.wav|TokaiTeio|jp|胸の、内側のとこがね。 レースの後からずっと、イガイガしてるんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_40.wav|TokaiTeio|jp|カイチョーはボクが目指す姿そのものなんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_8.wav|TokaiTeio|jp|ボク……えっと……。 ボク、もう出走準備しなきゃ！　じゃあね！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_11.wav|TokaiTeio|jp|うっ！？ ウソっ、逆に離されるなんて……！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_27.wav|TokaiTeio|jp|あ、キミ……。 んー、今おしゃべりしたい気分じゃないんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_3.wav|TokaiTeio|jp|って、あ！ やっほ～、キミも来てくれたんだね！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_15.wav|TokaiTeio|jp|はぁっ、はぁっ……はぁ～～～！！ 負けちゃった～～～！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_16.wav|TokaiTeio|jp|でもやっぱり、カイチョーはすご――
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_24.wav|TokaiTeio|jp|えっ？　あ……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_35.wav|TokaiTeio|jp|うん……。 でも……まだ、わかんないまんまだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_23.wav|TokaiTeio|jp|みんな、カイチョーだけを……。 ……………………………………。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_30.wav|TokaiTeio|jp|――うるさいなぁ、偉そーに！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_2.wav|TokaiTeio|jp|うわ、すっごいヒトの数。まるでトゥインクル・シリーズじゃん！！ あははっ、大盛り上がりだ～！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_6.wav|TokaiTeio|jp|――――カイチョーが相手、かぁ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_32.wav|TokaiTeio|jp|う……な、なんだよ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_37.wav|TokaiTeio|jp|カイチョーがいっぱい声援を浴びてるのを見た時から、ずっと……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_9.wav|TokaiTeio|jp|ふっ、ふっ、ふっ……。 よーし、早めに仕掛けちゃうぞっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_5.wav|TokaiTeio|jp|って、あ～……いやいや、今日はカイチョーが相手なんだもんね。 カイチョーが…………。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_25.wav|TokaiTeio|jp|ううん、なんでもない。 なんでも、ないよ……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_44.wav|TokaiTeio|jp|どうしてボク……めちゃくちゃに走らなきゃ 気が済まないくらい、胸がイガイガするの……？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_33.wav|TokaiTeio|jp|ぐすっ……なんだよぉ……。 怖い顔しないでよぉ……！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_34.wav|TokaiTeio|jp|ぐすっ……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_43.wav|TokaiTeio|jp|今日だって、ボクがいつも憧れていたのと 同じものを見たはずなのに――
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_29.wav|TokaiTeio|jp|ふんっ……こんなのたいしたことないよ。 ボクはランニングに戻るから、あっち行って！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_22.wav|TokaiTeio|jp|す、すごい歓声……。 みんなカイチョーのこと見てる……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_41.wav|TokaiTeio|jp|見に行ったレースは全部1着でさ。大歓声を浴びて微笑んでる カイチョーは、ホントにホンットにカッコよくてさ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_31.wav|TokaiTeio|jp|どいてよ！！ まだボクのトレーナーでもなんでもないくせにっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_38.wav|TokaiTeio|jp|ボク、変なんだ。 だってカイチョーは、ボクの憧れなんだよ？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_14.wav|TokaiTeio|jp|うわぁっ――！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003003_26.wav|TokaiTeio|jp|はぁっ、はぁっ……！ はぁ……っ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_16.wav|TokaiTeio|jp|うん……。 ボク、今日は大事な話をしに来たから。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_47.wav|TokaiTeio|jp|うん！　よぉおーーしっ、センセンフコクもしたし、 担当トレーナーもついたし！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_33.wav|TokaiTeio|jp|でも、ボクがホントになりたいのは……カイチョーでさえ すごいやつだって認めて歓声を送りたくなる、そんなウマ娘なんだ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_21.wav|TokaiTeio|jp|でも今は、そうじゃなくて…… それだけじゃ、なくなっちゃったんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_43.wav|TokaiTeio|jp|一緒に来てくれてありがとね。 あと、うーんと……とにかくいろいろ、ありがとっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_19.wav|TokaiTeio|jp|カイチョーがすごいって言われてるの見ると、 ボクも嬉しかった。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_46.wav|TokaiTeio|jp|一緒にカイチョーっていう“最強”を相手にしていくんだからさ。 しっかりしてよね、トレーナー！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_30.wav|TokaiTeio|jp|全部全部、ボクのものにしたいんだ。 カイチョーにだって、渡したくない！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_26.wav|TokaiTeio|jp|うん。イガイガして、たまんなくって、あー！って思いながら いっぱい走って……それでも、あんまり気持ちは晴れなかった。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_36.wav|TokaiTeio|jp|うんっ。――ボクはいつか必ず、 “皇帝”を越える“帝王”になるよ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_12.wav|TokaiTeio|jp|ボク、カイチョーと話がしたいんだ。 キミも一緒に来てくれる？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_37.wav|TokaiTeio|jp|だから……覚悟しててね、カイチョー！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_23.wav|TokaiTeio|jp|一緒に走って、カイチョーに負けて、 カイチョーが歓声を浴びてるのを見た時――
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_41.wav|TokaiTeio|jp|うんっ！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_44.wav|TokaiTeio|jp|それと…… これからもよろしくね、トレーナー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_34.wav|TokaiTeio|jp|だからね、カイチョー。大事な話はここから！ ボク、センセンフコクに来たんだよっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_5.wav|TokaiTeio|jp|わかった。一緒に行く！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_18.wav|TokaiTeio|jp|カイチョーは……ボクの“憧れ”だよ。ウマ娘の中で 1番すごくてカッコいい、ボクの夢そのものみたいなヒトだから。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_10.wav|TokaiTeio|jp|どうって……やっぱりカイチョーはすごいよ。 強いし、速いし、最高にカッコいいって思う。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_32.wav|TokaiTeio|jp|ボクはカイチョーみたいになりたいよ。 今でもそう思ってるし、1番の憧れだよ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_48.wav|TokaiTeio|jp|無敵のテイオー伝説、いよいよスタートだー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_1.wav|TokaiTeio|jp|いつもだったら絶対観に行くんだけど……。 でも今は……んんー……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_9.wav|TokaiTeio|jp|…………っ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_45.wav|TokaiTeio|jp|もー、ニブいなー！　そんなことじゃ、 ボクのトレーナーはつとまらないよっ？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_42.wav|TokaiTeio|jp|わーっ、言っちゃった言っちゃった！！ えへへ、まだちょっとドキドキしてるよー。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_13.wav|TokaiTeio|jp|――失礼しますっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_0.wav|TokaiTeio|jp|えっ、カイチョーのレース？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_27.wav|TokaiTeio|jp|おかしいよね？　変だよね？ でもボク、今日のカイチョーの勝つとこ見て、やっとわかったんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_24.wav|TokaiTeio|jp|ボクね。 すっ……ごーーーく、胸がイガイガしたんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_2.wav|TokaiTeio|jp|あ、けど……そっか。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_20.wav|TokaiTeio|jp|大歓声を浴びて笑ってるカイチョーを見ると、 いつもワクワクしたよ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_4.wav|TokaiTeio|jp|もう1回同じもの……ボクの憧れてたものを 見たら、このイガイガした変な感じもなくなってくれるかなぁ？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_28.wav|TokaiTeio|jp|ボク……ボクは―― ウマ娘の中で1番すごいやつになりたい。だから走ってるんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_11.wav|TokaiTeio|jp|でも――
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_3.wav|TokaiTeio|jp|きっと今回も、カイチョーは勝つよね？ それで、いつもみたいに歓声を浴びるよね。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003004_29.wav|TokaiTeio|jp|だからすごいぞーっていう歓声は、 誰にも渡したくない……誰にも！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_17.wav|TokaiTeio|jp|でも、これって成長のあかしだよね！　痛いぶん、きっと筋肉は 育ってるんだ。じゃあトレーニングコースへ……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_28.wav|TokaiTeio|jp|じゃあ、しょうがないから今日はお休み……。 ごめんトレーナー。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_21.wav|TokaiTeio|jp|そっか、ついつい夢中になっちゃって……。 もう少しトレーナーと話しながら進めればよかったね。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_24.wav|TokaiTeio|jp|わわっ、何これ！？　すっごい楽になった！ トレーナーって天才？　なんでこんなに効くの？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_16.wav|TokaiTeio|jp|よいっ……しょっ。もう体中ガッキガキだよ。 ひどい筋肉痛……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_2.wav|TokaiTeio|jp|うわあああぁ～っ！　と、トレーナー？　おどかさないでよぉ。 せっかく、これからデッドろうとしてたのに。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_3.wav|TokaiTeio|jp|そっ！　今やろうとしてたのは、筋トレメニューの1つ。 デッドリフトっていうんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_23.wav|TokaiTeio|jp|これじゃ1日中なんにもできないよ。 お願い！　お願～い！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_20.wav|TokaiTeio|jp|へ？　あ、そっち？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_14.wav|TokaiTeio|jp|よぉし、この調子でつぎも！　それぇー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_6.wav|TokaiTeio|jp|う～……でも同じのがやりたいんだよ～。カイチョーがこれを 選んだんなら、そこにはきっと意味がある。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_22.wav|TokaiTeio|jp|ごめん。ねぇねぇ、反省してるからさー、 この痛み、どうにかなんない？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_8.wav|TokaiTeio|jp|それじゃっ、いくよー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_0.wav|TokaiTeio|jp|でっどりふと……。デッド……。 なんか怖そ～な名前だよね。でも……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_10.wav|TokaiTeio|jp|や、やったぁ！　どう、トレーナー見てくれた？ ボクにもカイチョーと同じ重さ、あげられたよっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_18.wav|TokaiTeio|jp|ぎごごごぉぉぉっ……痛すぎ～～～！ これじゃあ、いつものトレーニングができないよ～。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_15.wav|TokaiTeio|jp|とれぇぇぇなぁぁぁ……。とれ……がくしっ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_12.wav|TokaiTeio|jp|んっしょ、んっしょっと♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_5.wav|TokaiTeio|jp|で、カイチョーが、これの200kgをやってたんだ。 だからボクも挑戦しようと思って！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_11.wav|TokaiTeio|jp|でしょでしょ？　この調子でガンガンやっちゃおー！ で、カイチョーを追い越すんだっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_19.wav|TokaiTeio|jp|うん……。やっぱりボクには無理だったのかな。 カイチョーとおんなじメニューやるなんて……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_13.wav|TokaiTeio|jp|いける……！　いけるよ、ボクっ！　これならカイチョーが やってた他のメニューも全制覇できるかも！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_4.wav|TokaiTeio|jp|地面に置いたバーベルを両手で握って えいやっ！って腰の位置まで持ち上げるんだよ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_1.wav|TokaiTeio|jp|カイチョーはちゃんとやってたんだし、ボクも負けないぞ！ よぉし、じゃあまずは200kgから。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_26.wav|TokaiTeio|jp|よぉし、これならいける！ トレーニング再開だぁ！　って、いててててぇっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_7.wav|TokaiTeio|jp|まったく同じことを同じようにやらなきゃ 追いつけない気がするんだ。だからボク――やってみる！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_9.wav|TokaiTeio|jp|ふんぎ～～～っ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_27.wav|TokaiTeio|jp|そんなぁ～。さすがのボクでも、いきなりはダメかぁ。 しゅーん……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_29.wav|TokaiTeio|jp|でも見てて。いつか筋肉痛でダウンしたりしないよう、 強くなってみせるからっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003005_25.wav|TokaiTeio|jp|ボクの？　そーなんだ。カイチョーほど丈夫じゃないけど、 かわりに治りが早いのかな。えへへ……♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_41.wav|TokaiTeio|jp|へ……店員、さん？　どうしたの？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_45.wav|TokaiTeio|jp|あはは、笑っちゃったね。 まさか、いもしないライバル相手に熱くなってたなんて。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_12.wav|TokaiTeio|jp|いざ勝負！　ボクはできる、ボクならできる、 ボクたちならやりきれる！　それっ、ゲームスタート！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_47.wav|TokaiTeio|jp|応援って、すっごく力になるってこと。最強無敵のボクが さらに何倍にも何十倍にも強くなれちゃったんだから。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_36.wav|TokaiTeio|jp|うん、途中でくじけそうだった。もうダメかもって。 でも……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_26.wav|TokaiTeio|jp|うん！　ボクやってみる、何度でも何度でも。 最後まで笑ってられれば、きっとそこにゴールが！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_33.wav|TokaiTeio|jp|この声を聞くと……脚に力が！ いくぞっ、集中して……。ラストプレイっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_27.wav|TokaiTeio|jp|よぉし、いくよー！　みんな応援よろしくねーっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_10.wav|TokaiTeio|jp|もう悔しくて悔しくてっ。ボクの力はこんなもんじゃないぞ！ って、こうして練習してたんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_4.wav|TokaiTeio|jp|レースは速く走ることが絶対じゃん？ でもダンスゲームはちょっと違うんだよね。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_23.wav|TokaiTeio|jp|きゅーって顔？　そっか、ピンチになると そんな顔に……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_48.wav|TokaiTeio|jp|今日は練習！　次はレース場でやろうよ。はちゃめちゃ ドラマチックに勝つんだ。みんなの声援を受けて、ね！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_39.wav|TokaiTeio|jp|えへへへ、点数は同じでも、芸術点でライバルに勝ったぁ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_28.wav|TokaiTeio|jp|ぜぇ、はぁ……笑顔……途切れちゃった……。 でも、まだまだぁ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_24.wav|TokaiTeio|jp|ダンスゲームは楽しむもの。なのに途中でそんな顔してたら、 カンストなんて届くわけないよね。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_7.wav|TokaiTeio|jp|……って思ってたんだけどねぇ。 はぁ……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_44.wav|TokaiTeio|jp|えええええっ、じゃあこのスコアって、誰かが出したんじゃなくて メンテのせい～～～！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_11.wav|TokaiTeio|jp|でも、これでできることは全部やった！ トレーナー、一緒にゲーセンに乗り込もうっ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_5.wav|TokaiTeio|jp|完走するのは大事だけど、同じくらい大事なのはキメキメに キメること！　カッコかわいく、しゅたっ、きゃぴ☆　ぶいっと！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_29.wav|TokaiTeio|jp|90万台突破ー！　この調子でいけば！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_34.wav|TokaiTeio|jp|え、音が……止まった……。 や、やった……？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_35.wav|TokaiTeio|jp|やったぁぁぁ、カンストだぁ！！ トレーナー、みんなっ、ボクやったよ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_25.wav|TokaiTeio|jp|苦しいのは変わらない。でも……苦しい時も笑うことはできる！ その方が力も抜けて、動きもよくなる！　だよね、トレーナー？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_18.wav|TokaiTeio|jp|え、キミは……？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_46.wav|TokaiTeio|jp|うん。でもおかげで大切なことに気づけたかも。 それは――
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_6.wav|TokaiTeio|jp|最高だよね～。気持ちよくて楽しくて、こんなに無敵で 素敵な遊び、他にないよっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_15.wav|TokaiTeio|jp|ボクは無敗のテイオーになるんだっ。もっと弾むように軽やかに！ 再チャレンジ、いっくよー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_3.wav|TokaiTeio|jp|ボクのいちばんの趣味、ダンスゲームの練習！ いいよ、ダンスゲームは！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_9.wav|TokaiTeio|jp|ボクのスコアは62万点。で、相手の出したスコアは 99万9999点！　まさかのカンスト、叩き出されちゃってさ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_38.wav|TokaiTeio|jp|うんっ、しかも点数だけじゃなく、最後まで笑って踊りきれたし！ だからみんなも、こんなに熱くなってくれたんだよね。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_14.wav|TokaiTeio|jp|あ、ありがと……。そうだね、 1回であきらめるなんてボクじゃない。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_0.wav|TokaiTeio|jp|Lotta ta ta…… Lovin！　Lovin！ Lotta ta ta……うわっととっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_16.wav|TokaiTeio|jp|自己記録大更新～！　でもまだ届かない～！ ううう、これ以上どうしたら……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_2.wav|TokaiTeio|jp|あっ、トレーナー。 違う違う、これはライブの練習じゃなくってー。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_37.wav|TokaiTeio|jp|みんなが力をくれたんだっ。 無敵のテイオーを、みんなが無敵以上にしてくれて！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_8.wav|TokaiTeio|jp|うん、ボクがこの間出したハイスコアを 塗り替えたライバルが現れたんだ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_31.wav|TokaiTeio|jp|ありがと。そろそろ、限界……。もう体動かないかも……。 それでも……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_20.wav|TokaiTeio|jp|そ、そうだったんだね。 ねえキミ、ダンス見るの、楽しい？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_1.wav|TokaiTeio|jp|あっちゃ～、またダメだぁ～！ どーも、ここのリズムに乗り切れないなぁ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003006_13.wav|TokaiTeio|jp|あああっ、自己最高記録～！　それでも全然届かない……。 トレーナー～……。
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009003_44.wav|TokaiTeio|jp|あっ、ちょっとウオッカ！ 待ってよ～！！
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009003_35.wav|TokaiTeio|jp|なんだとはなんだよー！！ ……なんかウオッカ、最近つまんなそーだね。
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009003_33.wav|TokaiTeio|jp|やっほ～、ウオッカ！
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009003_38.wav|TokaiTeio|jp|アイツ？　って……もしかしてスカーレット？ 寮じゃ同じ部屋の上にライバルだもんね、心配だよね～。
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009003_42.wav|TokaiTeio|jp|ウオッカ……？
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009003_40.wav|TokaiTeio|jp|けど確かに、だいぶ落ち込んでるよね～。選抜レースで ウオッカに負けちゃったのがよっぽどショックだったのかなぁ？
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009004_11.wav|TokaiTeio|jp|あれっ？　エアグルーヴがいる～！ やっほー！！
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009004_22.wav|TokaiTeio|jp|でも、選抜レースの時と同じ展開だよね？　それじゃ、 また最後の直線でウオッカに差されちゃうんじゃないかな～。
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009004_26.wav|TokaiTeio|jp|うええ！？　あんな早くから仕掛けるの！？　前の先行策でも ギリギリだったのに、あんなんで最後まで持つわけ～！？
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009004_13.wav|TokaiTeio|jp|スカーレットとウオッカの一騎打ちなんて、絶対楽しいことに なりそうだからね～！　……あっ、そろそろ始まるみたいだよ！
+.\training_set\TokaiTeio\story_data_04_1009_storytimeline_041009004_21.wav|TokaiTeio|jp|あ、スカーレットが前に出た！！ やっぱり今回も先行策かー。
+.\training_set\TokaiTeio\story_data_04_1017_storytimeline_041017004_42.wav|TokaiTeio|jp|すっ……ごいや……。
+.\training_set\TokaiTeio\story_data_04_1017_storytimeline_041017004_43.wav|TokaiTeio|jp|あれが……シンボリルドルフ……！！
+.\training_set\TokaiTeio\story_data_04_1060_storytimeline_041060001_21.wav|TokaiTeio|jp|はっ、はっ、はっ、はっ……。 よぉーし、いっちばーん！！
+.\training_set\TokaiTeio\story_data_04_1060_storytimeline_041060001_24.wav|TokaiTeio|jp|はいはい順番、順番だよ～！ ワガハイの前にちゃーんと整列してね♪
+.\training_set\TokaiTeio\story_data_04_1060_storytimeline_041060002_41.wav|TokaiTeio|jp|あっ、いたいた～！　おーい、ネイチャー！ はーっ、やっと見つけた！！
+.\training_set\TokaiTeio\story_data_04_1060_storytimeline_041060002_49.wav|TokaiTeio|jp|ボクたち、同じグループになったよ！　だから今日は、 宣戦布告に来たんだ！ネイチャ、ボクと勝負だーっ！！
+.\training_set\TokaiTeio\story_data_04_1060_storytimeline_041060002_48.wav|TokaiTeio|jp|ふっふーん、ネイチャ、芝2000mに申し込んだでしょ？ 実はボクもだったんだよねー！
+.\training_set\TokaiTeio\story_data_04_1060_storytimeline_041060002_43.wav|TokaiTeio|jp|あれ、まだ出走表見てないの？ もう掲示されてたよ、競技大会のやつ！
+.\training_set\TokaiTeio\story_data_04_1060_storytimeline_041060004_10.wav|TokaiTeio|jp|ふっふーん……。 そろそろ行っちゃうよっ！！
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068001_12.wav|TokaiTeio|jp|キタサンブラック、通称キタちゃん！　将来が楽しみだよね。 あんなにたくましい子に育つなんて。
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068001_14.wav|TokaiTeio|jp|キタちゃん、どんなウマ娘になるんだろうなー。前は ボクみたいなウマ娘になりたいって言ってくれてたけど。
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068001_22.wav|TokaiTeio|jp|うん、もっちろん！　でも見に行く以上は、 すっごい走り見せてよね～？
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068001_13.wav|TokaiTeio|jp|ふっふーん、ボクのことは知ってるみたいだね。ま、それもそっか。 無敵のテイオー様を知らないトレーナーがいたら、モグリだよね。
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068001_18.wav|TokaiTeio|jp|うんうん、早く走れるようになるといいね！ 選抜レースに出て、誰かトレーナーについてもらって。
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068001_11.wav|TokaiTeio|jp|ねえねえ、そこのトレーナー君っ！！ 気になってるみたいだね、あの子のこと。
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068002_39.wav|TokaiTeio|jp|あれ？　キミは……この間のトレーナー。 何か用？
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068002_36.wav|TokaiTeio|jp|マックイーン、何困ってるの？　あ、この間、 キタちゃんと勝負したんだって？　そのこと？
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068004_1.wav|TokaiTeio|jp|うん、かかってきたまえ、キタちゃん！　教えてあげる。 キミの憧れるウマ娘が、どれほどすごいのかをね♪
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068004_28.wav|TokaiTeio|jp|え！？　えええっ！？
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068004_32.wav|TokaiTeio|jp|へへっ、ギリギリセーフ。やるじゃんキタちゃん。 でも、勝ちまでは譲らないけどね。
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068004_18.wav|TokaiTeio|jp|ここまでかな！？　ならっ！　一気に行かせてもらうよ！ はあああああああああああっ！！
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068004_31.wav|TokaiTeio|jp|あ、危なかった……！！ 本当に押し切られちゃうかと思ったよ……！
+.\training_set\TokaiTeio\story_data_04_1068_storytimeline_041068004_35.wav|TokaiTeio|jp|ええっ……キタちゃん！？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_5.wav|TokaiTeio|jp|それそれそれそれーっ！　砂浜ダッシュなんてラクショー！ 何本だっていけちゃうよ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_21.wav|TokaiTeio|jp|やっぱ、そうなんだ……。だよね、トレーナーはウマ娘じゃない。 なのに全部付き合わせたら……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_44.wav|TokaiTeio|jp|おじさん、2つくださーい！ ボクはそれ！　そのピンクのオオソト仮面でっ♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_36.wav|TokaiTeio|jp|今日はお休みしよ？　エッヘン、時にはペースを考えることも 大切だよっ、トレーナー君。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_13.wav|TokaiTeio|jp|あ、トレーナー気がついた？　もう、いきなり倒れるんだもん。 ビックリしちゃった。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_38.wav|TokaiTeio|jp|そだっ！　ついでにマッサージもしてあげよっか？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_25.wav|TokaiTeio|jp|まだ顔色よくないトレーナーに無理なんかさせたくないもんっ。 だから決めた、今日はトレーニングなし！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_14.wav|TokaiTeio|jp|30分くらいかな。だからトレーニングは大丈夫！ 今からバンバンやれば巻き返せるしっ。今日も楽しみ♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_17.wav|TokaiTeio|jp|……どうして黙ってるの？　あ、やっぱ図星？　あははっ、 泊まりの時って、テンション上がっちゃうよね！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_42.wav|TokaiTeio|jp|やったーっ。約束だよ！ よぉし、たくさん遊んで、いろいろ食べ歩いちゃおー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_7.wav|TokaiTeio|jp|坂路だーっ！　山道ってデコボコしてて楽しいよねっ。 さあスキップで、ぴょんぴょん駆けよー！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_27.wav|TokaiTeio|jp|トレーナーがいなきゃ、教えられるヒトがいないし！ それに……なんかボクらしくないしね。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_35.wav|TokaiTeio|jp|だからさ、トレーナーがいなくなると困るんだよ。 つぶれちゃうとさ。だから……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_1.wav|TokaiTeio|jp|当ったり前だよ。だって、この夏は大のチャーンス♪ ボクね、この合宿で一気にカイチョーに追いつくつもりなんだ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_12.wav|TokaiTeio|jp|あれ？　トレーナー！？　トレーナ～～～！！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_43.wav|TokaiTeio|jp|わぁ、キラキラでピカピカだぁ♪　ねぇねぇ、トレーナー！ あそこのお面買って、かぶりっこしよ？　どれがいい？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_20.wav|TokaiTeio|jp|…………。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_10.wav|TokaiTeio|jp|あはははっ、もっと飛び跳ねなきゃダメだって！ こんな風に、よっ、はっ、しゅたっと♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_31.wav|TokaiTeio|jp|前にダンスゲームでカンストした時みたいに……あんな風に 一緒に喜びたいんだ。仲間たちやトレーナーと。それに……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_23.wav|TokaiTeio|jp|トレーナー……ボク、今日は休む。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_28.wav|TokaiTeio|jp|うまく言えないけど、そういうの好きじゃないんだ。 カイチョーなら1人でズンズン行くんだろうけど……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_19.wav|TokaiTeio|jp|もしかして倒れちゃったの、ボクのせい？ ボクが引っ張りまわしたから……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_34.wav|TokaiTeio|jp|カイチョーなら、1人でどうにかできるかもしれない。 けどボクは、誰かがいてくれるから、ボクっていうか。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_15.wav|TokaiTeio|jp|でも、どうして倒れちゃったの？　もしかして寝不足？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_40.wav|TokaiTeio|jp|ね、トレーナー。トレーニングは休みでもいいけど、 そのかわり～！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_22.wav|TokaiTeio|jp|トレーナー……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_33.wav|TokaiTeio|jp|ほら、おぼえてる？　前にボクが筋トレで無茶した時、 トレーナーが助けてくれたでしょ？　あの時みたいに。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_18.wav|TokaiTeio|jp|……って、あれ？　トレーナー、そんなハイな性格だっけ？ どーも、おかしいような……あっ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_8.wav|TokaiTeio|jp|トレーナーも行くでしょ？　だってー1人じゃつまんないもん。 頂上に着いたら、一緒にご飯食べようね！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_4.wav|TokaiTeio|jp|1曲歌っとこう。ガイドのお姉さーん、マイク貸してー。 1番トウカイテイオー、十八番のやつ、いきまーすっ♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_11.wav|TokaiTeio|jp|朝だー！　今日も元気いっぱいで行こー、おーっ！ 2人でランニングして、海で泳いで、それで……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_3.wav|TokaiTeio|jp|だから着いたら遠慮なく、みっちり しごいてね！　と、その前に～♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_6.wav|TokaiTeio|jp|トレーナー、ボクのフォーム、どう？　ちゃんと見ててね。 トレーナーだけが頼りなんだからっ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_30.wav|TokaiTeio|jp|ボクはさ、楽しくやりたいんだよ。ただ勝つだけじゃなくて、 カッコよく勝って、エッヘンって威張って、ホメられて。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_0.wav|TokaiTeio|jp|夏だっ、海だっ、合宿だぁー！ 進めー、バスー！　合宿所めざして、ごーごごー♪
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_32.wav|TokaiTeio|jp|もしかしたら、この先いろいろあるかもしれないじゃん？ ボクってわりと無敵だけど、それでも、どうにもならないことが。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_41.wav|TokaiTeio|jp|今夜は夏祭り行かない？　絶対楽しいからさっ。 ね？　ねっ？
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_37.wav|TokaiTeio|jp|あははっ、おぼえてた？　お返しお返し♪　おかげで ムチャしても倒れないようになったし、今度はボクがアドバイス！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_2.wav|TokaiTeio|jp|強くなってカイチョーを驚かせて、ホメられて、なでられて、 それでね！　ついでにトレーナーにも喜んでもらおっかなって。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_29.wav|TokaiTeio|jp|ボクはさ、いろんなヒトと行きたいんだよ。 だって……。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_26.wav|TokaiTeio|jp|う～……そりゃあ少しは遅れるかもしれないけど、 でも、いーんだよ、そんなこと！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_24.wav|TokaiTeio|jp|え？　じゃなくて、休む！　休むったら休む！ ぜーったい休むからっ。
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_9.wav|TokaiTeio|jp|さ、走った後は花火しよ、花火！　ほらトレーナー、 ネズミ花火だぞぉ、くるくるくる～！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_39.wav|TokaiTeio|jp|それぇ、こちょこちょこちょこちょこちょこちょ！
+.\training_set\TokaiTeio\story_data_04_1003_storytimeline_041003007_16.wav|TokaiTeio|jp|あ、わかった！　コーフンで眠れなくて、つい夜遅くまで 遊んでたとか？　へへっ、実はボクもずっとゲームしてて……。。
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066001_15.wav|TokaiTeio|jp|本番はここからだっ！ たぁああああああああああああああああ！！！
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066001_6.wav|TokaiTeio|jp|やあやあ諸君っ！ ワガハイこそ、ムテキのテイオー様だぞ！
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066001_29.wav|TokaiTeio|jp|ふっふふっふふ～ん♪
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066001_12.wav|TokaiTeio|jp|じゃあトレーナーのみんな、見ててよねっ。 ふっふふ～ん♪
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066001_14.wav|TokaiTeio|jp|おっと……！　ちょっとゆっくり走りすぎちゃったかな。 でも、まだまだ脚慣らし！
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066001_7.wav|TokaiTeio|jp|今日はボクの才能を かる～く見せちゃおっかな。
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066002_7.wav|TokaiTeio|jp|……ん？
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066002_2.wav|TokaiTeio|jp|さあてと、それじゃあ軽く……。
+.\training_set\TokaiTeio\story_data_04_1066_storytimeline_041066004_33.wav|TokaiTeio|jp|……頑張らなくちゃ、テイオー伝説目指して。 まずは一冠目の――皐月賞！
+.\training_set\TokaiTeio\story_data_04_1078_storytimeline_041078002_20.wav|TokaiTeio|jp|はっ、はっ、はっ！ よーし、今日も絶好調！
+.\training_set\TokaiTeio\story_data_04_1078_storytimeline_041078002_25.wav|TokaiTeio|jp|はぁ、はぁ、はぁ……ふぅー、引き分けってところかな。
+.\training_set\TokaiTeio\story_data_04_1078_storytimeline_041078002_32.wav|TokaiTeio|jp|風がどうとかはよくわからないけど、その気持ちならわかるよ！ もちろん、最後に勝つのはこの無敵のテイオー様だけどね！
+.\training_set\TokaiTeio\story_data_04_1078_storytimeline_041078002_31.wav|TokaiTeio|jp|えーっと……つまり、憧れのウマ娘みたいになるために、 誰にも負けられないってことだよね？
+.\training_set\TokaiTeio\story_data_04_1078_storytimeline_041078002_22.wav|TokaiTeio|jp|なんだかよくわからないけど…… もしかしてボクと勝負したい……とか？
+.\training_set\TokaiTeio\story_data_04_1078_storytimeline_041078002_24.wav|TokaiTeio|jp|おもしろいね！　嫌いじゃないよ、そういうの！ でも、ボクについて来られるかな！？
+.\training_set\TokaiTeio\story_data_04_1078_storytimeline_041078002_28.wav|TokaiTeio|jp|いいよ、いいよ。 でも、どうしてボクと？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_title_100300_0.wav|TokaiTeio|jp|Cygames
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_title_100300_1.wav|TokaiTeio|jp|ウマ娘、プリティーダービー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_title_100300_2.wav|TokaiTeio|jp|今日のログインボーナスは～… これっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_title_100300_3.wav|TokaiTeio|jp|明日はこれがもらえるみたい！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_0.wav|TokaiTeio|jp|そりゃ、カイチョーはすっごい強い ウマ娘だけどさ…ボクら2人でなら きっと超えられる。超えてみせる！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_1.wav|TokaiTeio|jp|あの時一緒にしたセンセンフコク… ボクら2人で、実現させようね！ 絶対の、絶ーーー対にっ！約束っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_2.wav|TokaiTeio|jp|ゲームでもレースでも…トレーナー に応援されると、頑張るぞ！って 思えるんだ。魔法みたいだねっ。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_3.wav|TokaiTeio|jp|ねぇ、ボクと羽根突きしよ～！ 負けたら顔に落書きするから、 真っ黒になる覚悟しててよねっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_4.wav|TokaiTeio|jp|いやぁ～、バレンタインって スバラシイね！ボク、しばらく 甘いものには困らなさそうだよ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_5.wav|TokaiTeio|jp|ね、ね、トレーナー。ボクからの チョコほしい？ほしいんでしょ～？ 仕方ないなぁ、はい！どーぞっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_6.wav|TokaiTeio|jp|彦星も、天の川なんてぴょーんって 飛び越えちゃえばいいのにね。 どうしてしないんだろ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_7.wav|TokaiTeio|jp|トリックオアトリートっ！ さぁ、みなの者！このボクに お菓子を差しだすのだ～っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_8.wav|TokaiTeio|jp|クリスマスツリーの飾り付け、 ぜーーったいボクがてっぺんの星を つけるんだ～！1番目立つからね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_9.wav|TokaiTeio|jp|せっかくクリスマスなんだから、 一緒に遊ぼうねっ！ケーキ食べて ゲームして…今夜は大忙しだよ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_10.wav|TokaiTeio|jp|年越しの瞬間にジャンプしてたら、 地球にいなかったことになるんだ って！マヤノと一緒にやるんだ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_11.wav|TokaiTeio|jp|トレーナー、誕生日なんだ？ いいな～。今日の主役じゃん。 ボクもいっぱいお祝いされたーい！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_12.wav|TokaiTeio|jp|トレーナーのために、すーっごく 大きいケーキ用意してあげるね！ だからボクに半分ちょーだい♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_13.wav|TokaiTeio|jp|ふっふっふ～。何を隠そう、 今日はボクの誕生日！さぁさぁ、 盛大に祝うといいぞよ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_14.wav|TokaiTeio|jp|トレーナーのプレゼント、昨日から ずっと楽しみだったんだ！ボクの 喜ぶもの、1番わかってるでしょ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_15.wav|TokaiTeio|jp|お知らせがあるみたい！ なんだろうな～、気になるな～っ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_16.wav|TokaiTeio|jp|プレゼントが届いてるらしいよ？ ねぇねぇ、後でボクにも見せてっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_17.wav|TokaiTeio|jp|ミッションクリア～！ ふふんっ、さすがボクたちだね♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_18.wav|TokaiTeio|jp|もうすぐイベントがあるらしいよ！ カイチョーも参加するのかな～？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_19.wav|TokaiTeio|jp|ねぇねぇ！イベントだって！ 早く行こうよ～！ ボク、楽しみにしてたんだから！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_24.wav|TokaiTeio|jp|この服、お小遣いで買ったんだ～♪ どう？動きやすいし、 元気になる色でいーでしょ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_25.wav|TokaiTeio|jp|カイチョーが行きつけのカフェに ボクとツルちゃんを連れてって くれてさ。お洒落な店だったな～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_26.wav|TokaiTeio|jp|どこ行く？ゲーセン？カラオケ？ 一緒にはちみー？ま、ボクとなら どこでも楽しいだろうけどっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_20.wav|TokaiTeio|jp|さっそくトレーニングしちゃう？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_21.wav|TokaiTeio|jp|ふむふむ、 気になる話がいっぱいだよ。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_22.wav|TokaiTeio|jp|おっ、レースに エントリーしちゃう？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100300_23.wav|TokaiTeio|jp|ねえねえ、ウマ娘名鑑のレベルが 上がったみたいだよ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_0.wav|TokaiTeio|jp|…今日も走んなきゃダメ？ ボク疲れちゃったんだけど～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_1.wav|TokaiTeio|jp|なんかね、体が うまく動かないんだ…。 うぅ～っ、モヤモヤするなぁ…！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_2.wav|TokaiTeio|jp|ふふんっ、無敵のテイオー様は 今日もゼッコーチョー！ボクの 走りを見て腰ぬかさないでね～？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_3.wav|TokaiTeio|jp|ねぇねぇ、今日のボク きっといつもよりすっごいよ！ 早く走らせて！早く早く早く～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_4.wav|TokaiTeio|jp|今日もたっくさん頑張るぞ！ それでカイチョーみたいに 全部のレースで勝つんだ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_5.wav|TokaiTeio|jp|ボクにかかれば、どんな トレーニングもラクショーだよっ！ さっ、かかってこ～いっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_6.wav|TokaiTeio|jp|ボクは準備オッケー！ ねぇねぇ、トレーナーは？まだ～？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_7.wav|TokaiTeio|jp|よ～し、やるぞ～！ ちゃんと見ててよね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_8.wav|TokaiTeio|jp|ねー、今日もトレーニング？ そんな気分じゃないよ～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_9.wav|TokaiTeio|jp|うーん、なんか体が重いなー…。 どうしちゃったんだろー。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_10.wav|TokaiTeio|jp|トレーナーが言うなら走るけどさ… はぁ～あ、こんなことしなくたって ボクは勝てるのに…。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_11.wav|TokaiTeio|jp|な～んかやる気が出ないんだよね… うぅ、もっと走りたいのに～…！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_12.wav|TokaiTeio|jp|またレースなの？ トレーナーが言うなら走るけど… 最近出てばっかりじゃない？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_13.wav|TokaiTeio|jp|えぇ～っ、また～！？ レースは好きだけどさ… そればっかりだと疲れちゃうよ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_14.wav|TokaiTeio|jp|よ～し、絶好調！ ふふんっ、テイオー様の最強伝説は 今回も破られそうにないねっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_15.wav|TokaiTeio|jp|ちゃんと見ててね、トレーナー！ ぱぱーっと勝ってくるから、 瞬きしたら見逃しちゃうかもよ～？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_16.wav|TokaiTeio|jp|どうせボクが勝っちゃうし、 今のうちに表彰台での台詞 考えとこっかな～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_17.wav|TokaiTeio|jp|調整、いい感じだね！ よ～し、じゃあ サクッと勝ってきちゃおっかな！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_18.wav|TokaiTeio|jp|ふふんっ、この無敵のテイオー様に 挑もうなんておろかなり～♪ 全員置き去りにしてあげよ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_19.wav|TokaiTeio|jp|うぅ～、早く びゅ～んって走りたいよ～！ 今からスタートが待ちきれない…！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_20.wav|TokaiTeio|jp|ダイジョーブダイジョーブ！ いつも通り走れば、 きっと勝てるよねっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_21.wav|TokaiTeio|jp|ねぇねぇ、カイチョー 見に来てくれてるかな～？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_22.wav|TokaiTeio|jp|よーし、行ってくるね！ 今日も頑張るぞーっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_23.wav|TokaiTeio|jp|あ…もうレースか。 ごめんごめん、 ちょっとぼーっとしてた。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_24.wav|TokaiTeio|jp|なんか気が乗らないんだよね～…。 レースが始まったら、 楽しくなるはずなんだけど…。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_25.wav|TokaiTeio|jp|少し調子が悪くてもヨユーヨユー！ まっ、ボクを信じててよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_26.wav|TokaiTeio|jp|ボクは無敵のウマ娘…。 だから、このくらい平気平気…！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_27.wav|TokaiTeio|jp|絶対、ぜーったい、負けたくない！ トレーナー…不安かもしれないけど 必ず勝ってくるからね…！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_28.wav|TokaiTeio|jp|調子が悪くたって言い訳しないよ。 だって、ボクは 無敵のウマ娘になるんだから…！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_29.wav|TokaiTeio|jp|よ～し！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_30.wav|TokaiTeio|jp|スタートだ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_31.wav|TokaiTeio|jp|いっくよ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_32.wav|TokaiTeio|jp|ふふんっ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_33.wav|TokaiTeio|jp|あれれ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_34.wav|TokaiTeio|jp|もうやだ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_37.wav|TokaiTeio|jp|しゅっぱ～つ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_38.wav|TokaiTeio|jp|海だ～っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_39.wav|TokaiTeio|jp|ボク、強かったでしょ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_40.wav|TokaiTeio|jp|ありがとっ、トレーナー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100300_41.wav|TokaiTeio|jp|さあ、気合い入れていくよー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100300_0.wav|TokaiTeio|jp|次こそ負けないぞ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100300_1.wav|TokaiTeio|jp|もうちょっとだったのに～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100300_2.wav|TokaiTeio|jp|むぅ～っ、納得いかないよ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100300_3.wav|TokaiTeio|jp|こんなの何かの間違いだよっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100300_5.wav|TokaiTeio|jp|余裕余裕っ、次も1着！とるもんね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100300_6.wav|TokaiTeio|jp|いっくぞー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_live_100300_0.wav|TokaiTeio|jp|ライブだーっ！えへへ、楽しみ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_live_100300_1.wav|TokaiTeio|jp|ぜ～ったい見逃さないでよね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_0.wav|TokaiTeio|jp|これからもよろしくねトレーナー！ 無敵のテイオー伝説には、 絶対にキミが必要なんだからっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_4.wav|TokaiTeio|jp|なんだか力が湧いてくる…！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_1.wav|TokaiTeio|jp|“帝王”目指して、頑張ろうね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_2.wav|TokaiTeio|jp|ボクのこと、じゃんじゃん頼っていーよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_3.wav|TokaiTeio|jp|ボク、まだ伸びしろがあるって思わない？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_7.wav|TokaiTeio|jp|えっへん、優等生に見えるでしょ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_8.wav|TokaiTeio|jp|カイチョーとお揃いの服！当たり前だけど。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_9.wav|TokaiTeio|jp|ジャーン！かっこかわいいでしょ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_10.wav|TokaiTeio|jp|センターに立ってみせるから、期待しててね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_11.wav|TokaiTeio|jp|無敵のテイオー様、参上っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_12.wav|TokaiTeio|jp|これを着て勝つところ、見せてあげるね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_13.wav|TokaiTeio|jp|見て見て～っ！最強のボクに ふさわしい勝負服でしょ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_14.wav|TokaiTeio|jp|おっと、気をつけてね。 触るとやけどしちゃうかもだよ～？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_5.wav|TokaiTeio|jp|ふふ～ん！このテイオー様が 受けて立ってあげるよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_6.wav|TokaiTeio|jp|相手が強いほど燃えるんだ～！ もちろん勝つのはボクだけど！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_15.wav|TokaiTeio|jp|カッコいい～……！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_16.wav|TokaiTeio|jp|ボクこそ無敵の帝王さっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_17.wav|TokaiTeio|jp|ふふーん♪テイオー様のオフショットぞよ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100300_18.wav|TokaiTeio|jp|ねーねー、早くお出かけしよ～よ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_0.wav|TokaiTeio|jp|おっはよー！ 無敵の三冠ウマ娘目指して、 今日も頑張るぞーっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_1.wav|TokaiTeio|jp|うおっほん、みなの衆！ テイオー様のご登校であるぞ、 道を開け～い！…なんてねっ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_2.wav|TokaiTeio|jp|さっきね、抜き打ちテストが あったんだけど…クラスでボクだけ 満点だったんだ！さっすがでしょ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_3.wav|TokaiTeio|jp|ねーぇー、カイチョー見なかった？ も～っ、今日こそ一緒に お昼ご飯食べようと思ってたのに！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_4.wav|TokaiTeio|jp|トレーナー、お疲れ様っ。 うむうむ、今日もボクのために ご苦労であ～る♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_5.wav|TokaiTeio|jp|こんな時間にトレーナーも外出？ ボクはね、まだ体動かし足りない からぶらぶらしてたんだ～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_6.wav|TokaiTeio|jp|ぶーぶー。カイチョーが新入生の 相手ばっかしてるからつまんない！ ボクにも構ってくれないかな～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_7.wav|TokaiTeio|jp|ねぇ～！ちょー強いカブトムシ、 捕まえに行こうよ～！ ゴルシも持ってるんだって～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_8.wav|TokaiTeio|jp|トレーナーも落ち葉の上でステップ 踏んでみない？ザクザクって 音が鳴って気持ちいいよ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_9.wav|TokaiTeio|jp|最近冷えるねっ。あーあ、 どーせなら雪でも積もって くれればいっぱい遊べるのにな～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_10.wav|TokaiTeio|jp|同学年の中でも、特にマックイーン には負けたくないんだ。テストでも レースでも、ボクが勝ってやる～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_11.wav|TokaiTeio|jp|今度一緒にゲーセン行こっ！ ボク、どんなゲームでも トレーナーに勝てる自信あるよ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_12.wav|TokaiTeio|jp|レースもいいけど、ダンスも最高だ よね～！みんなにすごーいって思わ れるのはどっちも一緒だもんね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_13.wav|TokaiTeio|jp|パパもママも、いっつも 電話かけてくるんだ。そんなに 心配しなくたっていいのにね～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_14.wav|TokaiTeio|jp|ねぇねぇ、何か知りたいことある？ ふふふ…学園内のうわさ話には、 ちょ～っと詳しいよ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_15.wav|TokaiTeio|jp|どうどう？この衣装！ 似合ってるでしょ？あとで カイチョーにも見せに行くんだ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_16.wav|TokaiTeio|jp|ダンスだってカンペキだよ！ テイオーステップで1番目立って、 みんなの視線を独り占めだ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_17.wav|TokaiTeio|jp|ボクが目指すのは、誰にも負けない 最強無敵の三冠ウマ娘！この服で、 絶対に叶えてみせるよっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_18.wav|TokaiTeio|jp|見て見て～っ、この赤いマント！ 袖の模様も…えへへ、カイチョーと お揃いにしてってお願いしたんだ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_19.wav|TokaiTeio|jp|ふあぁ…昨日ね、マヤノとゲーム してたらつい夜更かししちゃった。 …カイチョーにはヒミツにしてね？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_20.wav|TokaiTeio|jp|生徒会室のソファがフカフカでさ。 お昼寝はあそこに限るんだけど… エアグルーヴが怒るんだよね～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_21.wav|TokaiTeio|jp|眠れない時は、クラシックをよく 聴くんだ～。退屈ですぐ寝ちゃえる からトレーナーにもおすすめだよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_22.wav|TokaiTeio|jp|カフェテリア春限定メニューの 目指せ七冠！七草がゆ…うぅ、 まだ口に苦いのが残ってるよぉ～。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_23.wav|TokaiTeio|jp|プールで飛び込み台から飛ぶと、 すっっっごい気持ちいいんだ～！ 今度は1番上から挑戦しよっと♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_24.wav|TokaiTeio|jp|木に柿がなっててね。 ボクがジャンプしてとってあげたら みんなから拍手喝采だったんだ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100301_25.wav|TokaiTeio|jp|予防接種だって～…はぁ。 ボクは無敵だからビョーキなんて なんないのになー。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_0.wav|TokaiTeio|jp|ねー、今日は何するの？ 早く始めようよ～っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_1.wav|TokaiTeio|jp|トレーナー、次はどうするの？ なんでもボクに任せてよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_2.wav|TokaiTeio|jp|ストレッチしゅーりょー！ ボクね、体がすっごい柔らかい んだよ！ぐにゃーってなるの！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_4.wav|TokaiTeio|jp|よーし、トレーニングの時間だー！ ボクのすごいところ、 しっかり見ててよねっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_3.wav|TokaiTeio|jp|すっっっごい厳しいトレーニング させてよ！おねが～い！ カイチョーがやってるみたいなさ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_5.wav|TokaiTeio|jp|最強のウマ娘になるまで ボクは止まるつもりないよ！ もちろんトレーナーもでしょ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_6.wav|TokaiTeio|jp|1着でゴールして、 すっっっっごい歓声を浴びるんだ！ そのためにも頑張るぞ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_7.wav|TokaiTeio|jp|ボクね、負けたくないんだ。 他の誰にも自分にも。1度だって！ …さっ。トレーニング始めよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_8.wav|TokaiTeio|jp|無敵のテイオー伝説、ショーメイできたね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100301_9.wav|TokaiTeio|jp|ボクたち2人だと最強だねっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100301_0.wav|TokaiTeio|jp|無敵のテイオーになるよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100301_1.wav|TokaiTeio|jp|ボクに限界なんてありえないよっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100301_2.wav|TokaiTeio|jp|トウカイテイオー、いっくよー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_gacha_100301_0.wav|TokaiTeio|jp|無敵のテイオー伝説、 ここからスタートだっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_st_100300_0000_0.wav|TokaiTeio|jp|みんな、気合い入れていくよー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_st_100300_1017_0.wav|TokaiTeio|jp|カイチョーと一緒だぁ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_st_100300_1024_0.wav|TokaiTeio|jp|マヤノ、いくよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_st_101800_1003_1.wav|TokaiTeio|jp|心配ご無用っ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_st_106800_1003_1.wav|TokaiTeio|jp|いい気合いじゃん♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_st_107800_1003_1.wav|TokaiTeio|jp|先頭へ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_st_106600_1003_1.wav|TokaiTeio|jp|オッケー、師匠！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_100300_0.wav|TokaiTeio|jp|勝っちゃうもんね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_100300_1.wav|TokaiTeio|jp|えっへん！当然の結果だよね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_100300_2.wav|TokaiTeio|jp|えへへ、白熱したぁ～っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_100300_3.wav|TokaiTeio|jp|ボクが負けるなんてぇ～っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_100300_4.wav|TokaiTeio|jp|これがボクたちの実力だあ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_teamst_100300_5.wav|TokaiTeio|jp|やった！ハイスコア更新～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_0.wav|TokaiTeio|jp|頑張ってね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_1.wav|TokaiTeio|jp|やったぁ～！取れた取れた！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_2.wav|TokaiTeio|jp|うわあっ！？落ちたぁ…。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_3.wav|TokaiTeio|jp|見てよ見てよ！大漁～っ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_4.wav|TokaiTeio|jp|やるじゃん
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_5.wav|TokaiTeio|jp|ううっ、くやしいぃよお～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_6.wav|TokaiTeio|jp|てへへ…
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_7.wav|TokaiTeio|jp|へへっ
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_8.wav|TokaiTeio|jp|ふんふふ～ん♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_9.wav|TokaiTeio|jp|すっごおぉ～い！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_10.wav|TokaiTeio|jp|む～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_11.wav|TokaiTeio|jp|ニシシッ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_12.wav|TokaiTeio|jp|ねぇねぇ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_13.wav|TokaiTeio|jp|わーいわーい！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_14.wav|TokaiTeio|jp|やったぁ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_15.wav|TokaiTeio|jp|なんだよもぉ～！！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_minigame_100300_16.wav|TokaiTeio|jp|もうっ！！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100301_1.wav|TokaiTeio|jp|勝つのはこのボク、テイオー様だ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100301_2.wav|TokaiTeio|jp|きゅーきょくーっ！無敵のーっ！ふっ！テイオーステップだあっ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100301_0.wav|TokaiTeio|jp|えっへん、見たかっ！これがテイオー様の実力だぁ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_0.wav|TokaiTeio|jp|ふぅ～…。ジョギングで マックイーンと一緒になっちゃって …朝から本気出しちゃったよ。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_1.wav|TokaiTeio|jp|はちみ～、はちみ～、はちみ～♪ やっぱり朝は、 はちみつドリンクだよね～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_2.wav|TokaiTeio|jp|ねえねえ聞いてよ！お昼に 後輩たちの教室に顔を出したら サイン求められちゃった～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_3.wav|TokaiTeio|jp|ふぁ～あ…お昼ご飯の後って眠く なっちゃうよね～…ちょっと 生徒会室で寝てこようかなぁ…。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_4.wav|TokaiTeio|jp|ボクのために遅くまでお疲れ様！ その想いにはしっかり応えるから、 いっぱい期待してくれていいよ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_5.wav|TokaiTeio|jp|後輩たちはちゃんと帰ったかなー。 ふふん♪こうして心配をしてあげる のも先輩の務めなのであ～る♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_6.wav|TokaiTeio|jp|皐月賞にダービー…春はレースが 目白押し！ま、どのレースも 勝つのはボクだけどね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_7.wav|TokaiTeio|jp|みんなに距離をとられてる気が… 服が熱そうだからかな？ にっしし！追いかけちゃおっと！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_8.wav|TokaiTeio|jp|この服で落ち葉の中に隠れると、 誰も気づかないんだよ！さーて、 次は誰を驚かそうかなー…。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_9.wav|TokaiTeio|jp|冬といえばクリスマス！ クリスマスといえば赤と緑！？ ボクとカイチョーの服の色じゃん！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_10.wav|TokaiTeio|jp|ネイチャってけっこう後輩たちに 慕われてるみたい…。 むーボクも頼られたいよー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_11.wav|TokaiTeio|jp|マックイーンの新しい勝負服見た？ あの色合い、いいよね！まぁ、 ボクの勝負服ほどじゃないけどね♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_12.wav|TokaiTeio|jp|ターボに勝負を申し込まれ たんだけど、いつどこで何を するかは、教えて欲しいなー…。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_13.wav|TokaiTeio|jp|テイオーステップのコツか～…。 タン、タン、タタンって感じで、 動けばいいんだよ！簡単でしょ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_14.wav|TokaiTeio|jp|キタちゃんがボクを見る時の目 見た？キラキラしちゃってさ～… えへへ、ボクも頑張らないとな～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_15.wav|TokaiTeio|jp|絶対に夢をあきらめない！…って そんな想いを込めて 作ってもらったんだーこの勝負服！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_16.wav|TokaiTeio|jp|アチチッ！？ボクの闘争心に 火がついちゃった～！？なんてね！ 心が熱いのはホントだけど♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_17.wav|TokaiTeio|jp|ほらほら！目を覚まして！ 元気がないなら、ボクのはちみつ ドリンク、分けてあげよっか？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_18.wav|TokaiTeio|jp|マックイーンにランチに誘われたん だけど…デザート食べると拗ね ちゃうし。どうしよっかな～…。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_19.wav|TokaiTeio|jp|この後パーマーとヘリオスに カラオケに誘われてるんだー！ 2人ともノリがいいから楽しみ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_20.wav|TokaiTeio|jp|気持ちのいい季節だね～。 ずーっと走ってられそう！これなら 長距離だってへっちゃらだよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_21.wav|TokaiTeio|jp|暑い日はかき氷だよね～。ボクの おすすめは、はちみつレモン！ 運動のお供にもぴったりだよ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_22.wav|TokaiTeio|jp|くしゅん！うぅ…風邪かなぁ？ 急に気温が変わっちゃうんだもん。 病院はやだなー…早く寝よっと。
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_home_100302_23.wav|TokaiTeio|jp|うぅ～今日は寒いね～…って、 何やってるの？ボクに手を かざしてもあったかくはないよ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_0.wav|TokaiTeio|jp|準備オッケー！燃えてくよー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_1.wav|TokaiTeio|jp|ハードなトレーニングも どんとこいだよ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_2.wav|TokaiTeio|jp|うむ、任された！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_3.wav|TokaiTeio|jp|最強めざしてレッツゴー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_4.wav|TokaiTeio|jp|いつか見たカイチョーみたいに、 圧倒的な走りを…！ ボク、もっと速くなりたいんだ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_5.wav|TokaiTeio|jp|だいじょーぶっ、キミに任せるよ！ ボクらの間に言葉はいらない、 ってやつさ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_6.wav|TokaiTeio|jp|ボクたちは伝説になるんだ！ 最強も無敵も超えたその先に、 一緒に行こうよ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_7.wav|TokaiTeio|jp|えへへっ！これでボクたち伝説だね♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_training_100302_8.wav|TokaiTeio|jp|ボクを最強にしてくれて…ありがと！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100302_0.wav|TokaiTeio|jp|見て見てー！ボクまた強くなっちゃった！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100302_1.wav|TokaiTeio|jp|限界なんてワガハイには無縁なのだ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_outgame_100302_2.wav|TokaiTeio|jp|最強不屈のウマ娘！トウカイテイオーだよー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_gacha_100302_0.wav|TokaiTeio|jp|絶対にあきらめない！ボクは… 最強を超えるウマ娘になるんだ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100302_1.wav|TokaiTeio|jp|絶対に勝つんだぁぁー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100302_2.wav|TokaiTeio|jp|…この力で…！うおぉぉぉ！ テイオー伝説はここからだぁー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_race_100302_0.wav|TokaiTeio|jp|ホップ！ステップ！…大勝ー利！ブイブイ！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090003_0.wav|TokaiTeio|jp|走るのってホンットにキモチイイ！ これからもたっくさん、みんなに カッコいいところ見せるぞ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090003_2.wav|TokaiTeio|jp|ボクが強い理由？ へへ、それは… ヒミツ♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090017_2.wav|TokaiTeio|jp|3人が出たCM、カッコよかった！ 街並みが何か所か映ったでしょ、 早くあそこで遊びたーい！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090017_8.wav|TokaiTeio|jp|目指すなら当然、全員が笑顔な ハッピーエンドじゃなきゃね！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090024_4.wav|TokaiTeio|jp|レースでもダンスでも、 勝者のイスがあるならボクが座る！ それでこそテイオー様でしょっ？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090024_6.wav|TokaiTeio|jp|本番用の衣装はカッコいいんだけど さー。……ねー、マックイーン。 リボンくらいなら緩めていいー？
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090024_12.wav|TokaiTeio|jp|ようこそ、イベントミッションへ ボクのリード…は必要なさそうか …ニシシッ、頑張るんだぞ～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_event_090024_13.wav|TokaiTeio|jp|お疲れ様っ。キミの頑張りを テイオー様がほめてやろうぞ～。 ホウビを受け取るがよい～♪
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_valentine_100300_0.wav|TokaiTeio|jp|ハッピーバレンタイ～ン！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_aimteam_100300_0.wav|TokaiTeio|jp|お疲れ様
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_roulette_100300_0.wav|TokaiTeio|jp|やっちゃうぞー！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_roulette_100300_1.wav|TokaiTeio|jp|やったぁ～！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_roulette_100300_2.wav|TokaiTeio|jp|わーいわーい！
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_roulette_100300_3.wav|TokaiTeio|jp|えへへっ
+.\training_set\TokaiTeio\character_system_text_1003_snd_voi_roulette_100300_4.wav|TokaiTeio|jp|む～！
