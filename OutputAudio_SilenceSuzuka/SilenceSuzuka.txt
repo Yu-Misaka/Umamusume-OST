@@ -1,0 +1,1014 @@
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005012_36.wav|SilenceSuzuka|jp|はぁ……はぁ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005012_37.wav|SilenceSuzuka|jp|……ふふっ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005012_11.wav|SilenceSuzuka|jp|はっ……はっ……ふぅ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005012_16.wav|SilenceSuzuka|jp|はい、わかりました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_17.wav|SilenceSuzuka|jp|わかってるわ。 だからこうして図書室に足を運んでいるわけだし。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_5.wav|SilenceSuzuka|jp|フクキタル……ええ、レース展開の知識を入れておくようにって 言われたから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_26.wav|SilenceSuzuka|jp|この走りなら、1着でゴールを駆け抜ける可能性を広げてくれる。 1着でゴールすることが、何よりも大事。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_19.wav|SilenceSuzuka|jp|ふぅ……ふぅ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_30.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_33.wav|SilenceSuzuka|jp|……ラスト、1本……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_37.wav|SilenceSuzuka|jp|けど、それだと私の見たい“景色”は――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_31.wav|SilenceSuzuka|jp|展開、位置取り、ペース配分、芝の状態に天候に……
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_27.wav|SilenceSuzuka|jp|そこには、私の見たい“景色”がきっとあるはずだから――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_8.wav|SilenceSuzuka|jp|だ、大丈夫。 その辺はトレーナーさんと一緒に決めるから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_18.wav|SilenceSuzuka|jp|私には、見たい“景色”があるから……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_39.wav|SilenceSuzuka|jp|ひゃっ！？　な……なに……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_10.wav|SilenceSuzuka|jp|エアグルーヴ……ええ、次は弥生賞だって。 もうひと月を切っているわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_44.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_32.wav|SilenceSuzuka|jp|レースというのは、こんなにもたくさんのことを 考えながら走らないといけないのね
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_25.wav|SilenceSuzuka|jp|レースは、展開を読みながらペース配分や最善の位置取りを 意識しつつ、最小限のロスで済むコースを走ることが定石。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_2.wav|SilenceSuzuka|jp|ついに夢を掴むための、私のレースが始まったのね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_35.wav|SilenceSuzuka|jp|このまま、頭を真っ白にしたまま、 いつまでも走り続けていたい
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_41.wav|SilenceSuzuka|jp|え、えっと、あなたもウマ娘……ですよね？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_13.wav|SilenceSuzuka|jp|わざわざ見に来てくれるとは思わなかったわ。 応援してくれてありがとう。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_1.wav|SilenceSuzuka|jp|そしてデビュー戦を制し、1歩ずつ前へ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_0.wav|SilenceSuzuka|jp|期待を胸に、初めてくぐった学園の校門―― それが私のスタート。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_21.wav|SilenceSuzuka|jp|……はい。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_36.wav|SilenceSuzuka|jp|はぁ……はぁ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_24.wav|SilenceSuzuka|jp|はい、頑張ります……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_3.wav|SilenceSuzuka|jp|……ミドルディスタンス基礎Ⅰ……勝率とペース配分
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005021_34.wav|SilenceSuzuka|jp|私の蹄鉄の音が響いてる。 前には誰もいない、気持ちのいい風がくるだけ
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_11.wav|SilenceSuzuka|jp|あの……チームに所属するにはスカウトしてもらうことが必要で、 こちらから望んだチームに入れるかは……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_24.wav|SilenceSuzuka|jp|スペシャルウィークさん、もしかしたら……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_3.wav|SilenceSuzuka|jp|……あら？　たしかチーム＜シリウス＞のトレーナーさん。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_14.wav|SilenceSuzuka|jp|＜シリウス＞のトレーナーさん。 はい、スペシャルウィークさんが出走するので。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_16.wav|SilenceSuzuka|jp|トゥインクル・シリーズを走って、 “日本一のウマ娘”になるという夢が。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_15.wav|SilenceSuzuka|jp|そうなのかもしれませんが…… スペシャルウィークさんには夢があるそうです。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_5.wav|SilenceSuzuka|jp|ええ、トゥインクル・シリーズに出走するには、 チームに所属することが義務づけられています。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_1.wav|SilenceSuzuka|jp|向こうの建物が音楽室や調理室のある棟で、 この先には室内プールの建物があります。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_18.wav|SilenceSuzuka|jp|えっ……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_6.wav|SilenceSuzuka|jp|そしてこちらは、GⅠウマ娘を何人も輩出している チーム＜シリウス＞のトレーナーさんです。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_21.wav|SilenceSuzuka|jp|あ……レースが始まります。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_13.wav|SilenceSuzuka|jp|……それでは、私たちはこれで失礼します。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_19.wav|SilenceSuzuka|jp|……私は……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005031_17.wav|SilenceSuzuka|jp|まだ出会ったばかりですけど、スペシャルウィークさんの まっすぐな気持ちは、とても伝わってきます。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_3.wav|SilenceSuzuka|jp|＜シリウス＞のトレーナーさんの言葉が、 ずっと頭の中に残ってる……
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_18.wav|SilenceSuzuka|jp|それよりも、スペシャルウィークさんの方はどうですか？ チーム＜シリウス＞、とても賑やかそうですけど。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_28.wav|SilenceSuzuka|jp|……わからないの。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_6.wav|SilenceSuzuka|jp|私も、夢に向かってまっすぐ走っているはず
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_32.wav|SilenceSuzuka|jp|ありがとう。 だけど次はダービーだし、気を抜いていられないわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_47.wav|SilenceSuzuka|jp|……くっ！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_21.wav|SilenceSuzuka|jp|……それならよかったです。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_11.wav|SilenceSuzuka|jp|あの……ありがとうございます。 もう何回も同じ話をしてますけど……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_24.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_43.wav|SilenceSuzuka|jp|……よそ見なんて、している場合じゃない。 夢に向かって走らないと……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_0.wav|SilenceSuzuka|jp|レース展開を見つつ、ラストスパートの脚をしっかり溜める
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_2.wav|SilenceSuzuka|jp|自分の気持ちがまっすぐじゃないみたい――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_8.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_15.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_37.wav|SilenceSuzuka|jp|はい……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_17.wav|SilenceSuzuka|jp|えっ……？　ううん、もちろん嬉しいですよ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_29.wav|SilenceSuzuka|jp|レースを勝ったはずなのに、見た“景色”はどこか違っていて……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_7.wav|SilenceSuzuka|jp|……それなのに、なんで“景色”が霞みがかったように 見えるんだろう
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_9.wav|SilenceSuzuka|jp|……もう1周……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_26.wav|SilenceSuzuka|jp|えっ！？　あ、ごめんなさい。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_33.wav|SilenceSuzuka|jp|……次も、必ず勝ってみせるから……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_23.wav|SilenceSuzuka|jp|本当に夢に向かってまっすぐね、スペシャルウィークさんは……
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_1.wav|SilenceSuzuka|jp|それが自分のスピードを活かした、もっとも勝率の高い走り。 この走りは私自身も間違っていないと思う……けれど
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_45.wav|SilenceSuzuka|jp|はぁっ……！　はぁっ……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005041_34.wav|SilenceSuzuka|jp|はぁ……はぁ……ふぅ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_31.wav|SilenceSuzuka|jp|……見えた気がしました、私が追いかけていたものが。 ずっと見たかった“景色”が。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_23.wav|SilenceSuzuka|jp|風が気持ちいい、自分だけの蹄鉄の音が心地いい……。 余計な音もしない、目の前の広がりを遮るものもない
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_18.wav|SilenceSuzuka|jp|スペシャルウィークさんはいつも夢に向かってまっすぐで、 純粋で、とても眩しいくらいなのに……私は……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_13.wav|SilenceSuzuka|jp|……わからないんです、今の自分が。 夢に向かって努力しているのは間違いありません。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_14.wav|SilenceSuzuka|jp|それなのに、追いかければ追いかけるほど、 夢が遠くに行ってしまうような気がして……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_27.wav|SilenceSuzuka|jp|もっと、この“景色”を……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_33.wav|SilenceSuzuka|jp|楽しく走った先に、私の夢が……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_32.wav|SilenceSuzuka|jp|え……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_24.wav|SilenceSuzuka|jp|ただ走っているだけなのに、レースの時よりもずっと……
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_25.wav|SilenceSuzuka|jp|ずっと、綺麗な“景色”――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_22.wav|SilenceSuzuka|jp|……わかりました、やってみます。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_17.wav|SilenceSuzuka|jp|スペシャルウィークさんは、私が楽しそうに走っていたと 言いますけど……それはむしろ逆です。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_16.wav|SilenceSuzuka|jp|その時のことがずっと忘れられなくて、今も追い続けていて……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_1.wav|SilenceSuzuka|jp|はぁ……はぁ……あと1周っ！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_39.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_34.wav|SilenceSuzuka|jp|ふふっ……はい！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_30.wav|SilenceSuzuka|jp|……たしかにボロボロ……ですけど……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_20.wav|SilenceSuzuka|jp|自分の走りたいように……思うままに……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_6.wav|SilenceSuzuka|jp|いえ、こちらこそ有意義でした。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_19.wav|SilenceSuzuka|jp|思う……ままに？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_8.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_37.wav|SilenceSuzuka|jp|……失礼します。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_15.wav|SilenceSuzuka|jp|小さい頃から走るのが好きでした。 聞こえてくるのは自分の走る音と、風を切る音だけ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005051_40.wav|SilenceSuzuka|jp|チームの移籍を、お願いしに来ました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_41.wav|SilenceSuzuka|jp|ふぅ～……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_35.wav|SilenceSuzuka|jp|え……？　えっと……そうだったかしら……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_17.wav|SilenceSuzuka|jp|はい、そうですね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_31.wav|SilenceSuzuka|jp|ええ、私も夢のため――見たい“景色”を追い続けるために 走り続けるわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_27.wav|SilenceSuzuka|jp|……それは私も同じ。まっすぐ夢に向かって走るあなたを見て、 自分もそうなりたいって思えた。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_28.wav|SilenceSuzuka|jp|……スペちゃんの純粋な気持ちが、私に大きな1歩を 踏み出させてくれたのよ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_0.wav|SilenceSuzuka|jp|ゴール前には坂があるから、脚力アップが見込めるトレーニングを 積極的に取り入れてみるとか……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_22.wav|SilenceSuzuka|jp|私もレースを勝ったら祝勝会を開いてもらえるのかしら。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_37.wav|SilenceSuzuka|jp|ふふふっ、もう……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_10.wav|SilenceSuzuka|jp|ライバルは、自分を成長させてくれる大事な存在……。 だから素敵なライバルに出会えるよう、頑張りましょう。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_42.wav|SilenceSuzuka|jp|トレーナーさんやチームのみんな、それにスペちゃんの支えが 私を充実させてくれています。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_7.wav|SilenceSuzuka|jp|それでいつか、レースでの借りをしっかりと返させてもらうわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_4.wav|SilenceSuzuka|jp|けど、慣れない知識を必死に追い続けてしまったのが、 前までの私だけれど。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_6.wav|SilenceSuzuka|jp|そうね……これからもっと色々なことを知って、 ひとつひとつ先へ進んでみせる。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_33.wav|SilenceSuzuka|jp|うん、約束……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_44.wav|SilenceSuzuka|jp|ええ、応援に応えてみせるわね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_45.wav|SilenceSuzuka|jp|はい、トレーナーさんにも“景色”をお見せします！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_24.wav|SilenceSuzuka|jp|支えるだなんて……私は大したことしてないわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_3.wav|SilenceSuzuka|jp|エアグルーヴ。 ええ、前にいろいろ覚えたから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005071_19.wav|SilenceSuzuka|jp|……ふふっ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_4.wav|SilenceSuzuka|jp|私のわがままでチームを移籍したいと言った時も、 トレーナーさんは受け入れてくれました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_1.wav|SilenceSuzuka|jp|急ぎかどうかはわかりませんが、 いち早く伝えたいことがありまして。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_0.wav|SilenceSuzuka|jp|トレーナーさん、失礼します。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_5.wav|SilenceSuzuka|jp|ふふっ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_10.wav|SilenceSuzuka|jp|……これからも一緒に“景色”を見るという形で。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_7.wav|SilenceSuzuka|jp|私たちのことを信じて、支えてくださる方なんだなって。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_8.wav|SilenceSuzuka|jp|それで、ちゃんとお礼をと思ったんですけど…… もう少しだけ待ってもらえませんか？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_6.wav|SilenceSuzuka|jp|＜シリウス＞に入って、メンバーのみんなを見ているだけで トレーナーさんがどんな人なのかわかります。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_2.wav|SilenceSuzuka|jp|今日のレースを勝利して気がついたんです。 そういえば私、ちゃんとトレーナーさんにお礼をしていないって。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_3.wav|SilenceSuzuka|jp|違うチームだった私に対して、トレーナーさんは親身になって 話を聞いてくれました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_11.wav|SilenceSuzuka|jp|はい……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005073_9.wav|SilenceSuzuka|jp|いえ、しっかりとお礼をします。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_23.wav|SilenceSuzuka|jp|いえ、もし決まっているのなら、 次のレースのことを聞かせてもらおうと思いまして。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_32.wav|SilenceSuzuka|jp|限りを尽くします。 2人で……“景色”を見るために。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_26.wav|SilenceSuzuka|jp|トレーナーさんがそう言ってくれるのなら、 私は不安に思うことなんてありません。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_30.wav|SilenceSuzuka|jp|トレーナーさん。 私、今の走りを突き詰めていこうと思ってるんです。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_25.wav|SilenceSuzuka|jp|金鯱賞……2000mのレースですね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_29.wav|SilenceSuzuka|jp|ふふっ……大丈夫です。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_28.wav|SilenceSuzuka|jp|GⅠ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_31.wav|SilenceSuzuka|jp|踏み込んだことのない先には、きっと綺麗な“景色”が たくさんあるんじゃないかと思いまして。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_7.wav|SilenceSuzuka|jp|ええ、わかりました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_24.wav|SilenceSuzuka|jp|どのレースを走るか知っていた方がトレーニングにも 目標が持てますし、他にもその……メリットがあるかなと。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_2.wav|SilenceSuzuka|jp|はっ……はっ……ふぅ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_22.wav|SilenceSuzuka|jp|トレーナーさん、失礼します。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005081_27.wav|SilenceSuzuka|jp|それに、自分の走りがどこまで通用するのかを 確かめてみる、いいチャンスかと思いますし。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_38.wav|SilenceSuzuka|jp|私も坂路トレーニングと、そのあとは直線の走り込みですよね？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_40.wav|SilenceSuzuka|jp|トレーナーさん……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_2.wav|SilenceSuzuka|jp|それに次は宝塚記念に出走するから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_6.wav|SilenceSuzuka|jp|走っても走っても、まだまだ走れるっていうか……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_8.wav|SilenceSuzuka|jp|スペちゃんや＜シリウス＞のみんな……それからトレーナーさんが 私を支えてくれているからかしら。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_7.wav|SilenceSuzuka|jp|走っている時に1人じゃないって感じがして、 背中を押されるように自然と前へ進んでいけるの。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_41.wav|SilenceSuzuka|jp|それでは、行ってきます。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_11.wav|SilenceSuzuka|jp|う、牛……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005101_1.wav|SilenceSuzuka|jp|うん、私ももっと上を目指したいし、 トレーナーさんも今以上の私を見たいって。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_12.wav|SilenceSuzuka|jp|失礼します。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_16.wav|SilenceSuzuka|jp|無理をしていないか、ということでしょうか……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_15.wav|SilenceSuzuka|jp|はい……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_19.wav|SilenceSuzuka|jp|だって、私には――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_7.wav|SilenceSuzuka|jp|はぁ……ふぅ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_11.wav|SilenceSuzuka|jp|……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_18.wav|SilenceSuzuka|jp|それに、今はとても気持ちが充実しているんです。 不安に思っていることは何もありません。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_20.wav|SilenceSuzuka|jp|いえ……それでは私は自主トレに行ってきます。 トレーナーさんこそ無理をしないでくださいね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_17.wav|SilenceSuzuka|jp|だとしたら大丈夫です。レース前ということもありますし、 私も十分に気をつけていますから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_9.wav|SilenceSuzuka|jp|うん、そうかなって走っていて思ったわ。 手ごたえを感じたから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_13.wav|SilenceSuzuka|jp|あの、トレーナーさん……なんだか最近、 遅くまで残ってお仕事をされているみたいですけど……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_14.wav|SilenceSuzuka|jp|もしかして、私の走りに問題でもありますか？ 今のままでは宝塚記念には勝てないとか……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005112_21.wav|SilenceSuzuka|jp|トレーナーさん、宝塚記念でまた一緒に“景色”を見ましょう。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_32.wav|SilenceSuzuka|jp|それが、トレーナーさんが悩んでいた理由……。 私のことを心配して……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_37.wav|SilenceSuzuka|jp|私は、必ず戻ってくると約束します。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_33.wav|SilenceSuzuka|jp|トレーナーさん……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_30.wav|SilenceSuzuka|jp|トレーナーさん……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_34.wav|SilenceSuzuka|jp|……わかりました、思い切り走ります。 これからも先頭でゴールを走り抜け、夢を掴んでみせます。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_31.wav|SilenceSuzuka|jp|1番大事なこと……ですか？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_36.wav|SilenceSuzuka|jp|……もちろんです。 トレーナーさんの“想い”、受け取りましたから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005121_35.wav|SilenceSuzuka|jp|私もトレーナーさんを信じていますから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005131_14.wav|SilenceSuzuka|jp|ええ、先頭でゴールしてみせるわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005131_6.wav|SilenceSuzuka|jp|はい。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005131_16.wav|SilenceSuzuka|jp|ふふふっ……ご利益を信じてるわね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005131_18.wav|SilenceSuzuka|jp|必ずトレーナーさんの元に戻ってきます。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005131_8.wav|SilenceSuzuka|jp|エアグルーヴ、それにフクキタルも。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005131_17.wav|SilenceSuzuka|jp|思い切り走って、“景色”を楽しんで、 トレーナーさんにも“景色”を見せて、そして――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005131_19.wav|SilenceSuzuka|jp|はい……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005134_6.wav|SilenceSuzuka|jp|これからもずっと、見たことのない“景色”を、 みんなと一緒に……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005134_5.wav|SilenceSuzuka|jp|やっぱり、走るのって楽しい……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_2.wav|SilenceSuzuka|jp|はぁ……はぁ……んっ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_41.wav|SilenceSuzuka|jp|はい、行ってきます！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_18.wav|SilenceSuzuka|jp|ひょっとして、新しいおまじないか何か？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_5.wav|SilenceSuzuka|jp|はい……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_39.wav|SilenceSuzuka|jp|私、とても充実しています。 夢に向かって走れているんだって、毎日実感できて。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_3.wav|SilenceSuzuka|jp|はい……でも、大丈夫です。 辛さよりも楽しさの方が大きいので。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_27.wav|SilenceSuzuka|jp|猛者っていうなら、あなただって。 菊花賞を勝った時のフクキタルの走り、本当にすごかったわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_13.wav|SilenceSuzuka|jp|ええ、突き詰めてみせるわ。 その先にある“景色”を見るためにも。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_15.wav|SilenceSuzuka|jp|ふふっ、必ずまた一緒に走りましょうね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_31.wav|SilenceSuzuka|jp|ふふふっ、レースを楽しみましょうね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_8.wav|SilenceSuzuka|jp|ううん、自分の力を伸ばすためには どういうトレーニングが効果的か、調べたくなっちゃって。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_6.wav|SilenceSuzuka|jp|……このことから、坂路でのトレーニングは持久力と瞬発力を 鍛え上げる効果もあり――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_37.wav|SilenceSuzuka|jp|すぅ～……ふぅ～……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_40.wav|SilenceSuzuka|jp|でしたら、成長した成果を見せないとですね。 今日のレース、必ず先頭で走り抜いてきます。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_38.wav|SilenceSuzuka|jp|努力の先に“景色”が待っていると思えば、 苦ではありませんでした。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_24.wav|SilenceSuzuka|jp|え……ええ、そうだけど……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_4.wav|SilenceSuzuka|jp|土台をしっかりと……はい、わかりました。 休憩の後もよろしくお願いします！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005091_9.wav|SilenceSuzuka|jp|トレーナーさんがしっかりサポートしてくれてるから 心配はしていないんだけど、じっとしているのもなんだから。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_54.wav|SilenceSuzuka|jp|ふふっ、期待しているわね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_50.wav|SilenceSuzuka|jp|……でもスペちゃんは“日本一のウマ娘”になることを選んだのね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_34.wav|SilenceSuzuka|jp|ううん、そうじゃないの。 スペちゃんって本当にお母さん想いなんだなって。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_43.wav|SilenceSuzuka|jp|そうだったの……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_29.wav|SilenceSuzuka|jp|お母さんにお手紙？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_36.wav|SilenceSuzuka|jp|どっちのお母さんにも……って？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_32.wav|SilenceSuzuka|jp|……ふふっ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006021_47.wav|SilenceSuzuka|jp|……ふふっ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006031_0.wav|SilenceSuzuka|jp|支えるだなんて……私は大したことしてないわ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006031_7.wav|SilenceSuzuka|jp|先頭でゴール板を駆け抜ける姿、 2人のお母さんに見てもらいましょう。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006031_4.wav|SilenceSuzuka|jp|リラックスよ、スペちゃん。 深呼吸をするだけでもずいぶん緊張をほぐせるから、やってみて。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006031_31.wav|SilenceSuzuka|jp|だけど、実際一緒に走るのは私たちじゃないから、 本当の相手の研究も忘れないでね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006061_1.wav|SilenceSuzuka|jp|あの時の胸の高鳴りがずっと心に残ってて、だから私は走ってる。 私自身が満足するために。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006061_58.wav|SilenceSuzuka|jp|スペちゃんの走り、観てるからね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006071_61.wav|SilenceSuzuka|jp|あ……いえ、別に……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006071_60.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006071_47.wav|SilenceSuzuka|jp|フクキタルが吹き込んだのね……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_38.wav|SilenceSuzuka|jp|今日のトレーニング、いつも以上に頑張ってたわね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_47.wav|SilenceSuzuka|jp|＜シリウス＞に入って、これまでたくさんの“景色”を 見ることができたわ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_43.wav|SilenceSuzuka|jp|……ねえ、スペちゃん。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_42.wav|SilenceSuzuka|jp|夢への想いが自分を突き動かす……本当にその通りだと思うわ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_50.wav|SilenceSuzuka|jp|やっぱり自分の気持ちを抑えきれないから、だから……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_49.wav|SilenceSuzuka|jp|もっと速く、もっと先へ――今以上の“景色”を私は追いかけたい。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_48.wav|SilenceSuzuka|jp|走るたびに新しい“景色”が広がって、 また走りたい気持ちが膨らんでいく……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_45.wav|SilenceSuzuka|jp|私、海外のレースに挑戦してみようと思うの。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006081_4.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006111_6.wav|SilenceSuzuka|jp|うん、スペちゃんのレースを見てあげてほしくて。 日本一の夢、必ず掴んでほしいから。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006111_9.wav|SilenceSuzuka|jp|うん、まだ見たことのない“景色”を楽しんでくるわね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006111_3.wav|SilenceSuzuka|jp|だって、見なくてもわかるから。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006111_2.wav|SilenceSuzuka|jp|……ええ、大丈夫。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_27.wav|SilenceSuzuka|jp|ハッキリとはわからないですけど、レースの結果というよりは もっと気持ち的な部分というか……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_16.wav|SilenceSuzuka|jp|うん、小さい頃に見た景色……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_17.wav|SilenceSuzuka|jp|あの時の胸の高鳴りがずっと心に残ってて、だから私は走ってる。 私自身が満足するために。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_1.wav|SilenceSuzuka|jp|……スペちゃん、大丈夫？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_28.wav|SilenceSuzuka|jp|はい、わかりました。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_12.wav|SilenceSuzuka|jp|……どうかしたの、スペちゃん？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_25.wav|SilenceSuzuka|jp|――スペちゃん、相当にショックを受けているみたいで……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_18.wav|SilenceSuzuka|jp|……でも、それがどうかしたの？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_26.wav|SilenceSuzuka|jp|……それが、なんとなくそうじゃないような気がして。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_6.wav|SilenceSuzuka|jp|私も見ていて、レース運びに問題はなかったと思うし、 スペちゃんの実力が劣っていたとも思えない。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006051_7.wav|SilenceSuzuka|jp|ただ、気迫……なのかしら。前の2人、特にセイウンスカイさんの 走りには、言葉で表せないような凄みを感じたわ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006063_32.wav|SilenceSuzuka|jp|……夢って、とても大きな力をくれるわよね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006063_27.wav|SilenceSuzuka|jp|おめでとう、スペちゃん。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006011_30.wav|SilenceSuzuka|jp|だけど、チームのみんながついているっていうのは その通りだと思う。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006011_29.wav|SilenceSuzuka|jp|……砕けちゃうのは、ちょっと……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006011_31.wav|SilenceSuzuka|jp|スペちゃん、これまで以上に私たちと走りましょう。 経験が浅いというなら、いくらでも練習相手になるから。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_35.wav|SilenceSuzuka|jp|それが、トレーナーさんの見たい“景色”なんですね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_20.wav|SilenceSuzuka|jp|ひどかったでしょう？ ペースも何も一切考えないで、ただただ走りたいだけ走って。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_14.wav|SilenceSuzuka|jp|はっ……はっ……んっ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_5.wav|SilenceSuzuka|jp|あの……よろしくお願いします。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_17.wav|SilenceSuzuka|jp|すごく……気持ちよくて……楽しい……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_36.wav|SilenceSuzuka|jp|ふふっ……わかりました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_32.wav|SilenceSuzuka|jp|ふふっ……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_8.wav|SilenceSuzuka|jp|思うままに……わかりました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_4.wav|SilenceSuzuka|jp|はい……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_22.wav|SilenceSuzuka|jp|そんな、別に楽しそうに話してなんかないわ……ふふっ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_33.wav|SilenceSuzuka|jp|以前よりも勝ちにくい走りではあるはずなのに、 目の前に広がる“景色”がとても綺麗で……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_16.wav|SilenceSuzuka|jp|……だ、大丈夫……です。 ペースもぐちゃぐちゃ……タイムもボロボロ……でも……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_26.wav|SilenceSuzuka|jp|楽しみにしてるわ、エアグルーヴとのレース。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_10.wav|SilenceSuzuka|jp|……ふっ！！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_9.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_31.wav|SilenceSuzuka|jp|できれば最後まで先頭でいたかったですけど、 結果は6着でした。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_15.wav|SilenceSuzuka|jp|はぁっ……はぁっ……ふぅ～……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_1.wav|SilenceSuzuka|jp|勝手を言ってしまい申し訳ありません。 これまで担当していただいたこと、本当に感謝しています。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_18.wav|SilenceSuzuka|jp|……はい！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_34.wav|SilenceSuzuka|jp|“景色”を掴み取る私を……。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_23.wav|SilenceSuzuka|jp|常識を無視した走り――それなのになぜか、見たい“景色”が 前よりもハッキリと見える気がするの。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_37.wav|SilenceSuzuka|jp|必ず、トレーナーさんが見たい“景色”を見せてみせます。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005061_13.wav|SilenceSuzuka|jp|はっ……はっ……はっ……はっ……！
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006211_36.wav|SilenceSuzuka|jp|ふふっ、スペちゃんのレース、直接見たくて。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006211_33.wav|SilenceSuzuka|jp|……よかった、間に合ったみたいで。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006211_42.wav|SilenceSuzuka|jp|そんな中でも、堂々と走るスペちゃんを見せてね。 それがチームみんなの夢だから。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006211_41.wav|SilenceSuzuka|jp|スペちゃん、今日のこのレースには 世界中で名前を聞くようなウマ娘が集まっているわ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006213_21.wav|SilenceSuzuka|jp|いつも全力で期待に応えてくれる……そんなスペちゃんを見ると、 私も早く次のレースを走りたくなるわ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006221_45.wav|SilenceSuzuka|jp|ええ、これまで紡いできた＜シリウス＞のタスキを、 次に繋げるような最高のレースをしてくれるように……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006231_9.wav|SilenceSuzuka|jp|北海道から飛び出してきて、学園までの道を間違えてしまう 放っておけない子だったはずなのにって……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006231_5.wav|SilenceSuzuka|jp|ふふっ、でも盛り上がりたい気持ちもわかるかも。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006231_8.wav|SilenceSuzuka|jp|いまだに不思議な感覚になるんです――
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006231_17.wav|SilenceSuzuka|jp|ふふっ……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006231_6.wav|SilenceSuzuka|jp|讃えられる時はいつも、スタンドからの大歓声だもの。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006232_3.wav|SilenceSuzuka|jp|むしろ何もしない方が集まるような……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_13.wav|SilenceSuzuka|jp|トレーナーとして失格だけど、勝敗は忘れて好きに走れ……。 その言葉にすごく救われたことを覚えています。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_7.wav|SilenceSuzuka|jp|すみません、こんな夜遅くに……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_6.wav|SilenceSuzuka|jp|もしもし、トレーナーさん……？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_14.wav|SilenceSuzuka|jp|だから、迷う前にトレーナーさんの素直な言葉を スぺちゃんにかけてあげてください。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_19.wav|SilenceSuzuka|jp|あの……トレーナーさん……？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_10.wav|SilenceSuzuka|jp|あんなにも迷いながら走っているスペちゃん、初めて見ました
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_11.wav|SilenceSuzuka|jp|……私も、これまでたくさん迷うことがありました。 思うように走れない時、期待通りの結果を出せない時……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_20.wav|SilenceSuzuka|jp|……はい、スペちゃんをお願いします
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_9.wav|SilenceSuzuka|jp|それで、あの……スペちゃんのレース、見ました。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_8.wav|SilenceSuzuka|jp|あっ……時差があるんでした。 なかなか慣れませんね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_15.wav|SilenceSuzuka|jp|トレーナーさんが何よりも私たちのことを考えてくれている。 それは私たちが1番知っていることですから。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_12.wav|SilenceSuzuka|jp|けれど、いつだってトレーナーさんのまっすぐな言葉が私を支え、 後押ししてくれました。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006191_18.wav|SilenceSuzuka|jp|……え？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_29.wav|SilenceSuzuka|jp|支え、夢を掴ませる……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_25.wav|SilenceSuzuka|jp|……あの、トレーナーさん……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_37.wav|SilenceSuzuka|jp|はっ……はっ……はっ……はっ……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_31.wav|SilenceSuzuka|jp|……ええ、そうね。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_21.wav|SilenceSuzuka|jp|はい、昨日の晩に。 とても驚かれましたけど……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_26.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_20.wav|SilenceSuzuka|jp|スペちゃん……。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_32.wav|SilenceSuzuka|jp|私もたくさんの“景色”を見てくるわ。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006091_24.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006101_26.wav|SilenceSuzuka|jp|はい、よろしくお願いします。
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006101_28.wav|SilenceSuzuka|jp|スペちゃん……？
+.\training_set\SilenceSuzuka\story_data_02_0006_storytimeline_020006101_30.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_20.wav|SilenceSuzuka|jp|それじゃあみんな、話の続きはまたあとで。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_0.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_26.wav|SilenceSuzuka|jp|ありがとうございます。 みなさんの応援が、私の背中を押してくれました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_19.wav|SilenceSuzuka|jp|ふふっ……はい、戻りました。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_15.wav|SilenceSuzuka|jp|……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_4.wav|SilenceSuzuka|jp|ありがとう、スペちゃん。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_10.wav|SilenceSuzuka|jp|タキオン……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_27.wav|SilenceSuzuka|jp|これからも私は、もっとたくさんの“景色”を見るために 走り続けます……そして――
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_16.wav|SilenceSuzuka|jp|はい、そうですね。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_2.wav|SilenceSuzuka|jp|……ふふっ！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_13.wav|SilenceSuzuka|jp|研究材料って……え？　研究……？
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_17.wav|SilenceSuzuka|jp|……みんな、応援ありがとう。 走っている時、みんなの声が聞こえたわ。
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_28.wav|SilenceSuzuka|jp|みなさんにも、私が走る“景色”を見せ続けます……！
+.\training_set\SilenceSuzuka\story_data_02_0005_storytimeline_020005133_18.wav|SilenceSuzuka|jp|それから、トレーナーさんの声も。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_3.wav|SilenceSuzuka|jp|あ……おはようございます。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_30.wav|SilenceSuzuka|jp|えっ？　うん、もう全然……平気よ。 トレーニングだって始めてるんだから。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_32.wav|SilenceSuzuka|jp|ん……えっと、それはまだ――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_43.wav|SilenceSuzuka|jp|あ、ご、ごめんなさい……あんまり素直な音だったから、 なんだか……ふふふっ、あははは……！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_41.wav|SilenceSuzuka|jp|ふ………… ふふっ、あははは……！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_44.wav|SilenceSuzuka|jp|はー……えっと。 ……まず、食べましょうか、ご飯。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_8.wav|SilenceSuzuka|jp|いえ……寮長のフジ先輩から同室の子だって聞けたので、 帰るついでに運ぶだけだった、というか……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_22.wav|SilenceSuzuka|jp|あの、スぺシャルウィークさん……大丈夫です。 彼女、そんなに怖くないですから。……雰囲気よりは。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_40.wav|SilenceSuzuka|jp|………………。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_38.wav|SilenceSuzuka|jp|……あっ。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_34.wav|SilenceSuzuka|jp|……ごめんね、私、スペシャルウィークさんのところへ行くわ。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_36.wav|SilenceSuzuka|jp|えっとじゃあ、案内を……。ここが食堂です。 今日みたいな休日も含めて毎日、朝食と夕食が提供されて――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_14.wav|SilenceSuzuka|jp|ええ、まあ……寮は栗東と美浦の2つがあって、 それぞれいくつかの棟に分かれてますけど――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_15.wav|SilenceSuzuka|jp|それでも、生徒数が本当に多いので。 このくらいの広さがないと、ぎゅうぎゅうになっちゃうかと……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_28.wav|SilenceSuzuka|jp|あ、うん……わかったわ。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001002_11.wav|SilenceSuzuka|jp|あの……大丈夫ですか？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_38.wav|SilenceSuzuka|jp|……少し、考えてしまっていただけ。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_14.wav|SilenceSuzuka|jp|えっと、そう遠くへ行くつもりはなくって…… 今から出れば、門限にはちゃんと間に合うはずだし……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_16.wav|SilenceSuzuka|jp|……いいの？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_24.wav|SilenceSuzuka|jp|それは、そうなのだけれど…… とっても辛かったのよ、走れないのって。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_12.wav|SilenceSuzuka|jp|……？ あ、いけない、もう出ないと……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_18.wav|SilenceSuzuka|jp|……ありがとう。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_44.wav|SilenceSuzuka|jp|……走るのが好き。ずっと1人で走ってきた。 走って、走って、その先でたどり着ける静かな景色を求めて――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_10.wav|SilenceSuzuka|jp|スペシャルウィークさん……？　あの、何か？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_45.wav|SilenceSuzuka|jp|でも……それは、1人で走っているだけでも、 叶えられるものなんじゃないの？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_31.wav|SilenceSuzuka|jp|……と、とにかくね？ 大変だったのよ、この期間。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_42.wav|SilenceSuzuka|jp|意味……？　それって――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_27.wav|SilenceSuzuka|jp|走る夢ばかり見るから、多分寝ている間に脚を動かしてて、 毎朝起きるたびに足元でお布団がくちゃくちゃになってたし……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_19.wav|SilenceSuzuka|jp|街灯りがゆらゆらしてる……。 昼間はもう暑いぐらいだけど、夜はまだまだ風が涼しいわ……
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_1.wav|SilenceSuzuka|jp|あ……お帰りなさい、スペシャルウィークさん。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_20.wav|SilenceSuzuka|jp|……気持ちいい、本当に
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_36.wav|SilenceSuzuka|jp|はぁっ……ふぅ。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_35.wav|SilenceSuzuka|jp|……あ、少し休み過ぎたわね。 門限までに戻れなくなっちゃう。行きましょう、エアグルーヴ？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_29.wav|SilenceSuzuka|jp|ぼんやりしてて授業中に指された時、 立ち上がってはい、走ってきますって言っちゃったし……！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_22.wav|SilenceSuzuka|jp|平気よ。もともと、軽くひねっただけっていう診断だったから。 しばらく走っちゃダメ、なんて措置が大げさなくらい……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_46.wav|SilenceSuzuka|jp|じゃあ、私……どうしてこの学園で、レースに……？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_4.wav|SilenceSuzuka|jp|ええ……日課なので。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_25.wav|SilenceSuzuka|jp|走っている子たちを見ると羨ましくって、 気づいたらいつまでも眺めてしまっていたし……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_33.wav|SilenceSuzuka|jp|……おかしな話よね。走りたくてこの学園に来て、走りたくて レースに出ているのに――そのせいで、走れなくなるなんて。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001005_40.wav|SilenceSuzuka|jp|………………。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_7.wav|SilenceSuzuka|jp|えっ？　あ、はい……なんでしょうか？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_14.wav|SilenceSuzuka|jp|あ、えぇと――すみません。 少し、考える時間をください……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_10.wav|SilenceSuzuka|jp|模擬レースへの出走、ですか……。 えっと、そうですね、走れるのなら私は――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_12.wav|SilenceSuzuka|jp|……おかしな話よね。走りたくてこの学園に来て、走りたくて レースに出ているのに――そのせいで、走れなくなるなんて。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_11.wav|SilenceSuzuka|jp|あ…………。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_19.wav|SilenceSuzuka|jp|走りたい気持ちはあるけれど…… でも、模擬レースに出てまたケガでもしたら――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_5.wav|SilenceSuzuka|jp|スペシャルウィークさん……お腹でも痛いのかしら……？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_1.wav|SilenceSuzuka|jp|あれ、スペシャルウィークさん…… 今日はもうおかわりしないんですか？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001006_16.wav|SilenceSuzuka|jp|それじゃ……おやすみなさい、スペシャルウィークさん。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_46.wav|SilenceSuzuka|jp|きゃっ！？　え……スペシャルウィークさん！？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_31.wav|SilenceSuzuka|jp|そうなんですか……えっと、よろしくお願いします。 私、サイレンススズカです。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_26.wav|SilenceSuzuka|jp|…………えっと。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_29.wav|SilenceSuzuka|jp|え、ええ。でも、その制服……あなたも、ですよね？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_23.wav|SilenceSuzuka|jp|えっ……？　え、ええ……。 あの、何か……？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_48.wav|SilenceSuzuka|jp|スペシャルウィークさーんっ……！？ あのっ、目を、目を開けてくださーいっ……！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_40.wav|SilenceSuzuka|jp|そう、でしたか……？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_20.wav|SilenceSuzuka|jp|……？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_41.wav|SilenceSuzuka|jp|あ、ところで……着きました。 ここが、トレセン学園です。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_33.wav|SilenceSuzuka|jp|はい……？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001001_35.wav|SilenceSuzuka|jp|はっ、はっ……ふぅ。 スペシャルウィーク、さん。あの、大丈夫ですか？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_22.wav|SilenceSuzuka|jp|……はぁっ！！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_40.wav|SilenceSuzuka|jp|これが……先頭の、景色……！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_25.wav|SilenceSuzuka|jp|でも――でも、私だって……譲らない！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_4.wav|SilenceSuzuka|jp|はいっ……、え？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_38.wav|SilenceSuzuka|jp|はぁっ、はぁっ、はぁっ……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_35.wav|SilenceSuzuka|jp|あ……いえ。 ただ……いい景色だなぁ、って。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_0.wav|SilenceSuzuka|jp|あ、もうこんな時間…… スペシャルウィークさん。私、そろそろ――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_12.wav|SilenceSuzuka|jp|はっ、はっ、はっ……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_28.wav|SilenceSuzuka|jp|はっ、はっ、はっ、はっ――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_24.wav|SilenceSuzuka|jp|っ……！　この子……食らいついてくる！ 少しでも気を抜いたら、捲られそう……！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_2.wav|SilenceSuzuka|jp|はいっ！？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_41.wav|SilenceSuzuka|jp|思い出させてくれたんだわ……この子が
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_33.wav|SilenceSuzuka|jp|………………。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_13.wav|SilenceSuzuka|jp|……自分だけの、コース。 誰もいない視界、静かな足音……私の、大好きなものたち……
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_20.wav|SilenceSuzuka|jp|あ……！　うそ、前に――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_39.wav|SilenceSuzuka|jp|全力で競って、譲らないって限界まで脚を使った、その先――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_29.wav|SilenceSuzuka|jp|ふふっ……！！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_32.wav|SilenceSuzuka|jp|ふぅ……ええ、そうですね。 いっぱいレース、しちゃいました――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_15.wav|SilenceSuzuka|jp|どうしてレースに……私――
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_14.wav|SilenceSuzuka|jp|じゃあ、これだけでいいのかな？ 1人で、走っているだけで……
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_21.wav|SilenceSuzuka|jp|……ダメ。先頭は、私の……！！
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_43.wav|SilenceSuzuka|jp|……あの。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_17.wav|SilenceSuzuka|jp|っ……！？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_9.wav|SilenceSuzuka|jp|あ、え、ええ……。
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_36.wav|SilenceSuzuka|jp|……バカね、私、何を迷っていたのかしら
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_45.wav|SilenceSuzuka|jp|その……ね。 …………スぺちゃんって、呼んでもいい？
+.\training_set\SilenceSuzuka\story_data_09_0001_storytimeline_090001008_7.wav|SilenceSuzuka|jp|レース……。 ………………。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028001_17.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028001_43.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028001_0.wav|SilenceSuzuka|jp|初夏が過ぎて、セミが鳴き、朝の風がもっと暖かくなった頃。 ――私たちの夏合宿は、そんな空気のさなかに、始まる
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028001_28.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028001_29.wav|SilenceSuzuka|jp|こうして、夏合宿は幕を開けたのだけれど――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_10.wav|SilenceSuzuka|jp|……！　そ、その……今から走りに行こうかな……って。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_32.wav|SilenceSuzuka|jp|あら、エアグルーヴ？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_35.wav|SilenceSuzuka|jp|ご、ごめんなさい……！ 私ったら、すっかり……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_27.wav|SilenceSuzuka|jp|……すー、はー……。うん、いい空気。 よし……っ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_38.wav|SilenceSuzuka|jp|エアグルーヴ……。 その、ありがとう……ごめんなさい。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_12.wav|SilenceSuzuka|jp|そう、よね……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_6.wav|SilenceSuzuka|jp|寮生活なら――……
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_8.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_0.wav|SilenceSuzuka|jp|夏合宿が始まって、まだまだ3日目……
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_31.wav|SilenceSuzuka|jp|……ふふっ、うん、この感じ……。 スッキリして、でも満たされてもいて……
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_28.wav|SilenceSuzuka|jp|ああ、やっぱり心地いい！ 走れば走るほど、景色がキラキラ輝いて――！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_7.wav|SilenceSuzuka|jp|……思い切り、走りたい。全然、足りていない
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_30.wav|SilenceSuzuka|jp|はぁっ、はぁっ、はぁ……、はー……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_34.wav|SilenceSuzuka|jp|………………。 ――あっ！　配膳当番……っ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_17.wav|SilenceSuzuka|jp|あ……ごめんなさい。 明日は早く起きたいから、私は遠慮するわ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_29.wav|SilenceSuzuka|jp|脚が勝手に前へ前へ進んでいくみたい！ どこまででも、どこまででも行けてしまいそう！　ふふっ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_4.wav|SilenceSuzuka|jp|普段なら、朝のランニングから帰ってきて、 シャワーを浴びている頃で――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_2.wav|SilenceSuzuka|jp|みんなで朝の体操。 ……普段なら、今頃は学園の周りを走っている時間で――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028002_15.wav|SilenceSuzuka|jp|……！　ありがとう、エアグルーヴ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_39.wav|SilenceSuzuka|jp|みんなは優しいし、面白い。 慣れれば集団行動もそんなに窮屈じゃないし、景色も綺麗ね。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_17.wav|SilenceSuzuka|jp|早朝から寝る前まで、 いつもより大人数が過ごす、大部屋での集団生活は――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_20.wav|SilenceSuzuka|jp|毎日が、どうしても窮屈に感じられてしまって――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_6.wav|SilenceSuzuka|jp|結局、やることになっちゃった
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_43.wav|SilenceSuzuka|jp|それじゃあ、その……そろそろ配膳当番の時間だから行ってくるわ。 ごめんね、エアグルーヴ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_41.wav|SilenceSuzuka|jp|でも。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_0.wav|SilenceSuzuka|jp|私が、レクリエーション係に？ それは、ええっと……上手くできるかしら。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_38.wav|SilenceSuzuka|jp|そうね。夏合宿って……窮屈なだけじゃ、ない。 それは少しわかった気がするわ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_9.wav|SilenceSuzuka|jp|そうしてその日から、 みんなとの合宿を意識するようにしたのだけれど――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_42.wav|SilenceSuzuka|jp|でもやっぱり――1人の時間が恋しいと思ってしまうの。 ……ごめんなさい、きっと私、わがままなのよね。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_4.wav|SilenceSuzuka|jp|向き合う……？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_29.wav|SilenceSuzuka|jp|ええっと、それじゃ……、位置について、よーい――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_8.wav|SilenceSuzuka|jp|それでも勧めてくるのは、 その先に何かがあるから……なのよね、きっと……
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_15.wav|SilenceSuzuka|jp|よかった……レクリエーション係が そんなに時間の取られるものじゃなくて
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_23.wav|SilenceSuzuka|jp|けれど――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_16.wav|SilenceSuzuka|jp|……って、また1人の時間を確保すること考えちゃった……。 集団生活に向き合ってみてって、言われてるのに
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_7.wav|SilenceSuzuka|jp|自由な時間を取れなくて、憂鬱で…… そのことはエアグルーヴだって、もうわかってくれているはず……
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028003_25.wav|SilenceSuzuka|jp|えっと、……そうね。 その、もう少し……みんなと、喋ってみようかなって……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_53.wav|SilenceSuzuka|jp|え、え？　いつからいたの……！？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_29.wav|SilenceSuzuka|jp|標的……遠慮……？　え、なんのこと？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_31.wav|SilenceSuzuka|jp|！？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_24.wav|SilenceSuzuka|jp|ポッケが言っていた場所、ここで合ってるかしら？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_25.wav|SilenceSuzuka|jp|それにしても……いい天気……。 こんな天気の下で思い切り走ったらとても気持ちよさそう……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_50.wav|SilenceSuzuka|jp|え？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_39.wav|SilenceSuzuka|jp|ちょ、ちょっと待って……！ 私、何が起こってるのか……どういうこと？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_43.wav|SilenceSuzuka|jp|……スピード勝負、なのね。それなら……！！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_41.wav|SilenceSuzuka|jp|スピード……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_35.wav|SilenceSuzuka|jp|あ、ありがとう……じゃなくて！　どうして急に……！ そもそも私、水鉄砲なんて小さい時に遊んだくらいで――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_27.wav|SilenceSuzuka|jp|ポッケ……と、 その後ろにいるみんなは……？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_48.wav|SilenceSuzuka|jp|ふふっ、ほら、理由を教えて？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028004_45.wav|SilenceSuzuka|jp|はぁ、はぁ、はぁっ！ く……っ、もう少しで……届く！　――えいっ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_2.wav|SilenceSuzuka|jp|本当にやるの？ その、タキオンはともかく、エアグルーヴとカフェも……？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_18.wav|SilenceSuzuka|jp|えっ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_4.wav|SilenceSuzuka|jp|……そうして、走り回って撃ち合って、全員ずぶ濡れになって、 空が茜色に染まっていたことに、誰も気づかないくらいで――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_30.wav|SilenceSuzuka|jp|不思議と、あの時のことはなんだか、しばらく忘れなそうなの。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_14.wav|SilenceSuzuka|jp|え……えーーーいっ！！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_12.wav|SilenceSuzuka|jp|……ええ、海に沈めるのね……！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_20.wav|SilenceSuzuka|jp|……ふふっ、私も、あんなことするなんて……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_21.wav|SilenceSuzuka|jp|……あんなに思いきっちゃったの、久しぶりだわ。 ……楽しかった。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_32.wav|SilenceSuzuka|jp|……？　ええ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_29.wav|SilenceSuzuka|jp|赤い夕陽に、白い飛沫、みんなのはしゃいだ声。 少しだけ肌寒い浜辺で食べた、冷たくて甘い味――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_9.wav|SilenceSuzuka|jp|みんなが、こんなにはしゃぐなんて…… でも、だったら、私も……もう少しだけ――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_28.wav|SilenceSuzuka|jp|そうね、初めはみんなの様子に驚いたけど…… 気づけば私も夢中になっちゃって。それに――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028005_16.wav|SilenceSuzuka|jp|……あ、あの、ごめんなさいエアグルーヴ。 海にタックルなんか……。少し、勢い余っちゃったっていうか……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_28.wav|SilenceSuzuka|jp|でも、いつからかしら。その気持ちは和らいでいて…… 今日の夕方は、本当に楽しくて
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_39.wav|SilenceSuzuka|jp|その、もう少し特別なもののほうが、いいのかなって……、 思うんですけど……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_47.wav|SilenceSuzuka|jp|ええ。 みんなは、どんな企画であれば嬉しいのかしら？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_13.wav|SilenceSuzuka|jp|……そんなことが……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_54.wav|SilenceSuzuka|jp|あっ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_27.wav|SilenceSuzuka|jp|……夏合宿が、嫌だった。窮屈で、煩わしくって――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_29.wav|SilenceSuzuka|jp|それは、その理由は……――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_26.wav|SilenceSuzuka|jp|……――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_36.wav|SilenceSuzuka|jp|いつか、私の背中を押してくれるもの、なのかしら
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_42.wav|SilenceSuzuka|jp|せっかくの、夏合宿ですし。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_19.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_52.wav|SilenceSuzuka|jp|ありがとう。でも、どれも悪くはないけど、バラバラね……。 全員が楽しめるものなんて――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_53.wav|SilenceSuzuka|jp|――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_38.wav|SilenceSuzuka|jp|……っ、あ、あの……！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_34.wav|SilenceSuzuka|jp|“ある少しだけ特別な出来事”
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_41.wav|SilenceSuzuka|jp|もっと、こう……みんなの記憶に、心の底に残るような そんなレクリエーションのほうが、いいような気がするんです。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_35.wav|SilenceSuzuka|jp|それが……今、なのかしら。 この景色は……いつか思い出す大切なもの、なのかしら
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_45.wav|SilenceSuzuka|jp|そ、そのほうが、みんなにとっていいように思えたの。 でも……一体何をすればいいのかわからなくって。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028006_23.wav|SilenceSuzuka|jp|見ていなければ通り過ぎる、もの。 ……そういえばあの時、エアグルーヴは――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_28.wav|SilenceSuzuka|jp|はっ、はっ、はっ、はっ！ ――……ふっ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_1.wav|SilenceSuzuka|jp|各々、ゲームをしたり、お喋りをしたり、食事をしたり、 それぞれ自由に過ごせるパーティーで……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_36.wav|SilenceSuzuka|jp|……ふふ、早く帰らなきゃ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_19.wav|SilenceSuzuka|jp|水着……！　そうね、それなら海にも入りやすいし……。 うん、ありがとうタキオン。提案してみるわ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_30.wav|SilenceSuzuka|jp|――準備に漏れはない、わよね。水着は届いたし、装飾品は 予定数完成したし、シフト表も作ったし……うん。大丈夫
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_27.wav|SilenceSuzuka|jp|そうして、1日1日が風のように過ぎていって――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_31.wav|SilenceSuzuka|jp|……。 ……綺麗な景色。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_13.wav|SilenceSuzuka|jp|そうして、次の日。 簡単な企画書を作って委員会に提出すると――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_11.wav|SilenceSuzuka|jp|間に合わせるなら、こんな感じ…… うぅん、でもパーティーならもっとこう……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_10.wav|SilenceSuzuka|jp|……――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_26.wav|SilenceSuzuka|jp|それなら……ドリンクの提供は生徒がするのはどうかしら。 希望者を募って、シフト制で担当する……とか？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_6.wav|SilenceSuzuka|jp|ビーチパーティー……！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_2.wav|SilenceSuzuka|jp|あの時みたいに、食事――BBQをしながら、みんなが それぞれ自由に好きな遊びができれば、いいんじゃないかしら？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_34.wav|SilenceSuzuka|jp|……。みんなにとって、忘れられない日になるかしら
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_16.wav|SilenceSuzuka|jp|こうして、新たな取り組みに火のついた私たちは、 ビーチパーティーに向けて着々と準備を進めていった――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_7.wav|SilenceSuzuka|jp|うん、すごくよさそう……！ ありがとう。もう少し練って、次の委員会で提案してみるわ！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_17.wav|SilenceSuzuka|jp|フジ先輩からドレスコードは一体感が出るってアドバイスを もらったの。でも、いい衣装が思い浮かばなくって……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_29.wav|SilenceSuzuka|jp|…………。 ……ついに、明日はビーチパーティー
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_12.wav|SilenceSuzuka|jp|みんなにとって特別で…… 忘れられなくなるようなものにするなら……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_35.wav|SilenceSuzuka|jp|……私に、とっても
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_23.wav|SilenceSuzuka|jp|す、すごい……。 この人数を、あっという間にまとめ上げて……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_14.wav|SilenceSuzuka|jp|BBQ実行委員会と合同で、みんなでビーチパーティーに 決定したわ。みんな、意見をたくさんくれてありがとう……！
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028007_0.wav|SilenceSuzuka|jp|あの……！ 前に栗東寮で、パーティーをしたことがあったの。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_22.wav|SilenceSuzuka|jp|ねぇ、エアグルーヴ。変な話、してもいいかしら？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_14.wav|SilenceSuzuka|jp|その……走ると、周りが見えなくなってしまって。 ……ごめんなさい
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_47.wav|SilenceSuzuka|jp|……昨日の景色がまだ、脳裏に焼きついている。 ……太陽に包まれた、青くて騒がしい、あの景色は――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_25.wav|SilenceSuzuka|jp|でも、それでも…… あれを見ると、“おかえりなさい”と言われている気がするの
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_29.wav|SilenceSuzuka|jp|そう、だったのね。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_46.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_17.wav|SilenceSuzuka|jp|う、うそでしょ……
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_24.wav|SilenceSuzuka|jp|――夜に帰ってくると、ああして寮の窓が光っているでしょう。 ……わかっているのよ、ただ電気がついているだけだって
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_36.wav|SilenceSuzuka|jp|……ふふ、ううん。ありがとう。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_42.wav|SilenceSuzuka|jp|さっきまでの元気がうそみたい……。 昨日の疲れ、残っていたのかしら……。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_48.wav|SilenceSuzuka|jp|きっと、きっと。忘れずにいられるわ……
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_11.wav|SilenceSuzuka|jp|そう？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_37.wav|SilenceSuzuka|jp|私なんだか、今の言葉を、ずっとずっと忘れられない気がするわ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_38.wav|SilenceSuzuka|jp|そうしてそれから、エアグルーヴと一緒に食事をして、 ポッケたちとビーチバレーをして――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_9.wav|SilenceSuzuka|jp|そうね、参加してみようかしら。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_6.wav|SilenceSuzuka|jp|エアグルーヴ。
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_27.wav|SilenceSuzuka|jp|それが……くすぐったくて、なんだか、嬉しいの。 ……ふふ、私、変よね
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_32.wav|SilenceSuzuka|jp|エアグルーヴの？
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_26.wav|SilenceSuzuka|jp|……“おかえりなさい”、“お疲れ様”。 それから、“明日もまた、いってらっしゃい”って
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_30.wav|SilenceSuzuka|jp|……エアグルーヴって、いつも陰で気にかけてくれているわよね。 ありがとう。私のために、そんなに――
+.\training_set\SilenceSuzuka\story_data_09_0028_storytimeline_090028008_39.wav|SilenceSuzuka|jp|ビーチで笑う友だちの姿を見ているうちに、 あっという間に日は暮れてしまったの
+.\training_set\SilenceSuzuka\story_data_10_0000_storytimeline_100000007_16.wav|SilenceSuzuka|jp|できるわ、スぺちゃんなら。……思い出して。
+.\training_set\SilenceSuzuka\story_data_10_0000_storytimeline_100000007_7.wav|SilenceSuzuka|jp|……スぺちゃん、本番はまだよ？ その……だいぶ、緊張してる？
+.\training_set\SilenceSuzuka\story_data_10_0000_storytimeline_100000007_17.wav|SilenceSuzuka|jp|私たち、毎日毎日、どんな日だって…… ひたすら前にだけ、走ってきたでしょう？
+.\training_set\SilenceSuzuka\story_data_10_0000_storytimeline_100000008_15.wav|SilenceSuzuka|jp|えぇと……とりあえず…… ご飯、取りに行きましょうか？　スぺちゃん。
+.\training_set\SilenceSuzuka\story_data_10_0000_storytimeline_100000008_4.wav|SilenceSuzuka|jp|……そうね。 ……またいつか、一緒に見たいわね。
+.\training_set\SilenceSuzuka\story_data_10_0000_storytimeline_100000008_1.wav|SilenceSuzuka|jp|スぺちゃん……？　まだ着替えていなかったの？ ……ファスナー、引っ掛かっちゃった？　下ろしましょうか？
+.\training_set\SilenceSuzuka\story_data_10_0001_storytimeline_100001002_1.wav|SilenceSuzuka|jp|………………あ、いけない。 えっと――ふ、フクキタルー？　……みんなー？
+.\training_set\SilenceSuzuka\story_data_10_0001_storytimeline_100001002_8.wav|SilenceSuzuka|jp|…………もう？
+.\training_set\SilenceSuzuka\story_data_10_0001_storytimeline_100001002_7.wav|SilenceSuzuka|jp|え、もう？　そう……。
+.\training_set\SilenceSuzuka\story_data_10_0001_storytimeline_100001002_4.wav|SilenceSuzuka|jp|それは困るわ……エアグルーヴがね、あと2回同じ理由で 遅刻したら、早朝ランニングを禁じることも考えるって言うの……。
+.\training_set\SilenceSuzuka\story_data_10_0001_storytimeline_100001002_0.wav|SilenceSuzuka|jp|はっ、はっ……ふぅ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_20.wav|SilenceSuzuka|jp|まだ速く……？　本当ですか？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_10.wav|SilenceSuzuka|jp|はっ……はっ……はっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_6.wav|SilenceSuzuka|jp|あの……私に何か……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_33.wav|SilenceSuzuka|jp|ん……うん、ちょっとね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_4.wav|SilenceSuzuka|jp|……ふふっ。この景色全部、ひとり占めね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_14.wav|SilenceSuzuka|jp|先頭は譲らない……誰にもっ！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_37.wav|SilenceSuzuka|jp|大丈夫。きっと、もっといい景色が見られるはず……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_3.wav|SilenceSuzuka|jp|そういえば、今日はちょっとだけ星が明るいかしら……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_34.wav|SilenceSuzuka|jp|それより、今の話を忘れないうちに少し走って来るわ。 また後でね、エアグルーヴ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_30.wav|SilenceSuzuka|jp|ありがとう、エアグルーヴ。 丁寧に教えてくれて、助かったわ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_7.wav|SilenceSuzuka|jp|は、はぁ……そうですか。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_18.wav|SilenceSuzuka|jp|え？　あっ……えっと、はい。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_36.wav|SilenceSuzuka|jp|“セオリー”……つまり、“正しい”ってこと……なのよね。 うん、大丈夫……教えてもらった通りに走れば……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_5.wav|SilenceSuzuka|jp|……あら？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_2.wav|SilenceSuzuka|jp|ふぅっ……！！ うん……夜に走ると、静かでいいわね……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_24.wav|SilenceSuzuka|jp|……わかりました。スカウト、お受けします。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_0.wav|SilenceSuzuka|jp|はっ、はっ、はっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_27.wav|SilenceSuzuka|jp|速度を出すためのエネルギーを使い果たさないように、 序盤はスピードを抑えて温存しておく、ということよね……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_8.wav|SilenceSuzuka|jp|えっと……すみません、失礼します。 私、もう少し走って行くので……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_16.wav|SilenceSuzuka|jp|ふぅっ……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_29.wav|SilenceSuzuka|jp|そういう走り方があるのは知っていたつもりだけど…… ちゃんとした理論が背景にあるのよね、やっぱり……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_23.wav|SilenceSuzuka|jp|どんなレースでも、先頭を……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002001_1.wav|SilenceSuzuka|jp|はっ……はぁっ……ふふっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_8.wav|SilenceSuzuka|jp|指導してもらった通り、最初は抑えて、終盤まで力を残して……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_25.wav|SilenceSuzuka|jp|……すみません、わかりません。 自分でも……どうしてしまったのか……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_28.wav|SilenceSuzuka|jp|えっ……！？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_40.wav|SilenceSuzuka|jp|今日は……もう帰ります。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_29.wav|SilenceSuzuka|jp|出走を取り消すって……わ、私に走るなと言うんですか！？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_1.wav|SilenceSuzuka|jp|えっと……デビュー戦を想定した走りの実践、です。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_9.wav|SilenceSuzuka|jp|うん……大丈夫。 正しいやり方なんだもの……きっと、勝てるわ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_34.wav|SilenceSuzuka|jp|…………っ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_17.wav|SilenceSuzuka|jp|あ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_37.wav|SilenceSuzuka|jp|それから、って……いつ……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_10.wav|SilenceSuzuka|jp|はっ……はっ……はっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_24.wav|SilenceSuzuka|jp|あ……ご、ごめんなさい。えっと……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_31.wav|SilenceSuzuka|jp|待ってください、私は走れます！！ いえ、走りたいんです……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_11.wav|SilenceSuzuka|jp|ダメ……まだ、抑えてなくちゃ……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_15.wav|SilenceSuzuka|jp|あ……あれ？ 脚に……うまく力が……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_32.wav|SilenceSuzuka|jp|レースで先頭を走るのが、私の――！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_18.wav|SilenceSuzuka|jp|前が、見えない……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_19.wav|SilenceSuzuka|jp|景色が……見えない…………。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_6.wav|SilenceSuzuka|jp|うん。……先頭は、譲らないから。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_4.wav|SilenceSuzuka|jp|……はい。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_13.wav|SilenceSuzuka|jp|う……くっ……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_22.wav|SilenceSuzuka|jp|…………。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_39.wav|SilenceSuzuka|jp|……すみません、なんでもありません。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002002_14.wav|SilenceSuzuka|jp|最後の直線……！　今っ……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_15.wav|SilenceSuzuka|jp|……いいんですか？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_43.wav|SilenceSuzuka|jp|私、担当トレーナーさんにお話ししようと思います。 逃げない走り方はできませんって。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_6.wav|SilenceSuzuka|jp|……ずっと、走ってきたんです。ずっと。 走ることは、私にとってすべてだったから。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_33.wav|SilenceSuzuka|jp|……はい、スッキリしました。 頭が空っぽになるまで、思いっきり走ったから。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_18.wav|SilenceSuzuka|jp|それに、この道……どこへ続いているのかしら……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_14.wav|SilenceSuzuka|jp|でも、学園の近くのそういう場所は、 だいたいランニングで通い慣れてしまって……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_22.wav|SilenceSuzuka|jp|まだ、ちょっと脚が重い……でも……
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_19.wav|SilenceSuzuka|jp|あ……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_0.wav|SilenceSuzuka|jp|はぁっ……はぁ。……あっ！？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_42.wav|SilenceSuzuka|jp|もう1度、何度でもあそこに辿り着きたい。 この気持ちだけは……譲れない……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_24.wav|SilenceSuzuka|jp|……うん。もう少し、走ろう。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_27.wav|SilenceSuzuka|jp|そうだ。こうやって走って、走っていたら、そのうち――
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_8.wav|SilenceSuzuka|jp|もう走りたくないって、思うなんて。 こんなの……初めて……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_38.wav|SilenceSuzuka|jp|だから……誰もいない場所まで行こうと思って、先頭に出たんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_46.wav|SilenceSuzuka|jp|い、いけませんか……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_39.wav|SilenceSuzuka|jp|はい。誰もいない、絶対に追いつけない場所まで行こうって、 思いっきり走ったら……目の前がぱっと開けて。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_13.wav|SilenceSuzuka|jp|景色……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_34.wav|SilenceSuzuka|jp|おかげで……思い出せました。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_30.wav|SilenceSuzuka|jp|聞こえるのは、風の音と心臓の鼓動だけ。 他に誰もいない、まっさらな……私だけの世界……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_31.wav|SilenceSuzuka|jp|そうだ、私……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_10.wav|SilenceSuzuka|jp|そういえば、今日はちょっとだけ星が明るいかしら……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_35.wav|SilenceSuzuka|jp|小さな頃から走ってばかりいた私に、 ある日、両親がレースへの出走を勧めてくれたんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_23.wav|SilenceSuzuka|jp|…………いい風。 ひんやりする……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_40.wav|SilenceSuzuka|jp|静かな……誰もいない景色に、辿り着けたんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_20.wav|SilenceSuzuka|jp|……そうですね。行ってきます！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_44.wav|SilenceSuzuka|jp|あの、それで……その。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_11.wav|SilenceSuzuka|jp|……ふふっ。この景色全部、ひとり占めね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_1.wav|SilenceSuzuka|jp|あ……す、すみません。なんでもないです、大丈夫です……。 ただ……ちょっと、脚が重いだけで……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_17.wav|SilenceSuzuka|jp|電車に乗ってるうちに……空、晴れてたんですね。 緑がいっぱい陽を浴びて……綺麗……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_21.wav|SilenceSuzuka|jp|はっ、はっ、はっ……ふぅ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_4.wav|SilenceSuzuka|jp|鎖がついてるみたいに、脚が重たくて。 それでも走り続けると、そのうち目の前が暗くなって……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_29.wav|SilenceSuzuka|jp|――静かな景色に、辿り着けるの
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_2.wav|SilenceSuzuka|jp|調子……そう、なんでしょうか。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_36.wav|SilenceSuzuka|jp|走れるのならいいかな、と思って出てみたレースは、 最初……すごく苦しいものに感じられました。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_32.wav|SilenceSuzuka|jp|はっ、はっ……はぁーーーーっ。 …………ふぅっ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_26.wav|SilenceSuzuka|jp|両足が地面を蹴る感覚……体が熱くて、風は冷たい……
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_28.wav|SilenceSuzuka|jp|はっ、はぁっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_5.wav|SilenceSuzuka|jp|無理……？　無理なんかしていません。 いつもだったら、もっと走れるんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_37.wav|SilenceSuzuka|jp|たくさんの子たちに囲まれてしまったので…… 騒がしくって、窮屈で。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_7.wav|SilenceSuzuka|jp|なのに、今は……っ。 どうしよう、こんなの、初めてなんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_16.wav|SilenceSuzuka|jp|わぁっ……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_25.wav|SilenceSuzuka|jp|はっ、はっ、はっ……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_9.wav|SilenceSuzuka|jp|ふぅっ……！！ うん……夜に走ると、静かでいいわね……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_45.wav|SilenceSuzuka|jp|……あなたも一緒に、来て頂けないでしょうか。 私、話をするのがあまり得意な方ではないので……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_12.wav|SilenceSuzuka|jp|違う場所、ですか……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_41.wav|SilenceSuzuka|jp|……私、先頭を走りたい。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002003_3.wav|SilenceSuzuka|jp|……変なんです、私。 模擬レースの後から。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_8.wav|SilenceSuzuka|jp|勝負……ですか？　それは……えぇと……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_6.wav|SilenceSuzuka|jp|えっ？　ええ、そうですけど……。 楽しいですよ、1人神経衰弱。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_13.wav|SilenceSuzuka|jp|えぇ……そこも……！？　いやっ……！ ああっ、そこまで……っ！？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_16.wav|SilenceSuzuka|jp|……はい。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_19.wav|SilenceSuzuka|jp|ええ。……次は絶対に邪魔させませんから。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_10.wav|SilenceSuzuka|jp|えっと、わかりました。とりあえず……やってみましょうか。 よろしくお願いします。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_0.wav|SilenceSuzuka|jp|ハートの7は、たしかこの右の方の……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_18.wav|SilenceSuzuka|jp|トレーナーさん、どうかなさったんですか？ 次のカード、並べちゃいますよ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_7.wav|SilenceSuzuka|jp|ミスの回数に制限をつけているので、 程よい緊張感も持てますし。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_4.wav|SilenceSuzuka|jp|……いえ、気にしないでください。 やり直すだけなので。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_11.wav|SilenceSuzuka|jp|あ……ここじゃなかった。 はい、トレーナーさんの番です。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_15.wav|SilenceSuzuka|jp|ゲームの終盤、記憶したカードを誰にも邪魔されず、 一気にめくっていくのが気持ちいいのに……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_17.wav|SilenceSuzuka|jp|あ、でも気にしないでください。 トレーナーさんの誘いに乗ったのは私ですから。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_9.wav|SilenceSuzuka|jp|あ……すみません。 ちょっと……戸惑ってしまったというか……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_12.wav|SilenceSuzuka|jp|ああ……！？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_14.wav|SilenceSuzuka|jp|ああ……狙っていたカードを次々と……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_3.wav|SilenceSuzuka|jp|ああっ、どこに何があったのか忘れちゃった……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_2.wav|SilenceSuzuka|jp|ここまで順調に進んでて、このままいけばすべてのトランプを…… あれ……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_1.wav|SilenceSuzuka|jp|あ、トレーナーさん。 今、神経衰弱をしていたんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002005_5.wav|SilenceSuzuka|jp|……よし、今度こそ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_22.wav|SilenceSuzuka|jp|はい、行ってきます。 ……ご褒美、楽しみにしていますね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_34.wav|SilenceSuzuka|jp|前までは、どうやって振舞おうとか失敗したらどうしようとか、 いろいろ考えてしまっていたんですけど……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_16.wav|SilenceSuzuka|jp|フォローはいいです。 今さら会話の練習しても焼け石に水ですよね、やっぱり。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_18.wav|SilenceSuzuka|jp|とはいえ……せめてもう少し、 明るい気持ちで交流できたらと思うのですが……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_2.wav|SilenceSuzuka|jp|あ、いえ。 トレーニングには何も問題なくて。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_15.wav|SilenceSuzuka|jp|……あの、以上です。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_36.wav|SilenceSuzuka|jp|レースみたいに、目指すはゴールのみ…… そういう気持ちで挑むことが出来ました。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_3.wav|SilenceSuzuka|jp|……実は今度の週末、ファンの方との交流イベントがあるんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_7.wav|SilenceSuzuka|jp|そういうこともあって、交流イベントと聞くと ちょっと憂鬱なんです……また何かやらかさないといいけれど。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_29.wav|SilenceSuzuka|jp|そっか、タルトって焼いてから冷ます行程もあるから、 きっとそれで時間がかかって……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_31.wav|SilenceSuzuka|jp|でも、おかげさまでイベントの方はとても上手くいきました。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_32.wav|SilenceSuzuka|jp|あ……気の利いた応対ができた、というわけではないんですが。 なんというか……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_10.wav|SilenceSuzuka|jp|えっ……練習、ですか？　トレーナーさんと……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_28.wav|SilenceSuzuka|jp|4時間……そんなにも並ぶ羽目になったんですか？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_24.wav|SilenceSuzuka|jp|あの、ありがとうございます。 それから、えっと……う～ん……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_6.wav|SilenceSuzuka|jp|のちに雑誌で、私に声をかけると左旋回を始める謎のイベント として紹介されました……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_30.wav|SilenceSuzuka|jp|あの、すみませんでした。突然ご褒美と言われても浮かばず、 クラスで話題になってたものを頼んだばかりに……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_25.wav|SilenceSuzuka|jp|あっ！ 細かいところまで見ていただいて光栄です。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_35.wav|SilenceSuzuka|jp|“ご褒美”を用意してもらったおかげで、 そこに向かって頑張ればいいってシンプルに考えられたというか。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_14.wav|SilenceSuzuka|jp|……ありがとうございます。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_26.wav|SilenceSuzuka|jp|それから、う～ん……う～ん……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_20.wav|SilenceSuzuka|jp|ふぅ～……なんだか、レースとは違う緊張感ですね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_33.wav|SilenceSuzuka|jp|はい、そうですね。 少なくとも今までよりは、ずっと。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_11.wav|SilenceSuzuka|jp|あ……思ったよりも難易度の高い内容ですね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_8.wav|SilenceSuzuka|jp|確かに、そうなのかもしれませんが……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_17.wav|SilenceSuzuka|jp|占いの話ができるフクキタルや、どんな話も乗れるタイキのように おしゃべりで盛り上げるのは、あまり私には向いていないようです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_12.wav|SilenceSuzuka|jp|ええと……素敵な走りというのは、素直に受け止めて……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_1.wav|SilenceSuzuka|jp|ふぅ～、0.1秒更新。 走るのだったら何も問題ないのに……はぁ……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_21.wav|SilenceSuzuka|jp|不安も正直、残ってはいますが……うん。 でも前向きに。頑張ってきます。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_0.wav|SilenceSuzuka|jp|はっ……はっ……はっ……はっ……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_37.wav|SilenceSuzuka|jp|ふふっ、どんな味なのか楽しみです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_9.wav|SilenceSuzuka|jp|でも、だからといって適当に済ませるなんてしたくないですし。 とはいえ、上手くできる気もしないし……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_13.wav|SilenceSuzuka|jp|これまで以上というのは、つまり今までも 憧れてくれていたということで……う～ん……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_5.wav|SilenceSuzuka|jp|前もファンの方に話しかけられた時、返事に悩むあまり 無意識にその場でクルクル回ってしまっていたみたいで……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_19.wav|SilenceSuzuka|jp|ご褒美……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002006_4.wav|SilenceSuzuka|jp|でも私は、これまで走ることばかりに躍起だったというか…… あまりそういうのに慣れていなくて。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_9.wav|SilenceSuzuka|jp|参加者、結構いますね……。 トレーニングの一環として出ている子が多いのかしら……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_40.wav|SilenceSuzuka|jp|どんなレースでも、 必ず先頭でトレーナーさんの元に帰ってきますから。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_35.wav|SilenceSuzuka|jp|私は、静かで風の音と心臓の鼓動だけが聞こえる 私1人だけの世界……それが何よりも大切な景色でした。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_8.wav|SilenceSuzuka|jp|はい、お願いします。 私も精いっぱい走りますね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_39.wav|SilenceSuzuka|jp|ふふっ、ありがとうございます。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_11.wav|SilenceSuzuka|jp|いえ、私は私の走りしかできませんから。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_38.wav|SilenceSuzuka|jp|その景色が、私に最後の力を出させてくれたんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_32.wav|SilenceSuzuka|jp|だけど、前の交流イベントのように難しく考えず、シンプルに、 私の走りをすればいいんじゃないかって……そんなふうに思えて。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_3.wav|SilenceSuzuka|jp|あ……そういえば、トレーナーさん。 トライアスロン大会のことなのですが……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_22.wav|SilenceSuzuka|jp|……はあっ……はあっ……くっ……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_5.wav|SilenceSuzuka|jp|でも……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_36.wav|SilenceSuzuka|jp|……でも、それが少しだけ変わったんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_34.wav|SilenceSuzuka|jp|はい。 ……それと、もう1つ見つけたことがあるんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_14.wav|SilenceSuzuka|jp|えっと、そうですね……今夜は、夏祭りだそうですから。 連れて行ってくれる、とか……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_31.wav|SilenceSuzuka|jp|たとえトライアスロンであっても、先頭の景色は譲りたくない……。 でもそれは困難なことだから、出場するつもりはなかったんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_37.wav|SilenceSuzuka|jp|周りには誰もいない、 開けた視界の先にトレーナーさんがいる――
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_12.wav|SilenceSuzuka|jp|あの、トレーナーさん。 ……お願い、聞いてもらえませんか？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_30.wav|SilenceSuzuka|jp|かき氷、ごちそうさまでした。 思い切り体を動かした後だけあって格別ですね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_0.wav|SilenceSuzuka|jp|合宿も残すところあと数日……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_33.wav|SilenceSuzuka|jp|トレーナーさんのおかげで、 こうした考え方もできるようになったんだと思います。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_26.wav|SilenceSuzuka|jp|この景色……誰にも譲らないっ！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_6.wav|SilenceSuzuka|jp|あの、トレーナーさん。 私、やっぱり出てみてもいいですか？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_15.wav|SilenceSuzuka|jp|ありがとうございます。 では……行ってきます。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_4.wav|SilenceSuzuka|jp|ええ……私は、得意なのも中距離ですし、 “逃げ”しかできませんから、不向きな競技だと思って……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_2.wav|SilenceSuzuka|jp|ふふっ、そうですね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_1.wav|SilenceSuzuka|jp|トレーニングに集中できる環境なだけに、 終わってしまうのが名残惜しいです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_13.wav|SilenceSuzuka|jp|――ご褒美。用意して、待っていてほしいんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_7.wav|SilenceSuzuka|jp|“悔いなく過ごす”ために…… 試してみたいことがあるんです。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_25.wav|SilenceSuzuka|jp|……っ！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002007_10.wav|SilenceSuzuka|jp|……でも、私も同じですから。 終始自分のペースで走るだけです。
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_33.wav|SilenceSuzuka|jp|え？　……あ、あれっ！？ 確かに後ろを走ってたはずなのに……！
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_21.wav|SilenceSuzuka|jp|あなたのは勢いがちょっと……。 というか、今はトレーニング中じゃないの？
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_37.wav|SilenceSuzuka|jp|あ、タイキの声……！　行ってみましょう！
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_31.wav|SilenceSuzuka|jp|あっ！？　ちょ……い、行ってきますっ！！
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_6.wav|SilenceSuzuka|jp|うん、東南東、ね？　東南南東東だと…… それ、どの方角ってことになるのかしら……。
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_32.wav|SilenceSuzuka|jp|はっ、はっ、はっ……ただいま戻りました。
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_25.wav|SilenceSuzuka|jp|えっ？　えっと……。 い、いいんでしょうか、トレーナーさん……？
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_40.wav|SilenceSuzuka|jp|タイキ！　よかった、ここにいたのね……！
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_35.wav|SilenceSuzuka|jp|私も走っているとすぐ夢中になってしまうので…… ほ、本当にすみません！！
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_29.wav|SilenceSuzuka|jp|待って待ってタイキ、 今のはトレーナーさんに質問したのよ……？
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_26.wav|SilenceSuzuka|jp|わかりました。今日は長距離のランニングをする予定だったので、 学園の外へ行っても構いませんか？
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_34.wav|SilenceSuzuka|jp|す、すみません……！　彼女、誰にでもすぐ話しかけに 行っちゃうので、よく気をつけてたつもりだったんですが……！
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_43.wav|SilenceSuzuka|jp|タイキ…………。
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_10.wav|SilenceSuzuka|jp|き、気持ちは嬉しいけれど、 プニプニはちょっと困るかな……。
+.\training_set\SilenceSuzuka\story_data_04_1010_storytimeline_041010002_19.wav|SilenceSuzuka|jp|あ、タイキ……ストップ、飛びつかないでね。
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018001_15.wav|SilenceSuzuka|jp|くっ……！
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018001_2.wav|SilenceSuzuka|jp|エアグルーヴ！　待たせてごめんなさい。 外を走っていたら、ちょっと夢中になっちゃって……。
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018001_8.wav|SilenceSuzuka|jp|はっ、はっ、はっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018001_5.wav|SilenceSuzuka|jp|ええ、それは大丈夫。始めましょうか。
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018003_34.wav|SilenceSuzuka|jp|わ……本当！？
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018003_36.wav|SilenceSuzuka|jp|ええ……！　ありがとう、エアグルーヴ。
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018003_31.wav|SilenceSuzuka|jp|トレーニングコースが整備不良で使用できないらしくて……。 走れないとなると……なんだか、することがなくて。
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018003_30.wav|SilenceSuzuka|jp|えっ？　ええと……特に何も。
+.\training_set\SilenceSuzuka\story_data_04_1018_storytimeline_041018004_2.wav|SilenceSuzuka|jp|ええ……！　ありがとう、エアグルーヴ。
+.\training_set\SilenceSuzuka\story_data_04_1028_storytimeline_041028004_23.wav|SilenceSuzuka|jp|あ、おいしい……。珍しいお野菜使ってるのね。
+.\training_set\SilenceSuzuka\story_data_04_1028_storytimeline_041028004_33.wav|SilenceSuzuka|jp|ええと……。隣の……隣の山まで、かしら？
+.\training_set\SilenceSuzuka\story_data_04_1046_storytimeline_041046002_23.wav|SilenceSuzuka|jp|あの……すみません、 明日のレースに向けて練習をしたいので……。
+.\training_set\SilenceSuzuka\story_data_04_1046_storytimeline_041046002_29.wav|SilenceSuzuka|jp|ファルコン先輩、ありがとう。 私、どうしたらいいのかわからなくて……。
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056001_33.wav|SilenceSuzuka|jp|だからそのラッキーナンバーからは離れてぇ～……！
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056001_28.wav|SilenceSuzuka|jp|はぁ……はぁ……だから……言ったのに……。 しかもあんなに飛ばして走ればなおさら……。
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056001_19.wav|SilenceSuzuka|jp|あの……急に連れ出されたけど、いったい何をするの？
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056001_21.wav|SilenceSuzuka|jp|まあ、そのくらいなら別に……。
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056001_30.wav|SilenceSuzuka|jp|4周しかしてないけど……。
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056001_24.wav|SilenceSuzuka|jp|え……っ！？　1周で2kmあるのよ？ 39周だと、60kmを超えるんだけど……。
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056001_26.wav|SilenceSuzuka|jp|ちょっと……ほ、ほんとに？
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056004_12.wav|SilenceSuzuka|jp|あの……今、負けてくるって……え？
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056004_21.wav|SilenceSuzuka|jp|ホント、惜しかったわ。 ゴールがあと50m先にあれば、全員を抜けてたと思う。
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056004_4.wav|SilenceSuzuka|jp|あの、今日は見学させてもらうわね。
+.\training_set\SilenceSuzuka\story_data_04_1056_storytimeline_041056004_10.wav|SilenceSuzuka|jp|うん、頑張って……って、え？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_17.wav|SilenceSuzuka|jp|もう1度、何度でもあそこに辿り着きたい。 この気持ちだけは……譲れない……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_43.wav|SilenceSuzuka|jp|はぁっ……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_27.wav|SilenceSuzuka|jp|ふふっ……出走、もうすぐだから。行ってくるわね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_45.wav|SilenceSuzuka|jp|もっといい景色、一緒に見に行きましょう。 ……トレーナーさん！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_44.wav|SilenceSuzuka|jp|ふふっ……いいえ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_6.wav|SilenceSuzuka|jp|えっと……あ、あなたは、いいんでしょうか？ こんな私で……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_23.wav|SilenceSuzuka|jp|山、とか……登っちゃいましょうか？ この際ですし……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_11.wav|SilenceSuzuka|jp|はいっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_20.wav|SilenceSuzuka|jp|序盤から先頭を走って、終盤でも減速しない走り……。 どうしたら実現できるんでしょうか？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_40.wav|SilenceSuzuka|jp|先頭の景色は……誰にもッ！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_24.wav|SilenceSuzuka|jp|あら、エアグルーヴ！　来ていたの？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_14.wav|SilenceSuzuka|jp|それで……走り方は、どうすべきでしょうか……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_8.wav|SilenceSuzuka|jp|ありがとう……ございます。 よろしくお願いします、トレーナーさん……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_39.wav|SilenceSuzuka|jp|誰にも邪魔させない。誰にも、譲らない
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_7.wav|SilenceSuzuka|jp|……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_16.wav|SilenceSuzuka|jp|……私、先頭を走りたい。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_31.wav|SilenceSuzuka|jp|はっ、はっ、はっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_12.wav|SilenceSuzuka|jp|あの……さっそくですみませんが、トレーナーさん。 予定だと来月がデビュー戦だったんですが、どうしましょう……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_15.wav|SilenceSuzuka|jp|学んだおかげで理解はできました。大逃げはリスクが高いって。 今のままじゃ、いつか先頭を走れなくなる日が来るかもしれない。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_36.wav|SilenceSuzuka|jp|ふっ……！！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_13.wav|SilenceSuzuka|jp|走っていいんですか……！！ ありがとうございますっ。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_0.wav|SilenceSuzuka|jp|――ですから、すみません。 指示していただいた走り方、私には……。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_4.wav|SilenceSuzuka|jp|えっ、移籍……？
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_18.wav|SilenceSuzuka|jp|……私の走りを、信じてくださっているんですね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_22.wav|SilenceSuzuka|jp|坂路ダッシュですね、わかりました。 でも……学内のコースだけじゃ、ちょっと物足りないですね。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_19.wav|SilenceSuzuka|jp|わかりました。……応えます、必ず。
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_35.wav|SilenceSuzuka|jp|まだ……まだ、騒がしい。まだ、もっと……！
+.\training_set\SilenceSuzuka\story_data_04_1002_storytimeline_041002004_21.wav|SilenceSuzuka|jp|スピードを出すためのエネルギーには限りがあるから、 温存する走り方が必要なんだって、前に聞いたのですが……。
+.\training_set\SilenceSuzuka\story_data_04_1001_storytimeline_041001001_17.wav|SilenceSuzuka|jp|あ、スペちゃん！　ここにいたのね……！ もう門限なのに帰ってこないから心配したのよ。
+.\training_set\SilenceSuzuka\story_data_04_1001_storytimeline_041001003_36.wav|SilenceSuzuka|jp|スペちゃん！　ここにいたのね……って、あ、えっと。 ごめんなさい、お取り込み中だったかしら……？
+.\training_set\SilenceSuzuka\story_data_04_1001_storytimeline_041001003_38.wav|SilenceSuzuka|jp|その、寮にお母様からのお手紙がきてたから、 早く届けてあげようと思って……。
+.\training_set\SilenceSuzuka\story_data_04_1001_storytimeline_041001003_39.wav|SilenceSuzuka|jp|スペちゃん、いつも楽しみにしてたでしょう？ だから……。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_title_100200_0.wav|SilenceSuzuka|jp|Cygames
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_title_100200_1.wav|SilenceSuzuka|jp|ウマ娘、プリティーダービー！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_title_100200_2.wav|SilenceSuzuka|jp|これが今日のログインボーナス…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_title_100200_3.wav|SilenceSuzuka|jp|明日はこれがもらえるそうですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_0.wav|SilenceSuzuka|jp|トレーナーさんが私の走りを 信じてくださるなら、私も自信を 持ってこの走りを貫けます。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_1.wav|SilenceSuzuka|jp|苦手なことも少しずつできるように なれる気がします。 トレーナーさんと一緒なら。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_2.wav|SilenceSuzuka|jp|誰もいない景色こそが特別だと 思っていました。でも、今は…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_3.wav|SilenceSuzuka|jp|ようやく来ました…！フクキタルに もらった大きな門松を飾る時が…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_4.wav|SilenceSuzuka|jp|みんなチョコレートをたくさん 食べているけど、あんなに食べて レースに影響出ないのかな…？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_5.wav|SilenceSuzuka|jp|これ、受け取ってもらえますか？ バレンタインだと昨夜気づいたので 簡単なトリュフですが…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_6.wav|SilenceSuzuka|jp|星空を見ながら走ると楽しいん です。何かにぶつからないよう、 気をつけないといけませんが…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_7.wav|SilenceSuzuka|jp|トリックオアトリート。 お菓子くれなきゃ追いかけます っていうのは…どうでしょう？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_8.wav|SilenceSuzuka|jp|雪がかかったモミの木は自然の クリスマスツリーみたいで… 近くを走ると気持ちいいんです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_9.wav|SilenceSuzuka|jp|クリスマスのイルミネーションを 見に行きませんか？雪みたいに キラキラしてて…好きなんです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_10.wav|SilenceSuzuka|jp|お坊さんが忙しく走るから師走って いうんですよね。ちょっと見て みたいな、走ってるお坊さん…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_11.wav|SilenceSuzuka|jp|誕生日おめでとうございます。 レースで勝利をプレゼント させてください。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_12.wav|SilenceSuzuka|jp|せっかくの誕生日ですし、思い出に なることをしませんか。高い所から 景色を見るとか…どうでしょう？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_13.wav|SilenceSuzuka|jp|あ、そっか…誕生日。 走ることに夢中で、 すっかり忘れていました。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_14.wav|SilenceSuzuka|jp|思い出が増えれば、見える景色も 増えていく…その中に今は トレーナーさんの姿もあります。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_15.wav|SilenceSuzuka|jp|お知らせがあるみたいです。 見てみますか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_16.wav|SilenceSuzuka|jp|プレゼントだそうです。 見てみましょうか。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_17.wav|SilenceSuzuka|jp|ミッション達成ですね。 この調子で駆け抜けて いきましょう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_18.wav|SilenceSuzuka|jp|もうすぐイベントみたいです。 どんな内容でしょう。 …たくさん走れるかな。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_19.wav|SilenceSuzuka|jp|イベントが始まっています。 走って行ってみますか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_24.wav|SilenceSuzuka|jp|この服の色が、走っている時に 見える景色の色と似ていて。 着ているだけで心地いいんです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_25.wav|SilenceSuzuka|jp|リボンが曲がっていると、 エアグルーヴが直してくれるんです すごく綺麗な手つきなんですよ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_26.wav|SilenceSuzuka|jp|タイキが薦めてくれる服は、 おへそが出てるのが多くて…。 お腹が冷えないか気になるんです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_20.wav|SilenceSuzuka|jp|これからトレーニングですか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_21.wav|SilenceSuzuka|jp|いろんな記録があるんですね…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_22.wav|SilenceSuzuka|jp|レースのエントリーですか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100200_23.wav|SilenceSuzuka|jp|名鑑レベルが上がった みたいですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_0.wav|SilenceSuzuka|jp|体が重い…？ ううん、まだ大丈夫…なはず…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_1.wav|SilenceSuzuka|jp|うぅ、力が出ない…。 走りたいのに…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_2.wav|SilenceSuzuka|jp|走ってきてもいいですか？ 脚がウズウズしてて…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_3.wav|SilenceSuzuka|jp|なんだか体が軽い…！ トレーニング、早く始めませんか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_4.wav|SilenceSuzuka|jp|すごく爽やかな風… この中を走ったら 気持ちいいだろうな。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_5.wav|SilenceSuzuka|jp|今日はどんなコースを走れるのか、 楽しみです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_6.wav|SilenceSuzuka|jp|走る準備はできています。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_7.wav|SilenceSuzuka|jp|今日はどうしましょうか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_8.wav|SilenceSuzuka|jp|体の動きが悪い…？ …いえ、なんでもありません。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_9.wav|SilenceSuzuka|jp|なぜかしら、脚が重い…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_10.wav|SilenceSuzuka|jp|いつもの調子が出ない…。 どうして…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_11.wav|SilenceSuzuka|jp|体に力が入らない…！ こんなことって…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_12.wav|SilenceSuzuka|jp|走りたい気持ちはありますが、 無理をして体を壊すわけにも いきません…難しいですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_13.wav|SilenceSuzuka|jp|レースには出たいですが… これ以上はもう…体が…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_14.wav|SilenceSuzuka|jp|うんっ、脚が軽い…！ レースでも速く走れそうな 気がします！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_15.wav|SilenceSuzuka|jp|レースが楽しみです！ 早く始まらないかな、ふふっ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_16.wav|SilenceSuzuka|jp|先頭の景色… 必ずこの目で見てきます！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_17.wav|SilenceSuzuka|jp|いい仕上がりになっていると 思います。レースが楽しみですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_18.wav|SilenceSuzuka|jp|調子はよさそうです。 この日のために調整して きましたから。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_19.wav|SilenceSuzuka|jp|今日はどんな景色が 見られるんだろう…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_20.wav|SilenceSuzuka|jp|問題ありません。 普段通りの力が出せそうです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_21.wav|SilenceSuzuka|jp|今まで身につけてきたこと、 レースで発揮してきます。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_22.wav|SilenceSuzuka|jp|見ていてください。 勝ってみせますから。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_23.wav|SilenceSuzuka|jp|少し不安はありますが… 大丈夫です。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_24.wav|SilenceSuzuka|jp|普段のトレーニングを思い出して なんとか、いつも通りに…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_25.wav|SilenceSuzuka|jp|ただ、先頭を目指して走るだけ…。 それ以外のことは 考えないようにします。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_26.wav|SilenceSuzuka|jp|調整は少し不安かも…。 ううん、そう言っていても 仕方ないですよね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_27.wav|SilenceSuzuka|jp|なんとかしてみせます。 …私にできることは それだけなので。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_28.wav|SilenceSuzuka|jp|今の状態で勝てる方法を… 考えないと…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_29.wav|SilenceSuzuka|jp|いきます。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_30.wav|SilenceSuzuka|jp|やりましょう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_31.wav|SilenceSuzuka|jp|始めますね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_32.wav|SilenceSuzuka|jp|頑張ります。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_33.wav|SilenceSuzuka|jp|あ、あら…？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_34.wav|SilenceSuzuka|jp|うぅ…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_37.wav|SilenceSuzuka|jp|行きましょう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_38.wav|SilenceSuzuka|jp|楽しみ…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_39.wav|SilenceSuzuka|jp|以前より、確実に速くなれたと思います！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_40.wav|SilenceSuzuka|jp|ありがとうございました、トレーナーさん。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100200_41.wav|SilenceSuzuka|jp|一緒に頑張りましょう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100200_0.wav|SilenceSuzuka|jp|あと、もう少しでした…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100200_1.wav|SilenceSuzuka|jp|悪くはないのでしょうが…まだ足りません。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100200_2.wav|SilenceSuzuka|jp|これで満足はできません…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100200_3.wav|SilenceSuzuka|jp|…次はいい結果にしてみせます。必ず。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100200_5.wav|SilenceSuzuka|jp|ふぅ、気持ちよかった。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100200_6.wav|SilenceSuzuka|jp|駆け抜けます！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_live_100200_0.wav|SilenceSuzuka|jp|レースより緊張するかも…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_live_100200_1.wav|SilenceSuzuka|jp|頑張ってきます！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_0.wav|SilenceSuzuka|jp|トレーナーさんが見せてくれた 景色…きっと、これからも 忘れることはありません。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_4.wav|SilenceSuzuka|jp|体がとても暖かい…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_1.wav|SilenceSuzuka|jp|駆け抜けましょう、共に…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_2.wav|SilenceSuzuka|jp|できること、増えた気がします。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_3.wav|SilenceSuzuka|jp|サポートのコツ、わかってきました。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_7.wav|SilenceSuzuka|jp|この制服も着慣れてきました。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_8.wav|SilenceSuzuka|jp|たまに、賑やか過ぎるけど…楽しいです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_9.wav|SilenceSuzuka|jp|ちょっとだけ…恥ずかしいですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_10.wav|SilenceSuzuka|jp|笑顔で歌って踊って…ライブって難しいです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_11.wav|SilenceSuzuka|jp|誰よりも前に、誰よりも先に…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_12.wav|SilenceSuzuka|jp|いろんな景色を見たいんです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_17.wav|SilenceSuzuka|jp|ふふ…とっても涼しいです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_18.wav|SilenceSuzuka|jp|海の色みたいで素敵ですよね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_5.wav|SilenceSuzuka|jp|あ…。 よろしくお願いします。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_6.wav|SilenceSuzuka|jp|先頭は渡しません…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_13.wav|SilenceSuzuka|jp|一緒に走りましょう
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_14.wav|SilenceSuzuka|jp|先頭の景色は譲らない……！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_15.wav|SilenceSuzuka|jp|お気に入りを着ると、景色も違って見えます。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100200_16.wav|SilenceSuzuka|jp|ネックレスは両親からの入学祝いなんですよ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_0.wav|SilenceSuzuka|jp|おはようございます。 朝練なら済ませてきましたが… 追加でトレーニングしますか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_1.wav|SilenceSuzuka|jp|朝食はしっかり食べています。 エネルギー補給をしないと 走れませんから。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_2.wav|SilenceSuzuka|jp|午後のトレーニングの準備は できています。始めませんか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_3.wav|SilenceSuzuka|jp|芝にダート、坂路…今日も たくさん走れますね、ふふっ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_4.wav|SilenceSuzuka|jp|あら、もうこんな時間…？ トレーニングしていたら あっという間ですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_5.wav|SilenceSuzuka|jp|まだ走り足りない…。 寮まで走って帰ろうかしら。 …すごく短い距離だけど。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_6.wav|SilenceSuzuka|jp|頭に花びらが付いてた…。 鏡を見るまで気づかなかった なんて…は、恥ずかしい…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_7.wav|SilenceSuzuka|jp|夏バテ防止にはきゅうりがいいって エアグルーヴが言っていたっけ…。 1日に何本食べたらいいのかしら。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_8.wav|SilenceSuzuka|jp|外を走っていたら、干し柿を 吊るしている家があったんです。 秋…っていう感じがしますよね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_9.wav|SilenceSuzuka|jp|水たまりに氷が張っていると、 その上を走りたくなっちゃうん ですが…やっぱり危ないですか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_10.wav|SilenceSuzuka|jp|短距離のコツをタイキに聞いたら エンジョイスピリッツデース☆ って…何もわからない…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_11.wav|SilenceSuzuka|jp|都会は建物だらけ…。 たまには子どもの頃みたいに、 何もない原っぱを走りたいな…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_12.wav|SilenceSuzuka|jp|フクキタルにもらったお守り、 どうしたらいいの…あんなに大きな 金色の鯛を飾る場所なんて…うぅ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_13.wav|SilenceSuzuka|jp|コースの芝っていつも綺麗…。 整備してくれる人たちに 感謝しないと、ですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_14.wav|SilenceSuzuka|jp|いい天気が続くといいですね…。 雨の中だと体が冷えて、 長時間走れませんから。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_15.wav|SilenceSuzuka|jp|お腹が冷えないように、 気をつけないと…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_16.wav|SilenceSuzuka|jp|勝った者だけが立てる舞台って 特別なものですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_17.wav|SilenceSuzuka|jp|この服を着ると蘇ってくる…。 先頭で風を切る、あの感覚…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_18.wav|SilenceSuzuka|jp|ど、どうしましょう…。 勝負服を着ると、すぐにでも 走り出したくなってしまって…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_19.wav|SilenceSuzuka|jp|アラーム音をファンファーレに 設定すると、とても気持ちよく 起きられるんです。ふふっ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_20.wav|SilenceSuzuka|jp|スペちゃんと一緒だと、いつもより 多くご飯を食べてしまうんです。 どうしたらいいのかしら…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_21.wav|SilenceSuzuka|jp|寝る前に目をつむると、 今まで走ってきた景色が 蘇ってくるんです…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_22.wav|SilenceSuzuka|jp|春はレースがいっぱい。 とても楽しい季節だわ…！ ふふっ！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_23.wav|SilenceSuzuka|jp|朝のジョギング用、午後のトレー ニング用に、夜のランニング用… タオルがたくさん必要ね…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_24.wav|SilenceSuzuka|jp|そういえばこの前、 服にひっつき虫がついていました。 森を走ったせいでしょうか…はぁ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100201_25.wav|SilenceSuzuka|jp|雪を見ると落ち着きます。静かで 綺麗で――あ、それに降り積もった 雪の中を走るのも楽しいんですよ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_0.wav|SilenceSuzuka|jp|いつでも走れます。 もちろん、今すぐにでも。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_1.wav|SilenceSuzuka|jp|今日はどんなコースを 走らせてくれますか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_3.wav|SilenceSuzuka|jp|走りでは誰にも 負けたくないんです。だからぜひ、 厳しいトレーニングを。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_4.wav|SilenceSuzuka|jp|いい風…走ったらもっと 心地よく感じるのかな…ふふっ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_2.wav|SilenceSuzuka|jp|準備はできています。 始めませんか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_5.wav|SilenceSuzuka|jp|少しずつ実力が身についている ように感じます。…この感覚、 忘れないようにしないと。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_6.wav|SilenceSuzuka|jp|このまま成長していったら どんな景色が見えるように なるのかしら…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_7.wav|SilenceSuzuka|jp|些細なきっかけで、見える景色も 変わってくる…そんなことを 教えてもらったような気がします。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_8.wav|SilenceSuzuka|jp|見られました…1人では見られなかった景色。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100201_9.wav|SilenceSuzuka|jp|おかげ様で、予想以上に成長できました。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100201_0.wav|SilenceSuzuka|jp|より速く…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100201_1.wav|SilenceSuzuka|jp|もっと先へ！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100201_2.wav|SilenceSuzuka|jp|はい、サイレンススズカです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_gacha_100201_0.wav|SilenceSuzuka|jp|先頭のもっと先… 誰も見たことがない景色へ…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_st_100200_0000_0.wav|SilenceSuzuka|jp|みなさん、頑張りましょう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_st_100200_1001_0.wav|SilenceSuzuka|jp|いきましょう、スペちゃん。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_st_100200_1018_0.wav|SilenceSuzuka|jp|エアグルーヴ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_st_100100_1002_1.wav|SilenceSuzuka|jp|よろしくね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_st_105600_1002_1.wav|SilenceSuzuka|jp|あ、ありがとう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_st_104600_1002_1.wav|SilenceSuzuka|jp|逃げ切ります。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_st_106600_1002_1.wav|SilenceSuzuka|jp|ご、ごー…？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_100200_0.wav|SilenceSuzuka|jp|負けない…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_100200_1.wav|SilenceSuzuka|jp|いいレースだったわ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_100200_2.wav|SilenceSuzuka|jp|みんな、お疲れ様。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_100200_3.wav|SilenceSuzuka|jp|今度こそ勝ちましょう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_100200_4.wav|SilenceSuzuka|jp|私たちの勝利ね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_teamst_100200_5.wav|SilenceSuzuka|jp|ハイスコア…！やったわね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_0.wav|SilenceSuzuka|jp|頑張ってください
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_1.wav|SilenceSuzuka|jp|やった…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_2.wav|SilenceSuzuka|jp|ああっ！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_3.wav|SilenceSuzuka|jp|見てください、こんなに…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_4.wav|SilenceSuzuka|jp|ふふ、可愛い。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_5.wav|SilenceSuzuka|jp|難しいですね、これ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_6.wav|SilenceSuzuka|jp|くすっ
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_7.wav|SilenceSuzuka|jp|ふふっ…
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_8.wav|SilenceSuzuka|jp|うぅ～…
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_9.wav|SilenceSuzuka|jp|すごいです…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_10.wav|SilenceSuzuka|jp|そんな…
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_11.wav|SilenceSuzuka|jp|わぁ…
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_12.wav|SilenceSuzuka|jp|トレーナーさん
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_13.wav|SilenceSuzuka|jp|あっ！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_14.wav|SilenceSuzuka|jp|…っ！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_15.wav|SilenceSuzuka|jp|むぅ…
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_minigame_100200_16.wav|SilenceSuzuka|jp|うぅぅ…
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100201_1.wav|SilenceSuzuka|jp|やっと見えた…これが私だけの…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100201_2.wav|SilenceSuzuka|jp|…やっと見えた！ スピードの向こう側…静かでどこまでも綺麗な… 私が見たかったもの…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100201_0.wav|SilenceSuzuka|jp|これが…私だけの景色…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_0.wav|SilenceSuzuka|jp|おはようございま――くしゅんっ。 この格好…朝だと少し 肌寒いですね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_1.wav|SilenceSuzuka|jp|ふぅ…。 朝の風が頬に心地いい…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_2.wav|SilenceSuzuka|jp|こんにちは。 プールトレーニングなら すぐにでもできます。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_3.wav|SilenceSuzuka|jp|お昼はどこで食べようかしら。 たまにはシートを敷いて 外で食べるのも…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_4.wav|SilenceSuzuka|jp|日が沈むのは一瞬ですね… だからこそ綺麗だと 思うんでしょうか。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_5.wav|SilenceSuzuka|jp|疲労にはココナッツオイルが効く ってエアグルーヴが言ってました。 使い方はわかりませんが…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_6.wav|SilenceSuzuka|jp|こ、困りました…新入生がみんな プールの場所を聞いてきて…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_7.wav|SilenceSuzuka|jp|いい陽気ですね。水の中に入ったら 気持ちがよさそう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_8.wav|SilenceSuzuka|jp|西日が眩しい季節ですね。 日焼け止め、忘れないように しないと…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_9.wav|SilenceSuzuka|jp|学園のプールは温かいので 冬はとても助かります…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_10.wav|SilenceSuzuka|jp|…夢を、見ました。 パール先輩が浜辺で サンバを教えてくれる夢を…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_11.wav|SilenceSuzuka|jp|南国のリゾートもいいですよね。 雪が降らないのはちょっと 残念ですけど…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_12.wav|SilenceSuzuka|jp|ワタシの勝負服とそっくり デース♪ってタイキに 言われました。確かに…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_13.wav|SilenceSuzuka|jp|スペちゃんが髪の毛を結ぶの 手伝ってくれるんです。 三つ編みは得意だから…って。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_14.wav|SilenceSuzuka|jp|今日のラッキーフードはドラゴン フルーツだと、フクキタルが… …どこで買えるんでしょう。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_15.wav|SilenceSuzuka|jp|プルメリアの香りは集中力を 高めてくれるそうです。 …レース前によさそうですよね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_16.wav|SilenceSuzuka|jp|小さな真珠って綺麗… キラキラしていて、雪みたいで…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_17.wav|SilenceSuzuka|jp|うぅん…波の音は心地よすぎて アラームには向きませんね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_18.wav|SilenceSuzuka|jp|いい陽気… 日光浴でもしようかしら。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_19.wav|SilenceSuzuka|jp|貝殻を耳にあてた時の音… なんだか落ち着きますよね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_20.wav|SilenceSuzuka|jp|ふぁ…木漏れ日が綺麗。 眠ってしまいそうなくらい…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_21.wav|SilenceSuzuka|jp|今日みたいな日に海へ行ったら 楽しいんだろうな…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_22.wav|SilenceSuzuka|jp|涼しいのは慣れています。 雪国育ちですから。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_home_100202_23.wav|SilenceSuzuka|jp|ええと…大丈夫です。 走れば温かくなりますから。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_0.wav|SilenceSuzuka|jp|今日はどこまで走りましょうか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_1.wav|SilenceSuzuka|jp|いずれは、水平線の向こうまで…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_2.wav|SilenceSuzuka|jp|風の音が聞こえます。 心地いい…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_3.wav|SilenceSuzuka|jp|サンダルのベルト、 しっかり留めておかないと…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_5.wav|SilenceSuzuka|jp|ええと…何か、気になりますか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_6.wav|SilenceSuzuka|jp|たまにはどこかでのんびり… というのもいいかもしれませんね。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_7.wav|SilenceSuzuka|jp|これからも、たくさんの景色を 一緒に見に行きたいです。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_8.wav|SilenceSuzuka|jp|夢のような景色でした…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_training_100202_9.wav|SilenceSuzuka|jp|この鮮やかな思い出…忘れません。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100202_0.wav|SilenceSuzuka|jp|青く、深く…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100202_1.wav|SilenceSuzuka|jp|大海原の果てまで…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_outgame_100202_2.wav|SilenceSuzuka|jp|サイレンススズカです。 海の向こうまで…行ってみませんか？
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_gacha_100202_0.wav|SilenceSuzuka|jp|風の呼ぶまま―― 青い海の向こうまで…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100202_1.wav|SilenceSuzuka|jp|海も星空も越えて、先へ…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100202_2.wav|SilenceSuzuka|jp|誰もいない空、海、そして―― ふふふっ…！どこまでも続く…道！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_race_100202_0.wav|SilenceSuzuka|jp|景色が、彩られていくみたい…！
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_event_090028_2.wav|SilenceSuzuka|jp|朝礼に、配膳当番に…。お風呂の 時間も細かいし、うぅん、今日も 好きなだけ走るのは無理そうね…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_event_090028_5.wav|SilenceSuzuka|jp|朝起きてすぐに、大人数の子と 顔を合わせる生活…うん、 少しは慣れてきたのかしら…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_event_090028_8.wav|SilenceSuzuka|jp|海に落とした時のエアグルーヴ、 本当にすごく驚いていて… …ふふっ。うん、楽しかったわ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_event_090028_10.wav|SilenceSuzuka|jp|まだ脳裏に残っているの。 あの暑いビーチで、 笑うみんなの姿が…。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_event_090028_14.wav|SilenceSuzuka|jp|少し寂しくなるだなんて… 思ってもみなかったわ。
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_valentine_100200_0.wav|SilenceSuzuka|jp|ハッピーバレンタイン
+.\training_set\SilenceSuzuka\character_system_text_1002_snd_voi_aimteam_100200_0.wav|SilenceSuzuka|jp|お疲れ様です
