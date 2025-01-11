@@ -1,0 +1,877 @@
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_35.wav|RiceShower|jp|に、日本ダービー！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_16.wav|RiceShower|jp|まだ……まだまだ……。もっと、最後まで……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_34.wav|RiceShower|jp|ライスがステイヤー……。 マックイーンさんと同じ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_20.wav|RiceShower|jp|はぁ……はぁ……はぁ……はぁ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_28.wav|RiceShower|jp|皐月賞、それにこの前のレースだって がんばったけど、8着だったんだよ……？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_27.wav|RiceShower|jp|だけど、もしホントにライスの走りがいいなら、 なんでレースで勝てないんだろう……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_30.wav|RiceShower|jp|うう……でも……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_25.wav|RiceShower|jp|はぁ、はぁ……え、ら、ライスが？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_18.wav|RiceShower|jp|……あっ！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_13.wav|RiceShower|jp|はぁっ、はぁっ、はぁっ、はぁっ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002011_33.wav|RiceShower|jp|きょ、“距離”……？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_8.wav|RiceShower|jp|ライスたちもいこう、トレーナーさん♪
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_13.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_19.wav|RiceShower|jp|だから……ライスはミホノブルボンさんに勝ちたい。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_29.wav|RiceShower|jp|ついてく……ついてく……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_15.wav|RiceShower|jp|……トレーナーさん、いつもありがとう。 ライス、こんなに走れるなんて思ってなかったの。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_12.wav|RiceShower|jp|えへへ……やった。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_21.wav|RiceShower|jp|あうぅ……なんだかこうして口に出して言うと、 ちょっと恥ずかしい……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_11.wav|RiceShower|jp|ライス、最後に観覧車に乗りたいの。 だから……一緒に乗ってくれる？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_3.wav|RiceShower|jp|あれ？　ライスたちしかいなくて貸切みたい。 えへへ、なんだかうれしいなっ♪
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_2.wav|RiceShower|jp|うわぁ～！　ここがあの“有名な遊園地”なんだっ！ お姫さまの住んでるお城とか、ビッグカミナリ山があるんだよね！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_17.wav|RiceShower|jp|えへへ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_14.wav|RiceShower|jp|あ……うん、えっとね……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_10.wav|RiceShower|jp|……あ、あのねトレーナーさん。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_18.wav|RiceShower|jp|……それでね、ライス思ったの。 2着もうれしかったけど、もし1着が取れたらって……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_20.wav|RiceShower|jp|こんな風に、誰かに勝ちたいって思えたのはトレーナーさんの おかげだから、どうしても伝えたかったんだけど……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_9.wav|RiceShower|jp|ほとんどの乗り物に乗れちゃった。 今日はお客さんが少なくてよかった～。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_25.wav|RiceShower|jp|トレーナーさん、今日はご褒美ありがとう。 ライス、次もがんばるね！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_24.wav|RiceShower|jp|うん、本当のユートピアみたいで楽しかったよ♪
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_22.wav|RiceShower|jp|2人で……。うん、これからもよろしくね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_16.wav|RiceShower|jp|いまでも信じられないもん、ダービーで2着になれるなんて。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002031_34.wav|RiceShower|jp|マックイーンさんっ！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_35.wav|RiceShower|jp|うん。それじゃあ、いってきます……！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_28.wav|RiceShower|jp|ううう……どきどきする……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_6.wav|RiceShower|jp|う、うん……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_36.wav|RiceShower|jp|わかった、ついてくついてく！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_9.wav|RiceShower|jp|わかった……ライス、全力で走ってみる。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_31.wav|RiceShower|jp|そ、そうだよね……ここまでがんばってきたんだもん。 楽しんで、それから……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_15.wav|RiceShower|jp|ついてく……ついてく……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_11.wav|RiceShower|jp|うん、また後で会いに来るね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_17.wav|RiceShower|jp|うん、ついてくついてく。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_2.wav|RiceShower|jp|マックイーンさん……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002041_32.wav|RiceShower|jp|ミホノブルボンさんに、勝ってくる。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002051_30.wav|RiceShower|jp|ふ、ふええ！？　恥ずかしいから言わないでぇ～っ！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002051_28.wav|RiceShower|jp|……かわいい文字。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002051_34.wav|RiceShower|jp|……うん。 
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002051_36.wav|RiceShower|jp|みんなといっぱいトレーニングして、 すっごく走れるようになれたから。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002051_40.wav|RiceShower|jp|トレーナーさん、ライスがんばるね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002051_37.wav|RiceShower|jp|ライス、ミホノブルボンさんと早く走りたい。 ずっとワクワクしてるの。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002061_3.wav|RiceShower|jp|ブルボンさん……ついてく……ついてく……。 それで……ついていって……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002061_6.wav|RiceShower|jp|……ライスも、今日こそは負けません。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_3.wav|RiceShower|jp|あ……ブルボンさん……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_0.wav|RiceShower|jp|はぁっ……はぁっ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_8.wav|RiceShower|jp|ライスが……ライスが勝てた……？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_12.wav|RiceShower|jp|ライス、ホントに……ホントに勝てたんだ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_11.wav|RiceShower|jp|う……うん！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_13.wav|RiceShower|jp|ライス、やったよっ！ マックイーンさん、チームのみんな、トレーナーさん……！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_5.wav|RiceShower|jp|……え？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002063_1.wav|RiceShower|jp|あ、あれ……いつの間にゴールを……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002071_21.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002071_36.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002071_38.wav|RiceShower|jp|……うん、がんばってみる。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002071_30.wav|RiceShower|jp|んはぁ……はぁ……ふえぇ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002071_32.wav|RiceShower|jp|う、うん……ごめんなさい。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002071_25.wav|RiceShower|jp|でも、今日はもう疲れたから先に帰るね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002071_24.wav|RiceShower|jp|……みんな、ありがとう。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002081_14.wav|RiceShower|jp|だ……だけど、春の天皇賞は マックイーンさんの3連覇がかかって……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002081_12.wav|RiceShower|jp|大舞台……ライスの走るレースが決まったの？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002081_15.wav|RiceShower|jp|そんな大事なレースで、ライス走れないよ。 勝てたとしても、またライスは……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002081_13.wav|RiceShower|jp|……え？　春の天皇賞……！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002081_11.wav|RiceShower|jp|はぁ……ふぅ…… あの、タイムはどうだった……？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_3.wav|RiceShower|jp|ううう……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_34.wav|RiceShower|jp|ライスが勝つことを喜んでくれない人がいても、 それでもやっぱりライスは……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_35.wav|RiceShower|jp|ライスは、勝ちたいっ！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_17.wav|RiceShower|jp|え……ブルボンさんと勝負……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_6.wav|RiceShower|jp|ふえぇ～～！！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_14.wav|RiceShower|jp|はぁ……ふぅ……はぁ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_52.wav|RiceShower|jp|ブルボンさん……ライス、走れた……。 ブルボンさんに勝ちたいって、思うことができた。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_37.wav|RiceShower|jp|うんっ！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_47.wav|RiceShower|jp|やああああ～～～～っ！！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_46.wav|RiceShower|jp|なら……ちゃんと応えなきゃっ！！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_30.wav|RiceShower|jp|勝ちたいという、想い……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_43.wav|RiceShower|jp|ブルボンさん、すごく速い……！ 菊花賞のときよりも……
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_57.wav|RiceShower|jp|ライスは勝ちたい。 たとえマックイーンさんにとって大事なレースだとしても！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_23.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_55.wav|RiceShower|jp|うん……うんっ！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_32.wav|RiceShower|jp|ライスだって……勝ちたいっ！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_31.wav|RiceShower|jp|走るのが好きで……でもずっと勝てなくて……。 そんなとき、マックイーンさんのレースを見て……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_45.wav|RiceShower|jp|みんなに認めてもらえなかったライスを、 ブルボンさんは認めてくれてたんだ
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_33.wav|RiceShower|jp|……そうだ、だからライスはチームを移ってきて、 いっぱいトレーニングして……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_8.wav|RiceShower|jp|は、はい～！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_1.wav|RiceShower|jp|えええっ！？　ブ、ブルボンさん！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_27.wav|RiceShower|jp|ブルボンさん……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_49.wav|RiceShower|jp|はあっ……はあぁ……ふうぅ～……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_44.wav|RiceShower|jp|ライスに勝ちたくて、だからいっぱい努力して……
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_56.wav|RiceShower|jp|トレーナーさん、あのね…… ライス、春の天皇賞に出ます！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002091_19.wav|RiceShower|jp|でもライスは……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_19.wav|RiceShower|jp|ライスに見せたい“景色”……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_20.wav|RiceShower|jp|……わかった、ちゃんとその“景色”見てくるね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_15.wav|RiceShower|jp|たくさんの人がマックイーンさんを応援してて、 天皇賞の3連覇を見たがってるのがよくわかるから。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_16.wav|RiceShower|jp|ライスが勝ったらきっとまたみんなはガッカリして、 余計なことをするなって怒るよね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_28.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_21.wav|RiceShower|jp|……うん、いってきます、トレーナーさん。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_14.wav|RiceShower|jp|緊張はね、そんなにしてないよ。 だけど……やっぱりちょっと怖い。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_23.wav|RiceShower|jp|マックイーンさんについてく……ついてく……。 マックイーンさんについてく……ついてく……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_13.wav|RiceShower|jp|ふふふっ、そんなの聞いたことないよ。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_17.wav|RiceShower|jp|……うん、それでもやっぱりライスは勝ちたいから。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_2.wav|RiceShower|jp|マックイーンさんについてく……ついてく……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_18.wav|RiceShower|jp|マックイーンさんが……？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002101_12.wav|RiceShower|jp|あ、トレーナーさん……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_20.wav|RiceShower|jp|ライスを応援してくれてる人がいる……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_29.wav|RiceShower|jp|ライス、胸を張る。 みんなの顔をしっかり見て、これからも走り続けて……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_10.wav|RiceShower|jp|“景色”……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_30.wav|RiceShower|jp|いつか、みんなに喜んでもらえるようなウマ娘になるね！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_4.wav|RiceShower|jp|えへへ……みんな、がっかりしてるね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_28.wav|RiceShower|jp|ライスのせいでがっかりした人たちも、ライスがしっかりしなきゃ もっとがっかりしちゃうよね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_5.wav|RiceShower|jp|マックイーンさんは見せたい“景色”があったみたいだけど、 菊花賞のときと、なんにも違わないみたい……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_12.wav|RiceShower|jp|え……あっ！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_27.wav|RiceShower|jp|……うん！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_6.wav|RiceShower|jp|こうなるのは、もちろんわかってたけど……。 やっぱりちょっと……胸が痛いかも……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_24.wav|RiceShower|jp|勝者の義務と誇り……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002111_2.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_31.wav|RiceShower|jp|あっ、トレーナーさん。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_30.wav|RiceShower|jp|……はぁ。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_24.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_21.wav|RiceShower|jp|それに、いつかみんなに喜んでもらえるウマ娘になるって マックイーンさんと約束したから。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_13.wav|RiceShower|jp|う……ううっ！　マックイーンさぁ～～ん！！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_34.wav|RiceShower|jp|さあ、またがんばってトレーニングしなきゃ！ いこっ、トレーナーさん！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_22.wav|RiceShower|jp|トレーナーさん、もう1周走ってくるね！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_19.wav|RiceShower|jp|……ううん、走るよ。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_20.wav|RiceShower|jp|どんなに勝てなくても、みんなからいっぱい怒られても、 胸を張って走るって決めたの。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_11.wav|RiceShower|jp|は、はい……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_33.wav|RiceShower|jp|……ううん、泣かないよ。 泣くならね、うれしいときの方がいいなって。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_17.wav|RiceShower|jp|はぁっはぁっ……はぁっはぁっ……！ ふぅ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_0.wav|RiceShower|jp|ええっ！？　マックイーンさんがチームを抜ける……っ！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_18.wav|RiceShower|jp|……先頭に追いつけるイメージはあるし、 スタミナも切れてない自信はあるよ。だけど……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002121_32.wav|RiceShower|jp|えへへ……今日も勝てなかったね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_29.wav|RiceShower|jp|トレーナーさんと、チームのみんなと一緒ならどこでも楽しい。 みんなの笑顔を見てると、ライスもうれしくて笑顔になるの。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_17.wav|RiceShower|jp|うん、マックイーンさんとブルボンさんについてく！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_42.wav|RiceShower|jp|ライスは、どこまでも走り続けます……！ 走り続けて、みんなに笑顔になってもらいますっ！！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_26.wav|RiceShower|jp|……うん、わかった！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_31.wav|RiceShower|jp|うん、いってきます！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_38.wav|RiceShower|jp|え……？　あ……あ……！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_30.wav|RiceShower|jp|だから、みんなを笑顔にする為に 今日のレースもせいいっぱい、がんばるからね。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_15.wav|RiceShower|jp|ブルボンさん……ライスのためにありがとう！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_28.wav|RiceShower|jp|えへへ……でもライス、“あっちの遊園地”も好きだよ？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_0.wav|RiceShower|jp|はっ……はっ……はっ……はっ……！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_27.wav|RiceShower|jp|ねえねえ、トレーナーさん。 勝ったら“有名な遊園地”にご招待……なんだよね？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_20.wav|RiceShower|jp|ふええぇ～っ！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_40.wav|RiceShower|jp|みんなが……みんなが喜んでくれてる……。 笑ってくれてる……！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_12.wav|RiceShower|jp|マックイーンさんっ！？　それに……っ！！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002131_41.wav|RiceShower|jp|……みんな、ありがとう！！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002133_2.wav|RiceShower|jp|ライス、小さいとき、よく絵本を読んでたの。 絵本を読んで、初めて夢を叶えたいって思ったの。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002133_1.wav|RiceShower|jp|もう1つ、ご褒美のお願い、聞いてもらってもいいかな……？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002133_0.wav|RiceShower|jp|――あのね、トレーナーさん。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002133_3.wav|RiceShower|jp|だから、今度はライスの番。 みんなに夢を届ける、そんな絵本を書いてみたいなって――
+.\training_set\RiceShower\story_data_02_0003_storytimeline_020003131_8.wav|RiceShower|jp|せ……せーのっ！
+.\training_set\RiceShower\story_data_02_0003_storytimeline_020003131_3.wav|RiceShower|jp|ううう～……ライスも緊張してくる……。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004031_15.wav|RiceShower|jp|ここのところ、トレーニングコースの雰囲気が ずっとピリピリしてるね……。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004073_8.wav|RiceShower|jp|ふえぇ～……！　あっちもこっちも大変……！
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004073_4.wav|RiceShower|jp|ふわぁ～……！　またトレーナーさんに電話が……。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004073_6.wav|RiceShower|jp|……こんなに反響があるなんて……。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004081_35.wav|RiceShower|jp|ふぅ～……忘れたら大変だよね。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004081_31.wav|RiceShower|jp|ライスも、次はどんなレースをするんだろうって楽しみ。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004131_5.wav|RiceShower|jp|だけど……いまはもう違うよね。
+.\training_set\RiceShower\story_data_02_0005_storytimeline_020005121_22.wav|RiceShower|jp|だから、みんなを笑顔にする為に 今日のレースもせいいっぱい、がんばるからね。
+.\training_set\RiceShower\story_data_02_0005_storytimeline_020005121_21.wav|RiceShower|jp|ライスだって……勝ちたいっ！
+.\training_set\RiceShower\story_data_02_0005_storytimeline_020005131_5.wav|RiceShower|jp|ふふふっ……。
+.\training_set\RiceShower\story_data_02_0005_storytimeline_020005091_0.wav|RiceShower|jp|ふわぁ～……さっきよりも速いペース……。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006071_58.wav|RiceShower|jp|ダービーを勝ったスペさんでも簡単に勝てないんだから、 “黄金世代”はみんなすごいね……。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006071_70.wav|RiceShower|jp|ライスにもできることがあるなら、協力するね。 スペさん、一緒にがんばろ。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006071_69.wav|RiceShower|jp|え、えへへ……。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006071_50.wav|RiceShower|jp|……惜しいレースが続いたもんね。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006111_8.wav|RiceShower|jp|みんなで応援してる……！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006111_1.wav|RiceShower|jp|結果、見なくてもいいの……？
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006111_5.wav|RiceShower|jp|トレーナーさんから聞いたよ、 お見送りは大丈夫だって言われたって。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006121_57.wav|RiceShower|jp|うん、ライスも天皇賞の盾が見たいな。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006121_21.wav|RiceShower|jp|お邪魔します……って、ふぇ？ マックイーンさんにチケットさん？
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006121_26.wav|RiceShower|jp|うん、がんばってね……！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006121_42.wav|RiceShower|jp|……ライスも、天皇賞春は大事なレース。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006121_43.wav|RiceShower|jp|勝つことへの覚悟を持てたのも、勝つことのうれしさを 教えてくれたのもこのレースだから。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006063_20.wav|RiceShower|jp|ダービー優勝、おめでとう……！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006131_12.wav|RiceShower|jp|ライスたちもいっぱい応援するからね……！
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004091_20.wav|RiceShower|jp|お医者さんはもう大丈夫だって言ってくれたの……？
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006011_49.wav|RiceShower|jp|皐月賞にダービー、それに菊花賞…… クラシックレースは、1つ勝つだけでも大変だもんね。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006011_21.wav|RiceShower|jp|うん……トレーニング、すごくよさそうに見えたから……。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004021_0.wav|RiceShower|jp|ふぅ……ふぅ……。
+.\training_set\RiceShower\story_data_02_0004_storytimeline_020004021_5.wav|RiceShower|jp|……お疲れさま、トレーナーさん。
+.\training_set\RiceShower\story_data_02_0005_storytimeline_020005061_11.wav|RiceShower|jp|ふわぁ……っ！？　すっごいスピード！？
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006133_15.wav|RiceShower|jp|うん、とってもかっこよかったよ……！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006141_19.wav|RiceShower|jp|うん、天皇賞春もかっこよかったよ。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006151_47.wav|RiceShower|jp|いまのスペさんなら、宝塚記念でいい走りができそう……！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006181_12.wav|RiceShower|jp|スペさん、大丈夫……？
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006201_29.wav|RiceShower|jp|スペさんの名前、言ってたね……。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006211_30.wav|RiceShower|jp|それにね、もうちょっとすれば心強い味方も来てくれるよ！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006211_74.wav|RiceShower|jp|がんばれ～～！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006213_20.wav|RiceShower|jp|とってもね、かっこよかったよ……！
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006221_38.wav|RiceShower|jp|緊張は……してないみたいだね。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006232_2.wav|RiceShower|jp|本当にこれで、新しいメンバーが来てくれるのかな……。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006191_53.wav|RiceShower|jp|ライス、スペさんを追いかけるね……！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_41.wav|RiceShower|jp|でも、トレーナーさんがなにがあっても食らいつけって 言ってたから……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_26.wav|RiceShower|jp|ふうぅ……ふえぇ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_11.wav|RiceShower|jp|え……あっ……マックイーンさんの、トレーナーさん……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_14.wav|RiceShower|jp|走るのが好きで……でもずっと勝てなくて……。 そんなとき、マックイーンさんのレースを見て……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_18.wav|RiceShower|jp|あ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_29.wav|RiceShower|jp|う、うん！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_2.wav|RiceShower|jp|……あっ！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_35.wav|RiceShower|jp|ついてく、ついてく……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_17.wav|RiceShower|jp|そ、そんな…… ライスはそんなすごいウマ娘じゃないよぅ。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_15.wav|RiceShower|jp|ライスだって……勝ちたいっ！
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_7.wav|RiceShower|jp|はっ……はっ……はっ……はっ……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_16.wav|RiceShower|jp|ライスがダービーに……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_39.wav|RiceShower|jp|ふえ？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_20.wav|RiceShower|jp|ずっとマックイーンさんについていけばいいの？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_24.wav|RiceShower|jp|……わかった。ライスがんばってマックイーンさんについてく。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_19.wav|RiceShower|jp|……う、うん。ライス、やってみる。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_37.wav|RiceShower|jp|ついてく、ついてく……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_10.wav|RiceShower|jp|……こんなにいっぱい走っても、ライスは……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_33.wav|RiceShower|jp|ついてく、ついてく……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_12.wav|RiceShower|jp|……う……ううっ……。 ううう～……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_9.wav|RiceShower|jp|うう……いたた……。
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_8.wav|RiceShower|jp|はっ……はっ……あっ！？
+.\training_set\RiceShower\story_data_02_0002_storytimeline_020002021_13.wav|RiceShower|jp|ご、ごめんなさい……違うんです……。
+.\training_set\RiceShower\story_data_02_0003_storytimeline_020003031_24.wav|RiceShower|jp|ふわぁ～……チケットさん、すごい気合い……。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006091_35.wav|RiceShower|jp|みんな、お疲れさま……。
+.\training_set\RiceShower\story_data_02_0006_storytimeline_020006101_22.wav|RiceShower|jp|特集してもらえるなんて、すごいね……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_33.wav|RiceShower|jp|い、いえ。 ライスは……その……話しても……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_25.wav|RiceShower|jp|あのカボチャって、さっきブルボンさんが 言ってた失敗した分……かな？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_35.wav|RiceShower|jp|えぇっ！？　じゃ、じゃあ……。 んと、ええっと……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_30.wav|RiceShower|jp|ひゃわっ！？　ごめんなさい、ごめんなさい！ ライスは並んでなくてっ。その……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_20.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_22.wav|RiceShower|jp|あ……ご、ごめんねっ。 ライスも……そう思うよ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_23.wav|RiceShower|jp|……そう、わかってるん……だけど。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006001_36.wav|RiceShower|jp|きょ……今日はいい天気ですね……？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006002_4.wav|RiceShower|jp|……悲鳴？　栗東寮の方から……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006002_38.wav|RiceShower|jp|……ごめんね。いきなり飛び出しちゃって。 寝る前にびっくりさせちゃったよね。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006002_7.wav|RiceShower|jp|っ、ブルボンさんの声だ……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006002_39.wav|RiceShower|jp|本当に……ごめんね。 ――おやすみ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006002_36.wav|RiceShower|jp|あ。え、えっと……多分、大丈夫だったと思う。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006004_12.wav|RiceShower|jp|ぶ、ブルボンさん！？ きゃぁっ！？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006004_9.wav|RiceShower|jp|きゃぁぁぁっ！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006004_36.wav|RiceShower|jp|仮装の力？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006004_23.wav|RiceShower|jp|な、なんだか今日のクリークさん、 いつもと違う……？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006004_34.wav|RiceShower|jp|衣装を着てパワーアップ。勝負服……みたい？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006004_14.wav|RiceShower|jp|タマモさん！？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006005_9.wav|RiceShower|jp|………………え？　6人？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006005_11.wav|RiceShower|jp|……きゅぅ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_23.wav|RiceShower|jp|でもそれはきっと、ロブロイさんが誘ってくれたおかげだね。 えへへ……ありがとう。私もここに連れて来てくれて。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_15.wav|RiceShower|jp|はふぅ、なんとか脱出できてよかったね……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_33.wav|RiceShower|jp|もしかして……本当はすごく、怖かったの？ 仮装の裏で……ずっと？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_18.wav|RiceShower|jp|ひゃぁっ！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_26.wav|RiceShower|jp|ふぇっ？　ロブロイさん……？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_31.wav|RiceShower|jp|……仮装。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_22.wav|RiceShower|jp|……うれしかった。いつも迷惑かけちゃうライスでも、 やっとブルボンさんの役に立てたみたいで。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_20.wav|RiceShower|jp|え……そ、そう……かな？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_21.wav|RiceShower|jp|結局、謎解きはほとんどブルボンさんがしちゃって、 ライスは驚くことくらいしかできなかったけど……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_17.wav|RiceShower|jp|へ？　オバケ屋敷のとき？ ええっと、そのときは――
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_28.wav|RiceShower|jp|？　そ、そんな風に見えなかったよ？ むしろ今日のロブロイさんは堂々としていて……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006006_38.wav|RiceShower|jp|…………ロブロイさん。 ……………………。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_29.wav|RiceShower|jp|で、で、でも。あの、えっと。う……うぅぅぅ～っ……！！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_39.wav|RiceShower|jp|……ようこそ、夜の、世界へ。 わ、私はヴァンパイアで……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_27.wav|RiceShower|jp|……ごめんくださいっ！！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_25.wav|RiceShower|jp|…………迷惑かもって思っても、怖くても。 ロブロイさんは……ライスのために……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_30.wav|RiceShower|jp|ら、ライスに仮装をさせてください！！ いまのライスには必要なんですっ、それでブルボンさんに……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_40.wav|RiceShower|jp|あなたには……私の仲間になってもらうんだから……っ！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_10.wav|RiceShower|jp|！　……1人で？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_7.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_12.wav|RiceShower|jp|……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_26.wav|RiceShower|jp|…………仮装の力で……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006007_31.wav|RiceShower|jp|ブルボン、さんに……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_54.wav|RiceShower|jp|……カプッ！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_18.wav|RiceShower|jp|ふぇ……っ？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_12.wav|RiceShower|jp|わかってる、不幸にしちゃうかもしれないけど。 でも、いまのブルボンさんを1人にもしたくなくて……っ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_20.wav|RiceShower|jp|ブ、ブルボンさん……？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_53.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_28.wav|RiceShower|jp|……失敗なんかじゃ、ないよ。 だって協力は成功するために、するものだから。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_9.wav|RiceShower|jp|迷惑かもだけど、言われて困っちゃうかもだけど……！ でも、ライスは……ライスは……っ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_34.wav|RiceShower|jp|……でもはきっともう必要ないよ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_14.wav|RiceShower|jp|だめって言われても、あなたの血を吸ってムリヤリ 仲間にするから……っ！　あなたの手助けをしちゃうんだから……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_41.wav|RiceShower|jp|ライス、お腹いっぱい食べるの得意だから――
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_36.wav|RiceShower|jp|……だけどね、聞いてほしいんだ。 私、仲間になりたいの。あなたの役に立ちたいの。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_51.wav|RiceShower|jp|ふふっ……みんなで協力したもんね。 えへへ……ライスもちょっとだけだけど。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_10.wav|RiceShower|jp|ライスはブルボンさんのことを手伝いたい……っ！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_7.wav|RiceShower|jp|ひゃう！？ え、えっと。それは、その……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_56.wav|RiceShower|jp|えへへ……いま、ロブロイさんを ヴァンパイアにしちゃったんだから。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_27.wav|RiceShower|jp|……ブルボンさん。 …………。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_32.wav|RiceShower|jp|……そ、それで、ブルボンさんが倒れた方が みんな悲しいと思う。ううん、それにきっと……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_37.wav|RiceShower|jp|ブルボンさんの困っている顔じゃなくて、 笑顔が見たい……ただそれだけの気持ちなの……っ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_58.wav|RiceShower|jp|……それにロブロイさんとなら お友だちになりたい子、たっくさんいると思うから。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_46.wav|RiceShower|jp|でもまだまだ怖い仕掛け用意してるんだよ？ ね……ブルボンさんっ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_5.wav|RiceShower|jp|……ようこそ、夜の、世界へ。 わ、私はヴァンパイアで……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_57.wav|RiceShower|jp|だから、あの子も仲間にしてみない？ ヴァンパイアはね……誰でもお友だちにできるんだよ？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_8.wav|RiceShower|jp|――っ、先にごめんなさいって言わせて！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_30.wav|RiceShower|jp|そ、そんなことない……！ ブルボンさんがだめだなんて誰も思わないよ……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_35.wav|RiceShower|jp|ねえ、幽霊さん。あなたも私と一緒で、 怖がりな部分があったんだね。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_13.wav|RiceShower|jp|私は、私で……ライスじゃないから……！ 役に立てる仲間になるために仮装してきたんだから……っ！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006008_40.wav|RiceShower|jp|！　任せてっ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014003_35.wav|RiceShower|jp|よかった……っ、これで次の謎解きにもチャレンジできるねっ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014003_41.wav|RiceShower|jp|全ての数を集めし部屋、仰ぎ見る場所に宝あり。 伝説の始まりは、位置について
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014003_40.wav|RiceShower|jp|でも次の問題も難しそう……。 えっと、ライス読むねっ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014003_3.wav|RiceShower|jp|うんっ！　あっ、ウララちゃん最初は右周りだよ！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014003_16.wav|RiceShower|jp|ど、どうしよう……ライスたち、なにか間違っちゃった？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014005_6.wav|RiceShower|jp|あ……じゃあライス、その間にウララちゃんをお迎えに いってもいいかなっ？　戻ってくるの遅いから、心配で……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014005_18.wav|RiceShower|jp|ライスがミューズになりたいのは、みんなを笑顔にしたいから……。 だから、ウララちゃんとも笑顔で走りたいよ……！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014005_9.wav|RiceShower|jp|あ……よかった、ここにいたんだ。 ウララちゃん、どうしたのこんなところで？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014005_17.wav|RiceShower|jp|だ……だったら、ライスも一緒に捜すよ……っ！ ライスも、ウララちゃんと一緒に走りたい……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014005_38.wav|RiceShower|jp|ライスがミューズになりたいのは、みんなを笑顔にしたいから……。 だから、ウララちゃんとも笑顔で走りたいよ……！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014005_33.wav|RiceShower|jp|あったぁっ！　ウララちゃん、見つけたよっ！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014005_25.wav|RiceShower|jp|いってみよう、ウララちゃん！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_17.wav|RiceShower|jp|ご、ごめんなさい……っ！ 突然、迷惑だったよね……！
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_16.wav|RiceShower|jp|……ご、ごめんねっ。前にライスの手が震えてたときに、 お母さまが手を握ってくれたの。そしたらホっとして……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_34.wav|RiceShower|jp|……もう、やめなきゃ。 こんなライスなんかが心配しても意味がない
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_21.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_32.wav|RiceShower|jp|――昨日の夜、本当はブルボンさんの近くまでいこうとした。 でもタマモさんとクリークさんを見た瞬間。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_14.wav|RiceShower|jp|…………。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_31.wav|RiceShower|jp|……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_8.wav|RiceShower|jp|……ぁ。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_55.wav|RiceShower|jp|わぁっ、カボチャさんいっぱいでかわいい……！ ダンサーさんの衣装もふわふわで……。
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_40.wav|RiceShower|jp|へっ！？　わ、私……？
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_33.wav|RiceShower|jp|ライスがいったら、みんなの邪魔になるんじゃないかって…… ……怖くなって。脚が震えて。気づいたら――
+.\training_set\RiceShower\story_data_09_0006_storytimeline_090006003_35.wav|RiceShower|jp|ライスが声をかけても迷惑なだけ、なんだから……
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014001_31.wav|RiceShower|jp|う……うんっ。ちっちゃい頃に、 ビューティードリームカップをテレビで見たことがあって……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014001_33.wav|RiceShower|jp|それがとっても素敵で……毎年見てて……。 だからもし、ライスが“ミューズ”を目指していいなら……っ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014001_32.wav|RiceShower|jp|勝負服を着たミューズが走ると、 観てる人が……みんな幸せそうな笑顔になるの。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014001_36.wav|RiceShower|jp|……う、うん、そうだねっ！　あの、カレンさん！ ライスたちのこと、よろしくお願いしますっ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014001_28.wav|RiceShower|jp|ええっ、ライスたちとオーディションに……？ でも……ライスは一緒にいたら、迷惑かけちゃうかも……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014002_30.wav|RiceShower|jp|そうだねっ、集中……！　えっと10は1となり100は10となる これって、なにかを数えるのかな？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014002_39.wav|RiceShower|jp|大変……っ、これから3つもレース場を回って、 制限時間に間に合うかなぁ……っ？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014002_26.wav|RiceShower|jp|ええっ、ファインさん、もしかして全部覚えてるのっ？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014002_16.wav|RiceShower|jp|うんっ！　あ……でも、謎解きってなにから始めたらいいのかな？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014002_5.wav|RiceShower|jp|この声……どこから？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014004_39.wav|RiceShower|jp|う、うんっ！　……ウララちゃん気をつけてねっ！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014004_28.wav|RiceShower|jp|はわぁ！　ウララちゃん待ってっ。 えっと、1たす2たす、3たす4たす……？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014004_1.wav|RiceShower|jp|えへへ、いっぱい走ったし、ライスもちょっぴり眠いかも。 でも、まだまだがんばらないとだよね！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014004_23.wav|RiceShower|jp|えっ？　う、歌うの？　えっと―― うまうまうみゃうにゃ3 2 1 fight！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014004_21.wav|RiceShower|jp|うまぴょいっ――って、ひゃわぁ、ごめんなさいっ！ このお歌っ、くせになっちゃってて！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_12.wav|RiceShower|jp|や、やっぱり、ライスの勘違いだったのかな……っ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_6.wav|RiceShower|jp|えへへっ。それにこの針……ライス、どこかで見覚えがあって……。 あ――っ！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_20.wav|RiceShower|jp|え……っ、え……っ、どういうこと？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_44.wav|RiceShower|jp|あったよ、2人とも！ 時計の中に……これがきっと、教会の鍵だよね……っ！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_3.wav|RiceShower|jp|あの……ぜんぜんっ、関係ないかもしれないんだけど……。 このお部屋の柱時計……なぜか針がついてなくって……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_4.wav|RiceShower|jp|だけどね…… この写真の時計には、ちゃんと針があるんだよ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_1.wav|RiceShower|jp|あれ……っ？　どうして、これ……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_40.wav|RiceShower|jp|ウララちゃん、時計の針、つけてみようっ！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014006_13.wav|RiceShower|jp|どうしよう……ライスが、間違ったこと言っちゃったから……。 時間、もうなくなっちゃうよね……ごめんなさいっ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014007_44.wav|RiceShower|jp|ライス……謎解きは上手くできなかったから……っ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014007_13.wav|RiceShower|jp|ライスも、走りでみんなを笑顔にしたい……っ。だけど ライスの力だけじゃ難しいから、勝負服さんに助けてほしい……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014007_40.wav|RiceShower|jp|はうぅ……っ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014007_14.wav|RiceShower|jp|観客の人たちだけじゃないの……お友だちや傍にいてくれる みんなのことを幸せにしたい……だから、お願いしますっ！
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014007_49.wav|RiceShower|jp|え……それじゃ、もしかしてライスも……？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014007_12.wav|RiceShower|jp|ライスは……ずっと、ミューズに憧れてました。 ミューズが走ると、観ている人みんなが幸せそうに笑うから……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014007_42.wav|RiceShower|jp|う……ううんっ、なんでもないのっ。 ただ今回のオーディションは、知性をみるって言ってたでしょ……？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_20.wav|RiceShower|jp|だけど……ライスは……？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_9.wav|RiceShower|jp|レースを観てくれるみんなは……どう思うのかな……？
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_23.wav|RiceShower|jp|あ……、いま、ライスの名前……？ かわいいって……ありがとって……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_19.wav|RiceShower|jp|カレンさんも、ファインさんも、すごい……
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_24.wav|RiceShower|jp|みんな笑ってる……とっても幸せそうに……。 ライスとみんなが……ミューズが走ったから……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_30.wav|RiceShower|jp|あの……ウララちゃん、イクノさん。よかったら、 ライスとわけっこしよ？　ライスも、選べないから……。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_8.wav|RiceShower|jp|とっても綺麗だね……。 この勝負服を見てると、すごく幸せな気持ちになるよ。
+.\training_set\RiceShower\story_data_09_0014_storytimeline_090014008_25.wav|RiceShower|jp|よかった……ライスもなれたんだ……！ みんなを笑顔にする、憧れのミューズに……っ！
+.\training_set\RiceShower\story_data_10_0000_storytimeline_100000004_7.wav|RiceShower|jp|ぶ、ブルボンさん、ほんとにいいの？ ほんとに……ロボでいいの……！？
+.\training_set\RiceShower\story_data_10_0000_storytimeline_100000010_5.wav|RiceShower|jp|ひゃあ！？　えっ、えっ、な、なんだろう……？
+.\training_set\RiceShower\story_data_10_0000_storytimeline_100000010_10.wav|RiceShower|jp|……それで、こんな感じに……？
+.\training_set\RiceShower\story_data_10_0000_storytimeline_100000010_17.wav|RiceShower|jp|ひゃわっ！？　い、いっちゃった……！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_0.wav|RiceShower|jp|ふぅ……うん、休憩おしまいっ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_20.wav|RiceShower|jp|ちゃんとデビューして、いっぱい活躍して……。 だめじゃないライスになるんだから……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_1.wav|RiceShower|jp|早く戻って…… そしたら、次のメニューやらなくっちゃ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_9.wav|RiceShower|jp|ごめんなさいっ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_12.wav|RiceShower|jp|ううん、ライスのせいなんです。 ライスはすぐみんなを不幸にしちゃう、だめな子だから……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_22.wav|RiceShower|jp|おーっ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_11.wav|RiceShower|jp|ほんとにほんとに、ごめんなさいっ……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_17.wav|RiceShower|jp|はぁ……ほんとにだめな子だなぁ、私……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_32.wav|RiceShower|jp|ふぇっ……！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_14.wav|RiceShower|jp|はぁっ、はぁっ、はぁっ……はぁ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_8.wav|RiceShower|jp|は、はい。 あの……ご、ご……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_13.wav|RiceShower|jp|ごめんなさい……で、でもライスがいなくなれば大丈夫ですから！ それではっ……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_10.wav|RiceShower|jp|だって……ライスがそばを走ってたばっかりに、 学園まで戻るのこんなに遅くなっちゃって……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_4.wav|RiceShower|jp|…………はぅ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_15.wav|RiceShower|jp|……うぅ。 さっきの人、こんなに遅くなっちゃって、大丈夫だったかなぁ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_6.wav|RiceShower|jp|…………っ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_19.wav|RiceShower|jp|次の選抜レース出るって、決めたんだもん。 ちゃんと出て、ちゃんと走って、それで……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_5.wav|RiceShower|jp|あぅぅぅ……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_2.wav|RiceShower|jp|がんばれライス、がんばれー……おー！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_31.wav|RiceShower|jp|ぐすっ……！ なんで……なんでライスは、こんなにだめな子なの……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_21.wav|RiceShower|jp|うんっ……トレーニングしなくっちゃ！ がんばれライス、がんばれー……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_30.wav|RiceShower|jp|ばかっ、ばかばか、ライスのばか！ がんばるって、がんばろうって、決めたのに……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_18.wav|RiceShower|jp|…………ううんっ、でも、がんばらなきゃ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_29.wav|RiceShower|jp|ぐすっ、ふえぇ……うぇぇぇぇーん！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_16.wav|RiceShower|jp|お腹ぺこぺこになっちゃってたり…… 見たいテレビ終わっちゃってたりしたら、どうしよう……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_3.wav|RiceShower|jp|………………。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_33.wav|RiceShower|jp|あ、あなたは……この前の……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030001_7.wav|RiceShower|jp|あのっ……す、すみません……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_34.wav|RiceShower|jp|ぜんぜん気づかなかった……。 ライス、ずっとわくわくしながら走ってたから……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_37.wav|RiceShower|jp|ひゃあ！？　あっ、あっ、あわわわわ、ごめんなさいっ！ お腹さん、しーっだよ、しーっ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_23.wav|RiceShower|jp|うん。ライスね……小さい頃からずっと、 不幸なことばかり起こしちゃうの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_6.wav|RiceShower|jp|うぅ……ぐすっ。やっぱり……やっぱり、ライスなんか……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_33.wav|RiceShower|jp|あ……も、もうお日さま沈んじゃいそう……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_25.wav|RiceShower|jp|ライスは、いつもいつもみんなに迷惑かけちゃう だめな子なの……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_5.wav|RiceShower|jp|ちゃんとデビューして、いっぱい活躍して……。 だめじゃないライスになるんだから……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_9.wav|RiceShower|jp|あわわ……ら、ライスは…… その、とってもとってもうれしいけど、でも……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_21.wav|RiceShower|jp|急な雨のときに使う傘とか、着替えとか……。 帰り道で遭難しちゃったときのためのマヨネーズとか……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_35.wav|RiceShower|jp|う、うんっ！　楽しかったよ、すっごく……！ トレーナーさん優しいし……やっぱり、お兄さまみたいで――
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_39.wav|RiceShower|jp|なんでも……！　なんでも……なんでも、かぁ……。 ……………………。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_2.wav|RiceShower|jp|ライスも、だめじゃないライスになりたかったけど…… がんばろうって、レース出ようって思ったけど、結局……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_13.wav|RiceShower|jp|すごい……お兄さまみたい……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_12.wav|RiceShower|jp|……っ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_26.wav|RiceShower|jp|はわ……！　お、おしゃべりしすぎちゃった……！ ごめんなさいごめんなさいっ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_10.wav|RiceShower|jp|ライス……ほんとにだめな子だよ……？ いっぱい迷惑かけるし、まともにレースも出られないのに……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_4.wav|RiceShower|jp|次の選抜レース出るって、決めたんだもん。 ちゃんと出て、ちゃんと走って、それで……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_19.wav|RiceShower|jp|はぁ、はぁ……ま、待たせてごめんなさい！ トレーニング、よろしくお願いしますっ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_29.wav|RiceShower|jp|ほんと……！？　よ、よかった……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_20.wav|RiceShower|jp|あっ、えっと……いろいろ、よくないことが起きたときのために 準備してきたの。転んだときの絆創膏とか、テーピングとか……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_7.wav|RiceShower|jp|えっ……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_42.wav|RiceShower|jp|……！　い、いいの……！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_18.wav|RiceShower|jp|うんしょ、うんしょ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_8.wav|RiceShower|jp|スカウト、って……あなたが、ライスのトレーナーさんに……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_1.wav|RiceShower|jp|だって……ライスのそばにいたら、また不幸にしちゃう。 また迷惑かけちゃうよ……ライスがだめな子のせいで……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_38.wav|RiceShower|jp|あのっ、トレーナーさん、 なんでも好きなもの食べていいって、ほんとに……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_16.wav|RiceShower|jp|えと、あの、それじゃあ…… よ、よろしくね、トレーナーさん。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_0.wav|RiceShower|jp|ぐすっ……うぅ。 あの、ごめんなさい……それ以上、こっちに来ないで……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_24.wav|RiceShower|jp|一緒にいる子が転んだり、靴紐切っちゃったり…… ひどいときは、鳥のフンを頭に落っことされちゃって……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_30.wav|RiceShower|jp|あの……トレーナーさん、もう1度走ってきてもいい？ ら、ライスはまだぜんぜん元気だよ、走れるよ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_41.wav|RiceShower|jp|あ……！　はぅ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_11.wav|RiceShower|jp|それでも、いいの……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_32.wav|RiceShower|jp|ピッチを速める感覚、ちょっとわかってきたから……！ だ、だめかな……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_3.wav|RiceShower|jp|…………ううんっ、でも、がんばらなきゃ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_22.wav|RiceShower|jp|あぅ……は、初めてのトレーニングだから、 迷惑かけないようにしようって、思ったんだけど……変だった……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_31.wav|RiceShower|jp|さっき教えてもらったカーブのコツ、 もっと確かめておきたくって。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_17.wav|RiceShower|jp|ライス、がんばるね……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_15.wav|RiceShower|jp|ひゃっ！ ご、ごめんなさい、なんでもないの……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_28.wav|RiceShower|jp|はぁっ、はぁっ……！ えっと……タイム、どうだった……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030002_27.wav|RiceShower|jp|トレーニング、お願いしますっ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_19.wav|RiceShower|jp|みんなを不幸にしちゃう、だめな子じゃない……。 みんなを幸せにできる、青いバラに。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_54.wav|RiceShower|jp|と……トレーナーさん……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_13.wav|RiceShower|jp|それでね、しおれかけてた青いバラは鉢に植え替えられて、 お姉さまに毎日声を掛けてもらって、見事な花を咲かせるの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_28.wav|RiceShower|jp|トレーナーさん、大事なお話ってなあに……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_30.wav|RiceShower|jp|じゃあライス、とうとうレースに……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_37.wav|RiceShower|jp|ふふっ……ふふふふっ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_33.wav|RiceShower|jp|トレーナーさんも一緒だし……ライス、がんばるよ！ うん……がんばるぞ、おー！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_26.wav|RiceShower|jp|トレーナーさん……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_11.wav|RiceShower|jp|やあ、青いバラだなんてとっても素敵ね！ きっときれいに咲くに違いないわ。ぜひ買い取らせてください！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_23.wav|RiceShower|jp|応援してる子が、がんばってレースで勝ったら…… みんな、とっても幸せそうなお顔になってた。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_15.wav|RiceShower|jp|青いバラは、お兄さまのおうちの窓辺に飾られて、 道ゆく人たちをたくさん幸せにできたんだよ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_1.wav|RiceShower|jp|あ、おね……じゃなかった、トレーナーさん！ こ、こんにちは。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_20.wav|RiceShower|jp|そう思い始めた頃に…… お母さまがね、ライスをレースへ連れていってくれたの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_7.wav|RiceShower|jp|そのうち、青いバラ自身もぼくはだめな花なんだって思って、 だんだんしおれてきちゃうんだ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_3.wav|RiceShower|jp|絵本だよ。いちばんお気に入りの…… しあわせの青いバラっていう絵本。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_22.wav|RiceShower|jp|でもね、それでもしっかり覚えてるんだよ！ 周りの人みんな、レースをめいっぱいの笑顔で見てた。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_31.wav|RiceShower|jp|あっ、えっと……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_10.wav|RiceShower|jp|そう！　心の優しい、とっても穏やかに笑う人。 その人は、青いバラのつぼみを見つけて、すぐに笑顔でこう言うの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_34.wav|RiceShower|jp|あ、えっと……これね、お母さまが教えてくれたの。 こうやって言ったら、がんばる気持ちが湧いてくるよって。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_32.wav|RiceShower|jp|だ、だいじょうぶ。 選抜レースのときみたいには、しないから……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_21.wav|RiceShower|jp|レース場は人がいっぱいで……迷惑かけたくないから、おうちで いつもじっとしてたライスのおめめ、ぐるぐるになっちゃったけど。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_27.wav|RiceShower|jp|えへへっ……うん、ありがとう！ ライス、がんばってトレーニングするねっ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_36.wav|RiceShower|jp|……！　ら、ライスも！　おー！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_29.wav|RiceShower|jp|で、デビュー戦……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_52.wav|RiceShower|jp|っ！？　う、ウララちゃん……どうしてここが……！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_24.wav|RiceShower|jp|それでライスも……ライスもね、 あんなふうになりたいなぁって、思ったんだ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_8.wav|RiceShower|jp|あっ、で、でもね、ここで終わりじゃないんだよ？ しおれた青いバラの前に、お姉さまが現れるの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_5.wav|RiceShower|jp|でもね……ある日そのお庭に、 誰も見たことのない真っ青なバラがつぼみをつけたの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_25.wav|RiceShower|jp|みんなを不幸にするだけの、だめな子じゃなくて…… みんなを幸せにできる、そんなウマ娘に。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_17.wav|RiceShower|jp|……！　と、トレーナーさんもそう思う！？ えへへ、うれしいな……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_0.wav|RiceShower|jp|………………。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_4.wav|RiceShower|jp|お話はね、バラがたくさん植えられたお庭から始まるの。 色とりどりのバラたちが、訪れる人みんなに幸せをくれるお庭。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_35.wav|RiceShower|jp|トレーナーさんも一緒にやる？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_18.wav|RiceShower|jp|……ちっちゃい頃、初めてこのお話を読んだときにね。 ライスも、この青いバラみたいになりたいなぁって思ったんだ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030003_6.wav|RiceShower|jp|そしたら周りのバラたちも、お庭を見に来た人たちもみんな、 青いバラなんて気味が悪いきっと不幸の花だって……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_54.wav|RiceShower|jp|――お姉さま！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_16.wav|RiceShower|jp|っ……！　トレーナー、さん。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_31.wav|RiceShower|jp|……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_34.wav|RiceShower|jp|迷惑かけてばかり、みんなを不幸にしてばかりの だめな子だから。ずっと、ずっと大っ嫌いだった
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_1.wav|RiceShower|jp|…………っ！　ご、ごめんなさい。 ごめんなさい、ごめんなさい……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_4.wav|RiceShower|jp|どうしてトレーナーさんは、そんなに優しいの？ ライス……ライスは、こんなにだめな子なのに。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_18.wav|RiceShower|jp|あ……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_32.wav|RiceShower|jp|うんっ。……いって、きます！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_8.wav|RiceShower|jp|だけどっ……だめなの。レースに出るって考えると、 どうしても怖くなっちゃうの……選抜のときも、いまも……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_11.wav|RiceShower|jp|レースに出たら、ほんとのことがわかっちゃう。 この先ずうっと、だめな子だって、わかっちゃうかもしれない……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_3.wav|RiceShower|jp|……どうして？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_51.wav|RiceShower|jp|だめ、かな……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_10.wav|RiceShower|jp|ライスなんかがレースに出ても…… 誰も幸せにできないって、わかっちゃうこと。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_42.wav|RiceShower|jp|私はっ……なりたい私に、なるんだぁあああああ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_39.wav|RiceShower|jp|私だって……みんなを幸せにできる、青いバラに……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_5.wav|RiceShower|jp|だめだよっ！！ ライスはっ……ライスは、だめだめの、だめっ子だよ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_52.wav|RiceShower|jp|いいの！？　じゃ、じゃあ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_46.wav|RiceShower|jp|わぁ、っ……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_48.wav|RiceShower|jp|うん。あの、あのね……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_13.wav|RiceShower|jp|っ、ごめんなさいトレーナーさん。もうライスのことなんか…… こんなだめな子のことなんか、あきらめていいから……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_47.wav|RiceShower|jp|トレーナーさん……あのね、いっこ、わがまま言ってもいい……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_6.wav|RiceShower|jp|……っ、変わろうとしたんだよ。 何回も……何回も。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_30.wav|RiceShower|jp|あのっ……あの、あのね私……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_20.wav|RiceShower|jp|がんばれ、がんばれ、ライス……がんばれ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_35.wav|RiceShower|jp|だけど――！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_25.wav|RiceShower|jp|がんばるぞ、おー……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_36.wav|RiceShower|jp|はっ、はっ、はっ、はっ……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_14.wav|RiceShower|jp|え…………？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_0.wav|RiceShower|jp|はぅ……トレーナーさん……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_24.wav|RiceShower|jp|ウララちゃん……！ うんっ！　ありがとう……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_38.wav|RiceShower|jp|変わりたい！　あきらめたくない！ だめな子のままじゃイヤ、絶対にイヤっ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_17.wav|RiceShower|jp|あきらめないで、いてくれるの……？ ライスは変われるって……信じて、くれるの……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_49.wav|RiceShower|jp|トレーナーさんのこと……お兄さまって呼びたいの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_26.wav|RiceShower|jp|はぁ、っ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_22.wav|RiceShower|jp|あ、っ……ウララちゃん。 待ってて、くれたの……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_29.wav|RiceShower|jp|トレーナーさん……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_27.wav|RiceShower|jp|脚も……手も、まだ震えてる。指が、すごく冷たい……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_33.wav|RiceShower|jp|……私は、私のことが嫌い
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_2.wav|RiceShower|jp|ライス……ライスはっ……うぅ、ごめんなさい……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_7.wav|RiceShower|jp|お母さまと離れ離れはイヤだったけど、トレセン学園まで来たよ。 いっぱいトレーニングもした、レースにも申し込んだ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_12.wav|RiceShower|jp|そう考えたら……怖くて、怖くて震えが止まらないの……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_28.wav|RiceShower|jp|でも……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_15.wav|RiceShower|jp|そ、それは……でも……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_53.wav|RiceShower|jp|これからも……よろしくお願いしますっ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030004_9.wav|RiceShower|jp|……青いバラには絶対なれないって、わかっちゃうこと。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_16.wav|RiceShower|jp|ふわ……ご、ごぇんあしゃい。 ひた、はんじゃったぁ～……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_7.wav|RiceShower|jp|えっ……う、ううん！　そんなことないよ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_34.wav|RiceShower|jp|うぅぅぅ、ごめんなさ～～～～いぃ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_25.wav|RiceShower|jp|がんばるぞー……おー……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_22.wav|RiceShower|jp|ライスは……だめな子だけど、 だめな子のままじゃイヤだから……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_23.wav|RiceShower|jp|も……もう1回っ。 やるから見てて、お姉さま！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_31.wav|RiceShower|jp|ひゃっ！？　つめた……な、なに？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_28.wav|RiceShower|jp|うん！　……すごいね。お姉さまと一緒だと、 ライスのだめなとこ、少しずつなくなっていくみたい。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_26.wav|RiceShower|jp|きりーつ！　礼！ お兄さま、昨日はありがとうございましたっ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_15.wav|RiceShower|jp|き！　きき、きりぃーつ！　れ、れいっ！ ちゃくしぇきっ……はぅ！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_17.wav|RiceShower|jp|うぅ……ぜんぜん上手くできなくて、ごめんなさい。 せっかくお姉さまが協力してくれてるのに……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_6.wav|RiceShower|jp|明日、日直当番なの。それで……はぁ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_10.wav|RiceShower|jp|でも、号令は……すっごくすっごく苦手で……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_9.wav|RiceShower|jp|学級日誌もね、枠がいっぱいになるまでみんなのこと書くし…… 黒板もたくさんジャンプして、上まで綺麗にしてるんだ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_11.wav|RiceShower|jp|大きな声って、出すの難しいし……。 ライス、緊張するとすぐ声が変な感じになるから……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_0.wav|RiceShower|jp|き、き、きりーつ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_2.wav|RiceShower|jp|ひゃああ！？　おっ、おお、お姉さま……！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_20.wav|RiceShower|jp|でも……。…………。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_21.wav|RiceShower|jp|……っ！ うん……うんっ。あきらめたくない……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_32.wav|RiceShower|jp|ふわあぁあ！？　うそ、あんなに晴れてたのに……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_19.wav|RiceShower|jp|ライス、ほんとにだめな子だ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_12.wav|RiceShower|jp|えっ、お姉さまが……？ いいの……！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_14.wav|RiceShower|jp|よしっ……じゃあ、やってみるね……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_4.wav|RiceShower|jp|あのっ、ご、ごめんなさい。 まだ来ないかなって思ってたから、ちょっと練習してて……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_1.wav|RiceShower|jp|んん、ぜんぜんだめ……。 もう1回……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_30.wav|RiceShower|jp|ふふっ、えへへへ！ なんだか、今日のトレーニングはいつもよりがんばれそう――
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_8.wav|RiceShower|jp|ライスはこんなだけど……ちょっとでもクラスの役に立てるなら、 がんばりたいって、そう思ってるの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_33.wav|RiceShower|jp|うぅ……ライスのせいだ。 こんなに不幸な雨、ライスのせいに決まってるよぉ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030005_5.wav|RiceShower|jp|あぅ、その……号令の、練習。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_48.wav|RiceShower|jp|ほんとだ……！　い、急がなくっちゃ～！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_1.wav|RiceShower|jp|あっ、お兄さま……！ えへへ……うん。いいこと、あったから……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_21.wav|RiceShower|jp|……お兄さま。私、黒猫さん見てませんかって、 周りの人に聞いてくるね。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_29.wav|RiceShower|jp|黒猫さん……！ に、逃げないで、聞いてくださいっ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_23.wav|RiceShower|jp|あ、ぁ……あのっ！！　黒猫さん、見てませんか……！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_11.wav|RiceShower|jp|えっ！？　ど、どうしよう……。 黒猫さん、この先にいっちゃったのに……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_9.wav|RiceShower|jp|はぁ、はぁ……確か、こっちに……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_3.wav|RiceShower|jp|えっとね……チケット、買えたんだ。 しあわせの青いバラの、舞台……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_34.wav|RiceShower|jp|よかった……お姉さまも、手伝ってくれてありがとう……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_25.wav|RiceShower|jp|お姉さま……ありがとう。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_31.wav|RiceShower|jp|お願いします……にゃ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_28.wav|RiceShower|jp|じゃあ……いってきますっ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_46.wav|RiceShower|jp|ほんと！？　よ、よかったぁ～……！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_32.wav|RiceShower|jp|あ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_43.wav|RiceShower|jp|あの、実は……ペアチケットなんだ。 お兄さまにプレゼント……いつものお返し、したいなって思って。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_16.wav|RiceShower|jp|はぁっ、はぁっ……見つけた……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_38.wav|RiceShower|jp|ライスね、お兄さまがそばにいてくれたら…… がんばろう、がんばるぞって、いくらでも思えるみたいなの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_33.wav|RiceShower|jp|黒猫さん……ありがとう……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_5.wav|RiceShower|jp|ライスね、すぐ悪いこと起きちゃうから……普段は劇場とか 人がいっぱいいるところって、いかないようにしてるんだけど。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_19.wav|RiceShower|jp|あいたぁっ……なんでこんなとこにバナナの皮が2つも～……！？ お兄さま、大丈夫！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_42.wav|RiceShower|jp|――チケット、受け取ってくださいっ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_6.wav|RiceShower|jp|でも……でもね。 こ、この舞台だけは……あのね……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_17.wav|RiceShower|jp|うんっ、そーっと……！ 黒猫さ～ん、怖くない、怖くないよ～……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_30.wav|RiceShower|jp|そのチケットね、ライスのすっごく大切な物で…… だ、だから、返してほしいの……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_14.wav|RiceShower|jp|お姉さまも、坂でくたびれたらライスにいってね。 ライスがお姉さまの手、引っ張るから……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_13.wav|RiceShower|jp|あ……お、教えてくださいっ！ 坂、大丈夫です……私、走れますっ！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_40.wav|RiceShower|jp|だから……だからね、お姉さま。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_27.wav|RiceShower|jp|でも、大丈夫……ライスががんばるよ。 がんばりたいの。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_47.wav|RiceShower|jp|え？　当日券って……ああっ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_24.wav|RiceShower|jp|黒猫さん……！ ライスのチケットも、まだくわえてる……よかったぁ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_0.wav|RiceShower|jp|やった……やった、やったぁ！　えへへっ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_7.wav|RiceShower|jp|きゃっ！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_18.wav|RiceShower|jp|ひゃ！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_8.wav|RiceShower|jp|た、大変……！ 黒猫さんっ、待ってぇ～！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_36.wav|RiceShower|jp|うん……お兄さまが、一緒だから。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_45.wav|RiceShower|jp|い、一緒に、いってくれる……？ それとも……や、やっぱり迷惑だったかな、ライスなんかと……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030006_4.wav|RiceShower|jp|うんっ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_22.wav|RiceShower|jp|それは――
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_4.wav|RiceShower|jp|うん！　できてないこと、1こずつできるようになって……。 だめなとこも、1こずつだめじゃなくして……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_41.wav|RiceShower|jp|ふえぇぇぇ～～～ん！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_25.wav|RiceShower|jp|はい。……レースに出て、いっぱい活躍して、みんなを幸せにする。 そんな私に……なりたいって、思っちゃって。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_32.wav|RiceShower|jp|あ……あれ？　どうして、笑って……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_43.wav|RiceShower|jp|初めて、だったから。 誰かを不幸にするんじゃなくて……励ませたの、なんて。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_42.wav|RiceShower|jp|ぐすっ……ごめんなさい、急に泣いちゃって。 でも……うれしくって。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_15.wav|RiceShower|jp|へっ……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_19.wav|RiceShower|jp|わっ、私も、あきらめたいって思うこと、あります………！ あるんです……たくさん。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_20.wav|RiceShower|jp|ライスは、できないことばっかり……だめなとこ、ばっかりだから。 こんなライスなんか嫌い、もうやだーって、思うことばっかりです。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_40.wav|RiceShower|jp|私、が……？ わ、たし……ふ、ふぇ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_12.wav|RiceShower|jp|や、やった……やったぁぁ～！！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_29.wav|RiceShower|jp|って……うひゃっ！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_6.wav|RiceShower|jp|いってきますっ、お兄さま！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_17.wav|RiceShower|jp|すごい？　えっと……ライスが？ そ、そんなこと！　ぜんぜん、ないですっ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_26.wav|RiceShower|jp|思っちゃったら、もう、止められなかった……です。 なりたいって、走りたいって、走らなきゃって……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_30.wav|RiceShower|jp|けほっ、こほっ……！！ あぁぁ、ごめんなさい！　ライスなんかと一緒にいたせいで……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_38.wav|RiceShower|jp|あっ……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_46.wav|RiceShower|jp|今日のライスは……ちょっとだけ、好き、かも。 えへへへっ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_23.wav|RiceShower|jp|……“なりたい私”が、できちゃった、から。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_0.wav|RiceShower|jp|はぁっ、はぁっ、はぁ……ふぅ……。 お姉さま、タイムはどう……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_45.wav|RiceShower|jp|ライスね、いままでずっと、だめなライスが嫌いだったけど――
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_44.wav|RiceShower|jp|……！ うんっ……そうだったんなら……うれしいな……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_28.wav|RiceShower|jp|あ、あのっ、ごめんなさい、うまく答えられなくて……！ ら、ライス、おしゃべりも上手じゃないから――
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_10.wav|RiceShower|jp|はぁ、はぁ、ふわぁぁ……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_2.wav|RiceShower|jp|目標には、まだ、届いてないんだね……うぅ、ごめんなさい。 ライスがだめなせいで……。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_39.wav|RiceShower|jp|ど、どうして……？　ライスのせいで、びしょ濡れに……。 なのに、ありがとうなんて……なんで……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_35.wav|RiceShower|jp|えっ、えっ……？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_13.wav|RiceShower|jp|いっぱい、時間かかっちゃったけど、 でも……できるようになれてうれしいっ。
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_5.wav|RiceShower|jp|ライスも……ちゃんと、速くなりたいから……！
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_11.wav|RiceShower|jp|えっ……ほ、ホント！？
+.\training_set\RiceShower\story_data_04_1030_storytimeline_041030007_3.wav|RiceShower|jp|……でもね、できてないとこ、どこなのかはわかるよ。 だ、だから……できるまでやればいいんだって思うの。
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_13.wav|RiceShower|jp|えっと、えっと、でも……あんまりライスと一緒にいたら、 バクシンオーさんによくないことが……。
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_25.wav|RiceShower|jp|は、はい、ですね……。
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_10.wav|RiceShower|jp|えっ、えっ……？
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_17.wav|RiceShower|jp|は、はわわ……。
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_22.wav|RiceShower|jp|す、スピード……。
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_11.wav|RiceShower|jp|えっと、ライスは…… バクシンオーさん、速いなぁって……ひ、ひとり言を……。
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_28.wav|RiceShower|jp|なるほど、です……！？
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_18.wav|RiceShower|jp|その……しょ、勝利のヒケツ、とか……？
+.\training_set\RiceShower\story_data_04_1041_storytimeline_041041003_20.wav|RiceShower|jp|ふひゃあ！？
+.\training_set\RiceShower\story_data_04_1062_storytimeline_041062001_24.wav|RiceShower|jp|はぁ、はぁ、はぁ……！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_title_103000_0.wav|RiceShower|jp|Cygames
+.\training_set\RiceShower\character_system_text_1030_snd_voi_title_103000_1.wav|RiceShower|jp|ウマ娘、プリティーダービー！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_title_103000_2.wav|RiceShower|jp|今日のログインボーナスだって…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_title_103000_3.wav|RiceShower|jp|明日はこれ…楽しみだね♪
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_0.wav|RiceShower|jp|毎日、ちょっとずつだけど、 なりたい自分に近づけてる…かな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_2.wav|RiceShower|jp|お兄さま…その、あの…ね。 ライス、毎日がんばるから。 …変われるって、信じててね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_1.wav|RiceShower|jp|お姉さま…その、あの…ね。 ライス、毎日がんばるから。 …変われるって、信じててね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_3.wav|RiceShower|jp|いまはね。ライスもライスのこと… 全部嫌いじゃ、ないんだよ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_5.wav|RiceShower|jp|あけましておめでとうございます。 …えっと、お兄さま…ライスと 今年もよろしく、してくれる…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_4.wav|RiceShower|jp|あけましておめでとうございます。 …えっと、お姉さま…ライスと 今年もよろしく、してくれる…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_7.wav|RiceShower|jp|じ…実はね、チョコ、作ってきて… ライスのだけど、大丈夫…？ 受け取ってもらえたらうれしいな。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_6.wav|RiceShower|jp|…バレンタインだね、お姉さま。 え、ええっと。あの、その…まだ 一緒にチョコを食べる余裕ある？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_9.wav|RiceShower|jp|お兄さまっ。バレンタインだから… ライスと一緒に、チョコのおうち 作ろ！レシピ、書いてきたの！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_8.wav|RiceShower|jp|お姉さまっ。バレンタインだから… ライスと一緒に、チョコのおうち 作ろ！レシピ、書いてきたの！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_10.wav|RiceShower|jp|お星さまはみんなのお願い叶えて、 みんなを幸せにできて、すごいね。 ライスも…うん、がんばらなきゃ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_11.wav|RiceShower|jp|お、お菓子もいたずらもなくていい から…ライスも言ってみて、いい？ と…とりっく・おあ・とりーと…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_12.wav|RiceShower|jp|サンタさんが出てくる絵本って、 たくさんあるんだよ。どれも幸せ いっぱいだから、好きなんだ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_14.wav|RiceShower|jp|サンタさんのお洋服みたいな、 赤いりんごのケーキ、焼いたの。 お兄さま…一緒に、食べませんか？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_13.wav|RiceShower|jp|サンタさんのお洋服みたいな、 赤いりんごのケーキ、焼いたの。 お姉さま…一緒に、食べませんか？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_16.wav|RiceShower|jp|はわぁ…もう今年も 終わっちゃうんだ。お兄さまと 出会ってから毎日あっという間…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_15.wav|RiceShower|jp|はわぁ…もう今年も 終わっちゃうんだ。お姉さまと 出会ってから毎日あっという間…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_18.wav|RiceShower|jp|おめでとう、お兄さま！ 今日1日、いっぱい幸せなことが 起きますように…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_17.wav|RiceShower|jp|おめでとう、お姉さま！ 今日1日、いっぱい幸せなことが 起きますように…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_20.wav|RiceShower|jp|お祝いできる日、ずっとずっと 待ってたんだ。…あのねお兄さま。 生まれてきてくれて、ありがとう。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_19.wav|RiceShower|jp|お祝いできる日、ずっとずっと 待ってたんだ。…あのねお姉さま。 生まれてきてくれて、ありがとう。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_21.wav|RiceShower|jp|み、みんながおめでとうって… でもライス、泣いちゃって… 困らせちゃったぁ…うぇぇん…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_23.wav|RiceShower|jp|お祝いありがとう、お兄さま。 いっぱいお返しできるライスに なれるように…がんばるね！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_22.wav|RiceShower|jp|お祝いありがとう、お姉さま。 いっぱいお返しできるライスに なれるように…がんばるね！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_25.wav|RiceShower|jp|おっ、お兄さま！ あのね、なにかお知らせが あるみたいだよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_24.wav|RiceShower|jp|おっ、お姉さま！ あのね、なにかお知らせが あるみたいだよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_26.wav|RiceShower|jp|あのね、さっき プレゼントが届いたの！ ライスも、一緒に見ていい…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_27.wav|RiceShower|jp|目標達成、おめでちょっ…！ あぁぁ、噛んじゃったぁ～…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_28.wav|RiceShower|jp|もうすぐイベントがあるんだね。 …どんなことをするのかな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_29.wav|RiceShower|jp|イベント、やってるみたい… 迷惑かけないようにするから、 ちょこっとだけ覗いていーい…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_34.wav|RiceShower|jp|このお洋服、好きな絵本の主人公と 同じワンピースなの…その子みたく 勇気を出せるようになりたくて…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_35.wav|RiceShower|jp|ブルボンさんとお買い物したの…♪ ライスの好きな絵本オススメしたら 買ってくれて…気に入るといいな…
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_36.wav|RiceShower|jp|マルゼンさんとディスコにいくから なうでやんぐな服？を勉強中なの… ボディコン、大人っぽくて素敵だね
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_30.wav|RiceShower|jp|トレーニング…する？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_31.wav|RiceShower|jp|楽しい思い出、いっぱいだね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_32.wav|RiceShower|jp|レースにエントリーするの…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103000_33.wav|RiceShower|jp|名鑑レベルが上がったみたい… 見てみる？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_0.wav|RiceShower|jp|ふぅ…ちょっとだけ、 疲れてる…のかな…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_1.wav|RiceShower|jp|…ライス、大丈夫だから。 …疲れてなんか、ないから…。 大丈夫、だよ…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_3.wav|RiceShower|jp|ライス、いっぱいいっぱい がんばれそうだよ…！ 任せてね、お兄さまっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_2.wav|RiceShower|jp|ライス、いっぱいいっぱい がんばれそうだよ…！ 任せてね、お姉さまっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_4.wav|RiceShower|jp|あのね、アップは もう済ませてきたの！ なにから始めても大丈夫だよっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_5.wav|RiceShower|jp|がんばるぞー、おー！ 今日も、よろしくお願いしますっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_7.wav|RiceShower|jp|お兄さま、トレーニングしよ？ いまならいっぱい がんばれそうだから。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_6.wav|RiceShower|jp|お姉さま、トレーニングしよ？ いまならいっぱい がんばれそうだから。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_8.wav|RiceShower|jp|どのトレーニングをするの？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_9.wav|RiceShower|jp|がっかりさせないように、 がんばるね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_10.wav|RiceShower|jp|うぅ～…。 がんばれライス…がんばれぇ～…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_11.wav|RiceShower|jp|ライスにできることなんて、 あるのかなぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_13.wav|RiceShower|jp|あうぅ…お兄さまには、 迷惑かけたくないのに…。 ごめんね…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_12.wav|RiceShower|jp|あうぅ…お姉さまには、 迷惑かけたくないのに…。 ごめんね…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_14.wav|RiceShower|jp|…また、だめな子に なっちゃうのかな…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_15.wav|RiceShower|jp|ふえ？またレース…？ あっ…だ、大丈夫だよ…！ ライス、がんばれるから…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_16.wav|RiceShower|jp|…どうしよう、脚が…。 ううん、まだ…まだ、がんばれる。 レースもちゃんとできるはず…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_18.wav|RiceShower|jp|あとは精いっぱい走るだけ… そうだよね、お兄さま…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_17.wav|RiceShower|jp|あとは精いっぱい走るだけ… そうだよね、お姉さま…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_19.wav|RiceShower|jp|最後までしっかり走るね…！ がんばるぞー、おー！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_20.wav|RiceShower|jp|始まる前からいいレースに なりそうって…わくわくしてるの。 今日は…走るの、楽しみかも…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_21.wav|RiceShower|jp|ふぅっ、よーし…！ スタート、まだかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_23.wav|RiceShower|jp|お兄さまと、いっぱいいっぱい トレーニングしたもん…！ がんばってくるね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_22.wav|RiceShower|jp|お姉さまと、いっぱいいっぱい トレーニングしたもん…！ がんばってくるね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_24.wav|RiceShower|jp|だめじゃない…だめじゃない。 うんっ、大丈夫… ライス、走れるよ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_25.wav|RiceShower|jp|はわっ、もうスタート…！？ が、がんばってきましゅっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_26.wav|RiceShower|jp|すーっ、ふぅぅ…。 怖くない、怖くない…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_27.wav|RiceShower|jp|レース前って、 やっぱりドキドキするね…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_28.wav|RiceShower|jp|だめだめ、不安になっちゃ…！ がんばれライス、がんばれぇ～…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_30.wav|RiceShower|jp|ふ、震えてきちゃった…。 あの、お兄さま…少しだけ… 手、握っててもいい…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_29.wav|RiceShower|jp|ふ、震えてきちゃった…。 あの、お姉さま…少しだけ… 手、握っててもいい…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_31.wav|RiceShower|jp|えっと、えっと… め、迷惑にならないように、 気をつけて走るね？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_32.wav|RiceShower|jp|あきらめたくは、ないから…。 怖いけど、不安だけど… がんばらなきゃ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_34.wav|RiceShower|jp|レースからは…逃げないよ。 お、お兄さまが、 ついてくれてるから…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_33.wav|RiceShower|jp|レースからは…逃げないよ。 お、お姉さまが、 ついてくれてるから…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_35.wav|RiceShower|jp|…泣いてるひまなんかない。 もう、本番なんだから… 走らなくっちゃ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_36.wav|RiceShower|jp|よぉ～し…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_37.wav|RiceShower|jp|いくね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_38.wav|RiceShower|jp|がんばるぞー…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_39.wav|RiceShower|jp|お勉強なら…
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_40.wav|RiceShower|jp|はうぅ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_41.wav|RiceShower|jp|むぅ…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_44.wav|RiceShower|jp|うん、いこう…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_45.wav|RiceShower|jp|楽しみ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_46.wav|RiceShower|jp|だめじゃないとこ、見せられたかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_48.wav|RiceShower|jp|お兄さま、ありがとうっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_47.wav|RiceShower|jp|お姉さま、ありがとうっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103000_49.wav|RiceShower|jp|お、お願いしましゅっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103000_0.wav|RiceShower|jp|あとちょっと…がんばれるように、なるね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103000_2.wav|RiceShower|jp|お兄さまっ、見ててくれた…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103000_1.wav|RiceShower|jp|お姉さまっ、見ててくれた…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103000_3.wav|RiceShower|jp|うぅ、もっとがんばらなくちゃ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103000_4.wav|RiceShower|jp|こんなんじゃ、だめだよね…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103000_6.wav|RiceShower|jp|ライス…変われたよね…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103000_7.wav|RiceShower|jp|いってくるね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_live_103000_0.wav|RiceShower|jp|ライスの歌、聞いてくれるかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_live_103000_1.wav|RiceShower|jp|みんな、喜んでくれたらいいな…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_0.wav|RiceShower|jp|あのときよりもライス、 成長できてる？ …そうだったら、うれしいな。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_4.wav|RiceShower|jp|力が溢れてくるよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_1.wav|RiceShower|jp|ライスのこと…見ててね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_2.wav|RiceShower|jp|これで役にたてるよね…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_3.wav|RiceShower|jp|ライス、もっとお手伝いするね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_7.wav|RiceShower|jp|制服、似合ってる…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_8.wav|RiceShower|jp|ここに来てよかった… 大切な人たちと会えたから。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_9.wav|RiceShower|jp|ふわぁ…ひらひらだぁ～…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_10.wav|RiceShower|jp|あんまり見つめられると…恥ずかしいよぉ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_11.wav|RiceShower|jp|バラの花みたいでしょ…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_12.wav|RiceShower|jp|ライスもきっと…輝けるよね…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_17.wav|RiceShower|jp|よ、よーし、ヴァンパイアライス…だぞー。 …うう。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_18.wav|RiceShower|jp|ふぇっ…いまのもしかして…いたずら…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_13.wav|RiceShower|jp|がんばるぞ、おー……！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_14.wav|RiceShower|jp|ライスだって、咲いてみせる……！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_5.wav|RiceShower|jp|よ、よろしくお願いします…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_6.wav|RiceShower|jp|ら、ライス、 まだ…がんばれますっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_15.wav|RiceShower|jp|お洋服選びって、楽しいけど難しい…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103000_16.wav|RiceShower|jp|ライスは、かわいいお洋服が やっぱり好きかなぁ……♪
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_1.wav|RiceShower|jp|あ…お兄さま！ えっと…お、おはようございます！ …よかった、上手に言えたぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_0.wav|RiceShower|jp|あ…お姉さま！ えっと…お、おはようございます！ …よかった、上手に言えたぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_2.wav|RiceShower|jp|朝練してたらマックイーンさんに 会ったの…すごく綺麗な走りで… 優雅で…ドキドキしちゃった…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_3.wav|RiceShower|jp|さっき、ドトウさんのお弁当が 鳥に取られちゃったの…美味しそう なんて、ライスが言わなければ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_5.wav|RiceShower|jp|午後もよろしくお願いします！ えへへ、お兄さまとのトレーニング 楽しみだなぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_4.wav|RiceShower|jp|午後もよろしくお願いします！ えへへ、お姉さまとのトレーニング 楽しみだなぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_7.wav|RiceShower|jp|お疲れさま、お兄さま。 …遅くまでお仕事させてごめんね。 ライスも、もっとがんばるね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_6.wav|RiceShower|jp|お疲れさま、お姉さま。 …遅くまでお仕事させてごめんね。 ライスも、もっとがんばるね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_8.wav|RiceShower|jp|眠くない、眠くない…。 ライスは眠くない…ふあぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_9.wav|RiceShower|jp|外を走ってたら、道路の隅っこで 小さいお花を見つけたんだ。 …もうすっかり春なんだね。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_11.wav|RiceShower|jp|…暑いね、お兄さま…。 はふぅ…おかゆみたいに、 とけちゃいそう…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_10.wav|RiceShower|jp|…暑いね、お姉さま…。 はふぅ…おかゆみたいに、 とけちゃいそう…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_12.wav|RiceShower|jp|ふふ、綺麗な落ち葉があったから 拾ってきちゃった。手紙に入れたら お母さま、喜んでくれるかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_14.wav|RiceShower|jp|えへへ、お兄さまのほっぺ りんごみたい。ふふっ、 ライスのほっぺは…どうかな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_13.wav|RiceShower|jp|えへへ、お姉さまのほっぺ りんごみたい。ふふっ、 ライスのほっぺは…どうかな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_15.wav|RiceShower|jp|いつも笑顔で一生懸命で… ウララちゃんを見てると、 ライスもがんばろーって思うの。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_16.wav|RiceShower|jp|今日のお掃除では、お水こぼしたり しませんように…みんながつるつる しちゃいませんように…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_17.wav|RiceShower|jp|あ、あれ？さっきまでそこに バクシンオーさん、いたのに…。 これが言ってた、バクシンの力…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_18.wav|RiceShower|jp|マルゼンさん、なんでドライブに 誘ってくれるんだろ…前のときも 渋滞になったのに…優しいなぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_19.wav|RiceShower|jp|信号を渡るときは誰も隣に 来ないように気をつけてるんだ。 …ライスが来ると赤になるから。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_20.wav|RiceShower|jp|お風呂で1人のとき、 こっそり歌の練習してるんだ。 …いつもより上手に聞こえるから。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_21.wav|RiceShower|jp|ステージは好きだよ。 キラキラしてて、見てる人 みんなが笑顔になるんだもん。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_22.wav|RiceShower|jp|あう…せっかくの衣装なんだから 俯かないようにって歩いてたら、 おひざぶつけちゃった…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_23.wav|RiceShower|jp|ライスも、ちゃんと咲けるかな。 ううん…そう信じられるように、 なりたいな…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_24.wav|RiceShower|jp|ふぅ…牛乳毎朝飲んでるのに、 どうして大きくなれないんだろ。 量が足りない…のかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_25.wav|RiceShower|jp|食後のストレッチ、する？ 猫のポーズでにゃーって伸ばすと、 背中が気持ちいいんだよ…ふふっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_26.wav|RiceShower|jp|今夜こそ、ロブロイさんに… その本ライスも好きだよって 伝えるんだ…こ、今夜こそっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_27.wav|RiceShower|jp|迷子の新入生さん…ライスが声を かけたら、余計に迷惑かな…？ でも…で、でもでも…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_29.wav|RiceShower|jp|今日は通り雨、降らないといいな… お兄さまが濡れちゃうなんて、 だめだもん…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_28.wav|RiceShower|jp|今日は通り雨、降らないといいな… お姉さまが濡れちゃうなんて、 だめだもん…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_30.wav|RiceShower|jp|落ち葉のベッド、絵本に描いて あった通り、ふかふかなのかな…！ ライスもごろんってしてみたいな。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103001_31.wav|RiceShower|jp|あ…ち、近づいちゃだめ！静電気で バチバチしちゃうから…ごめんね。 寂しいけどガマンしなきゃなの…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_0.wav|RiceShower|jp|えっと、今日も、 よろしくお願いしますっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_1.wav|RiceShower|jp|すぅ～…ふぅ～…。 …がんばれライス、がんばれー… おー…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_2.wav|RiceShower|jp|どんなトレーニングも、 いっぱいがんばるよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_3.wav|RiceShower|jp|ライス…ちゃんと成長、 できてるかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_4.wav|RiceShower|jp|えへへ…って、あっ！ ご、ごめんなさい、笑うときじゃ ないよね。うれしくって、つい…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_5.wav|RiceShower|jp|ライスはまだまだ、ぜんぜんなの かもだけど…がんばりたいんだ。 …もっと、強くなりたいから。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_6.wav|RiceShower|jp|最近、走るのが楽しいの。 えへへ…もっと速くなりたいな。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_8.wav|RiceShower|jp|お兄さま、お願い。 たくさんトレーニングして。 ライス…勝ちたいのっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_7.wav|RiceShower|jp|お姉さま、お願い。 たくさんトレーニングして。 ライス…勝ちたいのっ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_10.wav|RiceShower|jp|お兄さまがいたから、ここまで来られたよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_9.wav|RiceShower|jp|お姉さまがいたから、ここまで来られたよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103001_11.wav|RiceShower|jp|ライス、なりたい自分に近づけたよ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103001_0.wav|RiceShower|jp|ちょっとだけ、強くなれたかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103001_2.wav|RiceShower|jp|お兄さまが一緒なら、ライスだって…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103001_1.wav|RiceShower|jp|お姉さまが一緒なら、ライスだって…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103001_3.wav|RiceShower|jp|ひゃ、ひゃい…！ライスシャワーです…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_gacha_103001_0.wav|RiceShower|jp|みんなを幸せにしたいから… ライス、走るよ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_st_103000_0000_0.wav|RiceShower|jp|はわわ…！が、がんばろうねっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_st_103000_1052_0.wav|RiceShower|jp|大丈夫かな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_st_103000_1047_0.wav|RiceShower|jp|紡ぎます…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_st_100400_1030_1.wav|RiceShower|jp|お、お～っ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_st_104100_1030_1.wav|RiceShower|jp|ぴ、ぴーんっ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_st_105000_1030_1.wav|RiceShower|jp|は、はい…っ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_103000_0.wav|RiceShower|jp|いっくぞー…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_103000_1.wav|RiceShower|jp|えへへ、やったね…♪
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_103000_2.wav|RiceShower|jp|引き分け…惜しかったなぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_103000_3.wav|RiceShower|jp|うぅ、負けちゃった…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_103000_4.wav|RiceShower|jp|ライスたちの勝ちだね…♪
+.\training_set\RiceShower\character_system_text_1030_snd_voi_teamst_103000_5.wav|RiceShower|jp|ハイスコアだって…すごいよ…っ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_0.wav|RiceShower|jp|がんばってね
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_1.wav|RiceShower|jp|やったー…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_2.wav|RiceShower|jp|わわっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_3.wav|RiceShower|jp|見て見て！こんなに…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_4.wav|RiceShower|jp|みんなかわいいなぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_5.wav|RiceShower|jp|ふぇぇん…
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_6.wav|RiceShower|jp|はわわ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_7.wav|RiceShower|jp|えへへ
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_8.wav|RiceShower|jp|てへ…
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_9.wav|RiceShower|jp|すごい…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_10.wav|RiceShower|jp|あわわ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_11.wav|RiceShower|jp|むむむぅ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_12.wav|RiceShower|jp|がんばってください
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_13.wav|RiceShower|jp|わぁっ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_14.wav|RiceShower|jp|あっ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_15.wav|RiceShower|jp|うう…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_minigame_103000_16.wav|RiceShower|jp|ごめんなさい…
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103001_1.wav|RiceShower|jp|ライスだって…咲ける…っ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103001_2.wav|RiceShower|jp|誓います…。大好きな人と…幸せの青いバラに。 …ライスだって…咲いてみせる…っ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103001_0.wav|RiceShower|jp|わあぁ…ライスやったよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_1.wav|RiceShower|jp|お兄さま、少し眠たいの…？ お菓子、食べる？甘いもの 食べたら、目が覚めるかも…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_0.wav|RiceShower|jp|お姉さま、少し眠たいの…？ お菓子、食べる？甘いもの 食べたら、目が覚めるかも…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_2.wav|RiceShower|jp|はふ…ふふ。夜更かししちゃった。 コウモリさんになれたら、どこに いこうかなって想像してて…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_3.wav|RiceShower|jp|もしほんとのヴァンパイアに なっちゃったら…トマトジュース だけで、ガマンしたいなぁ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_5.wav|RiceShower|jp|ヴァンパイアは昼間は寝てるん だよね…お兄さま、疲れてない？ 一緒にお昼寝、しにいく…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_4.wav|RiceShower|jp|ヴァンパイアは昼間は寝てるん だよね…お姉さま、疲れてない？ 一緒にお昼寝、しにいく…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_7.wav|RiceShower|jp|ヴァンパイアのライスは 夜も元気だよ…！お兄さま、 お手伝いできることあるかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_6.wav|RiceShower|jp|ヴァンパイアのライスは 夜も元気だよ…！お姉さま、 お手伝いできることあるかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_8.wav|RiceShower|jp|夜かぁ…お、オバケさんに 会ったらどうしよ…この格好なら 仲良くなれる…かな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_9.wav|RiceShower|jp|お花の蜜を吸うコウモリさんも いるんだって。ふふ、かわいい… 会ってみたいな…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_10.wav|RiceShower|jp|夏ってオバケさんの話を たくさん聞くよね…はうぅ… ハロウィン以外もオバケだらけ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_12.wav|RiceShower|jp|カボチャのパイ、マロンのタルト 梨のケーキにさつまいもクッキー！ お兄さまは、どれが好き…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_11.wav|RiceShower|jp|カボチャのパイ、マロンのタルト 梨のケーキにさつまいもクッキー！ お姉さまは、どれが好き…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_13.wav|RiceShower|jp|広いお城に住んでるヴァンパイア、 冬は寒そうだね…ライスだったら 暖炉から離れられないかも…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_14.wav|RiceShower|jp|ロブロイさんとね、お部屋で 魔法の掛け合いっこしたんだ。 明日もいい日になーれ…って！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_15.wav|RiceShower|jp|ブルボンさんがね、すごい速さで カボチャのランタンを作ってくれた の…！びっくりしちゃった…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_16.wav|RiceShower|jp|ヴァンパイアはガーリックトースト 食べられないんだね…うぅ、 この格好の間はガマンしなくちゃ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_18.wav|RiceShower|jp|お、お兄さま！ お菓子くれないと、い、い、い… うう…いたずら、しなきゃだめ…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_17.wav|RiceShower|jp|お、お姉さま！ お菓子くれないと、い、い、い… うう…いたずら、しなきゃだめ…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_19.wav|RiceShower|jp|カボチャといえば、魔法使いが キャリッジにするのも有名だね…！ いつかライスも乗りたいなぁ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_20.wav|RiceShower|jp|背中の羽で、びゅーんって お空を飛べたらいいのにな。 …と、途中で落ちなければ…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_21.wav|RiceShower|jp|実はね、お口に牙も付けてるの。 いー…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_22.wav|RiceShower|jp|変な夢を見たの…お腹ペコペコの ヴァンパイアの夢…ライスが 不幸にしちゃったのかな…？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_23.wav|RiceShower|jp|学園の中を歩いてたら、 みんながお菓子をくれて… あんなにいっぱい、どうしよう？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_25.wav|RiceShower|jp|寝る前に、お母さまが読んでくれた オバケの楽しいおうちって絵本 …お兄さまとも一緒に読みたいな。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_24.wav|RiceShower|jp|寝る前に、お母さまが読んでくれた オバケの楽しいおうちって絵本 …お姉さまとも一緒に読みたいな。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_26.wav|RiceShower|jp|ヴァンパイアは、 明るいうちに開くお花を 見られないのかな…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_27.wav|RiceShower|jp|盆踊りの中にオバケさんもいるかも ってほんと…？もしかしたら ウイニングライブにも…ふえぇ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_28.wav|RiceShower|jp|ハロウィンの準備、飾りつけから お菓子作りまでみんなでやったの。 ライスも少しだけ役に立てたかな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_home_103002_29.wav|RiceShower|jp|屋根のつららが 牙みたいに見えてね… お揃いだねって思ったんだ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_0.wav|RiceShower|jp|カチューシャよーし、羽よーし、 蹄鉄よーし、牙よーし…うん！ 準備オッケーだよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_1.wav|RiceShower|jp|トレーニングしてくれなきゃ いたずらしちゃいますっ…。 な、なんて…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_2.wav|RiceShower|jp|きっと飛ぶよりも速く なってみせるからね…！ がんばるぞー、おー！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_3.wav|RiceShower|jp|パン、パン、パンプキン♪ カボチャのおっかし… はっ！？ごごご、ごめんなさい！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_4.wav|RiceShower|jp|トレーニングが終わったら、 一緒にティータイムしたいな…。 お菓子、たっくさん用意したの…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_6.wav|RiceShower|jp|どんどん速くなってるみたい…！ どんなオバケが来ても、お兄さまの 手を引いて逃げ切ってみせるね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_5.wav|RiceShower|jp|どんどん速くなってるみたい…！ どんなオバケが来ても、お姉さまの 手を引いて逃げ切ってみせるね…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_8.wav|RiceShower|jp|お兄さま…ライスがほんとに ヴァンパイアになっちゃっても 一緒にいてくれる…かな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_7.wav|RiceShower|jp|お姉さま…ライスがほんとに ヴァンパイアになっちゃっても 一緒にいてくれる…かな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_9.wav|RiceShower|jp|永遠の時間を生きても、忘れないよ…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_training_103002_10.wav|RiceShower|jp|いつもと違うライス…どうだったかな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103002_0.wav|RiceShower|jp|ふっふっふっ、強くなったぞー！ …えへへ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103002_1.wav|RiceShower|jp|カプッと大成功～…なんて…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_outgame_103002_2.wav|RiceShower|jp|ライスシャワーです…！ えと…か、噛んじゃうぞ～…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_gacha_103002_0.wav|RiceShower|jp|噛んだら痛いから… 噛みつくのは、勝利にだけ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103002_1.wav|RiceShower|jp|コウモリさん…一緒にいこ！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103002_2.wav|RiceShower|jp|綺麗な月…ひゃあ！？ えっと、えと…きしゃー！…うぅ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_race_103002_0.wav|RiceShower|jp|勝利のご褒美は、首筋にカプッ！ なんて…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090006_1.wav|RiceShower|jp|…ブルボンさん、大変そう。 でも、ライスが手伝っても…。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090006_6.wav|RiceShower|jp|ライスは…ううん。 ライスだって…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090006_10.wav|RiceShower|jp|ふっふっふー、血を吸うぞ～…！ …えへへ、これだと怖すぎるかな？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090006_14.wav|RiceShower|jp|イベントお疲れさまでした。 えっとね、えっと… ハッピーハロウィン…！えへへ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090014_2.wav|RiceShower|jp|ミューズになって… ライスも、みんなを笑顔に…！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090014_3.wav|RiceShower|jp|謎解きはむずかしいけど… みんなと一緒だから きっと大丈夫だよね…っ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090014_11.wav|RiceShower|jp|ライスも…なれたんだ…。 みんなを笑顔にできる 憧れのミューズに…っ。
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090014_12.wav|RiceShower|jp|イベントミッションだって。 一緒にがんばろうね、おー！
+.\training_set\RiceShower\character_system_text_1030_snd_voi_event_090014_13.wav|RiceShower|jp|報酬、全部受け取った…？ ライスでよければ…忘れ物が ないか、一緒に確認するよ？
+.\training_set\RiceShower\character_system_text_1030_snd_voi_valentine_103000_0.wav|RiceShower|jp|ハッピーバレンタイン
+.\training_set\RiceShower\character_system_text_1030_snd_voi_aimteam_103000_0.wav|RiceShower|jp|お、お疲れさま……
